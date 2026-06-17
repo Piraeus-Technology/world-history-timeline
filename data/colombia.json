@@ -1,31 +1,178 @@
 [
-  { "year": -13000, "event": "Earliest human presence in present-day Colombia" },
-  { "year": -5000, "event": "Early agriculture and permanent settlements develop" },
-  { "year": -1000, "event": "Advanced goldworking cultures emerge" },
-  { "year": 200, "event": "Zenú culture develops large-scale hydraulic systems" },
-  { "year": 600, "event": "San Agustín culture creates monumental stone sculptures" },
-  { "year": 800, "event": "Tairona societies flourish in the Sierra Nevada de Santa Marta" },
-  { "year": 1000, "event": "Muisca Confederation dominates the central highlands" },
-  { "year": 1499, "event": "Spanish explorers reach the Caribbean coast" },
-  { "year": 1525, "event": "Santa Marta is founded by the Spanish" },
-  { "year": 1533, "event": "Cartagena is founded as a major colonial port" },
-  { "year": 1537, "event": "Spanish conquest of the Muisca heartland" },
-  { "year": 1538, "event": "Bogotá is founded as a colonial capital" },
-  { "year": 1549, "event": "Royal Audiencia consolidates colonial administration" },
-  { "year": 1600, "event": "Cartagena becomes a key fortified Atlantic port" },
-  { "year": 1717, "event": "Viceroyalty of New Granada is created" },
-  { "year": 1781, "event": "Comunero Revolt challenges colonial rule" },
-  { "year": 1810, "event": "Independence movement begins in Bogotá" },
-  { "year": 1819, "event": "Battle of Boyacá secures independence victory" },
-  { "year": 1821, "event": "Gran Colombia is established" },
-  { "year": 1830, "event": "Gran Colombia dissolves into separate states" },
-  { "year": 1851, "event": "Slavery is abolished" },
-  { "year": 1886, "event": "Centralized Republic of Colombia is established" },
-  { "year": 1899, "event": "Thousand Days’ War devastates the country" },
-  { "year": 1903, "event": "Panama secedes from Colombia" },
-  { "year": 1948, "event": "Bogotazo triggers a decade of political violence" },
-  { "year": 1958, "event": "National Front power-sharing stabilizes politics" },
-  { "year": 1964, "event": "FARC guerrilla movement is founded" },
-  { "year": 1991, "event": "New constitution expands rights and decentralization" },
-  { "year": 2016, "event": "Peace accord with FARC ends major armed conflict" }
+  {
+    "year": -16000,
+    "event": "Early hunter-gatherers occupy the rock shelter of El Abra near present-day Bogota, among the oldest human settlements in Colombia."
+  },
+  {
+    "year": -9000,
+    "event": "Paleo-Indians at Tequendama develop stone tools and forage the highland savanna of the Bogota plateau."
+  },
+  {
+    "year": -3500,
+    "event": "Communities along the Caribbean coast at Puerto Hormiga produce some of the earliest pottery in the Americas."
+  },
+  {
+    "year": -1000,
+    "event": "The San Agustin culture begins carving monumental stone statues and building elaborate burial mounds in the southern highlands."
+  },
+  {
+    "year": 1,
+    "event": "The Tierradentro culture develops underground hypogea tombs decorated with geometric paintings."
+  },
+  {
+    "year": 200,
+    "event": "The Zenu culture builds vast hydraulic canal systems to manage flooding in the Caribbean lowlands."
+  },
+  {
+    "year": 400,
+    "event": "Quimbaya goldsmiths perfect sophisticated metalworking and tumbaga alloys in the central Cauca region."
+  },
+  {
+    "year": 800,
+    "event": "Tairona societies flourish with stone-built towns in the Sierra Nevada de Santa Marta."
+  },
+  {
+    "year": 1000,
+    "event": "The Muisca confederation rises on the Andean plateaus, organized under the rival rulers the Zipa and the Zaque."
+  },
+  {
+    "year": 1499,
+    "event": "Alonso de Ojeda and Amerigo Vespucci sail along the Caribbean coast, the first Europeans to reach present-day Colombia."
+  },
+  {
+    "year": 1525,
+    "event": "Rodrigo de Bastidas founds Santa Marta, the oldest surviving Spanish city in Colombia."
+  },
+  {
+    "year": 1533,
+    "event": "Pedro de Heredia founds Cartagena de Indias, which becomes a major port and slave-trading center."
+  },
+  {
+    "year": 1538,
+    "event": "Gonzalo Jimenez de Quesada conquers the Muisca and founds Santa Fe de Bogota, fueling the El Dorado legend."
+  },
+  {
+    "year": 1549,
+    "event": "The Real Audiencia of Santa Fe de Bogota is established to administer Spanish colonial rule."
+  },
+  {
+    "year": 1717,
+    "event": "The Viceroyalty of New Granada is created with Bogota as its capital, uniting much of northern South America."
+  },
+  {
+    "year": 1781,
+    "event": "The Comunero Revolt erupts in Socorro against Spanish taxes, an early sign of colonial discontent."
+  },
+  {
+    "year": 1810,
+    "event": "Bogota's open council deposes the viceroy on 20 July, the date marking Colombia's declaration of independence."
+  },
+  {
+    "year": 1816,
+    "event": "Spanish forces under Pablo Morillo reconquer New Granada during the brutal Reign of Terror."
+  },
+  {
+    "year": 1819,
+    "event": "Simon Bolivar's victory at the Battle of Boyaca secures independence and leads to the creation of Gran Colombia."
+  },
+  {
+    "year": 1821,
+    "event": "The Congress of Cucuta adopts a constitution uniting Colombia, Venezuela, and Ecuador as Gran Colombia."
+  },
+  {
+    "year": 1831,
+    "event": "Gran Colombia dissolves as Venezuela and Ecuador secede, leaving the Republic of New Granada."
+  },
+  {
+    "year": 1851,
+    "event": "Slavery is abolished throughout New Granada under President Jose Hilario Lopez."
+  },
+  {
+    "year": 1863,
+    "event": "The Rionegro Constitution establishes the federalist United States of Colombia."
+  },
+  {
+    "year": 1886,
+    "event": "A centralist constitution creates the Republic of Colombia, remaining in force until 1991."
+  },
+  {
+    "year": 1899,
+    "event": "The Thousand Days' War, a devastating civil war between Liberals and Conservatives, begins."
+  },
+  {
+    "year": 1903,
+    "event": "Panama secedes from Colombia with United States backing to enable construction of the Panama Canal."
+  },
+  {
+    "year": 1928,
+    "event": "The Banana Massacre sees the army kill striking United Fruit Company workers in Cienaga."
+  },
+  {
+    "year": 1945,
+    "event": "Colombia becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1948,
+    "event": "The assassination of Liberal leader Jorge Eliecer Gaitan sparks the Bogotazo riots and the era known as La Violencia."
+  },
+  {
+    "year": 1953,
+    "event": "General Gustavo Rojas Pinilla seizes power in Colombia's only successful 20th-century military coup."
+  },
+  {
+    "year": 1958,
+    "event": "The Liberal and Conservative parties form the power-sharing National Front, ending La Violencia."
+  },
+  {
+    "year": 1964,
+    "event": "The Marxist guerrilla groups FARC and ELN are founded, beginning decades of internal armed conflict."
+  },
+  {
+    "year": 1982,
+    "event": "Novelist Gabriel Garcia Marquez wins the Nobel Prize in Literature, cementing Colombia's magical realism."
+  },
+  {
+    "year": 1985,
+    "event": "The M-19 guerrillas storm the Palace of Justice and the Armero volcanic disaster kills over 23,000 people."
+  },
+  {
+    "year": 1989,
+    "event": "Medellin Cartel violence peaks with the assassination of presidential candidate Luis Carlos Galan."
+  },
+  {
+    "year": 1991,
+    "event": "A new constitution drafted by an elected assembly enshrines rights, pluralism, and judicial reforms."
+  },
+  {
+    "year": 1993,
+    "event": "Drug lord Pablo Escobar is killed by security forces in Medellin, weakening the cocaine cartels."
+  },
+  {
+    "year": 2000,
+    "event": "The United States and Colombia launch Plan Colombia to combat drug trafficking and insurgency."
+  },
+  {
+    "year": 2002,
+    "event": "Alvaro Uribe is elected president and intensifies the military campaign against the FARC."
+  },
+  {
+    "year": 2008,
+    "event": "Operation Jaque rescues hostage Ingrid Betancourt and others held by the FARC."
+  },
+  {
+    "year": 2016,
+    "event": "The government and the FARC sign a peace accord ending over fifty years of war; President Santos wins the Nobel Peace Prize."
+  },
+  {
+    "year": 2018,
+    "event": "Ivan Duque is elected president amid debate over implementation of the peace agreement."
+  },
+  {
+    "year": 2021,
+    "event": "Nationwide protests erupt over a proposed tax reform, exposing deep social and economic grievances."
+  },
+  {
+    "year": 2022,
+    "event": "Gustavo Petro becomes Colombia's first leftist president, with Francia Marquez as the first Afro-Colombian vice president."
+  }
 ]

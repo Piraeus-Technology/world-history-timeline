@@ -1,19 +1,190 @@
 [
-  { "year": -13000, "event": "Earliest human presence in present-day Venezuela" },
-  { "year": -2000, "event": "Indigenous societies develop agriculture and river settlements" },
-  { "year": 1000, "event": "Carib and Arawak cultures dominate coastal and inland regions" },
-  { "year": 1498, "event": "Christopher Columbus reaches the Venezuelan coast" },
-  { "year": 1522, "event": "First permanent Spanish settlements are established" },
-  { "year": 1567, "event": "Caracas is founded as a colonial city" },
-  { "year": 1600, "event": "Cocoa plantations drive the colonial economy" },
-  { "year": 1728, "event": "Guipuzcoan Company monopolizes colonial trade" },
-  { "year": 1810, "event": "Independence movement begins in Caracas" },
-  { "year": 1811, "event": "Venezuela declares independence from Spain" },
-  { "year": 1821, "event": "Battle of Carabobo secures independence" },
-  { "year": 1821, "event": "Venezuela becomes part of Gran Colombia" },
-  { "year": 1830, "event": "Venezuela separates from Gran Colombia" },
-  { "year": 1908, "event": "Centralized authoritarian rule consolidates power" },
-  { "year": 1922, "event": "Major oil discoveries transform the economy" },
-  { "year": 1958, "event": "Democratic civilian rule is established" },
-  { "year": 1999, "event": "New constitution reshapes the political system" }
+  {
+    "year": -14000,
+    "event": "Early Paleo-Indian hunter-gatherers settle the region, with sites such as Taima-Taima showing evidence of human presence and megafauna hunting."
+  },
+  {
+    "year": -1000,
+    "event": "Arawak-speaking and later Carib-speaking peoples migrate into the region, developing agriculture, pottery, and village settlements."
+  },
+  {
+    "year": 1000,
+    "event": "Indigenous chiefdoms such as the Timoto-Cuica in the Andes build terraced agriculture, irrigation, and stone-paved settlements."
+  },
+  {
+    "year": 1498,
+    "event": "Christopher Columbus reaches the Orinoco delta and Paria Peninsula on his third voyage, the first European to set foot on the South American mainland."
+  },
+  {
+    "year": 1499,
+    "event": "Alonso de Ojeda and Amerigo Vespucci explore the coast and Lake Maracaibo, naming the land 'Venezuela' (little Venice) after stilted indigenous dwellings."
+  },
+  {
+    "year": 1528,
+    "event": "Emperor Charles V grants the Welser banking family of Augsburg rights to colonize and exploit Venezuela, beginning German Klein-Venedig administration."
+  },
+  {
+    "year": 1546,
+    "event": "Spanish authorities revoke the Welser concession, returning Venezuela to direct Spanish Crown control."
+  },
+  {
+    "year": 1567,
+    "event": "Diego de Losada founds Santiago de León de Caracas, which becomes the colonial and later national capital."
+  },
+  {
+    "year": 1777,
+    "event": "The Spanish Crown establishes the Captaincy General of Venezuela, unifying the provinces under a single administration based in Caracas."
+  },
+  {
+    "year": 1806,
+    "event": "Francisco de Miranda launches a failed expedition to liberate Venezuela, raising an early version of the national flag."
+  },
+  {
+    "year": 1810,
+    "event": "Caracas patriots depose the Spanish captain general on April 19, establishing a governing junta and beginning the independence movement."
+  },
+  {
+    "year": 1811,
+    "event": "Venezuela declares independence from Spain on July 5, forming the First Republic."
+  },
+  {
+    "year": 1812,
+    "event": "A devastating earthquake strikes Caracas and the First Republic collapses as royalist forces under Domingo de Monteverde regain control."
+  },
+  {
+    "year": 1813,
+    "event": "Simón Bolívar leads the Admirable Campaign, retakes Caracas, and is proclaimed Liberator, establishing the Second Republic."
+  },
+  {
+    "year": 1814,
+    "event": "Royalist llanero cavalry under José Tomás Boves crush the Second Republic, forcing patriots into exile."
+  },
+  {
+    "year": 1819,
+    "event": "Bolívar's victory at the Battle of Boyacá leads to the creation of Gran Colombia, uniting Venezuela, New Granada, and later Ecuador."
+  },
+  {
+    "year": 1821,
+    "event": "The decisive Battle of Carabobo secures Venezuelan independence from Spain on June 24."
+  },
+  {
+    "year": 1823,
+    "event": "The naval Battle of Lake Maracaibo expels the last major Spanish forces, completing the liberation."
+  },
+  {
+    "year": 1830,
+    "event": "Venezuela secedes from Gran Colombia under José Antonio Páez, becoming an independent republic, the same year Bolívar dies."
+  },
+  {
+    "year": 1854,
+    "event": "Slavery is formally abolished in Venezuela under President José Gregorio Monagas."
+  },
+  {
+    "year": 1859,
+    "event": "The Federal War erupts between Conservatives and Liberals, a brutal civil conflict over land and federalism."
+  },
+  {
+    "year": 1863,
+    "event": "The Federal War ends with the Treaty of Coche and Liberal victory, reshaping the nation as the United States of Venezuela."
+  },
+  {
+    "year": 1870,
+    "event": "Antonio Guzmán Blanco seizes power, modernizing infrastructure, secularizing education, and ruling as a strongman for nearly two decades."
+  },
+  {
+    "year": 1899,
+    "event": "Cipriano Castro leads the Restoring Revolution from the Andes, beginning an era of Andean caudillo dominance."
+  },
+  {
+    "year": 1902,
+    "event": "Britain, Germany, and Italy blockade Venezuelan ports over unpaid debts in the Venezuela Crisis."
+  },
+  {
+    "year": 1908,
+    "event": "Juan Vicente Gómez seizes power, beginning a brutal 27-year dictatorship that lasts until his death in 1935."
+  },
+  {
+    "year": 1914,
+    "event": "Commercial oil discoveries near Lake Maracaibo begin transforming Venezuela into a major petroleum exporter."
+  },
+  {
+    "year": 1922,
+    "event": "The Barroso II well blowout near Cabimas confirms Venezuela's vast oil wealth, accelerating foreign investment."
+  },
+  {
+    "year": 1935,
+    "event": "Dictator Juan Vicente Gómez dies, prompting a gradual political opening under successor military presidents."
+  },
+  {
+    "year": 1945,
+    "event": "Venezuela joins the United Nations as a founding member, and a coup brings a reformist civilian-military junta to power."
+  },
+  {
+    "year": 1947,
+    "event": "Novelist Rómulo Gallegos is elected president in Venezuela's first fully free election."
+  },
+  {
+    "year": 1948,
+    "event": "A military coup overthrows Gallegos, ushering in a decade of authoritarian rule."
+  },
+  {
+    "year": 1950,
+    "event": "Marcos Pérez Jiménez rises to power and consolidates a repressive military dictatorship marked by lavish public works."
+  },
+  {
+    "year": 1958,
+    "event": "Pérez Jiménez is overthrown and the Punto Fijo Pact establishes a power-sharing democracy among major parties."
+  },
+  {
+    "year": 1960,
+    "event": "Venezuela co-founds the Organization of the Petroleum Exporting Countries (OPEC) in Baghdad."
+  },
+  {
+    "year": 1976,
+    "event": "President Carlos Andrés Pérez nationalizes the oil industry, creating the state company Petróleos de Venezuela (PDVSA)."
+  },
+  {
+    "year": 1983,
+    "event": "Currency devaluation on 'Black Friday' ends decades of stability and triggers prolonged economic crisis."
+  },
+  {
+    "year": 1989,
+    "event": "The Caracazo riots erupt against austerity measures, leaving hundreds or thousands dead in a violent state crackdown."
+  },
+  {
+    "year": 1992,
+    "event": "Lieutenant Colonel Hugo Chávez leads a failed coup attempt, gaining national prominence."
+  },
+  {
+    "year": 1998,
+    "event": "Hugo Chávez is elected president, launching the Bolivarian Revolution and a leftist transformation of the state."
+  },
+  {
+    "year": 1999,
+    "event": "A new constitution renames the country the Bolivarian Republic of Venezuela, while catastrophic Vargas mudslides kill tens of thousands."
+  },
+  {
+    "year": 2002,
+    "event": "A short-lived coup briefly removes Chávez from power before he is restored within days amid mass protests."
+  },
+  {
+    "year": 2013,
+    "event": "Chávez dies of cancer and Nicolás Maduro narrowly wins the presidency to succeed him."
+  },
+  {
+    "year": 2014,
+    "event": "Falling oil prices and economic mismanagement spark waves of mass anti-government protests."
+  },
+  {
+    "year": 2017,
+    "event": "Maduro convenes a controversial Constituent Assembly amid hyperinflation and intensifying political and humanitarian crisis."
+  },
+  {
+    "year": 2019,
+    "event": "Opposition leader Juan Guaidó declares himself interim president, sparking a contested dual-presidency standoff recognized by dozens of nations."
+  },
+  {
+    "year": 2024,
+    "event": "Maduro is declared winner of a disputed presidential election amid widespread fraud allegations and international condemnation."
+  }
 ]

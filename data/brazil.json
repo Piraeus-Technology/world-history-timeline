@@ -1,21 +1,194 @@
 [
-  { "year": -12000, "event": "Earliest human presence in present-day Brazil" },
-  { "year": -4000, "event": "Indigenous societies develop agriculture and river-based settlements" },
-  { "year": 500, "event": "Complex Indigenous cultures flourish across the Amazon and coast" },
-  { "year": 1000, "event": "Large Amazonian settlements and earthworks expand regional networks" },
-  { "year": 1500, "event": "Portuguese explorers reach the Brazilian coast" },
-  { "year": 1530, "event": "Portuguese colonization begins along the Atlantic coast" },
-  { "year": 1549, "event": "Salvador is founded as the colonial capital" },
-  { "year": 1600, "event": "Sugar plantations expand, relying heavily on enslaved African labor" },
-  { "year": 1695, "event": "Gold discoveries shift economic focus to inland regions" },
-  { "year": 1763, "event": "Rio de Janeiro becomes the colonial capital" },
-  { "year": 1808, "event": "Portuguese royal court relocates to Brazil" },
-  { "year": 1822, "event": "Brazil declares independence from Portugal" },
-  { "year": 1824, "event": "Brazilian Empire is consolidated under a constitution" },
-  { "year": 1888, "event": "Slavery is abolished in Brazil" },
-  { "year": 1889, "event": "Monarchy is overthrown and the republic is proclaimed" },
-  { "year": 1930, "event": "Getúlio Vargas rises to power, reshaping the state" },
-  { "year": 1960, "event": "Brasília is inaugurated as the new capital" },
-  { "year": 1964, "event": "Military dictatorship begins" },
-  { "year": 1985, "event": "Return to civilian democratic rule" }
+  {
+    "year": -11000,
+    "event": "Paleo-Indian peoples settle the region, leaving evidence at sites such as Pedra Furada and Lagoa Santa."
+  },
+  {
+    "year": -8000,
+    "event": "The skeletal remains later named 'Luzia,' among the oldest in the Americas, are deposited near present-day Lagoa Santa."
+  },
+  {
+    "year": -5000,
+    "event": "Coastal peoples build extensive sambaqui shell mounds along the Atlantic seaboard."
+  },
+  {
+    "year": -1000,
+    "event": "Marajoara culture begins developing complex pottery and earthworks on Marajó Island in the Amazon estuary."
+  },
+  {
+    "year": 1000,
+    "event": "Tupi-Guarani peoples expand across much of the coast and interior, becoming the dominant indigenous groups at European contact."
+  },
+  {
+    "year": 1500,
+    "event": "Portuguese navigator Pedro Álvares Cabral lands on the Brazilian coast and claims the territory for Portugal."
+  },
+  {
+    "year": 1532,
+    "event": "Martim Afonso de Sousa founds São Vicente, the first permanent Portuguese settlement in Brazil."
+  },
+  {
+    "year": 1534,
+    "event": "Portugal divides the colony into hereditary captaincies to spur settlement and defense."
+  },
+  {
+    "year": 1549,
+    "event": "Tomé de Sousa becomes the first governor-general and founds Salvador as the colonial capital."
+  },
+  {
+    "year": 1565,
+    "event": "Rio de Janeiro is founded after Portuguese forces expel French colonists from the bay."
+  },
+  {
+    "year": 1630,
+    "event": "The Dutch West India Company captures Pernambuco, establishing Dutch Brazil centered on Recife."
+  },
+  {
+    "year": 1654,
+    "event": "Portuguese-Brazilian forces expel the Dutch, ending Dutch control of the northeast."
+  },
+  {
+    "year": 1695,
+    "event": "The maroon republic of Palmares is destroyed by colonial forces after decades of resistance led by Zumbi."
+  },
+  {
+    "year": 1729,
+    "event": "Diamonds are discovered in Minas Gerais, fueling a mining boom that reshapes the colonial economy."
+  },
+  {
+    "year": 1763,
+    "event": "The colonial capital is moved from Salvador to Rio de Janeiro amid the gold-mining boom in the interior."
+  },
+  {
+    "year": 1789,
+    "event": "The Inconfidência Mineira, an independence conspiracy, is suppressed and its leader Tiradentes is later executed."
+  },
+  {
+    "year": 1808,
+    "event": "The Portuguese royal court flees Napoleon and relocates to Rio de Janeiro, opening Brazil's ports to world trade."
+  },
+  {
+    "year": 1815,
+    "event": "Brazil is elevated to a kingdom united with Portugal and the Algarves."
+  },
+  {
+    "year": 1822,
+    "event": "Prince Pedro declares independence with the 'Cry of Ipiranga' and becomes Emperor Pedro I of Brazil."
+  },
+  {
+    "year": 1824,
+    "event": "Brazil adopts its first constitution, establishing a centralized constitutional monarchy."
+  },
+  {
+    "year": 1831,
+    "event": "Pedro I abdicates in favor of his young son Pedro II, beginning a regency period."
+  },
+  {
+    "year": 1840,
+    "event": "Pedro II is declared of age and assumes the throne, inaugurating a long period of relative stability."
+  },
+  {
+    "year": 1865,
+    "event": "Brazil joins Argentina and Uruguay in the War of the Triple Alliance against Paraguay."
+  },
+  {
+    "year": 1888,
+    "event": "The Lei Áurea abolishes slavery, freeing the last enslaved people in the Americas."
+  },
+  {
+    "year": 1889,
+    "event": "A military coup overthrows the monarchy and proclaims the Republic of Brazil."
+  },
+  {
+    "year": 1891,
+    "event": "Brazil adopts a republican federal constitution modeled on the United States."
+  },
+  {
+    "year": 1897,
+    "event": "Government forces crush the Canudos rebellion in the impoverished backlands of Bahia."
+  },
+  {
+    "year": 1917,
+    "event": "Brazil declares war on Germany and joins the Allies in World War I."
+  },
+  {
+    "year": 1930,
+    "event": "A revolution brings Getúlio Vargas to power, ending the Old Republic's coffee-oligarchy politics."
+  },
+  {
+    "year": 1937,
+    "event": "Vargas establishes the authoritarian Estado Novo regime with a new corporatist constitution."
+  },
+  {
+    "year": 1942,
+    "event": "Brazil declares war on the Axis powers and later sends an expeditionary force to fight in Italy."
+  },
+  {
+    "year": 1945,
+    "event": "Vargas is deposed and Brazil becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1958,
+    "event": "Brazil wins its first FIFA World Cup in Sweden, with a teenage Pelé emerging as a global star."
+  },
+  {
+    "year": 1960,
+    "event": "The new capital, Brasília, designed by Oscar Niemeyer and Lúcio Costa, is inaugurated under President Juscelino Kubitschek."
+  },
+  {
+    "year": 1964,
+    "event": "A military coup overthrows President João Goulart, beginning a 21-year military dictatorship."
+  },
+  {
+    "year": 1968,
+    "event": "Institutional Act No. 5 intensifies repression, censorship, and torture during the dictatorship's hardest years."
+  },
+  {
+    "year": 1970,
+    "event": "Brazil wins its third World Cup in Mexico, permanently retaining the Jules Rimet Trophy."
+  },
+  {
+    "year": 1985,
+    "event": "The military hands power to a civilian government, restoring democracy after Tancredo Neves's election."
+  },
+  {
+    "year": 1988,
+    "event": "A new democratic constitution, the 'Citizen Constitution,' is promulgated."
+  },
+  {
+    "year": 1992,
+    "event": "Rio de Janeiro hosts the Earth Summit, and President Fernando Collor resigns amid impeachment for corruption."
+  },
+  {
+    "year": 1994,
+    "event": "The Plano Real introduces a new currency and tames hyperinflation, and Brazil wins its fourth World Cup."
+  },
+  {
+    "year": 2002,
+    "event": "Brazil wins a record fifth World Cup, and Luiz Inácio Lula da Silva is elected president."
+  },
+  {
+    "year": 2010,
+    "event": "Dilma Rousseff is elected as Brazil's first female president."
+  },
+  {
+    "year": 2014,
+    "event": "Brazil hosts the FIFA World Cup amid mass protests, as the Lava Jato corruption investigation unfolds."
+  },
+  {
+    "year": 2016,
+    "event": "President Dilma Rousseff is impeached and removed from office, and Rio de Janeiro hosts the Summer Olympics."
+  },
+  {
+    "year": 2018,
+    "event": "Jair Bolsonaro is elected president, marking a sharp shift to the far right."
+  },
+  {
+    "year": 2022,
+    "event": "Lula da Silva is elected to a third term, narrowly defeating Bolsonaro."
+  },
+  {
+    "year": 2023,
+    "event": "Supporters of Bolsonaro storm government buildings in Brasília in an attempted insurrection days after Lula's inauguration."
+  }
 ]

@@ -1,25 +1,206 @@
 [
-  { "year": -13000, "event": "Earliest human presence in present-day Argentina" },
-  { "year": -3000, "event": "Early agricultural societies develop in the northwest" },
-  { "year": 500, "event": "Diaguita cultures flourish in the Andean northwest" },
-  { "year": 1000, "event": "Mapuche groups expand across southern Argentina" },
-  { "year": 1400, "event": "Inca Empire incorporates northwestern Argentina" },
-  { "year": 1516, "event": "Spanish explorers reach the Río de la Plata" },
-  { "year": 1536, "event": "First foundation of Buenos Aires" },
-  { "year": 1580, "event": "Buenos Aires is refounded as a permanent settlement" },
-  { "year": 1600, "event": "Cattle ranching shapes the Pampas economy and culture" },
-  { "year": 1776, "event": "Viceroyalty of the Río de la Plata is created" },
-  { "year": 1810, "event": "May Revolution begins the independence process" },
-  { "year": 1816, "event": "Independence is declared in Tucumán" },
-  { "year": 1820, "event": "Civil wars erupt between federalist and centralist factions" },
-  { "year": 1853, "event": "National Constitution establishes the Argentine state" },
-  { "year": 1862, "event": "Argentina is unified under a national government" },
-  { "year": 1880, "event": "Buenos Aires is federalized as the national capital" },
-  { "year": 1885, "event": "Conquest of the Desert expands control over Patagonia" },
-  { "year": 1910, "event": "Centennial celebrated amid mass European immigration" },
-  { "year": 1930, "event": "First military coup ushers in political instability" },
-  { "year": 1946, "event": "Juan Domingo Perón rises to power" },
-  { "year": 1976, "event": "Military dictatorship begins" },
-  { "year": 1983, "event": "Return to democratic civilian rule" },
-  { "year": 2001, "event": "Severe economic crisis reshapes national outlook" }
+  {
+    "year": -11000,
+    "event": "Paleo-Indian hunter-gatherers inhabit Patagonia, later leaving the painted handprints of the Cueva de las Manos."
+  },
+  {
+    "year": -1000,
+    "event": "Agricultural societies emerge in the northwest, cultivating maize and developing pottery in the Andean valleys."
+  },
+  {
+    "year": 600,
+    "event": "The Aguada culture flourishes in the northwest, producing sophisticated metalwork and ceramics."
+  },
+  {
+    "year": 1480,
+    "event": "The Inca Empire expands southward, incorporating much of present-day northwestern Argentina into Collasuyu."
+  },
+  {
+    "year": 1516,
+    "event": "Spanish explorer Juan Diaz de Solis reaches the Rio de la Plata, the first European to arrive in the region."
+  },
+  {
+    "year": 1536,
+    "event": "Pedro de Mendoza founds the first settlement at Buenos Aires, soon abandoned after indigenous resistance."
+  },
+  {
+    "year": 1573,
+    "event": "Jeronimo Luis de Cabrera founds the city of Cordoba, advancing Spanish colonization of the interior."
+  },
+  {
+    "year": 1580,
+    "event": "Juan de Garay re-establishes Buenos Aires as a permanent settlement on the Rio de la Plata."
+  },
+  {
+    "year": 1776,
+    "event": "Spain creates the Viceroyalty of the Rio de la Plata with Buenos Aires as its capital."
+  },
+  {
+    "year": 1806,
+    "event": "Local militias repel British invasions of Buenos Aires, boosting colonial confidence and self-government."
+  },
+  {
+    "year": 1810,
+    "event": "The May Revolution overthrows the Spanish viceroy and installs the first local governing junta."
+  },
+  {
+    "year": 1816,
+    "event": "The Congress of Tucuman declares the independence of the United Provinces of the Rio de la Plata from Spain."
+  },
+  {
+    "year": 1817,
+    "event": "Jose de San Martin leads the Army of the Andes across the mountains to help liberate Chile and Peru."
+  },
+  {
+    "year": 1820,
+    "event": "Civil wars erupt between Unitarian centralists and Federalists over the structure of the new nation."
+  },
+  {
+    "year": 1829,
+    "event": "Juan Manuel de Rosas becomes governor of Buenos Aires, beginning a long period of federalist dictatorship."
+  },
+  {
+    "year": 1852,
+    "event": "Rosas is defeated at the Battle of Caseros, opening the way for a national constitution."
+  },
+  {
+    "year": 1853,
+    "event": "The Argentine Constitution is adopted, establishing a federal republic."
+  },
+  {
+    "year": 1862,
+    "event": "Bartolome Mitre becomes the first president of a unified Argentina after Buenos Aires rejoins the confederation."
+  },
+  {
+    "year": 1865,
+    "event": "Argentina enters the War of the Triple Alliance against Paraguay alongside Brazil and Uruguay."
+  },
+  {
+    "year": 1879,
+    "event": "The Conquest of the Desert under General Roca subdues indigenous peoples and opens Patagonia to settlement."
+  },
+  {
+    "year": 1880,
+    "event": "Buenos Aires is federalized as the national capital, ending decades of regional conflict."
+  },
+  {
+    "year": 1910,
+    "event": "Argentina celebrates its centennial as one of the world's wealthiest nations amid mass European immigration."
+  },
+  {
+    "year": 1912,
+    "event": "The Saenz Pena Law introduces universal, secret, and compulsory male suffrage."
+  },
+  {
+    "year": 1916,
+    "event": "Hipolito Yrigoyen of the Radical Civic Union wins the first election under the new suffrage law."
+  },
+  {
+    "year": 1930,
+    "event": "A military coup ousts Yrigoyen, beginning the Infamous Decade of electoral fraud and conservative rule."
+  },
+  {
+    "year": 1945,
+    "event": "Argentina joins the United Nations as a founding member."
+  },
+  {
+    "year": 1946,
+    "event": "Juan Domingo Peron is elected president, launching the Peronist movement built on labor and social reform."
+  },
+  {
+    "year": 1947,
+    "event": "Women gain the right to vote, championed by Eva Peron."
+  },
+  {
+    "year": 1952,
+    "event": "Eva Peron dies of cancer, becoming an enduring icon of Argentine popular politics."
+  },
+  {
+    "year": 1955,
+    "event": "The Revolucion Libertadora military coup overthrows Peron and forces him into exile."
+  },
+  {
+    "year": 1966,
+    "event": "A military coup installs General Ongania, beginning the authoritarian Argentine Revolution."
+  },
+  {
+    "year": 1973,
+    "event": "Peron returns from exile and is again elected president after years of political turmoil."
+  },
+  {
+    "year": 1974,
+    "event": "Peron dies in office and is succeeded by his wife Isabel, amid escalating political violence."
+  },
+  {
+    "year": 1976,
+    "event": "A military junta seizes power and launches the Dirty War, killing or disappearing tens of thousands."
+  },
+  {
+    "year": 1978,
+    "event": "Argentina hosts and wins the FIFA World Cup amid the military dictatorship."
+  },
+  {
+    "year": 1982,
+    "event": "Argentina invades the Falkland Islands but is defeated by Britain in the Falklands War."
+  },
+  {
+    "year": 1983,
+    "event": "Raul Alfonsin is elected president, restoring democracy after the dictatorship's collapse."
+  },
+  {
+    "year": 1985,
+    "event": "The Trial of the Juntas convicts former military leaders for crimes against humanity."
+  },
+  {
+    "year": 1986,
+    "event": "Argentina wins the FIFA World Cup in Mexico, led by Diego Maradona."
+  },
+  {
+    "year": 1989,
+    "event": "Carlos Menem becomes president amid hyperinflation and begins sweeping free-market reforms."
+  },
+  {
+    "year": 1991,
+    "event": "The Convertibility Plan pegs the peso to the US dollar, temporarily taming hyperinflation."
+  },
+  {
+    "year": 1994,
+    "event": "A bombing of the AMIA Jewish community center in Buenos Aires kills 85 people."
+  },
+  {
+    "year": 2001,
+    "event": "A severe economic crisis triggers riots, a sovereign default, and the resignation of President de la Rua."
+  },
+  {
+    "year": 2003,
+    "event": "Nestor Kirchner becomes president and oversees economic recovery and human rights prosecutions."
+  },
+  {
+    "year": 2007,
+    "event": "Cristina Fernandez de Kirchner is elected as the country's first elected female president."
+  },
+  {
+    "year": 2010,
+    "event": "Argentina legalizes same-sex marriage, the first country in Latin America to do so."
+  },
+  {
+    "year": 2013,
+    "event": "Argentine Cardinal Jorge Bergoglio is elected Pope Francis, the first pope from the Americas."
+  },
+  {
+    "year": 2015,
+    "event": "Mauricio Macri wins the presidency, ending twelve years of Kirchnerist rule."
+  },
+  {
+    "year": 2020,
+    "event": "Argentina legalizes abortion, a landmark for reproductive rights in Latin America."
+  },
+  {
+    "year": 2022,
+    "event": "Argentina wins the FIFA World Cup in Qatar, captained by Lionel Messi."
+  },
+  {
+    "year": 2023,
+    "event": "Libertarian economist Javier Milei is elected president amid soaring inflation and economic crisis."
+  }
 ]

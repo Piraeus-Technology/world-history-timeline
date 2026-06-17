@@ -1,16 +1,170 @@
 [
-  { "year": -10000, "event": "Earliest human presence in present-day Paraguay" },
-  { "year": -2000, "event": "Guaraní peoples establish villages and agriculture" },
-  { "year": 1000, "event": "Guaraní culture spreads across the Paraguay River basin" },
-  { "year": 1524, "event": "Spanish explorers enter the Paraguay River region" },
-  { "year": 1537, "event": "Asunción is founded, becoming a colonial hub" },
-  { "year": 1600, "event": "Jesuit missions expand among the Guaraní" },
-  { "year": 1767, "event": "Jesuits are expelled, ending the mission system" },
-  { "year": 1811, "event": "Paraguay declares independence from Spain" },
-  { "year": 1840, "event": "Strong centralized state consolidates power" },
-  { "year": 1864, "event": "War of the Triple Alliance begins" },
-  { "year": 1870, "event": "War ends, devastating population and economy" },
-  { "year": 1932, "event": "Chaco War with Bolivia reshapes national territory" },
-  { "year": 1954, "event": "Long military dictatorship begins" },
-  { "year": 1989, "event": "Dictatorship ends and democratic transition begins" }
+  {
+    "year": -8000,
+    "event": "Early hunter-gatherer peoples settle the region that becomes Paraguay, leaving stone tools and rock art at sites such as Cerro Corá."
+  },
+  {
+    "year": -2000,
+    "event": "Guaraní-speaking peoples migrate into the area and develop semi-sedentary agriculture based on cassava, maize, and beans."
+  },
+  {
+    "year": 1000,
+    "event": "Tupí-Guaraní communities expand across the eastern forests while Guaycuruan and other peoples inhabit the Gran Chaco to the west."
+  },
+  {
+    "year": 1524,
+    "event": "Portuguese explorer Aleixo Garcia crosses the region with Guaraní allies, becoming the first European to traverse the area en route to the Inca realm."
+  },
+  {
+    "year": 1537,
+    "event": "Spanish conquistadors found Asunción, which becomes the principal Spanish base in southeastern South America."
+  },
+  {
+    "year": 1542,
+    "event": "Asunción is designated capital of the Spanish province, and explorer Álvar Núñez Cabeza de Vaca arrives as governor."
+  },
+  {
+    "year": 1588,
+    "event": "Jesuit missionaries begin work in the region to convert and organize Guaraní communities."
+  },
+  {
+    "year": 1609,
+    "event": "The Jesuits found their first major reductions, building a network of self-governing mission towns that flourish economically and culturally."
+  },
+  {
+    "year": 1617,
+    "event": "The Spanish crown splits the territory, separating Paraguay from the Río de la Plata province centered on Buenos Aires."
+  },
+  {
+    "year": 1721,
+    "event": "The Comuneros Revolt erupts in Asunción, an early colonial uprising against royal and Jesuit authority lasting until 1735."
+  },
+  {
+    "year": 1767,
+    "event": "King Charles III expels the Jesuits from Spanish America, leading to the decline of the Guaraní mission system."
+  },
+  {
+    "year": 1776,
+    "event": "Paraguay is incorporated into the newly created Viceroyalty of the Río de la Plata."
+  },
+  {
+    "year": 1811,
+    "event": "Paraguay declares independence from Spain in May, also rejecting subordination to Buenos Aires."
+  },
+  {
+    "year": 1814,
+    "event": "José Gaspar Rodríguez de Francia is named Supreme Dictator, beginning an isolationist regime that consolidates the nation."
+  },
+  {
+    "year": 1840,
+    "event": "Dictator Francia dies after decades of rule that kept Paraguay independent but largely closed off from the outside world."
+  },
+  {
+    "year": 1844,
+    "event": "Carlos Antonio López becomes president and begins modernizing Paraguay with railroads, foundries, and foreign trade."
+  },
+  {
+    "year": 1862,
+    "event": "Francisco Solano López succeeds his father as president and pursues an ambitious, militarized foreign policy."
+  },
+  {
+    "year": 1864,
+    "event": "The War of the Triple Alliance begins as Paraguay fights Brazil, Argentina, and Uruguay."
+  },
+  {
+    "year": 1870,
+    "event": "The catastrophic War of the Triple Alliance ends with the death of Solano López, after the conflict kills a majority of Paraguay's male population."
+  },
+  {
+    "year": 1870,
+    "event": "Paraguay adopts a new constitution under Allied occupation and cedes large territories to Brazil and Argentina."
+  },
+  {
+    "year": 1887,
+    "event": "The Colorado and Liberal parties are founded, establishing the rival forces that dominate Paraguayan politics for over a century."
+  },
+  {
+    "year": 1904,
+    "event": "A Liberal revolution overthrows the Colorado government, beginning decades of Liberal-dominated but unstable rule."
+  },
+  {
+    "year": 1932,
+    "event": "The Chaco War breaks out between Paraguay and Bolivia over the disputed Gran Chaco region."
+  },
+  {
+    "year": 1935,
+    "event": "The Chaco War ends with a ceasefire that leaves Paraguay in control of most of the contested Chaco."
+  },
+  {
+    "year": 1938,
+    "event": "A peace treaty formally awards Paraguay roughly three-quarters of the Gran Chaco."
+  },
+  {
+    "year": 1945,
+    "event": "Paraguay declares war on the Axis powers and becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1947,
+    "event": "A brutal civil war devastates the country, strengthening the Colorado Party's grip on power."
+  },
+  {
+    "year": 1954,
+    "event": "General Alfredo Stroessner seizes power in a coup, beginning a 35-year authoritarian dictatorship."
+  },
+  {
+    "year": 1967,
+    "event": "A new constitution entrenches Stroessner's rule while maintaining a facade of democratic institutions."
+  },
+  {
+    "year": 1973,
+    "event": "Paraguay and Brazil sign the Itaipú Treaty to build one of the world's largest hydroelectric dams on the Paraná River."
+  },
+  {
+    "year": 1984,
+    "event": "The binational Itaipú Dam begins generating electricity, transforming Paraguay's energy economy."
+  },
+  {
+    "year": 1989,
+    "event": "Stroessner is overthrown in a coup led by General Andrés Rodríguez, ending the dictatorship."
+  },
+  {
+    "year": 1991,
+    "event": "Paraguay joins Argentina, Brazil, and Uruguay in founding the Mercosur trade bloc."
+  },
+  {
+    "year": 1992,
+    "event": "A new democratic constitution is enacted, guaranteeing civil liberties and recognizing Guaraní as an official language alongside Spanish."
+  },
+  {
+    "year": 1993,
+    "event": "Juan Carlos Wasmosy becomes the first civilian elected president in decades."
+  },
+  {
+    "year": 1996,
+    "event": "An attempted coup by General Lino Oviedo is thwarted, testing the young democracy."
+  },
+  {
+    "year": 1999,
+    "event": "Vice President Luis María Argaña is assassinated, triggering the deadly Marzo Paraguayo crisis and President Cubas's resignation."
+  },
+  {
+    "year": 2008,
+    "event": "Former bishop Fernando Lugo wins the presidency, ending 61 years of unbroken Colorado Party rule."
+  },
+  {
+    "year": 2012,
+    "event": "President Lugo is removed through a swift impeachment after a deadly land-dispute clash at Curuguaty."
+  },
+  {
+    "year": 2013,
+    "event": "Horacio Cartes of the Colorado Party is elected president, returning the party to power."
+  },
+  {
+    "year": 2017,
+    "event": "Protests over a constitutional reelection proposal lead to the burning of part of the Congress building in Asunción."
+  },
+  {
+    "year": 2023,
+    "event": "Santiago Peña of the Colorado Party wins the presidency, continuing the party's long political dominance."
+  }
 ]

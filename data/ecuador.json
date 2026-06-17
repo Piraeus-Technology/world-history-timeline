@@ -1,20 +1,198 @@
 [
-  { "year": -13000, "event": "Earliest human presence in present-day Ecuador" },
-  { "year": -3500, "event": "Valdivia culture develops early pottery and coastal settlements" },
-  { "year": -500, "event": "Regional cultures expand agriculture and long-distance trade" },
-  { "year": 500, "event": "Complex societies flourish along the coast and highlands" },
-  { "year": 1400, "event": "Inca Empire incorporates much of the Andean highlands" },
-  { "year": 1534, "event": "Spanish conquest of the Inca north and Quito region" },
-  { "year": 1534, "event": "Quito is founded as a colonial city" },
-  { "year": 1600, "event": "Audiencia of Quito administers the northern Andes" },
-  { "year": 1739, "event": "Region becomes part of the Viceroyalty of New Granada" },
-  { "year": 1809, "event": "First independence uprising erupts in Quito" },
-  { "year": 1822, "event": "Battle of Pichincha secures independence" },
-  { "year": 1822, "event": "Ecuador is incorporated into Gran Colombia" },
-  { "year": 1830, "event": "Ecuador becomes an independent republic" },
-  { "year": 1860, "event": "Centralized state consolidates power from Quito" },
-  { "year": 1895, "event": "Liberal Revolution reshapes church-state relations" },
-  { "year": 1941, "event": "Border conflict with Peru alters national territory" },
-  { "year": 1972, "event": "Oil production transforms the national economy" },
-  { "year": 1979, "event": "Return to civilian democratic rule" }
+  {
+    "year": -3500,
+    "event": "The Valdivia culture, one of the Americas' earliest settled societies, flourishes on Ecuador's Pacific coast and produces some of the continent's oldest ceramics."
+  },
+  {
+    "year": -1500,
+    "event": "The Machalilla and later Chorrera cultures develop along the coast, advancing pottery, agriculture, and long-distance trade networks."
+  },
+  {
+    "year": -500,
+    "event": "Regional chiefdoms and trading cultures such as the Bahía, Jama-Coaque, and La Tolita emerge, the latter renowned for fine gold and platinum metalwork."
+  },
+  {
+    "year": 700,
+    "event": "The Manteño-Huancavilca culture rises on the coast, building maritime trade routes that reach as far as Mesoamerica."
+  },
+  {
+    "year": 1000,
+    "event": "Highland peoples including the Cara, Puruhá, and Cañari form organized confederations and chiefdoms across the Andean valleys."
+  },
+  {
+    "year": 1463,
+    "event": "The Inca Empire under Túpac Yupanqui begins its conquest of the territory, subduing the Cañari after fierce resistance."
+  },
+  {
+    "year": 1500,
+    "event": "Inca emperor Huayna Capac consolidates control and develops Quito and Tomebamba (modern Cuenca) as major northern centers of the empire."
+  },
+  {
+    "year": 1527,
+    "event": "Huayna Capac dies, and the empire is divided between his sons Atahualpa, based in Quito, and Huáscar in Cuzco, sparking a civil war."
+  },
+  {
+    "year": 1532,
+    "event": "Spanish conquistador Francisco Pizarro captures Atahualpa at Cajamarca, beginning the Spanish conquest of the Inca realm."
+  },
+  {
+    "year": 1534,
+    "event": "Sebastián de Belalcázar founds the city of Quito on the ruins of the Inca city after Rumiñahui burns it rather than surrender it intact."
+  },
+  {
+    "year": 1535,
+    "event": "Bishop Tomás de Berlanga, blown off course en route to Peru, becomes the first European to reach the Galápagos Islands."
+  },
+  {
+    "year": 1563,
+    "event": "The Real Audiencia of Quito is established, creating a distinct colonial administrative district under the Viceroyalty of Peru."
+  },
+  {
+    "year": 1736,
+    "event": "A French geodesic expedition led by Charles Marie de La Condamine arrives to measure the equator, giving the future nation scientific renown."
+  },
+  {
+    "year": 1809,
+    "event": "Quito's elite proclaims an autonomous governing junta on August 10, an early cry for independence in Spanish America."
+  },
+  {
+    "year": 1822,
+    "event": "Antonio José de Sucre defeats royalist forces at the Battle of Pichincha on May 24, securing independence and incorporating Quito into Gran Colombia."
+  },
+  {
+    "year": 1830,
+    "event": "Ecuador secedes from Gran Colombia and becomes an independent republic, with Juan José Flores as its first president."
+  },
+  {
+    "year": 1832,
+    "event": "Ecuador formally annexes the Galápagos Islands, asserting sovereignty over the Pacific archipelago."
+  },
+  {
+    "year": 1835,
+    "event": "Naturalist Charles Darwin visits the Galápagos Islands aboard HMS Beagle, gathering observations central to his theory of evolution."
+  },
+  {
+    "year": 1859,
+    "event": "A national crisis of competing regional governments nearly fractures the country before Gabriel García Moreno seizes power."
+  },
+  {
+    "year": 1861,
+    "event": "Gabriel García Moreno begins a theocratic, conservative rule that modernizes infrastructure while tightly binding the state to the Catholic Church."
+  },
+  {
+    "year": 1875,
+    "event": "García Moreno is assassinated in Quito, ending his dominance of mid-century Ecuadorian politics."
+  },
+  {
+    "year": 1895,
+    "event": "Eloy Alfaro leads the Liberal Revolution, ushering in secular reforms, separation of church and state, and modernization."
+  },
+  {
+    "year": 1908,
+    "event": "The Guayaquil-Quito railway is completed, connecting the coast and highlands and transforming the national economy."
+  },
+  {
+    "year": 1912,
+    "event": "Former president Eloy Alfaro is killed by a mob in Quito, a violent end to the liberal era's leading figure."
+  },
+  {
+    "year": 1925,
+    "event": "The July Revolution (Revolución Juliana) overthrows the plutocratic order, leading to financial and social reforms and the founding of the central bank."
+  },
+  {
+    "year": 1941,
+    "event": "War with Peru breaks out over disputed Amazonian territory, ending in a costly Ecuadorian defeat."
+  },
+  {
+    "year": 1942,
+    "event": "The Rio de Janeiro Protocol forces Ecuador to cede vast Amazonian lands to Peru, a humiliation that fuels nationalist grievances for decades."
+  },
+  {
+    "year": 1944,
+    "event": "The 'Glorious Revolution' (La Gloriosa) returns populist José María Velasco Ibarra to the presidency amid mass uprisings."
+  },
+  {
+    "year": 1945,
+    "event": "Ecuador becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1948,
+    "event": "A period of relative democratic stability begins as Galo Plaza Lasso takes office and completes his term peacefully."
+  },
+  {
+    "year": 1963,
+    "event": "A military junta seizes power, beginning a renewed cycle of military intervention in national politics."
+  },
+  {
+    "year": 1967,
+    "event": "Large oil reserves are discovered in the Amazon region, soon reshaping the national economy."
+  },
+  {
+    "year": 1972,
+    "event": "A military government takes power as Amazonian oil begins flowing, launching an oil-funded development boom."
+  },
+  {
+    "year": 1979,
+    "event": "Ecuador returns to civilian rule as Jaime Roldós Aguilera is elected president under a new constitution."
+  },
+  {
+    "year": 1981,
+    "event": "President Jaime Roldós dies in a plane crash, and a brief border clash with Peru flares at Paquisha."
+  },
+  {
+    "year": 1995,
+    "event": "The Cenepa War erupts with Peru over the still-disputed Amazon border, ending in a ceasefire after weeks of fighting."
+  },
+  {
+    "year": 1998,
+    "event": "Ecuador and Peru sign the Brasília Presidential Act, definitively settling their long-running border dispute."
+  },
+  {
+    "year": 2000,
+    "event": "Amid a severe financial crisis, Ecuador abandons the sucre and adopts the U.S. dollar as its official currency."
+  },
+  {
+    "year": 2000,
+    "event": "President Jamil Mahuad is ousted in a coup backed by indigenous protesters and junior military officers."
+  },
+  {
+    "year": 2005,
+    "event": "President Lucio Gutiérrez is removed from office by Congress amid mass street protests in Quito."
+  },
+  {
+    "year": 2007,
+    "event": "Rafael Correa becomes president, launching his leftist 'Citizens' Revolution' and a new political era."
+  },
+  {
+    "year": 2008,
+    "event": "Voters approve a new constitution that, among other firsts, grants legally enforceable rights to nature."
+  },
+  {
+    "year": 2010,
+    "event": "A police revolt over benefits escalates into what the government calls a coup attempt against President Correa."
+  },
+  {
+    "year": 2016,
+    "event": "A magnitude 7.8 earthquake strikes the northern coast, killing hundreds and devastating cities like Pedernales and Portoviejo."
+  },
+  {
+    "year": 2017,
+    "event": "Lenín Moreno is elected president and gradually breaks with his predecessor Correa, reorienting national policy."
+  },
+  {
+    "year": 2019,
+    "event": "Mass protests erupt over the removal of fuel subsidies, forcing the government to temporarily relocate from Quito and reverse the measure."
+  },
+  {
+    "year": 2023,
+    "event": "President Guillermo Lasso invokes 'muerte cruzada' to dissolve the legislature and call early elections amid impeachment proceedings."
+  },
+  {
+    "year": 2023,
+    "event": "Presidential candidate Fernando Villavicencio is assassinated, underscoring a surge of cartel-driven violence gripping the country."
+  },
+  {
+    "year": 2024,
+    "event": "President Daniel Noboa declares an 'internal armed conflict' against drug gangs after armed men storm a TV station live on air."
+  }
 ]

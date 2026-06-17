@@ -1,15 +1,198 @@
 [
-  { "year": -9000, "event": "Earliest human presence in present-day Guyana" },
-  { "year": -3000, "event": "Indigenous Arawak and Carib societies develop river-based settlements" },
-  { "year": 1000, "event": "Indigenous trade networks connect the Guianas and Amazon basin" },
-  { "year": 1498, "event": "European explorers sight the Guyana coast" },
-  { "year": 1616, "event": "Dutch establish early trading posts and settlements" },
-  { "year": 1700, "event": "Dutch plantation economy expands along coastal rivers" },
-  { "year": 1814, "event": "Britain gains control of the colony from the Dutch" },
-  { "year": 1831, "event": "British Guiana is formally established" },
-  { "year": 1838, "event": "Slavery is abolished, followed by indentured labor immigration" },
-  { "year": 1899, "event": "Arbitration settles border dispute with Venezuela" },
-  { "year": 1953, "event": "Self-government movement intensifies under British rule" },
-  { "year": 1966, "event": "Guyana gains independence from the United Kingdom" },
-  { "year": 1970, "event": "Guyana becomes a cooperative republic" }
+  {
+    "year": -9000,
+    "event": "Paleo-Indian hunter-gatherers settle the region's interior savannas and forests, leaving early stone tools."
+  },
+  {
+    "year": -3500,
+    "event": "Archaic shell-midden cultures develop along the coast and rivers, exploiting fish and shellfish."
+  },
+  {
+    "year": -2000,
+    "event": "Early Amerindian groups begin cultivating cassava and other crops, marking a shift toward settled agriculture."
+  },
+  {
+    "year": 500,
+    "event": "Arawak (Lokono) peoples establish farming villages across the coastal lowlands and riverbanks."
+  },
+  {
+    "year": 1000,
+    "event": "Carib peoples migrate into the region, competing with the Arawak for coastal and riverine territory."
+  },
+  {
+    "year": 1498,
+    "event": "Christopher Columbus sights the Guiana coast during his third voyage, the first recorded European contact."
+  },
+  {
+    "year": 1499,
+    "event": "Spanish explorer Alonso de Ojeda explores the Guiana coastline."
+  },
+  {
+    "year": 1595,
+    "event": "Sir Walter Raleigh explores the Orinoco region in search of the legendary city of El Dorado."
+  },
+  {
+    "year": 1616,
+    "event": "Dutch settlers establish a trading post at Kyk-Over-Al on the Essequibo River, beginning Dutch colonization."
+  },
+  {
+    "year": 1621,
+    "event": "The Dutch West India Company is chartered and takes control of colonization efforts in the Guianas."
+  },
+  {
+    "year": 1746,
+    "event": "The Dutch open the Demerara region to settlement, expanding sugar plantations along the coast."
+  },
+  {
+    "year": 1763,
+    "event": "Enslaved Africans led by Cuffy (Kofi) launch the Berbice Slave Rebellion against Dutch planters."
+  },
+  {
+    "year": 1781,
+    "event": "British forces seize the Dutch colonies of Demerara, Essequibo, and Berbice during the Anglo-Dutch War."
+  },
+  {
+    "year": 1796,
+    "event": "Britain occupies the Dutch Guiana colonies again amid the wars of the French Revolution."
+  },
+  {
+    "year": 1814,
+    "event": "The Anglo-Dutch Treaty formally cedes Demerara, Essequibo, and Berbice to Britain."
+  },
+  {
+    "year": 1823,
+    "event": "The Demerara Rebellion sees thousands of enslaved people rise up, brutally suppressed by colonial forces."
+  },
+  {
+    "year": 1831,
+    "event": "Britain unites the three colonies into the single Crown colony of British Guiana."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished in British Guiana, followed by a four-year apprenticeship period."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect and the first indentured laborers from India begin arriving to work the sugar estates."
+  },
+  {
+    "year": 1879,
+    "event": "Gold is discovered in the interior, sparking a mining boom and deeper penetration of the hinterland."
+  },
+  {
+    "year": 1899,
+    "event": "An international arbitration tribunal settles the Venezuela-British Guiana boundary largely in Britain's favor."
+  },
+  {
+    "year": 1917,
+    "event": "Indentured labor from India formally ends after bringing roughly 240,000 immigrants over nearly 80 years."
+  },
+  {
+    "year": 1928,
+    "event": "British Guiana becomes a Crown colony with a constitution reducing local self-government."
+  },
+  {
+    "year": 1950,
+    "event": "Cheddi Jagan and Forbes Burnham found the People's Progressive Party, launching the independence movement."
+  },
+  {
+    "year": 1953,
+    "event": "The PPP wins the first elections under universal suffrage, but Britain suspends the constitution and sends troops."
+  },
+  {
+    "year": 1955,
+    "event": "The PPP splits along ethnic lines as Forbes Burnham breaks away to later form the People's National Congress."
+  },
+  {
+    "year": 1961,
+    "event": "British Guiana gains internal self-government with Cheddi Jagan as premier."
+  },
+  {
+    "year": 1962,
+    "event": "Violent disturbances and a general strike erupt in Georgetown amid Cold War political tensions."
+  },
+  {
+    "year": 1964,
+    "event": "Inter-ethnic violence between Indo-Guyanese and Afro-Guyanese peaks before Forbes Burnham becomes premier."
+  },
+  {
+    "year": 1966,
+    "event": "British Guiana gains independence as Guyana on 26 May with Forbes Burnham as prime minister."
+  },
+  {
+    "year": 1966,
+    "event": "Guyana is admitted to the United Nations as a sovereign member state."
+  },
+  {
+    "year": 1970,
+    "event": "Guyana becomes a Cooperative Republic, severing ties to the British monarchy with a non-executive president."
+  },
+  {
+    "year": 1976,
+    "event": "Burnham's government nationalizes the bauxite and sugar industries, including the Booker McConnell estates."
+  },
+  {
+    "year": 1978,
+    "event": "Over 900 members of the Peoples Temple die in a mass murder-suicide at Jonestown in northwestern Guyana."
+  },
+  {
+    "year": 1980,
+    "event": "A new constitution establishes an executive presidency, and Forbes Burnham becomes president."
+  },
+  {
+    "year": 1980,
+    "event": "Historian and activist Walter Rodney is assassinated by a car bomb in Georgetown."
+  },
+  {
+    "year": 1985,
+    "event": "Forbes Burnham dies in office and is succeeded as president by Desmond Hoyte."
+  },
+  {
+    "year": 1992,
+    "event": "Cheddi Jagan and the PPP win the first internationally certified free elections since independence."
+  },
+  {
+    "year": 1997,
+    "event": "President Cheddi Jagan dies in office; his wife Janet Jagan is later elected president."
+  },
+  {
+    "year": 1999,
+    "event": "Bharrat Jagdeo becomes president, beginning a long PPP-led era of economic reform."
+  },
+  {
+    "year": 2005,
+    "event": "Catastrophic flooding devastates the coastal region, displacing tens of thousands and causing major economic loss."
+  },
+  {
+    "year": 2008,
+    "event": "Two mass shooting massacres at Lusignan and Bartica shock the nation amid a wave of violent crime."
+  },
+  {
+    "year": 2015,
+    "event": "ExxonMobil announces a major offshore oil discovery in the Stabroek Block, transforming Guyana's prospects."
+  },
+  {
+    "year": 2015,
+    "event": "David Granger leads the APNU+AFC coalition to election victory, ending 23 years of PPP rule."
+  },
+  {
+    "year": 2018,
+    "event": "Guyana takes the Venezuela border dispute to the International Court of Justice in The Hague."
+  },
+  {
+    "year": 2019,
+    "event": "First commercial crude oil is produced from the offshore Liza field, launching Guyana as an oil exporter."
+  },
+  {
+    "year": 2020,
+    "event": "A disputed, months-long election ends with Irfaan Ali and the PPP/C taking power after recounts."
+  },
+  {
+    "year": 2023,
+    "event": "Venezuela holds a referendum claiming the Essequibo region, sharply escalating tensions with Guyana."
+  },
+  {
+    "year": 2024,
+    "event": "Oil-driven growth makes Guyana one of the world's fastest-growing economies, dramatically expanding GDP."
+  }
 ]

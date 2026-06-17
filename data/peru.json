@@ -1,21 +1,198 @@
 [
-  { "year": -14000, "event": "Earliest human presence in present-day Peru" },
-  { "year": -3000, "event": "Early coastal civilizations develop agriculture and urban centers" },
-  { "year": -1800, "event": "Norte Chico civilization builds some of the Americas’ oldest cities" },
-  { "year": 100, "event": "Moche culture flourishes along the northern coast" },
-  { "year": 600, "event": "Wari state expands across the central Andes" },
-  { "year": 900, "event": "Tiwanaku influence spreads into southern Peru" },
-  { "year": 1200, "event": "Inca civilization emerges in the Cusco region" },
-  { "year": 1400, "event": "Inca Empire expands to dominate much of western South America" },
-  { "year": 1532, "event": "Spanish forces capture Inca ruler Atahualpa" },
-  { "year": 1535, "event": "Lima is founded as the colonial capital" },
-  { "year": 1542, "event": "Viceroyalty of Peru is established by Spain" },
-  { "year": 1572, "event": "Last Inca resistance is defeated" },
-  { "year": 1780, "event": "Túpac Amaru II leads major Indigenous rebellion" },
-  { "year": 1821, "event": "Peru declares independence from Spain" },
-  { "year": 1824, "event": "Spanish rule ends after decisive battles" },
-  { "year": 1879, "event": "War of the Pacific weakens Peru and alters borders" },
-  { "year": 1920, "event": "Indigenous identity gains recognition in national culture" },
-  { "year": 1968, "event": "Military government introduces land and social reforms" },
-  { "year": 2000, "event": "Democratic order is restored after political crisis" }
+  {
+    "year": -12000,
+    "event": "Early human hunter-gatherers occupy Andean sites such as Pikimachay Cave."
+  },
+  {
+    "year": -9000,
+    "event": "Hunter-gatherers at Guitarrero Cave begin cultivating early plants, marking incipient agriculture."
+  },
+  {
+    "year": -3500,
+    "event": "The monumental complex at Caral in the Supe Valley begins, becoming the oldest known city in the Americas."
+  },
+  {
+    "year": -1200,
+    "event": "The Chavin culture emerges, spreading a unifying religious art style centered on Chavin de Huantar."
+  },
+  {
+    "year": -200,
+    "event": "The Nazca culture develops, later creating the massive geoglyphs known as the Nazca Lines."
+  },
+  {
+    "year": 100,
+    "event": "The Moche civilization rises on the north coast, building adobe pyramids like the Huaca del Sol."
+  },
+  {
+    "year": 600,
+    "event": "The Wari and Tiwanaku states expand, creating large Andean empires with road networks."
+  },
+  {
+    "year": 900,
+    "event": "The Chimu kingdom emerges, eventually building its vast adobe capital of Chan Chan near modern Trujillo."
+  },
+  {
+    "year": 1438,
+    "event": "Pachacuti begins the rapid expansion of the Inca Empire (Tawantinsuyu) from its base at Cusco."
+  },
+  {
+    "year": 1450,
+    "event": "The Incas construct the royal estate of Machu Picchu in the Andes."
+  },
+  {
+    "year": 1532,
+    "event": "Francisco Pizarro captures the Inca emperor Atahualpa at Cajamarca, beginning the Spanish conquest."
+  },
+  {
+    "year": 1533,
+    "event": "The Spanish execute Atahualpa and seize Cusco, effectively toppling the Inca Empire."
+  },
+  {
+    "year": 1535,
+    "event": "Pizarro founds Lima, the City of Kings, as the new colonial capital."
+  },
+  {
+    "year": 1542,
+    "event": "Spain establishes the Viceroyalty of Peru, governing much of Spanish South America from Lima."
+  },
+  {
+    "year": 1572,
+    "event": "Viceroy Toledo captures and executes Tupac Amaru, the last Inca ruler of Vilcabamba."
+  },
+  {
+    "year": 1780,
+    "event": "Tupac Amaru II leads a massive indigenous rebellion against Spanish colonial rule."
+  },
+  {
+    "year": 1781,
+    "event": "Spanish authorities defeat and execute Tupac Amaru II, ending the great Andean uprising."
+  },
+  {
+    "year": 1821,
+    "event": "Jose de San Martin declares Peru's independence from Spain in Lima."
+  },
+  {
+    "year": 1824,
+    "event": "The patriot victory at the Battle of Ayacucho secures Peruvian and South American independence from Spain."
+  },
+  {
+    "year": 1836,
+    "event": "Andres de Santa Cruz forms the Peru-Bolivian Confederation, which is dissolved in 1839."
+  },
+  {
+    "year": 1845,
+    "event": "Ramon Castilla begins his presidency, ushering in stability funded by the lucrative guano boom."
+  },
+  {
+    "year": 1854,
+    "event": "President Castilla abolishes slavery and the indigenous head tax in Peru."
+  },
+  {
+    "year": 1866,
+    "event": "Peru defeats a Spanish fleet at the Battle of Callao during the Chincha Islands War."
+  },
+  {
+    "year": 1879,
+    "event": "The War of the Pacific begins as Peru and Bolivia fight Chile over nitrate-rich territory."
+  },
+  {
+    "year": 1883,
+    "event": "The Treaty of Ancon ends the War of the Pacific, with Peru ceding the province of Tarapaca to Chile."
+  },
+  {
+    "year": 1895,
+    "event": "Nicolas de Pierola takes power, beginning the 'Aristocratic Republic' era of oligarchic rule."
+  },
+  {
+    "year": 1911,
+    "event": "Hiram Bingham brings international attention to the Inca site of Machu Picchu."
+  },
+  {
+    "year": 1924,
+    "event": "Victor Raul Haya de la Torre founds the APRA, a major populist political movement."
+  },
+  {
+    "year": 1929,
+    "event": "Peru and Chile sign the Treaty of Lima, returning Tacna to Peru while Arica remains Chilean."
+  },
+  {
+    "year": 1941,
+    "event": "Peru fights a brief border war with Ecuador, later settled by the 1942 Rio Protocol."
+  },
+  {
+    "year": 1945,
+    "event": "Peru becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1948,
+    "event": "General Manuel Odria seizes power in a coup, beginning an authoritarian eight-year rule."
+  },
+  {
+    "year": 1968,
+    "event": "General Juan Velasco Alvarado leads a military coup and launches sweeping land reform and nationalizations."
+  },
+  {
+    "year": 1980,
+    "event": "Democracy returns with Fernando Belaunde's election, as the Maoist Shining Path begins its insurgency."
+  },
+  {
+    "year": 1985,
+    "event": "Alan Garcia becomes Peru's first APRA president amid soaring inflation and economic crisis."
+  },
+  {
+    "year": 1990,
+    "event": "Alberto Fujimori wins the presidency and imposes drastic free-market 'Fujishock' economic reforms."
+  },
+  {
+    "year": 1992,
+    "event": "Fujimori carries out a self-coup dissolving Congress, and forces capture Shining Path leader Abimael Guzman."
+  },
+  {
+    "year": 1995,
+    "event": "Peru and Ecuador fight the brief Cenepa War over their disputed Amazonian border."
+  },
+  {
+    "year": 1996,
+    "event": "MRTA guerrillas seize the Japanese ambassador's residence in Lima, holding hostages for months."
+  },
+  {
+    "year": 1998,
+    "event": "Peru and Ecuador sign the Brasilia Presidential Act, permanently resolving their border dispute."
+  },
+  {
+    "year": 2000,
+    "event": "Fujimori flees to Japan and resigns amid a vast corruption scandal exposed by the Vladivideos."
+  },
+  {
+    "year": 2001,
+    "event": "Alejandro Toledo becomes Peru's first president of indigenous Andean descent in modern times."
+  },
+  {
+    "year": 2003,
+    "event": "The Truth and Reconciliation Commission reports that roughly 70,000 died in the internal conflict."
+  },
+  {
+    "year": 2009,
+    "event": "Former president Alberto Fujimori is convicted of human rights abuses and sentenced to prison."
+  },
+  {
+    "year": 2011,
+    "event": "Ollanta Humala wins the presidency on a platform of inclusive growth amid a mining boom."
+  },
+  {
+    "year": 2016,
+    "event": "Pedro Pablo Kuczynski narrowly defeats Keiko Fujimori to become president."
+  },
+  {
+    "year": 2018,
+    "event": "Kuczynski resigns over corruption allegations linked to the Odebrecht scandal."
+  },
+  {
+    "year": 2020,
+    "event": "Peru endures political turmoil with three presidents in one week amid the COVID-19 pandemic."
+  },
+  {
+    "year": 2022,
+    "event": "President Pedro Castillo is impeached and arrested after trying to dissolve Congress, and Dina Boluarte takes office."
+  }
 ]

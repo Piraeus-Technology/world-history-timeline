@@ -1,22 +1,170 @@
 [
-  { "year": -12000, "event": "Earliest human presence in present-day Bolivia" },
-  { "year": -3000, "event": "Early agriculture develops in the Andean highlands" },
-  { "year": -1500, "event": "Permanent settlements form around Lake Titicaca" },
-  { "year": 300, "event": "Tiwanaku civilization emerges near Lake Titicaca" },
-  { "year": 600, "event": "Tiwanaku reaches its political and cultural peak" },
-  { "year": 1000, "event": "Collapse of Tiwanaku leads to Aymara regional kingdoms" },
-  { "year": 1400, "event": "Inca Empire incorporates much of present-day Bolivia" },
-  { "year": 1532, "event": "Spanish conquest of the Andean region begins" },
-  { "year": 1545, "event": "Silver discovered at Potosí, transforming the region" },
-  { "year": 1600, "event": "Potosí becomes one of the world’s largest cities" },
-  { "year": 1781, "event": "Aymara uprising under Túpac Katari besieges La Paz" },
-  { "year": 1809, "event": "Early independence revolts erupt in Upper Peru" },
-  { "year": 1825, "event": "Bolivia declares independence" },
-  { "year": 1839, "event": "Modern Bolivian state is consolidated" },
-  { "year": 1879, "event": "War of the Pacific costs Bolivia its coastline" },
-  { "year": 1900, "event": "Tin mining replaces silver as economic backbone" },
-  { "year": 1952, "event": "National Revolution introduces land and mining reforms" },
-  { "year": 1967, "event": "Che Guevara is captured and executed in Bolivia" },
-  { "year": 1982, "event": "Return to civilian democratic rule" },
-  { "year": 2006, "event": "First Indigenous president takes office" }
+  {
+    "year": -10000,
+    "event": "Early hunter-gatherer peoples settle the Andean highlands and altiplano of present-day Bolivia."
+  },
+  {
+    "year": -1500,
+    "event": "Agricultural villages develop around Lake Titicaca, domesticating potatoes, quinoa, and llamas."
+  },
+  {
+    "year": -200,
+    "event": "The Tiwanaku culture emerges near Lake Titicaca, growing into a major Andean civilization."
+  },
+  {
+    "year": 500,
+    "event": "Tiwanaku reaches its height as a powerful state with monumental architecture and wide regional influence."
+  },
+  {
+    "year": 1000,
+    "event": "The Tiwanaku state collapses, likely due to prolonged drought, fragmenting into regional Aymara kingdoms."
+  },
+  {
+    "year": 1450,
+    "event": "The Inca Empire conquers the Aymara kingdoms and incorporates the region as the province of Qullasuyu."
+  },
+  {
+    "year": 1538,
+    "event": "Spanish conquistadors under the Pizarro brothers subdue the region, incorporating it into colonial Peru."
+  },
+  {
+    "year": 1545,
+    "event": "Silver is discovered at Cerro Rico in Potosi, soon making it one of the richest and largest cities in the world."
+  },
+  {
+    "year": 1559,
+    "event": "The Spanish establish the Audiencia of Charcas to govern the territory known as Upper Peru."
+  },
+  {
+    "year": 1574,
+    "event": "Viceroy Toledo systematizes the mita forced-labor draft, sending vast numbers of indigenous workers to the Potosi mines."
+  },
+  {
+    "year": 1776,
+    "event": "Upper Peru is transferred to the newly created Viceroyalty of the Rio de la Plata based in Buenos Aires."
+  },
+  {
+    "year": 1781,
+    "event": "Indigenous leaders Tupac Katari and Bartolina Sisa lead a major siege of La Paz against Spanish rule."
+  },
+  {
+    "year": 1809,
+    "event": "Early independence uprisings erupt in Chuquisaca (Sucre) and La Paz, among the first in Spanish America."
+  },
+  {
+    "year": 1825,
+    "event": "Bolivia declares independence from Spain on August 6 and names itself after liberator Simon Bolivar."
+  },
+  {
+    "year": 1826,
+    "event": "Antonio Jose de Sucre becomes the first president and a constitution drafted by Bolivar is adopted."
+  },
+  {
+    "year": 1836,
+    "event": "President Andres de Santa Cruz forms the Peru-Bolivian Confederation, uniting the two nations."
+  },
+  {
+    "year": 1839,
+    "event": "The Peru-Bolivian Confederation collapses after defeat by Chile at the Battle of Yungay."
+  },
+  {
+    "year": 1879,
+    "event": "The War of the Pacific begins as Chile invades, pitting Bolivia and Peru against Chile over nitrate-rich coastal lands."
+  },
+  {
+    "year": 1884,
+    "event": "Bolivia signs a truce ceding its entire Pacific coastline to Chile, leaving the nation landlocked."
+  },
+  {
+    "year": 1899,
+    "event": "The Federal War ends with Liberal victory and the seat of government moving to La Paz, leaving Sucre the constitutional capital."
+  },
+  {
+    "year": 1900,
+    "event": "Tin mining surpasses silver to become the backbone of the Bolivian economy."
+  },
+  {
+    "year": 1903,
+    "event": "Bolivia cedes the rubber-rich Acre territory to Brazil under the Treaty of Petropolis."
+  },
+  {
+    "year": 1932,
+    "event": "The Chaco War with Paraguay begins over the disputed, oil-rumored Gran Chaco region."
+  },
+  {
+    "year": 1935,
+    "event": "The Chaco War ends in defeat, with Bolivia losing most of the disputed territory and suffering tens of thousands of deaths."
+  },
+  {
+    "year": 1945,
+    "event": "Bolivia becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1952,
+    "event": "The National Revolution brings the MNR to power, introducing universal suffrage, nationalized mines, and land reform."
+  },
+  {
+    "year": 1964,
+    "event": "A military coup ousts President Victor Paz Estenssoro, beginning years of military rule."
+  },
+  {
+    "year": 1967,
+    "event": "Revolutionary Che Guevara is captured and executed by the Bolivian army in the village of La Higuera."
+  },
+  {
+    "year": 1971,
+    "event": "Colonel Hugo Banzer seizes power and installs a repressive right-wing dictatorship."
+  },
+  {
+    "year": 1980,
+    "event": "General Luis Garcia Meza launches the violent, cocaine-financed 'Cocaine Coup'."
+  },
+  {
+    "year": 1982,
+    "event": "Civilian democratic rule is restored as Hernan Siles Zuazo assumes the presidency."
+  },
+  {
+    "year": 1985,
+    "event": "President Paz Estenssoro enacts shock economic reforms to halt hyperinflation that had soared to over 20,000 percent."
+  },
+  {
+    "year": 2000,
+    "event": "Mass protests in Cochabamba over water privatization, the 'Water War', force the government to reverse the deal."
+  },
+  {
+    "year": 2003,
+    "event": "The 'Gas War' protests over natural gas exports force President Gonzalo Sanchez de Lozada to resign and flee."
+  },
+  {
+    "year": 2005,
+    "event": "Evo Morales wins the presidency, becoming Bolivia's first indigenous head of state."
+  },
+  {
+    "year": 2006,
+    "event": "President Morales nationalizes the country's natural gas industry."
+  },
+  {
+    "year": 2009,
+    "event": "A new constitution refounds the country as the Plurinational State of Bolivia, expanding indigenous rights and autonomy."
+  },
+  {
+    "year": 2010,
+    "event": "Bolivia hosts the World People's Conference on Climate Change in Cochabamba."
+  },
+  {
+    "year": 2018,
+    "event": "The International Court of Justice rules that Chile is not obligated to negotiate Bolivian access to the Pacific Ocean."
+  },
+  {
+    "year": 2019,
+    "event": "Evo Morales resigns amid disputed election results and unrest, and Jeanine Anez assumes an interim presidency."
+  },
+  {
+    "year": 2020,
+    "event": "Luis Arce of the MAS party wins the presidential election, restoring the party to power."
+  },
+  {
+    "year": 2024,
+    "event": "A failed military takeover attempt unfolds in La Paz before being quickly suppressed."
+  }
 ]

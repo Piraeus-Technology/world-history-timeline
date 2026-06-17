@@ -1,19 +1,170 @@
 [
-  { "year": -12000, "event": "Earliest human presence in present-day Chile" },
-  { "year": -3000, "event": "Early coastal and valley communities develop fishing and agriculture" },
-  { "year": 500, "event": "Complex Indigenous societies flourish in northern and central Chile" },
-  { "year": 1000, "event": "Mapuche culture consolidates in south-central Chile" },
-  { "year": 1400, "event": "Inca Empire expands into northern Chile" },
-  { "year": 1536, "event": "Spanish expeditions reach central Chile" },
-  { "year": 1541, "event": "Santiago is founded by the Spanish" },
-  { "year": 1600, "event": "Prolonged Mapuche resistance limits Spanish control in the south" },
-  { "year": 1778, "event": "Bourbon reforms expand trade and strengthen colonial administration" },
-  { "year": 1810, "event": "First national junta forms, beginning the independence process" },
-  { "year": 1818, "event": "Chile formally declares independence" },
-  { "year": 1833, "event": "Constitution establishes a strong centralized republic" },
-  { "year": 1879, "event": "War of the Pacific expands Chilean territory in the north" },
-  { "year": 1883, "event": "Chile secures nitrate-rich regions after the war" },
-  { "year": 1920, "event": "Mass politics and social reforms reshape the political system" },
-  { "year": 1973, "event": "Military coup overthrows the civilian government" },
-  { "year": 1990, "event": "Return to democratic civilian rule" }
+  {
+    "year": -16000,
+    "event": "Early humans inhabit the Monte Verde site in southern Chile, one of the oldest known human settlements in the Americas."
+  },
+  {
+    "year": -5000,
+    "event": "The Chinchorro culture of the northern coast begins practicing the world's earliest known artificial mummification of their dead."
+  },
+  {
+    "year": -1500,
+    "event": "Indigenous agricultural and herding communities develop in the northern valleys and Andean highlands."
+  },
+  {
+    "year": 500,
+    "event": "The Mapuche people establish themselves across south-central Chile, developing a resilient, decentralized society."
+  },
+  {
+    "year": 1450,
+    "event": "The Inca Empire expands southward, conquering northern Chile as far as the Maule River."
+  },
+  {
+    "year": 1520,
+    "event": "Ferdinand Magellan sails through the strait at the continent's southern tip, becoming the first European to reach present-day Chilean waters."
+  },
+  {
+    "year": 1535,
+    "event": "Diego de Almagro leads the first Spanish expedition into Chile from Peru but finds little gold and retreats."
+  },
+  {
+    "year": 1541,
+    "event": "Pedro de Valdivia founds Santiago, establishing permanent Spanish colonization of Chile."
+  },
+  {
+    "year": 1553,
+    "event": "Mapuche forces led by Lautaro defeat and kill Pedro de Valdivia, igniting the prolonged Arauco War."
+  },
+  {
+    "year": 1598,
+    "event": "A Mapuche uprising destroys Spanish settlements south of the Biobio River, halting colonial expansion for centuries."
+  },
+  {
+    "year": 1641,
+    "event": "The Treaty of Quillin recognizes Mapuche autonomy south of the Biobio River."
+  },
+  {
+    "year": 1810,
+    "event": "Chile establishes its first national governing junta on September 18, marking the start of the independence process."
+  },
+  {
+    "year": 1814,
+    "event": "Royalist forces defeat the patriots at the Battle of Rancagua, reimposing Spanish rule during the Reconquista."
+  },
+  {
+    "year": 1817,
+    "event": "Jose de San Martin and Bernardo O'Higgins win the Battle of Chacabuco after crossing the Andes, liberating Santiago."
+  },
+  {
+    "year": 1818,
+    "event": "Chile formally declares independence and secures it with victory at the Battle of Maipu."
+  },
+  {
+    "year": 1833,
+    "event": "A conservative constitution centralizes power and establishes a strong presidency, stabilizing the new republic."
+  },
+  {
+    "year": 1843,
+    "event": "Chile establishes a settlement in the Strait of Magellan, asserting sovereignty over the far south."
+  },
+  {
+    "year": 1879,
+    "event": "Chile enters the War of the Pacific against Bolivia and Peru over nitrate-rich territories."
+  },
+  {
+    "year": 1883,
+    "event": "Victory in the War of the Pacific gives Chile vast northern lands rich in nitrates and copper."
+  },
+  {
+    "year": 1888,
+    "event": "Chile annexes Easter Island (Rapa Nui) in the South Pacific."
+  },
+  {
+    "year": 1891,
+    "event": "A civil war between President Balmaceda and Congress ends with congressional victory and a new parliamentary era."
+  },
+  {
+    "year": 1907,
+    "event": "Troops massacre striking nitrate workers and their families at the Santa Maria School in Iquique."
+  },
+  {
+    "year": 1925,
+    "event": "A new constitution separates church and state and strengthens presidential power amid political turmoil."
+  },
+  {
+    "year": 1945,
+    "event": "Chile becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1945,
+    "event": "Poet Gabriela Mistral becomes the first Latin American to win the Nobel Prize in Literature."
+  },
+  {
+    "year": 1949,
+    "event": "Women gain the right to vote in national elections."
+  },
+  {
+    "year": 1960,
+    "event": "The most powerful earthquake ever recorded, magnitude 9.5, strikes Valdivia and triggers a Pacific-wide tsunami."
+  },
+  {
+    "year": 1970,
+    "event": "Salvador Allende is elected as one of the world's first democratically chosen Marxist presidents."
+  },
+  {
+    "year": 1971,
+    "event": "Poet Pablo Neruda wins the Nobel Prize in Literature."
+  },
+  {
+    "year": 1973,
+    "event": "General Augusto Pinochet leads a military coup that overthrows Allende and installs a dictatorship."
+  },
+  {
+    "year": 1980,
+    "event": "A new constitution drafted under the dictatorship is approved in a controversial plebiscite."
+  },
+  {
+    "year": 1988,
+    "event": "Voters reject extending Pinochet's rule in a national plebiscite, opening the path to democracy."
+  },
+  {
+    "year": 1990,
+    "event": "Patricio Aylwin becomes the first democratically elected president after the dictatorship ends."
+  },
+  {
+    "year": 1991,
+    "event": "The Rettig Commission documents thousands of deaths and disappearances under the military regime."
+  },
+  {
+    "year": 1998,
+    "event": "Pinochet is arrested in London on human rights charges, sparking a landmark international justice case."
+  },
+  {
+    "year": 2006,
+    "event": "Michelle Bachelet is inaugurated as Chile's first female president."
+  },
+  {
+    "year": 2010,
+    "event": "A magnitude 8.8 earthquake and tsunami devastate central Chile, killing hundreds."
+  },
+  {
+    "year": 2010,
+    "event": "Thirty-three miners trapped at the San Jose mine are rescued alive after 69 days in a globally watched operation."
+  },
+  {
+    "year": 2019,
+    "event": "Mass protests over inequality and living costs erupt nationwide, prompting calls to rewrite the constitution."
+  },
+  {
+    "year": 2021,
+    "event": "Gabriel Boric, a former student leader, wins the presidential election to become Chile's youngest president."
+  },
+  {
+    "year": 2022,
+    "event": "Voters reject a proposed progressive constitution in a national referendum."
+  },
+  {
+    "year": 2023,
+    "event": "A second proposed constitution, drafted by a conservative-led council, is also rejected, leaving the 1980 charter in force."
+  }
 ]

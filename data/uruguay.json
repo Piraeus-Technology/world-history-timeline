@@ -1,16 +1,198 @@
 [
-  { "year": -10000, "event": "Earliest human presence in present-day Uruguay" },
-  { "year": -2000, "event": "Charrúa and other Indigenous groups inhabit the region" },
-  { "year": 1516, "event": "Spanish explorers reach the Río de la Plata" },
-  { "year": 1680, "event": "Portuguese found Colonia del Sacramento" },
-  { "year": 1726, "event": "Montevideo is founded by Spain" },
-  { "year": 1776, "event": "Region becomes part of the Viceroyalty of the Río de la Plata" },
-  { "year": 1811, "event": "Independence movement begins under José Artigas" },
-  { "year": 1825, "event": "Rebellion leads to separation from Brazil" },
-  { "year": 1828, "event": "Uruguay becomes an independent state" },
-  { "year": 1830, "event": "First national constitution is adopted" },
-  { "year": 1903, "event": "Progressive reforms modernize the state and society" },
-  { "year": 1933, "event": "Authoritarian rule interrupts democratic governance" },
-  { "year": 1973, "event": "Military dictatorship begins" },
-  { "year": 1985, "event": "Return to democratic civilian rule" }
+  {
+    "year": -10000,
+    "event": "Paleo-Indian hunter-gatherers begin settling the region, leaving stone tools and the earliest evidence of human presence in present-day Uruguay."
+  },
+  {
+    "year": -5000,
+    "event": "Early peoples build the cerritos de indios, large earthen mounds in the eastern wetlands used for habitation, burial, and ceremony."
+  },
+  {
+    "year": -1000,
+    "event": "The Charrúa, Chaná, Guaraní, and other indigenous groups inhabit the territory, living as hunter-gatherers and fishers along rivers and the coast."
+  },
+  {
+    "year": 1516,
+    "event": "Spanish explorer Juan Díaz de Solís lands near the Río de la Plata and is killed by indigenous people, marking the first recorded European contact."
+  },
+  {
+    "year": 1520,
+    "event": "Ferdinand Magellan's expedition explores the Río de la Plata estuary while searching for a passage to the Pacific."
+  },
+  {
+    "year": 1603,
+    "event": "Governor Hernando Arias de Saavedra (Hernandarias) introduces cattle and horses, which multiply on the grasslands and shape the future ranching economy."
+  },
+  {
+    "year": 1624,
+    "event": "Spanish missionaries establish a settlement at Santo Domingo Soriano, among the earliest European foundations in Uruguay."
+  },
+  {
+    "year": 1680,
+    "event": "Portugal founds Colonia del Sacramento on the Río de la Plata, igniting a long Spanish-Portuguese contest over the territory."
+  },
+  {
+    "year": 1726,
+    "event": "Bruno Mauricio de Zabala founds Montevideo as a fortified Spanish city to counter Portuguese expansion."
+  },
+  {
+    "year": 1776,
+    "event": "The region becomes part of the newly created Viceroyalty of the Río de la Plata, with administration centered in Buenos Aires."
+  },
+  {
+    "year": 1806,
+    "event": "British forces invade the Río de la Plata during the British invasions, capturing Montevideo in early 1807 before withdrawing."
+  },
+  {
+    "year": 1811,
+    "event": "José Gervasio Artigas leads the revolt against Spanish rule, winning the Battle of Las Piedras and emerging as the father of Uruguayan independence."
+  },
+  {
+    "year": 1813,
+    "event": "Artigas issues the Instructions of the Year XIII, calling for federalism and autonomy within a confederation of the Río de la Plata provinces."
+  },
+  {
+    "year": 1815,
+    "event": "Artigas establishes a federal league and enacts a pioneering agrarian reform redistributing land to the poor and indigenous people."
+  },
+  {
+    "year": 1816,
+    "event": "Portuguese-Brazilian forces invade the Banda Oriental, beginning an occupation that would eventually defeat Artigas."
+  },
+  {
+    "year": 1820,
+    "event": "Artigas is defeated and goes into permanent exile in Paraguay as Portuguese forces consolidate control."
+  },
+  {
+    "year": 1821,
+    "event": "The territory is annexed to the Portuguese (later Brazilian) empire as the Cisplatine Province."
+  },
+  {
+    "year": 1825,
+    "event": "The Thirty-Three Orientals led by Juan Antonio Lavalleja launch a liberation campaign and declare independence from Brazil."
+  },
+  {
+    "year": 1828,
+    "event": "The Treaty of Montevideo, brokered by Britain, ends the Cisplatine War and creates Uruguay as an independent buffer state."
+  },
+  {
+    "year": 1830,
+    "event": "Uruguay adopts its first constitution, formally establishing the República Oriental del Uruguay."
+  },
+  {
+    "year": 1831,
+    "event": "Government forces massacre much of the remaining Charrúa population at Salsipuedes, devastating the indigenous people."
+  },
+  {
+    "year": 1839,
+    "event": "The Guerra Grande begins, a prolonged civil war between the Colorado and Blanco parties entangled with regional powers."
+  },
+  {
+    "year": 1843,
+    "event": "The Great Siege of Montevideo begins, lasting nearly nine years amid the Guerra Grande."
+  },
+  {
+    "year": 1851,
+    "event": "The Guerra Grande ends, leaving the Colorado and Blanco rivalry entrenched in Uruguayan politics."
+  },
+  {
+    "year": 1865,
+    "event": "Uruguay joins Argentina and Brazil in the Triple Alliance against Paraguay in the devastating War of the Triple Alliance."
+  },
+  {
+    "year": 1876,
+    "event": "Colonel Lorenzo Latorre seizes power, beginning a period of militarist rule that modernizes administration and the economy."
+  },
+  {
+    "year": 1903,
+    "event": "José Batlle y Ordóñez becomes president and launches sweeping social, political, and economic reforms shaping modern Uruguay."
+  },
+  {
+    "year": 1904,
+    "event": "Government forces defeat the Blanco revolt led by Aparicio Saravia, ending major armed conflict between the traditional parties."
+  },
+  {
+    "year": 1917,
+    "event": "A new constitution institutionalizes Batlle's reforms, separating church and state and creating a plural executive council."
+  },
+  {
+    "year": 1930,
+    "event": "Uruguay hosts and wins the first FIFA World Cup, defeating Argentina in the final in Montevideo."
+  },
+  {
+    "year": 1933,
+    "event": "President Gabriel Terra carries out a self-coup, dissolving parliament and establishing an authoritarian regime."
+  },
+  {
+    "year": 1942,
+    "event": "Constitutional democracy is restored after the Terra-era regime, and Uruguay later aligns with the Allies in World War II."
+  },
+  {
+    "year": 1945,
+    "event": "Uruguay becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1950,
+    "event": "Uruguay wins its second FIFA World Cup in the 'Maracanazo,' stunning host Brazil in Rio de Janeiro's final match."
+  },
+  {
+    "year": 1951,
+    "event": "A constitutional reform replaces the presidency with a nine-member collegiate executive council."
+  },
+  {
+    "year": 1958,
+    "event": "The Blanco (National) Party wins national elections, ending more than nine decades of Colorado dominance."
+  },
+  {
+    "year": 1967,
+    "event": "A new constitution restores the single presidency, and the urban guerrilla movement Tupamaros intensifies its activities."
+  },
+  {
+    "year": 1973,
+    "event": "President Juan María Bordaberry, backed by the military, dissolves parliament and ushers in a civic-military dictatorship."
+  },
+  {
+    "year": 1976,
+    "event": "The military removes Bordaberry and rules directly, presiding over widespread repression, torture, and disappearances."
+  },
+  {
+    "year": 1980,
+    "event": "Voters reject a military-drafted constitution in a plebiscite, signaling popular resistance to continued authoritarian rule."
+  },
+  {
+    "year": 1985,
+    "event": "Democracy is restored as Julio María Sanguinetti takes office as the first elected president after the dictatorship."
+  },
+  {
+    "year": 1989,
+    "event": "A referendum upholds the amnesty law shielding military officers from prosecution for human rights abuses."
+  },
+  {
+    "year": 1991,
+    "event": "Uruguay co-founds Mercosur, the South American trade bloc, signing the Treaty of Asunción with Argentina, Brazil, and Paraguay."
+  },
+  {
+    "year": 2002,
+    "event": "A severe banking and economic crisis, spilling over from Argentina, triggers a deep recession and financial turmoil."
+  },
+  {
+    "year": 2004,
+    "event": "The leftist Frente Amplio coalition wins the presidency under Tabaré Vázquez, breaking the two-party monopoly on power."
+  },
+  {
+    "year": 2010,
+    "event": "Former Tupamaro guerrilla José 'Pepe' Mujica becomes president, gaining global renown for his austere, humble lifestyle."
+  },
+  {
+    "year": 2013,
+    "event": "Uruguay legalizes same-sex marriage and becomes the first country in the world to fully legalize and regulate the cannabis market."
+  },
+  {
+    "year": 2020,
+    "event": "Luis Lacalle Pou of the National Party takes office, returning the center-right to power after fifteen years of Frente Amplio rule."
+  },
+  {
+    "year": 2025,
+    "event": "Frente Amplio's Yamandú Orsi assumes the presidency after winning the 2024 runoff, restoring the left to power."
+  }
 ]

@@ -1,16 +1,186 @@
 [
-  { "year": -7000, "event": "Earliest human presence in present-day Suriname" },
-  { "year": -2000, "event": "Indigenous Arawak and Carib societies establish river settlements" },
-  { "year": 1000, "event": "Indigenous trade networks link the Guianas and Amazon region" },
-  { "year": 1499, "event": "European explorers reach the Suriname coast" },
-  { "year": 1650, "event": "English establish early plantations along coastal rivers" },
-  { "year": 1667, "event": "Dutch gain control of Suriname from the English" },
-  { "year": 1700, "event": "Plantation economy expands using enslaved African labor" },
-  { "year": 1760, "event": "Treaties recognize Maroon communities formed by escaped slaves" },
-  { "year": 1863, "event": "Slavery is abolished under Dutch rule" },
-  { "year": 1873, "event": "Indentured labor immigration begins from Asia" },
-  { "year": 1954, "event": "Suriname gains internal self-government within the Dutch Kingdom" },
-  { "year": 1975, "event": "Suriname becomes an independent republic" },
-  { "year": 1980, "event": "Military coup brings prolonged political instability" },
-  { "year": 1991, "event": "Return to democratic civilian rule" }
+  {
+    "year": -3000,
+    "event": "Indigenous Amerindian peoples, ancestors of groups such as the Arawak (Lokono) and later the Carib (Kalina), inhabited the region's coastal plains and interior rainforests."
+  },
+  {
+    "year": 1499,
+    "event": "Spanish explorers, possibly including Alonso de Ojeda and Amerigo Vespucci, sailed along the Guiana coast, marking early European contact with the region."
+  },
+  {
+    "year": 1593,
+    "event": "Spanish explorers formally surveyed the coast, and Spain claimed the area though it established no permanent settlement."
+  },
+  {
+    "year": 1613,
+    "event": "Dutch traders established early trading posts along the rivers of the Guiana coast to exchange goods with indigenous peoples."
+  },
+  {
+    "year": 1650,
+    "event": "English colonists led by Lord Francis Willoughby founded the first lasting European settlement and sugar plantations along the Suriname River."
+  },
+  {
+    "year": 1667,
+    "event": "Dutch forces captured the colony, and under the Treaty of Breda the Netherlands kept Suriname while England retained New Amsterdam (New York)."
+  },
+  {
+    "year": 1683,
+    "event": "The Society of Suriname was formed by the Dutch West India Company, the city of Amsterdam, and the Van Aerssen van Sommelsdijck family to govern the plantation colony."
+  },
+  {
+    "year": 1685,
+    "event": "Governor Cornelis van Aerssen van Sommelsdijck expanded sugar cultivation and the importation of enslaved Africans to work the plantations."
+  },
+  {
+    "year": 1712,
+    "event": "French admiral Jacques Cassard raided the colony, forcing planters to pay a heavy ransom in slaves, sugar, and goods."
+  },
+  {
+    "year": 1730,
+    "event": "Communities of escaped enslaved Africans, known as Maroons, established autonomous settlements in the interior and resisted colonial forces."
+  },
+  {
+    "year": 1760,
+    "event": "The Dutch signed a peace treaty with the Ndyuka (Aukan) Maroons, recognizing their freedom and territory in the interior."
+  },
+  {
+    "year": 1762,
+    "event": "A peace treaty was concluded with the Saramaka Maroons, granting them autonomy in exchange for ending raids on plantations."
+  },
+  {
+    "year": 1772,
+    "event": "The Boni Maroon Wars intensified as colonial troops, aided by mercenaries, fought rebel leader Boni in the forests of eastern Suriname."
+  },
+  {
+    "year": 1799,
+    "event": "British forces occupied Suriname during the Napoleonic Wars while the Netherlands was under French influence."
+  },
+  {
+    "year": 1815,
+    "event": "Suriname was returned to Dutch control following the Congress of Vienna and the defeat of Napoleon."
+  },
+  {
+    "year": 1863,
+    "event": "The Netherlands abolished slavery in Suriname, though freed people were required to continue working under state supervision for ten years."
+  },
+  {
+    "year": 1873,
+    "event": "Indentured laborers from British India began arriving to work the plantations after the end of mandatory post-emancipation labor."
+  },
+  {
+    "year": 1890,
+    "event": "Indentured workers from the Dutch East Indies, particularly Java, began arriving, adding to Suriname's growing ethnic diversity."
+  },
+  {
+    "year": 1916,
+    "event": "Alcoa's Suriname Bauxite Company began large-scale bauxite mining, launching the industry that would dominate the economy."
+  },
+  {
+    "year": 1942,
+    "event": "United States troops were stationed in Suriname during World War II to protect the bauxite mines vital to Allied aluminum production."
+  },
+  {
+    "year": 1948,
+    "event": "Universal suffrage was introduced and the colony's name was officially fixed as Suriname, expanding political participation."
+  },
+  {
+    "year": 1954,
+    "event": "Suriname gained autonomy in domestic affairs as a constituent country within the Kingdom of the Netherlands under the Charter for the Kingdom."
+  },
+  {
+    "year": 1958,
+    "event": "Johan Pengel rose to prominence as a leader of the predominantly Creole National Party, shaping Surinamese politics toward self-rule."
+  },
+  {
+    "year": 1973,
+    "event": "Henck Arron's coalition government took office on a platform committing Suriname to full independence from the Netherlands."
+  },
+  {
+    "year": 1975,
+    "event": "Suriname achieved independence from the Netherlands on November 25, with Johan Ferrier as its first president, and soon joined the United Nations."
+  },
+  {
+    "year": 1980,
+    "event": "A group of sergeants led by Desi Bouterse seized power in a military coup, overthrowing the civilian government."
+  },
+  {
+    "year": 1982,
+    "event": "Fifteen prominent opponents of the regime were executed at Fort Zeelandia in the killings known as the December murders."
+  },
+  {
+    "year": 1986,
+    "event": "The Surinamese Interior War broke out as Ronnie Brunswijk's Jungle Commando, drawn largely from Maroon communities, fought the military government."
+  },
+  {
+    "year": 1987,
+    "event": "A new democratic constitution was adopted by referendum, paving the way for a return to elected civilian government."
+  },
+  {
+    "year": 1988,
+    "event": "Ramsewak Shankar was inaugurated as president following multiparty elections that ended direct military rule."
+  },
+  {
+    "year": 1990,
+    "event": "The military, again led by Bouterse, ousted President Shankar in the bloodless 'Telephone Coup.'"
+  },
+  {
+    "year": 1991,
+    "event": "Ronald Venetiaan became president after new elections restored civilian democratic governance."
+  },
+  {
+    "year": 1992,
+    "event": "A peace accord ended the Interior War between the government, Maroon rebels, and indigenous fighters."
+  },
+  {
+    "year": 1996,
+    "event": "Jules Wijdenbosch, backed by Bouterse's National Democratic Party, won the presidency amid continuing political turbulence."
+  },
+  {
+    "year": 1999,
+    "event": "A Dutch court convicted Desi Bouterse in absentia on drug trafficking charges, straining relations with the Netherlands."
+  },
+  {
+    "year": 2000,
+    "event": "Ronald Venetiaan returned to the presidency, focusing on economic stabilization and currency reform."
+  },
+  {
+    "year": 2004,
+    "event": "Suriname introduced the Surinamese dollar, replacing the heavily devalued guilder to combat inflation."
+  },
+  {
+    "year": 2007,
+    "event": "An international tribunal ruled on the maritime boundary dispute with Guyana, dividing the offshore territory holding oil and gas potential."
+  },
+  {
+    "year": 2010,
+    "event": "Desi Bouterse was elected president by the National Assembly, returning the former coup leader to power through democratic means."
+  },
+  {
+    "year": 2015,
+    "event": "Bouterse's National Democratic Party won a parliamentary majority, and he was re-elected president for a second term."
+  },
+  {
+    "year": 2019,
+    "event": "A Surinamese military court convicted Bouterse and sentenced him to 20 years in prison for the 1982 December murders."
+  },
+  {
+    "year": 2020,
+    "event": "Chan Santokhi of the Progressive Reform Party was elected president, defeating Bouterse amid economic crisis and corruption concerns."
+  },
+  {
+    "year": 2020,
+    "event": "Major offshore oil discoveries in the Guyana-Suriname Basin raised expectations of a transformative oil boom for the economy."
+  },
+  {
+    "year": 2023,
+    "event": "Suriname faced severe economic hardship and public protests as IMF-backed austerity measures and inflation strained the population."
+  },
+  {
+    "year": 2024,
+    "event": "Desi Bouterse, having gone into hiding after his December murders conviction became final, died while still a fugitive."
+  },
+  {
+    "year": 2025,
+    "event": "TotalEnergies advanced the Block 58 GranMorgu offshore project toward production, positioning Suriname to become a significant oil producer."
+  }
 ]
