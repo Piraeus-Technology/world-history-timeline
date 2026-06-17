@@ -65,8 +65,8 @@ h1 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 22px;
-  height: 22px;
+  width: 32px;
+  height: 32px;
   border: none;
   border-radius: 50%;
   background: rgba(20, 52, 107, 0.1);
@@ -107,7 +107,8 @@ h1 {
   font-size: 0.9rem;
   font-weight: 500;
   cursor: pointer;
-  padding: 6px 4px;
+  min-height: 44px;
+  padding: 10px 8px;
   white-space: nowrap;
 }
 .text-btn:hover { text-decoration: underline; }
@@ -147,20 +148,18 @@ h1 {
 }
 .country-option:hover { background: #f7f9fc; }
 .country-option.selected { background: #eef4ff; color: #14346b; font-weight: 500; }
+.country-option:focus-within {
+  outline: 2px solid rgba(0, 123, 255, 0.35);
+  outline-offset: -2px;
+}
 
-.country-option .check {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+.opt-check {
   width: 20px;
   height: 20px;
   flex: 0 0 20px;
-  border: 1.5px solid #c4c4c4;
-  border-radius: 5px;
-  color: #fff;
-  font-size: 0.8rem;
+  margin: 0;
+  accent-color: #007bff;
 }
-.country-option.selected .check { background: #007bff; border-color: #007bff; }
 
 .list-empty {
   padding: 16px 14px;
@@ -170,8 +169,7 @@ h1 {
 
 /* === Empty state with presets === */
 #empty-state {
-  max-width: 640px;
-  margin-bottom: 24px;
+  margin: 16px 0 0;
 }
 .empty-title { font-size: 1.1rem; font-weight: 600; color: #1a1a1a; margin: 0 0 4px; }
 .empty-sub { color: #666; margin: 0 0 12px; }
@@ -181,7 +179,8 @@ h1 {
   border: 1px solid #d3e2ff;
   color: #14346b;
   border-radius: 999px;
-  padding: 8px 14px;
+  min-height: 44px;
+  padding: 10px 14px;
   font-size: 0.9rem;
   font-weight: 500;
   cursor: pointer;
@@ -290,6 +289,15 @@ th, td {
 /* Per-cell country label is only used by the mobile card layout */
 .cell-country { display: none; }
 
+.cell-events,
+.cell-event {
+  display: block;
+}
+
+.cell-event + .cell-event {
+  margin-top: 6px;
+}
+
 thead {
   background: #f1f3f5;
   position: sticky;
@@ -321,7 +329,7 @@ th img { height: 16px; margin-right: 6px; vertical-align: middle; }
 
   #country-selector { padding: 16px; }
 
-  #country-list { max-height: 50vh; }
+  #country-list { max-height: min(40vh, 300px); }
 
   .country-option { min-height: 48px; }
 

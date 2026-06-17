@@ -23,13 +23,13 @@
       <button id="clear-btn" type="button" class="text-btn" hidden>Clear all</button>
     </div>
 
-    <div id="country-list" role="listbox" aria-multiselectable="true" aria-label="Countries"></div>
-  </div>
+    <div id="empty-state">
+      <p class="empty-title">Pick countries to compare their histories side by side.</p>
+      <p class="empty-sub">Search above, or start with a preset:</p>
+      <div id="preset-chips" class="chips"></div>
+    </div>
 
-  <div id="empty-state">
-    <p class="empty-title">Pick countries to compare their histories side by side.</p>
-    <p class="empty-sub">Search above, or start with a preset:</p>
-    <div id="preset-chips" class="chips"></div>
+    <div id="country-list"></div>
   </div>
 
   <div id="timeline-controls" hidden>
@@ -41,8 +41,8 @@
       aria-label="Filter events by keyword"
     />
     <div class="year-range">
-      <label>From <input id="filter-from" type="number" inputmode="numeric" placeholder="e.g. -3000" aria-label="From year (negative for BC)" /></label>
-      <label>To <input id="filter-to" type="number" inputmode="numeric" placeholder="e.g. 2025" aria-label="To year" /></label>
+      <label>From <input id="filter-from" type="number" placeholder="e.g. -3000 (BC)" aria-label="From year (negative for BC)" /></label>
+      <label>To <input id="filter-to" type="number" placeholder="e.g. 2025 or -500" aria-label="To year (negative for BC)" /></label>
       <span class="year-hint">Negative = BC</span>
     </div>
     <div class="controls-footer">
@@ -58,7 +58,7 @@
     </table>
   </div>
 
-  <p id="no-results" hidden>No events match these filters.</p>
+  <p id="no-results" hidden>No events to show.</p>
 
   <script src="script.js"></script>
 </body>

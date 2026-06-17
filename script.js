@@ -1,8 +1,10 @@
 // ===== State =====
 const COUNTRIES = {};            // key -> { name, code, continent, uiGroup }
-const dataCache = {};            // key -> events array (lazy-loaded, cached)
+const dataCache = {};            // key -> events array or in-flight Promise
+const dataLoadFailures = new Set();
 let selectedKeys = [];           // ordered selection
 let timelineShown = false;
+let renderSeq = 0;
 const filters = { keyword: '', from: null, to: null };
 
 const GROUP_ORDER = [
@@ -47,14 +49,26 @@ document.addEventListener('DOMContentLoaded', async () => {
   buildPresets();
 
   // Selector interactions
-  els.search.addEventListener('input', () => buildCountryList(els.search.value));
-  els.list.addEventListener('click', onListClick);
+  els.search.addEventListener('input', debounce(() => buildCountryList(els.search.value), 120));
+  els.list.addEventListener('change', onListChange);
   els.clearBtn.addEventListener('click', clearSelection);
 
   // Filter interactions (live)
-  els.filterKeyword.addEventListener('input', debounce(applyFilters, 150));
-  els.filterFrom.addEventListener('input', debounce(applyFilters, 200));
-  els.filterTo.addEventListener('input', debounce(applyFilters, 200));
+  const applyKeywordFilter = debounce(applyFilters, 150);
+  const applyFromFilter = debounce(applyFilters, 200);
+  const applyToFilter = debounce(applyFilters, 200);
+  els.filterKeyword.addEventListener('input', () => {
+    renderSeq++;
+    applyKeywordFilter();
+  });
+  els.filterFrom.addEventListener('input', () => {
+    renderSeq++;
+    applyFromFilter();
+  });
+  els.filterTo.addEventListener('input', () => {
+    renderSeq++;
+    applyToFilter();
+  });
   els.resetFilters.addEventListener('click', resetFilters);
 
   renderChips();
@@ -116,16 +130,14 @@ function buildCountryList(filterText = '') {
 
     matches.forEach(({ key, name }) => {
       const isSel = selectedKeys.includes(key);
-      const row = document.createElement('div');
+      const row = document.createElement('label');
       row.className = 'country-option' + (isSel ? ' selected' : '');
-      row.dataset.key = key;
-      row.setAttribute('role', 'option');
-      row.setAttribute('aria-selected', String(isSel));
 
-      const check = document.createElement('span');
-      check.className = 'check';
-      check.setAttribute('aria-hidden', 'true');
-      check.textContent = isSel ? '✓' : '';
+      const check = document.createElement('input');
+      check.type = 'checkbox';
+      check.className = 'opt-check';
+      check.dataset.key = key;
+      check.checked = isSel;
 
       const label = document.createElement('span');
       label.className = 'country-name';
@@ -146,27 +158,36 @@ function buildCountryList(filterText = '') {
   }
 }
 
-function onListClick(e) {
-  const row = e.target.closest('.country-option');
-  if (!row) return;
-  toggleCountry(row.dataset.key);
+function onListChange(e) {
+  if (!e.target.classList.contains('opt-check')) return;
+  setSelected(e.target.dataset.key, e.target.checked);
 }
 
-function toggleCountry(key) {
+function setSelected(key, checked) {
+  if (!key) return;
   const i = selectedKeys.indexOf(key);
-  if (i === -1) selectedKeys.push(key);
-  else selectedKeys.splice(i, 1);
+  let changed = false;
 
-  // Update only the affected row, keeping list scroll position.
-  const row = els.list.querySelector(`.country-option[data-key="${key}"]`);
-  if (row) {
-    const isSel = selectedKeys.includes(key);
-    row.classList.toggle('selected', isSel);
-    row.setAttribute('aria-selected', String(isSel));
-    row.querySelector('.check').textContent = isSel ? '✓' : '';
+  if (checked && i === -1) {
+    selectedKeys.push(key);
+    changed = true;
+  } else if (!checked && i !== -1) {
+    selectedKeys.splice(i, 1);
+    changed = true;
   }
+
+  syncCountryOption(key, checked);
+  if (!changed) return;
   renderChips();
   scheduleRender();
+}
+
+function syncCountryOption(key, checked) {
+  const inputs = els.list.querySelectorAll('.opt-check');
+  const input = [...inputs].find(opt => opt.dataset.key === key);
+  if (!input) return;
+  input.checked = checked;
+  input.closest('.country-option').classList.toggle('selected', checked);
 }
 
 function clearSelection() {
@@ -188,6 +209,7 @@ function renderChips() {
     flag.src = `https://flagcdn.com/24x18/${c.code}.png`;
     flag.alt = '';
     flag.setAttribute('aria-hidden', 'true');
+    flag.loading = 'lazy';
 
     const name = document.createElement('span');
     name.textContent = c.name;
@@ -197,7 +219,7 @@ function renderChips() {
     remove.className = 'chip-remove';
     remove.setAttribute('aria-label', `Remove ${c.name}`);
     remove.textContent = '×';
-    remove.addEventListener('click', () => toggleCountry(key));
+    remove.addEventListener('click', () => setSelected(key, false));
 
     chip.append(flag, name, remove);
     els.chips.appendChild(chip);
@@ -229,46 +251,61 @@ function applyPreset(keys) {
 // ===== Rendering pipeline =====
 let renderTimer;
 function scheduleRender() {
+  renderSeq++;
   clearTimeout(renderTimer);
   renderTimer = setTimeout(renderTimeline, 120);
 }
 
 async function loadData(keys) {
   await Promise.all(keys.map(async key => {
-    if (dataCache[key]) return;
-    try {
-      const res = await fetch(`data/${key}.json`);
-      dataCache[key] = await res.json();
-    } catch {
-      dataCache[key] = [];
-      console.warn(`Missing or invalid file: data/${key}.json`);
+    if (!dataCache[key]) {
+      dataCache[key] = fetch(`data/${key}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+        .then(events => {
+          dataLoadFailures.delete(key);
+          return Array.isArray(events) ? events : [];
+        })
+        .catch(() => {
+          dataLoadFailures.add(key);
+          console.warn(`Missing or invalid file: data/${key}.json`);
+          return [];
+        });
     }
+    const events = await dataCache[key];
+    dataCache[key] = events;
   }));
 }
 
 async function renderTimeline() {
+  const seq = ++renderSeq;
   if (!selectedKeys.length) {
     timelineShown = false;
     updateView();
     return;
   }
   await loadData(selectedKeys);
+  if (seq !== renderSeq) return;
 
   timelineShown = true;
   updateView();
 
   const { from, to, keyword } = filters;
-  const inRange = y => (from === null || y >= from) && (to === null || y <= to);
+  const invertedRange = from !== null && to !== null && from > to;
+  const inRange = y => !invertedRange && (from === null || y >= from) && (to === null || y <= to);
   const matchesKw = txt => !keyword || txt.toLowerCase().includes(keyword);
 
-  // Build year -> { key: event } from filtered events.
+  // Build year -> { key: [events...] } from filtered events.
   const yearsMap = new Map();
   let eventCount = 0;
   selectedKeys.forEach(key => {
     (dataCache[key] || []).forEach(e => {
       if (!inRange(e.year) || !matchesKw(e.event)) return;
       const row = yearsMap.get(e.year) || {};
-      row[key] = e.event;
+      if (!row[key]) row[key] = [];
+      row[key].push(e.event);
       yearsMap.set(e.year, row);
       eventCount++;
     });
@@ -303,19 +340,24 @@ async function renderTimeline() {
 
     selectedKeys.forEach(key => {
       const td = document.createElement('td');
-      const event = yearsMap.get(year)[key];
-      if (event) {
+      const events = yearsMap.get(year)[key] || [];
+      if (events.length) {
         const c = COUNTRIES[key];
         const label = document.createElement('span');
         label.className = 'cell-country';
         label.appendChild(flagImg(c.code));
         label.appendChild(document.createTextNode(c.name));
 
-        const text = document.createElement('span');
-        text.className = 'cell-event';
-        text.textContent = event;
+        const eventList = document.createElement('span');
+        eventList.className = 'cell-events';
+        events.forEach(event => {
+          const text = document.createElement('span');
+          text.className = 'cell-event';
+          text.textContent = event;
+          eventList.appendChild(text);
+        });
 
-        td.append(label, text);
+        td.append(label, eventList);
       } else {
         td.className = 'empty-cell';
         const dash = document.createElement('span');
@@ -332,9 +374,25 @@ async function renderTimeline() {
   els.resetFilters.hidden = !filtering;
   els.noResults.hidden = eventCount > 0;
   els.wrapper.hidden = eventCount === 0;
+  if (eventCount === 0) {
+    els.noResults.textContent = noResultsMessage({ invertedRange, filtering });
+  }
   els.filterSummary.textContent = eventCount
     ? `${eventCount} event${eventCount === 1 ? '' : 's'} · ${years.length} year${years.length === 1 ? '' : 's'} · ${selectedKeys.length} ${selectedKeys.length === 1 ? 'country' : 'countries'}`
     : '';
+}
+
+function noResultsMessage({ invertedRange, filtering }) {
+  if (invertedRange) return 'From year must be earlier than To year.';
+
+  const failed = selectedKeys.filter(key => dataLoadFailures.has(key));
+  if (failed.length) {
+    const names = failed.map(key => COUNTRIES[key]?.name || key).join(', ');
+    return `Could not load data for ${names}.`;
+  }
+
+  if (filtering) return 'No events match these filters.';
+  return 'No events available for the selected countries.';
 }
 
 function flagImg(code) {
@@ -342,6 +400,7 @@ function flagImg(code) {
   img.src = `https://flagcdn.com/24x18/${code}.png`;
   img.alt = '';
   img.setAttribute('aria-hidden', 'true');
+  img.loading = 'lazy';
   return img;
 }
 
@@ -354,9 +413,10 @@ function applyFilters() {
 }
 
 function parseYear(v) {
-  if (v === '' || v === null || v === undefined) return null;
-  const n = parseInt(v, 10);
-  return Number.isNaN(n) ? null : n;
+  if (v === null || v === undefined) return null;
+  const trimmed = String(v).trim();
+  if (!/^-?\d+$/.test(trimmed)) return null;
+  return Number(trimmed);
 }
 
 function resetFilters() {
