@@ -5,7 +5,7 @@ const dataLoadFailures = new Set();
 let selectedKeys = [];           // ordered selection
 let timelineShown = false;
 let renderSeq = 0;
-const filters = { keyword: '', from: null, to: null };
+const filters = { from: null, to: null };
 
 const GROUP_ORDER = [
   'Africa', 'Asia', 'Europe', 'North America',
@@ -33,7 +33,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     emptyState: document.getElementById('empty-state'),
     presetChips: document.getElementById('preset-chips'),
     controls: document.getElementById('timeline-controls'),
-    filterKeyword: document.getElementById('filter-keyword'),
     filterFrom: document.getElementById('filter-from'),
     filterTo: document.getElementById('filter-to'),
     filterSummary: document.getElementById('filter-summary'),
@@ -53,14 +52,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   els.list.addEventListener('change', onListChange);
   els.clearBtn.addEventListener('click', clearSelection);
 
-  // Filter interactions (live)
-  const applyKeywordFilter = debounce(applyFilters, 150);
+  // Year-range filter (live)
   const applyFromFilter = debounce(applyFilters, 200);
   const applyToFilter = debounce(applyFilters, 200);
-  els.filterKeyword.addEventListener('input', () => {
-    renderSeq++;
-    applyKeywordFilter();
-  });
   els.filterFrom.addEventListener('input', () => {
     renderSeq++;
     applyFromFilter();
@@ -292,17 +286,16 @@ async function renderTimeline() {
   timelineShown = true;
   updateView();
 
-  const { from, to, keyword } = filters;
+  const { from, to } = filters;
   const invertedRange = from !== null && to !== null && from > to;
   const inRange = y => !invertedRange && (from === null || y >= from) && (to === null || y <= to);
-  const matchesKw = txt => !keyword || txt.toLowerCase().includes(keyword);
 
   // Build year -> { key: [events...] } from filtered events.
   const yearsMap = new Map();
   let eventCount = 0;
   selectedKeys.forEach(key => {
     (dataCache[key] || []).forEach(e => {
-      if (!inRange(e.year) || !matchesKw(e.event)) return;
+      if (!inRange(e.year)) return;
       const row = yearsMap.get(e.year) || {};
       if (!row[key]) row[key] = [];
       row[key].push(e.event);
@@ -370,7 +363,7 @@ async function renderTimeline() {
   });
 
   // Summary + no-results state
-  const filtering = keyword || from !== null || to !== null;
+  const filtering = from !== null || to !== null;
   els.resetFilters.hidden = !filtering;
   els.noResults.hidden = eventCount > 0;
   els.wrapper.hidden = eventCount === 0;
@@ -406,7 +399,6 @@ function flagImg(code) {
 
 // ===== Filters =====
 function applyFilters() {
-  filters.keyword = els.filterKeyword.value.trim().toLowerCase();
   filters.from = parseYear(els.filterFrom.value);
   filters.to = parseYear(els.filterTo.value);
   renderTimeline();
@@ -420,10 +412,8 @@ function parseYear(v) {
 }
 
 function resetFilters() {
-  els.filterKeyword.value = '';
   els.filterFrom.value = '';
   els.filterTo.value = '';
-  filters.keyword = '';
   filters.from = null;
   filters.to = null;
   renderTimeline();
