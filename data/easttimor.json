@@ -1,10 +1,146 @@
 [
-  { "year": -2000, "event": "Austronesian and Papuan cultures settle the island" },
-  { "year": 1500, "event": "Timor emerges as a major sandalwood trading hub" },
-  { "year": 1702, "event": "Portugal establishes formal colonial administration" },
-  { "year": 1859, "event": "Portuguese and Dutch divide the island" },
-  { "year": 1942, "event": "Japanese occupation devastates local society" },
-  { "year": 1975, "event": "Indonesia invades following Portuguese withdrawal" },
-  { "year": 1999, "event": "UN referendum favors independence after violence" },
-  { "year": 2002, "event": "East Timor becomes an independent state" }
+  {
+    "year": -42000,
+    "event": "Early modern humans, ancestors of later populations, reach the island of Timor as part of the broader migration through the islands of Wallacea toward Australia and New Guinea."
+  },
+  {
+    "year": -40000,
+    "event": "Archaeological sites such as Asitau Kuru (Jerimalai) cave show occupation, with evidence of sophisticated deep-sea fishing for tuna and the world's earliest known fish hooks."
+  },
+  {
+    "year": -35000,
+    "event": "Pleistocene foragers in eastern Timor exploit marine and terrestrial resources, leaving shell middens and stone tools documenting continuous coastal habitation."
+  },
+  {
+    "year": -3000,
+    "event": "Austronesian-speaking seafarers expand into Timor, introducing new languages, pottery, domesticated animals, and agricultural practices alongside the existing Papuan-related populations."
+  },
+  {
+    "year": -2000,
+    "event": "A mix of Austronesian and Papuan (Trans-New Guinea) language groups becomes established, forming the linguistic mosaic that includes Tetum, Mambai, Makasae and other tongues."
+  },
+  {
+    "year": 1000,
+    "event": "Timor becomes integrated into regional maritime trade networks, prized especially for its abundant sandalwood, which is exchanged with Chinese, Javanese and Malay merchants."
+  },
+  {
+    "year": 1225,
+    "event": "The Chinese work Zhu Fan Zhi by Zhao Rukuo records Timor as a source of fragrant sandalwood, documenting its place in Asian commerce."
+  },
+  {
+    "year": 1515,
+    "event": "Portuguese traders and missionaries begin visiting Timor, drawn by its sandalwood, marking the start of sustained European contact."
+  },
+  {
+    "year": 1556,
+    "event": "Dominican friars establish a settlement and mission at Lifau in the enclave region (modern Oecusse), spreading Catholicism and Portuguese influence."
+  },
+  {
+    "year": 1613,
+    "event": "The Dutch East India Company establishes a presence on western Timor, beginning the long contest between Dutch and Portuguese spheres on the island."
+  },
+  {
+    "year": 1702,
+    "event": "Portugal appoints its first governor to Timor, formalizing colonial administration over the eastern part of the island."
+  },
+  {
+    "year": 1769,
+    "event": "After conflict with the Topasses (Eurasian Catholic community), the Portuguese relocate their colonial capital from Lifau eastward to Dili."
+  },
+  {
+    "year": 1859,
+    "event": "The Treaty of Lisbon between Portugal and the Netherlands partitions Timor, dividing the island into Portuguese (east) and Dutch (west) zones."
+  },
+  {
+    "year": 1904,
+    "event": "A further Hague convention refines the colonial boundary, confirming the Oecusse enclave and settling the Portuguese-Dutch frontier on Timor."
+  },
+  {
+    "year": 1912,
+    "event": "Portugal suppresses the major Manufahi (Boaventura) rebellion, the largest indigenous uprising against Portuguese rule, with heavy Timorese casualties."
+  },
+  {
+    "year": 1942,
+    "event": "Japanese forces invade and occupy Portuguese Timor during World War II; Australian and Dutch commandos wage a guerrilla campaign assisted by Timorese, leading to tens of thousands of local deaths."
+  },
+  {
+    "year": 1945,
+    "event": "Japan surrenders at the end of World War II, and Portuguese colonial administration is restored over East Timor."
+  },
+  {
+    "year": 1974,
+    "event": "Portugal's Carnation Revolution ushers in decolonization, prompting the formation of Timorese political parties including Fretilin, UDT and Apodeti."
+  },
+  {
+    "year": 1975,
+    "event": "After a brief civil war and a Fretilin victory, the Democratic Republic of East Timor declares independence on 28 November, but Indonesia invades and occupies the territory days later on 7 December."
+  },
+  {
+    "year": 1976,
+    "event": "Indonesia formally annexes East Timor as its 27th province (Timor Timur), an act never recognized by the United Nations."
+  },
+  {
+    "year": 1981,
+    "event": "Xanana Gusmao becomes leader of the armed resistance (Falintil), reorganizing the guerrilla and clandestine struggle against Indonesian rule."
+  },
+  {
+    "year": 1991,
+    "event": "Indonesian troops massacre peaceful pro-independence demonstrators at Santa Cruz cemetery in Dili, an atrocity filmed and broadcast worldwide that galvanizes international attention."
+  },
+  {
+    "year": 1992,
+    "event": "Resistance leader Xanana Gusmao is captured by Indonesian forces and later imprisoned, becoming a symbol of the independence movement."
+  },
+  {
+    "year": 1996,
+    "event": "Bishop Carlos Filipe Ximenes Belo and activist Jose Ramos-Horta are jointly awarded the Nobel Peace Prize for their work toward a just and peaceful resolution to the conflict."
+  },
+  {
+    "year": 1999,
+    "event": "In a UN-supervised referendum, nearly 79 percent of East Timorese vote for independence; pro-Indonesian militias unleash a campaign of violence, prompting deployment of the Australian-led INTERFET force and UN administration (UNTAET)."
+  },
+  {
+    "year": 2002,
+    "event": "East Timor (Timor-Leste) formally restores its independence on 20 May, with Xanana Gusmao as first president, and is admitted to the United Nations as its 191st member on 27 September."
+  },
+  {
+    "year": 2006,
+    "event": "A crisis erupts after the dismissal of hundreds of soldiers, sparking factional fighting and unrest in Dili and the return of international peacekeepers."
+  },
+  {
+    "year": 2007,
+    "event": "Jose Ramos-Horta is elected president and Xanana Gusmao becomes prime minister, marking a peaceful democratic transfer of leadership."
+  },
+  {
+    "year": 2008,
+    "event": "President Ramos-Horta is shot and seriously wounded in an assassination attempt by rebel soldiers, but survives and recovers."
+  },
+  {
+    "year": 2012,
+    "event": "The United Nations peacekeeping mission (UNMIT) departs as Timor-Leste assumes full responsibility for its own security following peaceful elections."
+  },
+  {
+    "year": 2018,
+    "event": "Timor-Leste and Australia sign a landmark maritime boundary treaty resolving disputes over the resource-rich Timor Sea and the Greater Sunrise gas fields."
+  },
+  {
+    "year": 2020,
+    "event": "Timor-Leste records its first cases of COVID-19 and imposes a state of emergency, while remaining one of the least-affected nations early in the pandemic."
+  },
+  {
+    "year": 2021,
+    "event": "Severe flooding from Tropical Cyclone Seroja devastates Dili and surrounding areas, killing dozens and displacing thousands, underscoring vulnerability to intensifying climate-driven extreme weather."
+  },
+  {
+    "year": 2022,
+    "event": "Jose Ramos-Horta is elected president for a second term as the young nation marks twenty years of restored independence."
+  },
+  {
+    "year": 2023,
+    "event": "Xanana Gusmao returns as prime minister after his CNRT party wins parliamentary elections, while Timor-Leste advances its bid to join ASEAN."
+  },
+  {
+    "year": 2025,
+    "event": "Timor-Leste is formally admitted as the eleventh member of ASEAN, marking a major milestone in its regional integration."
+  }
 ]
