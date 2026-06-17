@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     removeItemButton: true,
     placeholderValue: 'Select countries...',
     searchResultLimit: 10,
-    renderChoiceLimit: 200
+    renderChoiceLimit: -1
   });
 });
 
@@ -22,6 +22,7 @@ async function initCountries() {
   const nameMap = await nameRes.json();
   const contMap = await contRes.json();
   const select = document.getElementById('country-select');
+  const groups = new Map();
 
   Object.entries(nameMap).forEach(([alpha2, name]) => {
     const code = alpha2.toLowerCase();
@@ -42,11 +43,41 @@ async function initCountries() {
 
     COUNTRIES[key] = { name, code, continent, uiGroup };
 
-    // ✅ Add <option> to <select>
-    const option = document.createElement('option');
-    option.value = key;
-    option.textContent = name;
-    select.appendChild(option);
+    if (!groups.has(uiGroup)) groups.set(uiGroup, []);
+    groups.get(uiGroup).push({ key, name });
+  });
+
+  const groupOrder = [
+    'Africa',
+    'Asia',
+    'Europe',
+    'North America',
+    'Central America',
+    'South America',
+    'Oceania',
+    'Other'
+  ];
+  const remainingGroups = Array.from(groups.keys())
+    .filter(group => !groupOrder.includes(group))
+    .sort((a, b) => a.localeCompare(b));
+
+  [...groupOrder, ...remainingGroups].forEach(group => {
+    const countries = groups.get(group);
+    if (!countries) return;
+
+    const optgroup = document.createElement('optgroup');
+    optgroup.label = group;
+
+    countries
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .forEach(({ key, name }) => {
+        const option = document.createElement('option');
+        option.value = key;
+        option.textContent = name;
+        optgroup.appendChild(option);
+      });
+
+    select.appendChild(optgroup);
   });
 }
 
@@ -91,11 +122,21 @@ function renderMultiTimeline(countryDataMap, orderedKeys) {
   const thead = document.getElementById('timeline-head');
   thead.innerHTML = '';
   const headRow = document.createElement('tr');
-  headRow.innerHTML = `<th>Year</th>` + orderedKeys
-    .map(key => {
-      const c = COUNTRIES[key];
-      return `<th><img src="https://flagcdn.com/24x18/${c.code}.png" alt=""> ${c.name}</th>`;
-    }).join('');
+  const yearHeader = document.createElement('th');
+  yearHeader.textContent = 'Year';
+  headRow.appendChild(yearHeader);
+
+  orderedKeys.forEach(key => {
+    const c = COUNTRIES[key];
+    const th = document.createElement('th');
+    const img = document.createElement('img');
+    img.src = `https://flagcdn.com/24x18/${c.code}.png`;
+    img.alt = '';
+    img.setAttribute('aria-hidden', 'true');
+    th.appendChild(img);
+    th.appendChild(document.createTextNode(` ${c.name}`));
+    headRow.appendChild(th);
+  });
   thead.appendChild(headRow);
 
   const tbody = document.getElementById('timeline-body');
@@ -103,9 +144,27 @@ function renderMultiTimeline(countryDataMap, orderedKeys) {
   years.forEach(year => {
     const tr = document.createElement('tr');
     const label = year < 0 ? `BC ${Math.abs(year)}` : `AD ${year}`;
-    tr.innerHTML = `<td><strong>${label}</strong></td>` + orderedKeys
-      .map(k => `<td>${yearsMap.get(year)[k] || ''}</td>`).join('');
+    const yearCell = document.createElement('td');
+    const strong = document.createElement('strong');
+    strong.textContent = label;
+    yearCell.appendChild(strong);
+    tr.appendChild(yearCell);
+
+    orderedKeys.forEach(k => {
+      const td = document.createElement('td');
+      const event = yearsMap.get(year)[k];
+
+      if (event) {
+        td.textContent = event;
+      } else {
+        td.className = 'empty-cell';
+        const placeholder = document.createElement('span');
+        placeholder.textContent = '—';
+        td.appendChild(placeholder);
+      }
+
+      tr.appendChild(td);
+    });
     tbody.appendChild(tr);
   });
 }
-

@@ -94,7 +94,18 @@ th, td {
   text-align: left;
   font-size: 0.95rem;
   background-color: white;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.timeline-wrapper th:not(:first-child),
+.timeline-wrapper td:not(:first-child) {
+  max-width: 360px;
+}
+
+.empty-cell {
+  color: #ccc;
+  text-align: center;
 }
 
 thead {
@@ -122,6 +133,7 @@ th img {
   z-index: 10;
   background-color: #fff;
   font-weight: bold;
+  white-space: nowrap;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
 }
 
