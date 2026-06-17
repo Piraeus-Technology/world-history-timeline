@@ -1,0 +1,166 @@
+[
+  {
+    "year": -3000,
+    "event": "The earliest known human settlers, the Archaic (pre-Arawak) peoples, arrive on the island and live as hunter-gatherers and fishers."
+  },
+  {
+    "year": -500,
+    "event": "Saladoid Arawak peoples migrate from South America via the Lesser Antilles, introducing pottery, agriculture, and village life."
+  },
+  {
+    "year": 600,
+    "event": "The Ostionoid culture develops, marking the transition toward the later Taino civilization on the island."
+  },
+  {
+    "year": 1200,
+    "event": "The Taino civilization flourishes, organizing the island (called Boriken) into chiefdoms led by caciques with ceremonial ball courts and yuca-based agriculture."
+  },
+  {
+    "year": 1493,
+    "event": "Christopher Columbus lands on the island during his second voyage and claims it for Spain, naming it San Juan Bautista."
+  },
+  {
+    "year": 1508,
+    "event": "Juan Ponce de Leon establishes the first Spanish settlement at Caparra and becomes the island's first governor."
+  },
+  {
+    "year": 1511,
+    "event": "Taino chiefs led by Agueybana II launch a major rebellion against Spanish rule, which is brutally suppressed."
+  },
+  {
+    "year": 1521,
+    "event": "The capital is relocated to a new fortified settlement named Puerto Rico, later San Juan, while the island takes the name Puerto Rico."
+  },
+  {
+    "year": 1539,
+    "event": "Construction begins on the fortress of La Fortaleza and later El Morro to defend San Juan against rival European powers."
+  },
+  {
+    "year": 1595,
+    "event": "English privateer Sir Francis Drake attacks San Juan but is repelled by the city's fortifications."
+  },
+  {
+    "year": 1598,
+    "event": "English forces under George Clifford briefly capture San Juan before disease forces them to withdraw."
+  },
+  {
+    "year": 1625,
+    "event": "Dutch forces under Boudewijn Hendricksz besiege and burn much of San Juan but fail to take El Morro."
+  },
+  {
+    "year": 1765,
+    "event": "Alejandro O'Reilly conducts a royal survey and reforms, spurring economic and military reorganization of the colony."
+  },
+  {
+    "year": 1797,
+    "event": "A large British expedition under Ralph Abercromby attempts to seize San Juan but is decisively repulsed."
+  },
+  {
+    "year": 1809,
+    "event": "Puerto Rico is granted the right to send a representative to the Spanish Cortes, recognizing it as a province of Spain."
+  },
+  {
+    "year": 1815,
+    "event": "The Royal Decree of Graces opens the island to foreign Catholic immigrants and trade, expanding the sugar and coffee plantation economy."
+  },
+  {
+    "year": 1868,
+    "event": "The Grito de Lares uprising proclaims a short-lived independent republic before being quickly suppressed by Spanish authorities."
+  },
+  {
+    "year": 1873,
+    "event": "Spain abolishes slavery in Puerto Rico, freeing roughly 30,000 enslaved people of African descent."
+  },
+  {
+    "year": 1897,
+    "event": "Spain grants Puerto Rico an Autonomic Charter providing substantial self-government within the Spanish Empire."
+  },
+  {
+    "year": 1898,
+    "event": "The United States invades during the Spanish-American War, and Spain cedes Puerto Rico to the U.S. under the Treaty of Paris."
+  },
+  {
+    "year": 1900,
+    "event": "The Foraker Act establishes a civilian government with a U.S.-appointed governor and limited local legislature."
+  },
+  {
+    "year": 1917,
+    "event": "The Jones-Shafroth Act grants U.S. citizenship to Puerto Ricans and creates an elected Senate."
+  },
+  {
+    "year": 1928,
+    "event": "Hurricane San Felipe Segundo devastates the island, killing hundreds and ruining the coffee and sugar harvests."
+  },
+  {
+    "year": 1937,
+    "event": "The Ponce Massacre sees police kill nineteen people at a Nationalist Party march for independence."
+  },
+  {
+    "year": 1947,
+    "event": "Congress passes the Elective Governor Act, allowing Puerto Ricans to elect their own governor for the first time."
+  },
+  {
+    "year": 1948,
+    "event": "Luis Munoz Marin is elected the first popularly chosen governor and launches the Operation Bootstrap industrialization program."
+  },
+  {
+    "year": 1950,
+    "event": "Nationalist uprisings break out across the island, and two Nationalists attempt to assassinate President Truman in Washington."
+  },
+  {
+    "year": 1952,
+    "event": "Puerto Rico adopts its own constitution and becomes the Commonwealth (Estado Libre Asociado) of the United States."
+  },
+  {
+    "year": 1954,
+    "event": "Puerto Rican Nationalists open fire in the U.S. House of Representatives, wounding five congressmen."
+  },
+  {
+    "year": 1967,
+    "event": "A plebiscite is held on political status, with voters favoring the continuation of commonwealth status."
+  },
+  {
+    "year": 1972,
+    "event": "Baseball legend Roberto Clemente dies in a plane crash while delivering aid to earthquake victims in Nicaragua."
+  },
+  {
+    "year": 1993,
+    "event": "A status plebiscite again narrowly favors commonwealth over statehood and independence."
+  },
+  {
+    "year": 1998,
+    "event": "Hurricane Georges strikes the island, causing widespread destruction, while a status referendum produces no clear majority."
+  },
+  {
+    "year": 1999,
+    "event": "The accidental killing of a civilian guard sparks mass protests demanding the U.S. Navy leave the island of Vieques."
+  },
+  {
+    "year": 2003,
+    "event": "The U.S. Navy ends its bombing exercises and withdraws from Vieques after decades of training there."
+  },
+  {
+    "year": 2012,
+    "event": "A status referendum shows a majority rejecting commonwealth status, with statehood favored among stated alternatives."
+  },
+  {
+    "year": 2016,
+    "event": "Facing a debt crisis, Congress enacts the PROMESA law creating a federal oversight board to manage Puerto Rico's finances."
+  },
+  {
+    "year": 2017,
+    "event": "Hurricane Maria devastates Puerto Rico, causing prolonged blackouts and thousands of deaths in one of the deadliest U.S. disasters."
+  },
+  {
+    "year": 2019,
+    "event": "Massive protests over leaked chat messages and corruption force Governor Ricardo Rossello to resign."
+  },
+  {
+    "year": 2020,
+    "event": "A series of strong earthquakes strikes the southwestern region, damaging infrastructure and displacing residents."
+  },
+  {
+    "year": 2022,
+    "event": "Hurricane Fiona triggers an island-wide power blackout and major flooding, exposing the fragility of the rebuilt electric grid."
+  }
+]

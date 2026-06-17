@@ -1,62 +1,162 @@
 [
   {
     "year": -2500,
-    "event": "First known inhabitants, the Saqqaq culture, arrive in Greenland."
+    "event": "The Saqqaq culture, Greenland's earliest known inhabitants, arrived from Arctic Canada and settled along the coasts."
   },
   {
     "year": -800,
-    "event": "Dorset culture replaces Saqqaq; later replaced by Thule people around 1200 AD."
+    "event": "The Dorset culture (Early Dorset) began establishing itself in Greenland as the Saqqaq presence declined."
   },
   {
-    "year": 982,
-    "event": "Erik the Red, exiled from Iceland, discovers and names Greenland; begins Norse settlement."
+    "year": -700,
+    "event": "The Independence I culture occupied the far northern regions of Greenland during the early Paleo-Eskimo period."
+  },
+  {
+    "year": -80,
+    "event": "The Independence II culture inhabited northern Greenland following earlier Paleo-Eskimo groups."
+  },
+  {
+    "year": 985,
+    "event": "Norse explorer Erik the Red led settlers from Iceland to establish the Eastern and Western Settlements, naming the land Greenland."
   },
   {
     "year": 1000,
-    "event": "Leif Erikson, son of Erik the Red, sails from Greenland and explores parts of North America (Vinland)."
+    "event": "Leif Erikson sailed from Greenland and reached Vinland in North America, marking the first known European contact with the continent."
   },
   {
-    "year": 1300,
-    "event": "Norse settlements begin to decline due to climate cooling and isolation."
+    "year": 1124,
+    "event": "The first bishop of Greenland was appointed, and the cathedral at Gardar became the seat of the Norse Christian church."
+  },
+  {
+    "year": 1200,
+    "event": "The Thule people, ancestors of modern Inuit, migrated into Greenland from Arctic Canada, eventually displacing the Dorset culture."
+  },
+  {
+    "year": 1261,
+    "event": "The Norse settlers of Greenland accepted the sovereignty of the Norwegian crown."
+  },
+  {
+    "year": 1408,
+    "event": "A wedding recorded at Hvalsey Church became the last documented event of the Norse Greenlanders before their settlements vanished."
   },
   {
     "year": 1500,
-    "event": "Norse Greenlanders disappear; Inuit cultures continue to thrive."
+    "event": "The Norse Greenland settlements had been completely abandoned, leaving the Inuit as the island's sole inhabitants."
   },
   {
     "year": 1721,
-    "event": "Danish missionary Hans Egede establishes a mission, beginning Danish colonization."
+    "event": "Dano-Norwegian missionary Hans Egede founded a colony near present-day Nuuk, beginning renewed European colonization."
+  },
+  {
+    "year": 1728,
+    "event": "The settlement of Godthaab, the future capital Nuuk, was established as a permanent colonial base."
+  },
+  {
+    "year": 1776,
+    "event": "Denmark established the Royal Greenland Trading Department, granting it a monopoly over commerce and isolating Greenland from outside trade."
   },
   {
     "year": 1814,
-    "event": "Treaty of Kiel grants Denmark full control over Greenland after dissolution of Denmark-Norway union."
+    "event": "Under the Treaty of Kiel, Norway was ceded to Sweden while Greenland remained under sole Danish control."
+  },
+  {
+    "year": 1888,
+    "event": "Fridtjof Nansen led the first successful crossing of the Greenland ice sheet, advancing polar exploration."
+  },
+  {
+    "year": 1909,
+    "event": "American explorer Robert Peary used northern Greenland as a base for his expeditions toward the North Pole."
   },
   {
     "year": 1911,
-    "event": "Greenland becomes an integral part of the Kingdom of Denmark."
+    "event": "Two regional councils (landsraad) were established in North and South Greenland, giving Inuit limited local representation."
+  },
+  {
+    "year": 1931,
+    "event": "Norway claimed part of eastern Greenland as Erik the Red's Land, sparking a territorial dispute with Denmark."
+  },
+  {
+    "year": 1933,
+    "event": "The Permanent Court of International Justice ruled in Denmark's favor, confirming Danish sovereignty over all of Greenland."
   },
   {
     "year": 1940,
-    "event": "During German occupation of Denmark, U.S. assumes defense of Greenland by agreement."
+    "event": "After Nazi Germany occupied Denmark, Greenland was effectively cut off and came under American protection during World War II."
+  },
+  {
+    "year": 1941,
+    "event": "The United States established military bases and weather stations in Greenland under a defense agreement signed by the Danish ambassador."
+  },
+  {
+    "year": 1951,
+    "event": "Denmark and the United States signed a defense treaty allowing the U.S. to maintain bases, including the major facility at Thule."
   },
   {
     "year": 1953,
-    "event": "Greenland becomes an official county of Denmark with representation in the Danish parliament."
+    "event": "Greenland's colonial status was abolished and it became an integral county of Denmark with seats in the Danish parliament."
+  },
+  {
+    "year": 1953,
+    "event": "Inuit families at Thule were forcibly relocated to make way for the expansion of the American air base."
+  },
+  {
+    "year": 1968,
+    "event": "A U.S. B-52 bomber carrying nuclear weapons crashed near Thule, contaminating the area and causing a diplomatic crisis."
+  },
+  {
+    "year": 1972,
+    "event": "Greenland voted against joining the European Economic Community, though Denmark's membership brought it in regardless."
   },
   {
     "year": 1979,
-    "event": "Greenland granted home rule by Denmark, gaining autonomy over internal affairs."
+    "event": "Greenland achieved Home Rule, gaining its own parliament and government with control over many domestic affairs."
   },
   {
     "year": 1985,
-    "event": "Greenland withdraws from the European Economic Community (EEC) following a referendum."
+    "event": "Greenland formally withdrew from the European Economic Community, the first territory ever to leave the bloc."
+  },
+  {
+    "year": 1995,
+    "event": "Investigations revealed extensive secret U.S. nuclear activities at Thule, prompting compensation claims from relocated Inuit."
+  },
+  {
+    "year": 1999,
+    "event": "The Danish Supreme Court awarded compensation to the Thule community for their 1953 forced relocation."
+  },
+  {
+    "year": 2008,
+    "event": "Greenlanders voted overwhelmingly in favor of expanded self-government in a landmark referendum."
   },
   {
     "year": 2009,
-    "event": "Greenland Act expands self-rule, transferring more power from Denmark, including control over natural resources."
+    "event": "The Self-Government Act took effect, recognizing Greenlanders as a distinct people and granting greater autonomy and resource rights."
+  },
+  {
+    "year": 2009,
+    "event": "Kalaallisut (Greenlandic) became the sole official language of Greenland under the new self-government arrangement."
+  },
+  {
+    "year": 2013,
+    "event": "Greenland's parliament lifted a decades-old ban on uranium mining, opening the door to controversial mineral extraction."
+  },
+  {
+    "year": 2019,
+    "event": "U.S. President Donald Trump publicly proposed buying Greenland from Denmark, an offer firmly rejected by Danish and Greenlandic leaders."
   },
   {
     "year": 2021,
-    "event": "Inuit Ataqatigiit party wins election on platform of environmental protection and resource sovereignty."
+    "event": "The Inuit Ataqatigiit party won elections partly by opposing the Kvanefjeld rare-earth and uranium mining project."
+  },
+  {
+    "year": 2021,
+    "event": "Greenland's parliament passed a law banning uranium mining and exploration, halting major rare-earth projects."
+  },
+  {
+    "year": 2023,
+    "event": "Greenland presented a draft constitution as part of ongoing debate over a future path toward full independence from Denmark."
+  },
+  {
+    "year": 2025,
+    "event": "Renewed U.S. interest in acquiring Greenland intensified geopolitical attention on the island and its strategic Arctic position."
   }
 ]

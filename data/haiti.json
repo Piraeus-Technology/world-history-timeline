@@ -1,16 +1,178 @@
 [
-  { "year": -5000, "event": "Earliest human presence on the island of Hispaniola" },
-  { "year": -1000, "event": "Taíno societies develop agriculture and chiefdoms" },
-  { "year": 1492, "event": "Christopher Columbus arrives on Hispaniola" },
-  { "year": 1493, "event": "First Spanish settlement in the Americas is established" },
-  { "year": 1697, "event": "France gains control of western Hispaniola" },
-  { "year": 1700, "event": "Saint-Domingue becomes France’s richest sugar colony" },
-  { "year": 1791, "event": "Slave uprising begins the Haitian Revolution" },
-  { "year": 1804, "event": "Haiti declares independence after defeating European powers" },
-  { "year": 1825, "event": "France forces Haiti to pay independence indemnity" },
-  { "year": 1844, "event": "Dominican Republic separates from Haiti" },
-  { "year": 1915, "event": "United States occupies Haiti" },
-  { "year": 1934, "event": "U.S. occupation ends" },
-  { "year": 1957, "event": "Duvalier dictatorship begins" },
-  { "year": 1986, "event": "End of the Duvalier regime" }
+  {
+    "year": -5000,
+    "event": "Early hunter-gatherer peoples migrate to the island of Hispaniola, establishing the first human presence in the region."
+  },
+  {
+    "year": -2600,
+    "event": "Archaic-age Casimiroid peoples from Central America settle the island, leaving stone tool assemblages."
+  },
+  {
+    "year": -400,
+    "event": "Ceramic-using Saladoid peoples from South America begin migrating into the Greater Antilles via the Lesser Antilles."
+  },
+  {
+    "year": 600,
+    "event": "The ancestral Taino culture develops on Hispaniola, organized into chiefdoms known as cacicazgos."
+  },
+  {
+    "year": 1200,
+    "event": "Taino society flourishes with established cacicazgos, ceremonial ball courts, and the cultivation of cassava."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus lands on Hispaniola and establishes the settlement of La Navidad on the island's northern coast."
+  },
+  {
+    "year": 1493,
+    "event": "Columbus returns and founds La Isabela, beginning permanent Spanish colonization of Hispaniola."
+  },
+  {
+    "year": 1503,
+    "event": "Spanish forces crush Taino resistance, and disease and forced labor devastate the indigenous population."
+  },
+  {
+    "year": 1697,
+    "event": "The Treaty of Ryswick formally cedes the western third of Hispaniola to France as the colony of Saint-Domingue."
+  },
+  {
+    "year": 1750,
+    "event": "Saint-Domingue becomes France's wealthiest colony, its sugar and coffee plantations worked by enslaved Africans."
+  },
+  {
+    "year": 1758,
+    "event": "The maroon leader Francois Mackandal is executed after leading a poisoning campaign against slaveholders."
+  },
+  {
+    "year": 1791,
+    "event": "A massive slave uprising erupts in the northern plains, igniting the Haitian Revolution."
+  },
+  {
+    "year": 1793,
+    "event": "French commissioners declare the abolition of slavery in Saint-Domingue amid the revolutionary upheaval."
+  },
+  {
+    "year": 1801,
+    "event": "Toussaint Louverture conquers the whole island and promulgates a constitution making him governor-for-life."
+  },
+  {
+    "year": 1802,
+    "event": "Napoleon dispatches an expedition that captures Toussaint Louverture, who is deported to France."
+  },
+  {
+    "year": 1803,
+    "event": "Revolutionary forces under Jean-Jacques Dessalines defeat the French at the Battle of Vertieres."
+  },
+  {
+    "year": 1804,
+    "event": "Haiti declares independence, becoming the first Black republic and the first nation born of a successful slave revolt."
+  },
+  {
+    "year": 1806,
+    "event": "Emperor Jean-Jacques Dessalines is assassinated, and the country splits into rival northern and southern states."
+  },
+  {
+    "year": 1811,
+    "event": "Henri Christophe declares himself King Henri I in the north and begins building the Citadelle Laferriere."
+  },
+  {
+    "year": 1820,
+    "event": "King Henri Christophe dies, and Jean-Pierre Boyer reunifies northern and southern Haiti."
+  },
+  {
+    "year": 1822,
+    "event": "Boyer's forces occupy the eastern part of Hispaniola, unifying the entire island under Haitian rule."
+  },
+  {
+    "year": 1825,
+    "event": "France recognizes Haitian independence in exchange for a crippling indemnity of 150 million francs."
+  },
+  {
+    "year": 1844,
+    "event": "The eastern part of the island secedes from Haiti to form the independent Dominican Republic."
+  },
+  {
+    "year": 1862,
+    "event": "The United States finally recognizes Haiti's independence during the American Civil War."
+  },
+  {
+    "year": 1915,
+    "event": "United States Marines invade and begin a nearly two-decade military occupation of Haiti."
+  },
+  {
+    "year": 1918,
+    "event": "A US-backed constitution allowing foreign land ownership sparks the Caco peasant rebellion led by Charlemagne Peralte."
+  },
+  {
+    "year": 1934,
+    "event": "The United States ends its military occupation, withdrawing its Marines from Haiti."
+  },
+  {
+    "year": 1937,
+    "event": "Dominican dictator Rafael Trujillo orders the Parsley Massacre, killing thousands of Haitians along the border."
+  },
+  {
+    "year": 1945,
+    "event": "Haiti becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1957,
+    "event": "Francois 'Papa Doc' Duvalier wins the presidency and soon establishes a brutal dictatorship."
+  },
+  {
+    "year": 1964,
+    "event": "Duvalier declares himself President-for-Life, ruling through the feared Tonton Macoute militia."
+  },
+  {
+    "year": 1971,
+    "event": "Francois Duvalier dies and is succeeded by his teenage son, Jean-Claude 'Baby Doc' Duvalier."
+  },
+  {
+    "year": 1986,
+    "event": "A popular uprising forces Jean-Claude Duvalier into exile, ending the Duvalier family dynasty."
+  },
+  {
+    "year": 1990,
+    "event": "Jean-Bertrand Aristide wins Haiti's first free and fair democratic presidential election."
+  },
+  {
+    "year": 1991,
+    "event": "A military coup ousts President Aristide, triggering years of repression and international sanctions."
+  },
+  {
+    "year": 1994,
+    "event": "A US-led multinational intervention restores Aristide to the presidency."
+  },
+  {
+    "year": 2004,
+    "event": "Amid an armed rebellion, Aristide leaves the country, and the UN Stabilization Mission (MINUSTAH) is deployed."
+  },
+  {
+    "year": 2008,
+    "event": "A series of devastating hurricanes and tropical storms kills hundreds and worsens food insecurity."
+  },
+  {
+    "year": 2010,
+    "event": "A catastrophic magnitude 7.0 earthquake near Port-au-Prince kills an estimated 200,000 to 300,000 people."
+  },
+  {
+    "year": 2011,
+    "event": "A cholera epidemic introduced by UN peacekeepers spreads nationwide, killing thousands."
+  },
+  {
+    "year": 2016,
+    "event": "Hurricane Matthew strikes the southern peninsula, causing widespread death and destruction."
+  },
+  {
+    "year": 2019,
+    "event": "Mass anti-corruption protests over the PetroCaribe scandal paralyze the country and demand the president's resignation."
+  },
+  {
+    "year": 2021,
+    "event": "President Jovenel Moise is assassinated at his home, and a powerful earthquake kills more than 2,000 in the south."
+  },
+  {
+    "year": 2024,
+    "event": "Escalating gang violence forces Prime Minister Ariel Henry to resign as a transitional council and Kenyan-led security mission deploy."
+  }
 ]

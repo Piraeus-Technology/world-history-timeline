@@ -1,11 +1,190 @@
 [
-  { "year": -3000, "event": "Earliest human presence on the island of Dominica" },
-  { "year": 1000, "event": "Kalinago people establish settlements across the island" },
-  { "year": 1493, "event": "Christopher Columbus sights Dominica" },
-  { "year": 1635, "event": "France claims Dominica but struggles to control the island" },
-  { "year": 1763, "event": "Britain gains control of Dominica from France" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1865, "event": "Dominica becomes a British Crown Colony" },
-  { "year": 1938, "event": "Labor unrest leads to political reforms" },
-  { "year": 1978, "event": "Dominica gains independence from the United Kingdom" }
+  {
+    "year": -3100,
+    "event": "The earliest Archaic-period (Ortoiroid) hunter-gatherers from South America are thought to have reached Dominica, leaving the island's first human traces."
+  },
+  {
+    "year": -400,
+    "event": "Arawak-speaking Saladoid peoples migrate from the Orinoco region and settle Dominica, introducing pottery, agriculture, and village life."
+  },
+  {
+    "year": 1000,
+    "event": "Kalinago (Island Carib) peoples expand through the Lesser Antilles, gradually displacing the earlier Taino/Arawak inhabitants of Dominica."
+  },
+  {
+    "year": 1493,
+    "event": "Christopher Columbus sights the island on his second voyage on a Sunday (3 November), naming it Dominica after the Latin for the Lord's Day."
+  },
+  {
+    "year": 1627,
+    "event": "England's King Charles I grants Dominica, among other Caribbean islands, to the Earl of Carlisle, though no effective settlement follows."
+  },
+  {
+    "year": 1660,
+    "event": "England and France agree to leave Dominica and St. Vincent as neutral territories belonging to the Kalinago, in a treaty respecting Carib resistance."
+  },
+  {
+    "year": 1690,
+    "event": "French woodcutters from Martinique and Guadeloupe begin establishing timber camps and small settlements on Dominica."
+  },
+  {
+    "year": 1727,
+    "event": "France establishes formal control over Dominica, developing coffee plantations worked increasingly by enslaved Africans."
+  },
+  {
+    "year": 1761,
+    "event": "British forces capture Dominica from France during the Seven Years' War."
+  },
+  {
+    "year": 1763,
+    "event": "The Treaty of Paris formally cedes Dominica to Britain, which begins organizing it as a colony and parceling out plantation lands."
+  },
+  {
+    "year": 1768,
+    "event": "Roseau is established as the capital of British Dominica."
+  },
+  {
+    "year": 1778,
+    "event": "France recaptures Dominica during the American Revolutionary War."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Paris returns Dominica to British control at the end of the war."
+  },
+  {
+    "year": 1791,
+    "event": "Enslaved Africans launch a major rebellion against the plantation regime, reflecting persistent resistance on the island."
+  },
+  {
+    "year": 1795,
+    "event": "Maroon and rebel uprisings inspired by the French Revolution challenge British rule, leading to prolonged conflict in the interior."
+  },
+  {
+    "year": 1805,
+    "event": "A French expedition raids and burns much of Roseau, extracting a ransom before withdrawing in the final French attack on the island."
+  },
+  {
+    "year": 1814,
+    "event": "Britain's possession of Dominica is confirmed by the Treaty of Paris, ending French claims to the island."
+  },
+  {
+    "year": 1831,
+    "event": "The Brown Privilege Bill grants political and social rights to free people of color, opening the franchise to the free non-white population."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished throughout the British Empire, beginning emancipation for Dominica's enslaved population under an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect, and Dominica soon becomes the only British Caribbean colony with a black-majority elected legislative assembly in the 19th century."
+  },
+  {
+    "year": 1865,
+    "event": "Britain replaces the representative assembly with a part-elected, part-nominated council, curbing the influence of the black majority."
+  },
+  {
+    "year": 1871,
+    "event": "Dominica is incorporated into the federal colony of the Leeward Islands."
+  },
+  {
+    "year": 1896,
+    "event": "Dominica becomes a Crown Colony, with the British Crown taking direct administrative control over its government."
+  },
+  {
+    "year": 1903,
+    "event": "Britain formally recognizes Kalinago land by establishing the Carib Territory (Kalinago Territory) on the island's east coast."
+  },
+  {
+    "year": 1930,
+    "event": "The Carib (Kalinago) War, sparked by a customs dispute, ends with the colonial deposition of chief Jolly John and a temporary suspension of the chieftaincy."
+  },
+  {
+    "year": 1938,
+    "event": "Labor unrest spreading across the British West Indies prompts demands for political and social reform in Dominica."
+  },
+  {
+    "year": 1940,
+    "event": "Dominica is transferred from the Leeward Islands to the administration of the Windward Islands."
+  },
+  {
+    "year": 1951,
+    "event": "Universal adult suffrage is introduced, greatly expanding political participation in Dominica."
+  },
+  {
+    "year": 1958,
+    "event": "Dominica joins the West Indies Federation as a member territory."
+  },
+  {
+    "year": 1961,
+    "event": "Edward Oliver LeBlanc becomes Chief Minister, leading Dominica through the late colonial era and toward self-government."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapses, and Dominica reverts to direct association with Britain."
+  },
+  {
+    "year": 1967,
+    "event": "Dominica becomes an associated state of the United Kingdom, gaining full internal self-government while Britain retains defense and external affairs."
+  },
+  {
+    "year": 1974,
+    "event": "Patrick John becomes Premier, leading the government in the final years before independence."
+  },
+  {
+    "year": 1978,
+    "event": "Dominica gains full independence from the United Kingdom on 3 November as the Commonwealth of Dominica, with Patrick John as its first Prime Minister."
+  },
+  {
+    "year": 1978,
+    "event": "Dominica is admitted to the United Nations on 18 December as its newest member state."
+  },
+  {
+    "year": 1979,
+    "event": "Hurricane David devastates the island, killing dozens and destroying much of the agricultural economy, while political unrest forces Patrick John from power."
+  },
+  {
+    "year": 1980,
+    "event": "Mary Eugenia Charles becomes Prime Minister, the first woman to hold the office in the Caribbean, leading the Dominica Freedom Party to victory."
+  },
+  {
+    "year": 1981,
+    "event": "Two coup attempts, including a mercenary plot tied to former PM Patrick John, are foiled, helping consolidate Charles's government."
+  },
+  {
+    "year": 1983,
+    "event": "Prime Minister Charles, as chair of the OECS, plays a leading role in inviting and supporting the United States-led intervention in Grenada."
+  },
+  {
+    "year": 1995,
+    "event": "Edison James and the United Workers' Party win elections, ending the long premiership of Eugenia Charles."
+  },
+  {
+    "year": 2000,
+    "event": "Roosevelt 'Rosie' Douglas of the Dominica Labour Party becomes Prime Minister but dies in office within months."
+  },
+  {
+    "year": 2004,
+    "event": "Roosevelt Skerrit becomes Prime Minister at age 31, beginning a long tenure leading the Dominica Labour Party."
+  },
+  {
+    "year": 2004,
+    "event": "An earthquake off the northern coast damages buildings in the Portsmouth area and surrounding communities."
+  },
+  {
+    "year": 2015,
+    "event": "Tropical Storm Erika causes catastrophic flooding and landslides, killing about 30 people and inflicting severe damage to infrastructure."
+  },
+  {
+    "year": 2017,
+    "event": "Hurricane Maria strikes as a Category 5 storm, devastating Dominica, causing dozens of deaths and destroying a vast share of homes and crops."
+  },
+  {
+    "year": 2018,
+    "event": "Dominica launches an ambitious recovery effort, pledging to become the world's first 'climate-resilient nation' after Hurricane Maria."
+  },
+  {
+    "year": 2022,
+    "event": "Prime Minister Roosevelt Skerrit's Dominica Labour Party wins a landslide in snap elections amid an opposition boycott over electoral reform."
+  }
 ]

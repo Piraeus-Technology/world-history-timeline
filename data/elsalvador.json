@@ -1,16 +1,186 @@
 [
-  { "year": -8000, "event": "Earliest human presence in present-day El Salvador" },
-  { "year": -2000, "event": "Early agricultural villages develop in volcanic valleys" },
-  { "year": 600, "event": "Maya influence spreads across western El Salvador" },
-  { "year": 1000, "event": "Pipil people establish regional dominance" },
-  { "year": 1524, "event": "Spanish conquest of the Pipil region begins" },
-  { "year": 1545, "event": "San Salvador is founded as a colonial settlement" },
-  { "year": 1600, "event": "Indigo production drives the colonial economy" },
-  { "year": 1821, "event": "El Salvador declares independence from Spain" },
-  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
-  { "year": 1841, "event": "El Salvador becomes an independent republic" },
-  { "year": 1880, "event": "Coffee cultivation reshapes land ownership and society" },
-  { "year": 1932, "event": "Peasant uprising and repression mark a national trauma" },
-  { "year": 1980, "event": "Civil war begins between government and guerrilla forces" },
-  { "year": 1992, "event": "Peace accords end the civil war" }
+  {
+    "year": -10000,
+    "event": "Paleo-Indian hunter-gatherers occupy the region, leaving obsidian tools and rock art at sites such as the Corinto caves."
+  },
+  {
+    "year": -1500,
+    "event": "Early agricultural villages cultivating maize, beans, and squash develop along the Pacific coast and interior volcanic valleys."
+  },
+  {
+    "year": -1200,
+    "event": "The Olmec-influenced center of Chalchuapa rises as an early ceremonial and trade hub in western El Salvador."
+  },
+  {
+    "year": -900,
+    "event": "Monumental architecture appears at Chalchuapa, including the large El Trapiche pyramid."
+  },
+  {
+    "year": 250,
+    "event": "The eruption of the Ilopango volcano (Tierra Blanca Joven) devastates central El Salvador and displaces populations."
+  },
+  {
+    "year": 600,
+    "event": "The Maya farming village of Joya de Cerén is buried by the Loma Caldera eruption, preserving it as the 'Pompeii of the Americas.'"
+  },
+  {
+    "year": 900,
+    "event": "Maya centers in the west decline amid the broader Classic Maya collapse across Mesoamerica."
+  },
+  {
+    "year": 1200,
+    "event": "Nahua-speaking Pipil peoples migrate from central Mexico and establish polities, including the realm of Cuzcatlan."
+  },
+  {
+    "year": 1400,
+    "event": "The Pipil state of Cuzcatlan flourishes as the leading regional power, with Lenca peoples settled to the east."
+  },
+  {
+    "year": 1524,
+    "event": "Spanish conquistador Pedro de Alvarado invades Cuzcatlan but is repelled and wounded by fierce Pipil resistance."
+  },
+  {
+    "year": 1525,
+    "event": "Spanish forces found the first villa of San Salvador, beginning the colonization of the territory."
+  },
+  {
+    "year": 1528,
+    "event": "Renewed Spanish campaigns subdue Pipil resistance and firmly establish the town of San Salvador."
+  },
+  {
+    "year": 1546,
+    "event": "San Salvador receives the title of city under the Spanish crown."
+  },
+  {
+    "year": 1577,
+    "event": "Indigo (anil) production expands to become the colony's dominant cash crop, shaping its plantation economy for centuries."
+  },
+  {
+    "year": 1786,
+    "event": "The Intendancy of San Salvador is created within the Captaincy General of Guatemala, giving the province greater identity."
+  },
+  {
+    "year": 1811,
+    "event": "Priest Jose Matias Delgado leads the first cry for independence with an uprising in San Salvador against Spanish rule."
+  },
+  {
+    "year": 1814,
+    "event": "A second independence revolt erupts in San Salvador but is again suppressed by colonial authorities."
+  },
+  {
+    "year": 1821,
+    "event": "El Salvador joins the rest of Central America in declaring independence from Spain on September 15."
+  },
+  {
+    "year": 1823,
+    "event": "El Salvador joins the United Provinces of Central America after rejecting annexation by Mexico's First Empire."
+  },
+  {
+    "year": 1841,
+    "event": "El Salvador declares itself a fully sovereign republic as the Central American federation disintegrates."
+  },
+  {
+    "year": 1856,
+    "event": "Salvadoran troops join other Central American states to defeat the American filibuster William Walker."
+  },
+  {
+    "year": 1882,
+    "event": "Liberal reforms abolish communal indigenous landholdings (ejidos), accelerating the rise of a coffee-based oligarchy."
+  },
+  {
+    "year": 1885,
+    "event": "Coffee overtakes indigo as the leading export, cementing El Salvador's dependence on the coffee economy."
+  },
+  {
+    "year": 1898,
+    "event": "A short-lived Greater Republic of Central America union with Honduras and Nicaragua collapses."
+  },
+  {
+    "year": 1913,
+    "event": "President Manuel Enrique Araujo is assassinated, opening an era of rule by the coffee-planting Melendez-Quinonez dynasty."
+  },
+  {
+    "year": 1931,
+    "event": "General Maximiliano Hernandez Martinez seizes power in a coup, beginning decades of military-dominated government."
+  },
+  {
+    "year": 1932,
+    "event": "A peasant and indigenous uprising led by Farabundo Marti is crushed in 'La Matanza,' a massacre killing tens of thousands."
+  },
+  {
+    "year": 1945,
+    "event": "El Salvador becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1948,
+    "event": "A reformist military coup ousts the old guard and ushers in modernizing governments and import-substitution industrialization."
+  },
+  {
+    "year": 1969,
+    "event": "The brief 'Football War' with Honduras erupts over migration and border tensions, displacing thousands of Salvadorans."
+  },
+  {
+    "year": 1972,
+    "event": "Reformist candidate Jose Napoleon Duarte is denied an apparent electoral victory through fraud, deepening polarization."
+  },
+  {
+    "year": 1980,
+    "event": "Archbishop Oscar Romero is assassinated at Mass and the FMLN guerrilla coalition forms, plunging the country into civil war."
+  },
+  {
+    "year": 1981,
+    "event": "The El Mozote massacre sees an army battalion kill around a thousand civilians, one of the war's worst atrocities."
+  },
+  {
+    "year": 1984,
+    "event": "Jose Napoleon Duarte is elected president, the first elected civilian leader amid the ongoing conflict."
+  },
+  {
+    "year": 1989,
+    "event": "FMLN guerrillas launch a major offensive on the capital, and soldiers murder six Jesuit priests at the UCA university."
+  },
+  {
+    "year": 1992,
+    "event": "The Chapultepec Peace Accords end the twelve-year civil war that killed some 75,000 people and demobilize the guerrillas into a political party."
+  },
+  {
+    "year": 1993,
+    "event": "A UN Truth Commission documents wartime atrocities, but an amnesty law shields perpetrators from prosecution."
+  },
+  {
+    "year": 2001,
+    "event": "Two devastating earthquakes strike in January and February, killing over a thousand people and leaving many homeless."
+  },
+  {
+    "year": 2001,
+    "event": "El Salvador adopts the US dollar as legal tender, replacing the colon as the national currency."
+  },
+  {
+    "year": 2006,
+    "event": "The Central America Free Trade Agreement (CAFTA-DR) with the United States takes effect, reshaping trade."
+  },
+  {
+    "year": 2009,
+    "event": "Former FMLN journalist Mauricio Funes wins the presidency, the first leftist to hold the office since the war."
+  },
+  {
+    "year": 2015,
+    "event": "El Salvador records one of the world's highest homicide rates as gang violence between MS-13 and Barrio 18 peaks."
+  },
+  {
+    "year": 2019,
+    "event": "Outsider Nayib Bukele wins the presidency, ending three decades of dominance by the ARENA and FMLN parties."
+  },
+  {
+    "year": 2021,
+    "event": "El Salvador becomes the first country in the world to adopt Bitcoin as legal tender."
+  },
+  {
+    "year": 2022,
+    "event": "The government declares a sweeping state of exception against gangs, mass-arresting tens of thousands and slashing the homicide rate."
+  },
+  {
+    "year": 2024,
+    "event": "Nayib Bukele wins re-election by a landslide despite constitutional questions over consecutive terms."
+  }
 ]

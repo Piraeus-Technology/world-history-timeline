@@ -1,12 +1,170 @@
 [
-  { "year": -3000, "event": "Earliest human presence on the island of Grenada" },
-  { "year": 1000, "event": "Arawak and later Carib peoples inhabit the island" },
-  { "year": 1498, "event": "Christopher Columbus sights Grenada" },
-  { "year": 1650, "event": "France establishes permanent settlement" },
-  { "year": 1763, "event": "Britain gains control of Grenada from France" },
-  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1795, "event": "Fedon’s Rebellion challenges British rule" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1974, "event": "Grenada gains independence from the United Kingdom" },
-  { "year": 1983, "event": "U.S.-led intervention follows internal political crisis" }
+  {
+    "year": -2000,
+    "event": "Archaic Age peoples, among the earliest known inhabitants, settled on the island that would become Grenada."
+  },
+  {
+    "year": -200,
+    "event": "Arawak-speaking Saladoid migrants from South America established agricultural villages and ceramic-making communities on the island."
+  },
+  {
+    "year": 700,
+    "event": "Later Arawak (Igneri) populations expanded across the island, developing pottery, fishing, and cassava cultivation."
+  },
+  {
+    "year": 1300,
+    "event": "Island-Carib (Kalinago) peoples migrated to the island, displacing or absorbing earlier Arawak inhabitants and calling it Camerhogne."
+  },
+  {
+    "year": 1498,
+    "event": "Christopher Columbus sighted the island during his third voyage and named it Concepcion."
+  },
+  {
+    "year": 1609,
+    "event": "An English settlement attempt failed when the colonists were driven off by the resisting Kalinago inhabitants."
+  },
+  {
+    "year": 1649,
+    "event": "French settlers led by Governor Du Parquet of Martinique purchased and colonized the island for France."
+  },
+  {
+    "year": 1654,
+    "event": "After fierce resistance, the last Kalinago defenders reportedly leapt to their deaths at Sauteurs, ending indigenous control."
+  },
+  {
+    "year": 1674,
+    "event": "Grenada became a French crown colony administered as part of the French Antilles."
+  },
+  {
+    "year": 1714,
+    "event": "French colonists expanded plantation agriculture, growing sugar and indigo worked by enslaved Africans."
+  },
+  {
+    "year": 1762,
+    "event": "British forces captured Grenada from France during the Seven Years' War."
+  },
+  {
+    "year": 1763,
+    "event": "The Treaty of Paris formally ceded Grenada to Britain, beginning British colonial rule."
+  },
+  {
+    "year": 1779,
+    "event": "France recaptured Grenada during the American Revolutionary War after assaulting the British garrison."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Versailles returned Grenada to British control."
+  },
+  {
+    "year": 1795,
+    "event": "Julien Fedon, a free mixed-race planter inspired by the French Revolution, led a major slave and free-colored rebellion against British rule."
+  },
+  {
+    "year": 1796,
+    "event": "British forces suppressed Fedon's Rebellion, though Fedon himself was never captured."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery was abolished throughout the British Empire, beginning emancipation in Grenada under an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation took effect as the apprenticeship system ended, freeing all enslaved people in Grenada."
+  },
+  {
+    "year": 1843,
+    "event": "Nutmeg was introduced to Grenada, eventually making the island a leading global producer and earning it the nickname the Isle of Spice."
+  },
+  {
+    "year": 1877,
+    "event": "Grenada became a British Crown Colony, ending its earlier representative assembly government."
+  },
+  {
+    "year": 1885,
+    "event": "St. George's, Grenada's capital, became the administrative seat of the Windward Islands colony."
+  },
+  {
+    "year": 1951,
+    "event": "Eric Gairy led a major labor uprising and founded the Grenada United Labour Party, winning the colony's first elections under universal adult suffrage."
+  },
+  {
+    "year": 1958,
+    "event": "Grenada joined the short-lived West Indies Federation."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation dissolved, ending the attempt at a unified British Caribbean state."
+  },
+  {
+    "year": 1967,
+    "event": "Grenada became an Associated State of the United Kingdom, gaining full internal self-government."
+  },
+  {
+    "year": 1974,
+    "event": "Grenada achieved full independence from Britain on 7 February with Eric Gairy as its first prime minister."
+  },
+  {
+    "year": 1974,
+    "event": "Grenada was admitted to the United Nations as a sovereign member state on 17 September."
+  },
+  {
+    "year": 1979,
+    "event": "The Marxist New Jewel Movement led by Maurice Bishop seized power in a near-bloodless coup, establishing the People's Revolutionary Government."
+  },
+  {
+    "year": 1983,
+    "event": "A power struggle led to Maurice Bishop's house arrest and his execution by hardline factions of his own party on 19 October."
+  },
+  {
+    "year": 1983,
+    "event": "The United States led an invasion code-named Operation Urgent Fury, overthrowing the military regime and restoring constitutional government."
+  },
+  {
+    "year": 1984,
+    "event": "Elections returned Grenada to democratic civilian rule under Prime Minister Herbert Blaize and the New National Party."
+  },
+  {
+    "year": 1986,
+    "event": "Trials of those responsible for Maurice Bishop's killing concluded with convictions for the Grenada 17."
+  },
+  {
+    "year": 1995,
+    "event": "Keith Mitchell became prime minister, beginning a long period of New National Party dominance in Grenadian politics."
+  },
+  {
+    "year": 2004,
+    "event": "Hurricane Ivan devastated Grenada, damaging or destroying around 90 percent of buildings and crippling the nutmeg industry."
+  },
+  {
+    "year": 2005,
+    "event": "Hurricane Emily struck the island again, compounding the recovery challenges from the previous year's destruction."
+  },
+  {
+    "year": 2008,
+    "event": "The National Democratic Congress under Tillman Thomas won general elections, ousting Keith Mitchell's government."
+  },
+  {
+    "year": 2009,
+    "event": "Point Salines International Airport was renamed Maurice Bishop International Airport, symbolizing national reconciliation."
+  },
+  {
+    "year": 2013,
+    "event": "Keith Mitchell returned to power as his New National Party swept all 15 parliamentary seats."
+  },
+  {
+    "year": 2018,
+    "event": "The New National Party again won all 15 seats, and voters rejected a referendum to replace the UK Privy Council with the Caribbean Court of Justice."
+  },
+  {
+    "year": 2020,
+    "event": "Grenada confirmed its first cases of COVID-19 and imposed restrictions amid the global pandemic."
+  },
+  {
+    "year": 2022,
+    "event": "The National Democratic Congress led by Dickon Mitchell won the general election, ending nearly a decade of Keith Mitchell's rule."
+  },
+  {
+    "year": 2024,
+    "event": "Hurricane Beryl, an exceptionally early Category 4 storm, devastated Grenada's islands of Carriacou and Petite Martinique."
+  }
 ]

@@ -1,17 +1,190 @@
 [
-  { "year": -5000, "event": "Earliest human presence on the island of Hispaniola" },
-  { "year": -1000, "event": "Taíno societies develop agriculture and chiefdoms" },
-  { "year": 1492, "event": "Christopher Columbus arrives on Hispaniola" },
-  { "year": 1496, "event": "Santo Domingo is founded as the first permanent European city in the Americas" },
-  { "year": 1530, "event": "Spanish colonial society consolidates around sugar plantations" },
-  { "year": 1697, "event": "Spain cedes western Hispaniola to France" },
-  { "year": 1795, "event": "Spain transfers eastern Hispaniola to France" },
-  { "year": 1809, "event": "Spain regains control of eastern Hispaniola" },
-  { "year": 1821, "event": "Brief declaration of independence from Spain" },
-  { "year": 1822, "event": "Haiti occupies the eastern part of the island" },
-  { "year": 1844, "event": "Dominican Republic declares independence from Haiti" },
-  { "year": 1861, "event": "Spain briefly recolonizes the Dominican Republic" },
-  { "year": 1865, "event": "Restoration War ends Spanish rule" },
-  { "year": 1930, "event": "Trujillo dictatorship begins" },
-  { "year": 1961, "event": "End of the Trujillo regime" }
+  {
+    "year": -4000,
+    "event": "The earliest known human settlers, archaic hunter-gatherers, reach the island of Hispaniola from the Central American or northern South American mainland."
+  },
+  {
+    "year": -600,
+    "event": "Ceramic-making Saladoid peoples migrating from the Orinoco region of South America begin settling Hispaniola, introducing agriculture and pottery."
+  },
+  {
+    "year": 600,
+    "event": "The Taino culture emerges on Hispaniola, developing chiefdoms (cacicazgos), cassava farming, and the ceremonial ball game."
+  },
+  {
+    "year": 1200,
+    "event": "Taino society reaches its height, organizing the island into several large chiefdoms ruled by caciques."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus lands on Hispaniola, claims it for Spain, and founds the settlement of La Navidad with wreckage from the Santa Maria."
+  },
+  {
+    "year": 1493,
+    "event": "Columbus returns to find La Navidad destroyed and founds La Isabela, the first intended permanent European town in the Americas."
+  },
+  {
+    "year": 1496,
+    "event": "Bartholomew Columbus founds Santo Domingo, which becomes the oldest continuously inhabited European-established city in the Americas."
+  },
+  {
+    "year": 1503,
+    "event": "Spanish forces under Governor Nicolas de Ovando massacre Taino at Xaragua, accelerating the conquest and enslavement of the indigenous population."
+  },
+  {
+    "year": 1511,
+    "event": "Friar Antonio de Montesinos delivers a famous sermon in Santo Domingo denouncing Spanish abuse of the Taino, sparking debate over indigenous rights."
+  },
+  {
+    "year": 1519,
+    "event": "The cacique Enriquillo leads a thirteen-year Taino rebellion in the Bahoruco mountains against Spanish rule."
+  },
+  {
+    "year": 1538,
+    "event": "The Universidad Autonoma de Santo Domingo is established, becoming the oldest university in the Americas."
+  },
+  {
+    "year": 1586,
+    "event": "English privateer Francis Drake captures and sacks Santo Domingo, holding the city for ransom."
+  },
+  {
+    "year": 1605,
+    "event": "Spain forcibly depopulates the western and northern coasts (the Devastaciones de Osorio) to curb smuggling, leaving them open to foreign settlers."
+  },
+  {
+    "year": 1697,
+    "event": "The Treaty of Ryswick formally cedes the western third of Hispaniola to France, creating the colony of Saint-Domingue alongside Spanish Santo Domingo."
+  },
+  {
+    "year": 1795,
+    "event": "By the Treaty of Basel, Spain cedes the entire colony of Santo Domingo to France."
+  },
+  {
+    "year": 1801,
+    "event": "Haitian leader Toussaint Louverture occupies Santo Domingo and abolishes slavery across the whole island."
+  },
+  {
+    "year": 1809,
+    "event": "Spanish-colonial forces, with British naval help, retake Santo Domingo, beginning the period known as 'Espana Boba.'"
+  },
+  {
+    "year": 1821,
+    "event": "Jose Nunez de Caceres proclaims the short-lived independent state of Spanish Haiti, also called the Ephemeral Independence."
+  },
+  {
+    "year": 1822,
+    "event": "Haitian President Jean-Pierre Boyer invades and annexes the eastern part of the island, beginning a 22-year Haitian occupation."
+  },
+  {
+    "year": 1838,
+    "event": "Juan Pablo Duarte founds the secret society La Trinitaria to organize resistance against Haitian rule and achieve independence."
+  },
+  {
+    "year": 1844,
+    "event": "The Dominican Republic declares independence from Haiti on February 27, founding the nation as a sovereign state."
+  },
+  {
+    "year": 1849,
+    "event": "Pedro Santana defeats a major Haitian invasion at the Battle of Las Carreras, consolidating Dominican independence."
+  },
+  {
+    "year": 1861,
+    "event": "President Pedro Santana returns the country to Spanish colonial rule, ending its first period of independence."
+  },
+  {
+    "year": 1863,
+    "event": "The War of Restoration breaks out as Dominicans rise against renewed Spanish rule."
+  },
+  {
+    "year": 1865,
+    "event": "Spain withdraws and the Dominican Republic restores its independence following the War of Restoration."
+  },
+  {
+    "year": 1882,
+    "event": "Ulises Heureaux begins his dominant role in Dominican politics, ruling as a dictator until his assassination in 1899."
+  },
+  {
+    "year": 1905,
+    "event": "The United States takes control of Dominican customs receipts to manage the country's foreign debt under a financial receivership."
+  },
+  {
+    "year": 1916,
+    "event": "United States Marines occupy the Dominican Republic, beginning an eight-year military occupation."
+  },
+  {
+    "year": 1924,
+    "event": "The United States ends its military occupation and Dominican civilian rule is restored under President Horacio Vasquez."
+  },
+  {
+    "year": 1930,
+    "event": "Rafael Leonidas Trujillo seizes power, beginning a brutal 31-year dictatorship."
+  },
+  {
+    "year": 1937,
+    "event": "Trujillo orders the Parsley Massacre, in which the army kills thousands of Haitians living near the border."
+  },
+  {
+    "year": 1945,
+    "event": "The Dominican Republic becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1960,
+    "event": "Trujillo's agents assassinate the Mirabal sisters, opponents of the regime, later commemorated by the International Day for the Elimination of Violence against Women."
+  },
+  {
+    "year": 1961,
+    "event": "Rafael Trujillo is assassinated, ending his long dictatorship and opening a turbulent transition."
+  },
+  {
+    "year": 1962,
+    "event": "Juan Bosch wins the country's first free elections in decades, becoming president."
+  },
+  {
+    "year": 1963,
+    "event": "A military coup overthrows the elected government of Juan Bosch after only seven months in office."
+  },
+  {
+    "year": 1965,
+    "event": "Civil war erupts between Constitutionalists and the military, prompting a United States-led intervention of tens of thousands of troops."
+  },
+  {
+    "year": 1966,
+    "event": "Joaquin Balaguer is elected president, beginning a long and recurring dominance of Dominican politics."
+  },
+  {
+    "year": 1978,
+    "event": "Antonio Guzman of the PRD wins the presidency, marking a peaceful democratic transfer of power from Balaguer."
+  },
+  {
+    "year": 1996,
+    "event": "Leonel Fernandez is elected president, ending Balaguer's era and launching market-oriented economic reforms."
+  },
+  {
+    "year": 1998,
+    "event": "Hurricane Georges devastates the country, killing hundreds and causing extensive damage."
+  },
+  {
+    "year": 2003,
+    "event": "A major banking crisis triggered by the collapse of Baninter sends the economy into recession and high inflation."
+  },
+  {
+    "year": 2007,
+    "event": "The Dominican Republic enters the CAFTA-DR free trade agreement with the United States and Central America, boosting trade and investment."
+  },
+  {
+    "year": 2013,
+    "event": "A Constitutional Court ruling retroactively strips citizenship from many Dominicans of Haitian descent, sparking an international human rights controversy."
+  },
+  {
+    "year": 2020,
+    "event": "Luis Abinader of the Modern Revolutionary Party wins the presidency, ending 16 years of PLD rule amid the COVID-19 pandemic."
+  },
+  {
+    "year": 2022,
+    "event": "The government begins constructing a border wall along the frontier with Haiti to control migration and smuggling."
+  },
+  {
+    "year": 2024,
+    "event": "President Luis Abinader is re-elected to a second term in a landslide victory."
+  }
 ]

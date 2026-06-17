@@ -1,18 +1,182 @@
 [
-  { "year": -10000, "event": "Earliest human presence in present-day Guatemala" },
-  { "year": -2000, "event": "Early Maya communities develop agriculture and villages" },
-  { "year": 250, "event": "Classic Maya civilization flourishes with major city-states" },
-  { "year": 900, "event": "Collapse of Classic Maya lowland cities" },
-  { "year": 1200, "event": "Postclassic Maya kingdoms dominate the highlands" },
-  { "year": 1524, "event": "Spanish conquest of Maya kingdoms begins" },
-  { "year": 1543, "event": "Capital of the Captaincy General of Guatemala is established" },
-  { "year": 1600, "event": "Colonial society consolidates around highland cities" },
-  { "year": 1773, "event": "Destructive earthquakes lead to relocation of the capital" },
-  { "year": 1821, "event": "Guatemala declares independence from Spain" },
-  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
-  { "year": 1840, "event": "Guatemala becomes an independent republic" },
-  { "year": 1871, "event": "Liberal reforms expand coffee production and land concentration" },
-  { "year": 1954, "event": "Foreign-backed coup reshapes political trajectory" },
-  { "year": 1960, "event": "Civil war begins between state and insurgent groups" },
-  { "year": 1996, "event": "Peace accords end decades-long civil war" }
+  {
+    "year": -12000,
+    "event": "Paleo-Indian hunter-gatherers settle the highlands and lowlands of present-day Guatemala, leaving behind stone tools such as Clovis points."
+  },
+  {
+    "year": -3500,
+    "event": "Early agricultural communities begin cultivating maize, beans, and squash, laying the foundation for sedentary Mesoamerican society."
+  },
+  {
+    "year": -2000,
+    "event": "Permanent farming villages and early pottery appear during the Preclassic period across the Maya region."
+  },
+  {
+    "year": -700,
+    "event": "The Maya city of Kaminaljuyu rises in the central highlands as a major trade and ceremonial center."
+  },
+  {
+    "year": -250,
+    "event": "El Mirador flourishes as one of the largest early Maya cities, building massive pyramids such as La Danta."
+  },
+  {
+    "year": 250,
+    "event": "The Classic Maya period begins, marked by monumental architecture, hieroglyphic writing, and powerful rival city-states."
+  },
+  {
+    "year": 378,
+    "event": "Tikal comes under the influence of Teotihuacan in a pivotal political intervention recorded on its monuments."
+  },
+  {
+    "year": 562,
+    "event": "Tikal is defeated by the rival city of Caracol, beginning a period of decline before its later resurgence."
+  },
+  {
+    "year": 695,
+    "event": "Tikal, under ruler Jasaw Chan Kawiil I, defeats Calakmul and enters a golden age of construction and power."
+  },
+  {
+    "year": 900,
+    "event": "The Classic Maya civilization collapses across the southern lowlands as great cities like Tikal are gradually abandoned."
+  },
+  {
+    "year": 1250,
+    "event": "Postclassic highland Maya kingdoms such as the K'iche', Kaqchikel, and Tz'utujil consolidate power in fortified centers."
+  },
+  {
+    "year": 1470,
+    "event": "The K'iche' Maya kingdom centered at Q'umarkaj reaches its peak before fragmenting under internal rivalries."
+  },
+  {
+    "year": 1524,
+    "event": "Spanish conquistador Pedro de Alvarado invades and defeats the K'iche' and other highland Maya kingdoms, beginning colonial rule."
+  },
+  {
+    "year": 1527,
+    "event": "The Spanish establish the colonial capital of Santiago de los Caballeros, later relocated after disasters."
+  },
+  {
+    "year": 1542,
+    "event": "The Captaincy General of Guatemala is established, governing much of Central America under the Spanish Crown."
+  },
+  {
+    "year": 1543,
+    "event": "Antigua Guatemala becomes the capital and develops into a flourishing center of colonial art, religion, and learning."
+  },
+  {
+    "year": 1773,
+    "event": "A devastating earthquake destroys Antigua Guatemala, prompting relocation of the capital."
+  },
+  {
+    "year": 1776,
+    "event": "Nueva Guatemala de la Asuncion, modern Guatemala City, is founded as the new colonial capital."
+  },
+  {
+    "year": 1821,
+    "event": "Guatemala declares independence from Spain on September 15, ending three centuries of colonial rule."
+  },
+  {
+    "year": 1822,
+    "event": "Guatemala is briefly annexed to the First Mexican Empire under Agustin de Iturbide."
+  },
+  {
+    "year": 1823,
+    "event": "Guatemala joins the Federal Republic of Central America after Mexican annexation collapses."
+  },
+  {
+    "year": 1838,
+    "event": "The Federal Republic of Central America begins to disintegrate amid civil war and regional conflict."
+  },
+  {
+    "year": 1839,
+    "event": "Guatemala emerges as a fully independent republic as the Central American federation dissolves."
+  },
+  {
+    "year": 1847,
+    "event": "Rafael Carrera proclaims the Republic of Guatemala and rules as a conservative strongman shaping the early nation."
+  },
+  {
+    "year": 1871,
+    "event": "The Liberal Revolution led by Justo Rufino Barrios overthrows conservative rule and ushers in coffee-export modernization."
+  },
+  {
+    "year": 1873,
+    "event": "President Barrios enacts sweeping liberal reforms, secularizing institutions and promoting large coffee plantations."
+  },
+  {
+    "year": 1901,
+    "event": "The United Fruit Company begins operations in Guatemala, gaining vast influence over land, railways, and politics."
+  },
+  {
+    "year": 1931,
+    "event": "Jorge Ubico becomes president and rules as an authoritarian dictator favoring foreign business interests."
+  },
+  {
+    "year": 1944,
+    "event": "The October Revolution ousts Ubico and ushers in a decade of democratic reform known as the Ten Years of Spring."
+  },
+  {
+    "year": 1945,
+    "event": "Juan Jose Arevalo is elected president and enacts social, labor, and educational reforms while Guatemala joins the United Nations as a founding member."
+  },
+  {
+    "year": 1951,
+    "event": "Jacobo Arbenz becomes president and launches land reform redistributing uncultivated estates to landless peasants."
+  },
+  {
+    "year": 1954,
+    "event": "A CIA-backed coup overthrows President Arbenz, installing a military government and ending the democratic reform era."
+  },
+  {
+    "year": 1960,
+    "event": "The Guatemalan Civil War begins as leftist insurgents take up arms against successive military governments."
+  },
+  {
+    "year": 1976,
+    "event": "A catastrophic earthquake kills more than 23,000 people and devastates Guatemala City and surrounding regions."
+  },
+  {
+    "year": 1982,
+    "event": "General Efrain Rios Montt seizes power and oversees a scorched-earth campaign with mass killings of Maya communities."
+  },
+  {
+    "year": 1985,
+    "event": "A new constitution is adopted and civilian rule returns with the election of President Vinicio Cerezo."
+  },
+  {
+    "year": 1992,
+    "event": "Maya activist Rigoberta Menchu is awarded the Nobel Peace Prize for her work defending indigenous rights."
+  },
+  {
+    "year": 1996,
+    "event": "The Peace Accords are signed, ending a 36-year civil war that killed an estimated 200,000 people."
+  },
+  {
+    "year": 1999,
+    "event": "A UN-backed truth commission report concludes that state forces committed acts of genocide against the Maya population."
+  },
+  {
+    "year": 2007,
+    "event": "The International Commission against Impunity in Guatemala begins work to combat corruption and organized crime."
+  },
+  {
+    "year": 2013,
+    "event": "Former dictator Rios Montt is convicted of genocide, though the verdict is later annulled on procedural grounds."
+  },
+  {
+    "year": 2015,
+    "event": "Mass anti-corruption protests force President Otto Perez Molina to resign amid the La Linea customs fraud scandal."
+  },
+  {
+    "year": 2018,
+    "event": "Volcan de Fuego erupts violently, killing hundreds and burying communities near Antigua under pyroclastic flows."
+  },
+  {
+    "year": 2019,
+    "event": "Guatemala signs a controversial safe-third-country migration agreement with the United States."
+  },
+  {
+    "year": 2024,
+    "event": "Anti-corruption candidate Bernardo Arevalo is inaugurated president after a contested election and attempts to block his victory."
+  }
 ]

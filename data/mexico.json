@@ -1,20 +1,190 @@
 [
-  { "year": -15000, "event": "Earliest human presence in present-day Mexico" },
-  { "year": -3000, "event": "Early agriculture develops with maize cultivation" },
-  { "year": -1200, "event": "Olmec civilization emerges as an early cultural center" },
-  { "year": 100, "event": "Teotihuacan grows into one of the largest cities in the ancient world" },
-  { "year": 900, "event": "Classic Maya cities flourish across southern Mexico" },
-  { "year": 1200, "event": "Toltec influence spreads from central Mexico" },
-  { "year": 1325, "event": "Aztecs found Tenochtitlán in the Valley of Mexico" },
-  { "year": 1519, "event": "Spanish expedition under Hernán Cortés arrives" },
-  { "year": 1521, "event": "Fall of Tenochtitlán marks the Spanish conquest" },
-  { "year": 1535, "event": "Viceroyalty of New Spain is established" },
-  { "year": 1600, "event": "Colonial society consolidates around cities, mines, and haciendas" },
-  { "year": 1810, "event": "Independence movement begins with popular uprisings" },
-  { "year": 1821, "event": "Mexico gains independence from Spain" },
-  { "year": 1848, "event": "War with the United States results in major territorial loss" },
-  { "year": 1864, "event": "Short-lived French-backed empire is established" },
-  { "year": 1867, "event": "Republic is restored after foreign intervention ends" },
-  { "year": 1910, "event": "Mexican Revolution reshapes state and society" },
-  { "year": 1917, "event": "New constitution establishes modern political framework" }
+  {
+    "year": -11000,
+    "event": "Paleo-Indian hunter-gatherers inhabit central Mexico, leaving remains such as Tepexpan Man near the Basin of Mexico."
+  },
+  {
+    "year": -7000,
+    "event": "Early peoples in the Tehuacan Valley begin the domestication of maize, a foundation of Mesoamerican civilization."
+  },
+  {
+    "year": -1500,
+    "event": "The Olmec civilization, Mesoamerica's earliest major culture, emerges along the Gulf Coast at sites like San Lorenzo."
+  },
+  {
+    "year": -900,
+    "event": "The Olmec center of La Venta flourishes, producing colossal stone heads and early calendrical and writing systems."
+  },
+  {
+    "year": -500,
+    "event": "Monte Alban is founded in the Oaxaca Valley as the capital of the Zapotec civilization."
+  },
+  {
+    "year": -100,
+    "event": "The great city of Teotihuacan rises in the Valley of Mexico, growing into one of the largest cities in the ancient world."
+  },
+  {
+    "year": 250,
+    "event": "The Classic Maya civilization enters its peak in the Yucatan and southern lowlands, building cities like Palenque and Calakmul."
+  },
+  {
+    "year": 550,
+    "event": "Teotihuacan reaches its height with over 100,000 inhabitants before its later decline and partial destruction."
+  },
+  {
+    "year": 900,
+    "event": "The Classic Maya collapse leads to the abandonment of many southern lowland cities."
+  },
+  {
+    "year": 950,
+    "event": "The Toltec civilization establishes its capital at Tula, becoming a dominant power in central Mexico."
+  },
+  {
+    "year": 1325,
+    "event": "The Mexica (Aztecs) found Tenochtitlan on an island in Lake Texcoco, per tradition where an eagle perched on a cactus."
+  },
+  {
+    "year": 1428,
+    "event": "The Aztec Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan forms, building a vast tributary empire."
+  },
+  {
+    "year": 1502,
+    "event": "Moctezuma II becomes emperor, ruling the Aztec Empire at its territorial height."
+  },
+  {
+    "year": 1519,
+    "event": "Hernan Cortes lands on the Gulf Coast, founds Veracruz, and marches inland to Tenochtitlan."
+  },
+  {
+    "year": 1521,
+    "event": "The Spanish and indigenous allies conquer Tenochtitlan, ending the Aztec Empire and founding the colony of New Spain."
+  },
+  {
+    "year": 1531,
+    "event": "The reported apparitions of the Virgin of Guadalupe at Tepeyac become a central symbol of Mexican Catholicism and identity."
+  },
+  {
+    "year": 1535,
+    "event": "The Viceroyalty of New Spain is formally established with Antonio de Mendoza as the first viceroy."
+  },
+  {
+    "year": 1546,
+    "event": "Major silver deposits are discovered at Zacatecas, making mining the engine of New Spain's colonial economy."
+  },
+  {
+    "year": 1551,
+    "event": "The Royal and Pontifical University of Mexico is founded, among the first universities in the Americas."
+  },
+  {
+    "year": 1810,
+    "event": "Father Miguel Hidalgo issues the Grito de Dolores, launching the Mexican War of Independence."
+  },
+  {
+    "year": 1821,
+    "event": "Mexico achieves independence from Spain with the Treaty of Cordoba and the Plan of Iguala."
+  },
+  {
+    "year": 1824,
+    "event": "Mexico adopts a federal constitution, establishing the first Mexican Republic."
+  },
+  {
+    "year": 1836,
+    "event": "Texas declares independence from Mexico after the battles of the Alamo and San Jacinto."
+  },
+  {
+    "year": 1846,
+    "event": "The Mexican-American War begins following U.S. annexation of Texas and border disputes."
+  },
+  {
+    "year": 1848,
+    "event": "The Treaty of Guadalupe Hidalgo ends the war, ceding roughly half of Mexico's territory to the United States."
+  },
+  {
+    "year": 1857,
+    "event": "A liberal constitution enshrining individual rights and limiting Church power is promulgated, sparking the Reform War."
+  },
+  {
+    "year": 1862,
+    "event": "Mexican forces defeat the French army at the Battle of Puebla on May 5, commemorated as Cinco de Mayo."
+  },
+  {
+    "year": 1864,
+    "event": "France installs Maximilian of Habsburg as Emperor of Mexico during the French intervention."
+  },
+  {
+    "year": 1867,
+    "event": "Republican forces under Benito Juarez defeat and execute Maximilian, restoring the republic."
+  },
+  {
+    "year": 1876,
+    "event": "Porfirio Diaz seizes power, beginning the Porfiriato, a decades-long dictatorship of modernization and inequality."
+  },
+  {
+    "year": 1910,
+    "event": "The Mexican Revolution erupts as Francisco Madero challenges Diaz's rule."
+  },
+  {
+    "year": 1917,
+    "event": "A new constitution is enacted, introducing land reform, labor rights, and anticlerical and resource-nationalist provisions."
+  },
+  {
+    "year": 1920,
+    "event": "Alvaro Obregon's rise marks the end of the most violent phase of the revolution after roughly a million deaths."
+  },
+  {
+    "year": 1926,
+    "event": "The Cristero War breaks out as Catholics rebel against the government's enforcement of anticlerical laws."
+  },
+  {
+    "year": 1929,
+    "event": "The forerunner of the Institutional Revolutionary Party (PRI) is founded, beginning decades of one-party dominance."
+  },
+  {
+    "year": 1934,
+    "event": "President Lazaro Cardenas begins sweeping land redistribution and social reforms."
+  },
+  {
+    "year": 1938,
+    "event": "Cardenas nationalizes the oil industry, creating the state company Pemex."
+  },
+  {
+    "year": 1945,
+    "event": "Mexico becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1953,
+    "event": "Women gain the right to vote in national elections."
+  },
+  {
+    "year": 1968,
+    "event": "Mexico City hosts the Olympic Games shortly after the Tlatelolco massacre of student protesters."
+  },
+  {
+    "year": 1985,
+    "event": "A devastating earthquake strikes Mexico City, killing thousands and exposing government weaknesses."
+  },
+  {
+    "year": 1994,
+    "event": "NAFTA takes effect and the Zapatista uprising erupts in Chiapas on the same day, January 1."
+  },
+  {
+    "year": 2000,
+    "event": "Vicente Fox of the PAN wins the presidency, ending 71 years of continuous PRI rule."
+  },
+  {
+    "year": 2006,
+    "event": "President Felipe Calderon launches a militarized war on drug cartels, triggering years of violence."
+  },
+  {
+    "year": 2017,
+    "event": "A powerful earthquake again strikes central Mexico and Mexico City, killing hundreds."
+  },
+  {
+    "year": 2018,
+    "event": "Andres Manuel Lopez Obrador wins a landslide presidential victory, shifting power to the leftist Morena party."
+  },
+  {
+    "year": 2024,
+    "event": "Claudia Sheinbaum is elected as Mexico's first woman president."
+  }
 ]

@@ -1,13 +1,174 @@
 [
-  { "year": -5000, "event": "Earliest human presence on the island of Jamaica" },
-  { "year": -1000, "event": "Taíno societies establish agriculture and villages" },
-  { "year": 1494, "event": "Christopher Columbus reaches Jamaica" },
-  { "year": 1509, "event": "Spanish colonization of Jamaica begins" },
-  { "year": 1655, "event": "England captures Jamaica from Spain" },
-  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1739, "event": "Maroon treaties recognize escaped slave communities" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1865, "event": "Morant Bay Rebellion reshapes colonial governance" },
-  { "year": 1938, "event": "Labor uprisings lead to political reforms" },
-  { "year": 1962, "event": "Jamaica gains independence from the United Kingdom" }
+  {
+    "year": -4000,
+    "event": "Archaic hunter-gatherer peoples are believed to have first reached Jamaica from neighboring Caribbean islands."
+  },
+  {
+    "year": -600,
+    "event": "Redware-pottery Ostionoid (pre-Taino) peoples migrate to Jamaica, establishing the island's earliest ceramic-using settlements."
+  },
+  {
+    "year": 650,
+    "event": "Taino (Arawak) people, who called the island Xaymaca ('land of wood and water'), settle Jamaica and develop agricultural village societies."
+  },
+  {
+    "year": 1494,
+    "event": "Christopher Columbus lands on Jamaica during his second voyage, claiming the island for Spain."
+  },
+  {
+    "year": 1503,
+    "event": "Columbus is marooned and shipwrecked off Jamaica for about a year during his fourth voyage before being rescued."
+  },
+  {
+    "year": 1509,
+    "event": "Spain begins formal colonization of Jamaica, with Juan de Esquivel establishing the first settlement at Sevilla la Nueva."
+  },
+  {
+    "year": 1534,
+    "event": "The Spanish move their capital inland to Villa de la Vega, later known as Spanish Town."
+  },
+  {
+    "year": 1655,
+    "event": "An English expedition under Penn and Venables captures Jamaica from Spain during Oliver Cromwell's Western Design."
+  },
+  {
+    "year": 1660,
+    "event": "Spanish forces are finally expelled, and freed and escaped enslaved Africans form the early Maroon communities in the interior."
+  },
+  {
+    "year": 1670,
+    "event": "The Treaty of Madrid formally cedes Jamaica to England, ending Spanish claims to the island."
+  },
+  {
+    "year": 1692,
+    "event": "A massive earthquake destroys much of Port Royal, killing thousands and sinking part of the pirate-era city into the sea."
+  },
+  {
+    "year": 1739,
+    "event": "Britain signs a peace treaty with the Leeward Maroons under Cudjoe, granting them autonomy after the First Maroon War."
+  },
+  {
+    "year": 1760,
+    "event": "Tacky's Revolt, a major uprising of enslaved Africans, erupts in St. Mary parish and spreads across the island."
+  },
+  {
+    "year": 1795,
+    "event": "The Second Maroon War breaks out between the Trelawny Town Maroons and British colonial authorities."
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolishes the transatlantic slave trade, ending the legal importation of enslaved Africans to Jamaica."
+  },
+  {
+    "year": 1831,
+    "event": "The Baptist War (Christmas Rebellion), a large slave uprising led by Samuel Sharpe, is brutally suppressed."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is formally abolished under the Slavery Abolition Act, replaced temporarily by an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation is achieved as the apprenticeship system ends, freeing roughly 300,000 people."
+  },
+  {
+    "year": 1845,
+    "event": "Indentured laborers from India begin arriving to work on plantations following emancipation."
+  },
+  {
+    "year": 1865,
+    "event": "The Morant Bay Rebellion, led by Paul Bogle, is violently crushed, prompting Jamaica to become a Crown Colony."
+  },
+  {
+    "year": 1872,
+    "event": "Kingston replaces Spanish Town as the capital of Jamaica."
+  },
+  {
+    "year": 1907,
+    "event": "A devastating earthquake and fire strike Kingston, killing around 1,000 people and destroying much of the city."
+  },
+  {
+    "year": 1914,
+    "event": "Marcus Garvey founds the Universal Negro Improvement Association, launching a global Black nationalist movement."
+  },
+  {
+    "year": 1930,
+    "event": "The Rastafari movement emerges, inspired by Garveyism and the coronation of Haile Selassie I in Ethiopia."
+  },
+  {
+    "year": 1938,
+    "event": "Island-wide labor riots lead to the founding of trade unions and the People's National Party under Norman Manley."
+  },
+  {
+    "year": 1943,
+    "event": "The Jamaica Labour Party is founded by Alexander Bustamante, establishing the island's two-party political system."
+  },
+  {
+    "year": 1944,
+    "event": "A new constitution introduces universal adult suffrage and Jamaica's first elections under it."
+  },
+  {
+    "year": 1958,
+    "event": "Jamaica joins the West Indies Federation, a short-lived union of British Caribbean colonies."
+  },
+  {
+    "year": 1961,
+    "event": "Jamaican voters reject continued membership in the West Indies Federation in a national referendum."
+  },
+  {
+    "year": 1962,
+    "event": "Jamaica gains full independence from the United Kingdom on August 6 and joins the United Nations."
+  },
+  {
+    "year": 1972,
+    "event": "Michael Manley becomes prime minister, ushering in an era of democratic socialist policies."
+  },
+  {
+    "year": 1976,
+    "event": "Reggae star Bob Marley survives an assassination attempt amid intense political violence before an election."
+  },
+  {
+    "year": 1978,
+    "event": "Bob Marley headlines the One Love Peace Concert, uniting rival political leaders Michael Manley and Edward Seaga on stage."
+  },
+  {
+    "year": 1980,
+    "event": "Edward Seaga's JLP wins a landslide election after a year of severe political violence that killed hundreds."
+  },
+  {
+    "year": 1981,
+    "event": "Reggae icon Bob Marley dies of cancer, cementing his global cultural legacy."
+  },
+  {
+    "year": 1988,
+    "event": "Hurricane Gilbert devastates Jamaica, causing widespread destruction and billions in damage."
+  },
+  {
+    "year": 1992,
+    "event": "P. J. Patterson becomes Jamaica's first prime minister of fully African descent."
+  },
+  {
+    "year": 2004,
+    "event": "Hurricane Ivan causes severe damage across the island, killing several people and displacing thousands."
+  },
+  {
+    "year": 2006,
+    "event": "Portia Simpson-Miller becomes Jamaica's first female prime minister."
+  },
+  {
+    "year": 2008,
+    "event": "Sprinter Usain Bolt sets world records and wins multiple golds at the Beijing Olympics, becoming a national icon."
+  },
+  {
+    "year": 2010,
+    "event": "A state of emergency and deadly security operation in Tivoli Gardens targets drug lord Christopher 'Dudus' Coke."
+  },
+  {
+    "year": 2016,
+    "event": "Andrew Holness becomes prime minister after the JLP wins a narrow general election victory."
+  },
+  {
+    "year": 2024,
+    "event": "Hurricane Beryl strikes Jamaica as a powerful storm, causing significant damage along the coast."
+  }
 ]

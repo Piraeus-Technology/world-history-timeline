@@ -1,12 +1,190 @@
 [
-  { "year": -3000, "event": "Earliest human presence on the island of Barbados" },
-  { "year": 1200, "event": "Arawak and later Carib peoples inhabit the island" },
-  { "year": 1536, "event": "Portuguese sailors sight the island and name it Barbados" },
-  { "year": 1627, "event": "England establishes permanent settlement on Barbados" },
-  { "year": 1650, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1700, "event": "Barbados becomes one of Britain’s wealthiest Caribbean colonies" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1937, "event": "Labor unrest accelerates political reform movements" },
-  { "year": 1966, "event": "Barbados gains independence from the United Kingdom" },
-  { "year": 2021, "event": "Barbados becomes a republic, removing the British monarch as head of state" }
+  {
+    "year": -1600,
+    "event": "Early Archaic (Ortoiroid) peoples from South America become the first known human settlers on the island, leaving behind shell middens."
+  },
+  {
+    "year": 350,
+    "event": "Saladoid-Barrancoid agricultural and ceramic-making Arawak peoples migrate from the Orinoco region and settle the island."
+  },
+  {
+    "year": 800,
+    "event": "Arawak communities establish fishing and farming villages, cultivating cassava, cotton, and other crops across the island."
+  },
+  {
+    "year": 1200,
+    "event": "More warlike Kalinago (Carib) peoples arrive, displacing or absorbing the earlier Arawak inhabitants."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus's arrival in the Caribbean ushers in the era of European exploration that will soon reach Barbados."
+  },
+  {
+    "year": 1536,
+    "event": "Portuguese explorer Pedro a Campos reportedly visits the island and names it Os Barbados ('the bearded ones'), likely after the bearded fig trees."
+  },
+  {
+    "year": 1620,
+    "event": "By the early 17th century the island is found largely uninhabited, its indigenous population having departed amid Spanish slave raids and disease."
+  },
+  {
+    "year": 1625,
+    "event": "An English ship captained by John Powell lands and claims the uninhabited island in the name of King James I."
+  },
+  {
+    "year": 1627,
+    "event": "The first English settlers, led by Henry Powell, arrive at Holetown (then Jamestown) to establish a permanent colony."
+  },
+  {
+    "year": 1639,
+    "event": "The House of Assembly is established, making it one of the oldest continuous parliamentary bodies in the Western Hemisphere."
+  },
+  {
+    "year": 1640,
+    "event": "Sugar cane cultivation is introduced from Dutch Brazil, transforming the island's economy toward large plantations."
+  },
+  {
+    "year": 1644,
+    "event": "The expanding sugar economy drives a rapid shift to enslaved African labor as the foundation of the plantation system."
+  },
+  {
+    "year": 1652,
+    "event": "Barbados submits to Parliamentary forces in the English Civil War, securing the Charter of Barbados guaranteeing self-government rights."
+  },
+  {
+    "year": 1661,
+    "event": "The Barbados Slave Code is enacted, legalizing brutal control over enslaved Africans and serving as a model for slave laws across the British colonies."
+  },
+  {
+    "year": 1675,
+    "event": "A major slave rebellion plot is uncovered and violently suppressed by colonial authorities."
+  },
+  {
+    "year": 1751,
+    "event": "George Washington visits Barbados, his only trip outside what would become the United States."
+  },
+  {
+    "year": 1780,
+    "event": "The Great Hurricane of 1780 devastates the island, killing thousands and destroying plantations and towns."
+  },
+  {
+    "year": 1807,
+    "event": "The British Slave Trade Act abolishes the transatlantic slave trade, ending the legal importation of enslaved Africans."
+  },
+  {
+    "year": 1816,
+    "event": "Bussa's Rebellion, the island's largest slave uprising, is brutally crushed but becomes a defining symbol of resistance."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is formally abolished in the British Empire, with formerly enslaved people entering a forced 'apprenticeship' period in Barbados."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect as the apprenticeship system ends, freeing the remaining enslaved population."
+  },
+  {
+    "year": 1854,
+    "event": "A severe cholera epidemic sweeps the island, killing around 20,000 people."
+  },
+  {
+    "year": 1876,
+    "event": "The Confederation Riots erupt in opposition to a proposed federation with the Windward Islands."
+  },
+  {
+    "year": 1937,
+    "event": "Labour riots, sparked by economic hardship and the deportation of activist Clement Payne, lead to reforms and the rise of the trade union movement."
+  },
+  {
+    "year": 1938,
+    "event": "Grantley Adams founds the Barbados Labour Party, advancing the cause of workers and political reform."
+  },
+  {
+    "year": 1942,
+    "event": "Constitutional reforms expand the franchise and reduce property qualifications for voting."
+  },
+  {
+    "year": 1951,
+    "event": "Universal adult suffrage is granted, allowing all adults to vote regardless of property ownership."
+  },
+  {
+    "year": 1954,
+    "event": "Grantley Adams becomes the first Premier of Barbados under a new ministerial system of government."
+  },
+  {
+    "year": 1958,
+    "event": "Barbados joins the West Indies Federation, with Grantley Adams serving as its only Prime Minister."
+  },
+  {
+    "year": 1961,
+    "event": "Barbados attains full internal self-government, with Errol Barrow becoming Premier."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapses, prompting Barbados to pursue independence on its own."
+  },
+  {
+    "year": 1966,
+    "event": "Barbados gains independence from the United Kingdom on 30 November, with Errol Barrow as its first Prime Minister."
+  },
+  {
+    "year": 1967,
+    "event": "Barbados is admitted to the United Nations and joins the Organization of American States as an independent state."
+  },
+  {
+    "year": 1972,
+    "event": "Barbados establishes diplomatic relations with Cuba and other nations, asserting an independent foreign policy."
+  },
+  {
+    "year": 1973,
+    "event": "Barbados becomes a founding member of the Caribbean Community (CARICOM)."
+  },
+  {
+    "year": 1976,
+    "event": "Tom Adams leads the Barbados Labour Party to victory, becoming Prime Minister and ending the Democratic Labour Party's long rule."
+  },
+  {
+    "year": 1983,
+    "event": "Barbados supports and provides a staging base for the United States-led invasion of Grenada."
+  },
+  {
+    "year": 1987,
+    "event": "Errol Barrow, returned as Prime Minister, dies in office and is succeeded by Erskine Sandiford."
+  },
+  {
+    "year": 1994,
+    "event": "Owen Arthur becomes Prime Minister, beginning a long tenure marked by economic growth and tourism expansion."
+  },
+  {
+    "year": 1998,
+    "event": "A constitutional review commission recommends Barbados become a republic, signaling a long-term shift away from the monarchy."
+  },
+  {
+    "year": 2005,
+    "event": "The Caribbean Court of Justice is inaugurated with its seat in Bridgetown, replacing the British Privy Council for member states."
+  },
+  {
+    "year": 2008,
+    "event": "David Thompson leads the Democratic Labour Party to victory and becomes Prime Minister."
+  },
+  {
+    "year": 2010,
+    "event": "Prime Minister David Thompson dies in office and is succeeded by Freundel Stuart."
+  },
+  {
+    "year": 2011,
+    "event": "Historic Bridgetown and its Garrison are inscribed as a UNESCO World Heritage Site."
+  },
+  {
+    "year": 2018,
+    "event": "Mia Mottley becomes the first woman Prime Minister of Barbados after a landslide Barbados Labour Party victory."
+  },
+  {
+    "year": 2021,
+    "event": "Barbados becomes a parliamentary republic on 30 November, removing Queen Elizabeth II as head of state and installing Sandra Mason as its first President."
+  },
+  {
+    "year": 2022,
+    "event": "Mia Mottley wins re-election and gains international prominence for championing climate finance reform through the Bridgetown Initiative."
+  }
 ]

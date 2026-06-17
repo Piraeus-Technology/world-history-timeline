@@ -1,17 +1,170 @@
 [
-  { "year": -10000, "event": "Earliest human presence in present-day Nicaragua" },
-  { "year": -2000, "event": "Indigenous societies develop agriculture and lake-based settlements" },
-  { "year": 500, "event": "Mesoamerican cultural influence spreads into western Nicaragua" },
-  { "year": 1000, "event": "Chorotega and Nicarao peoples dominate the Pacific region" },
-  { "year": 1524, "event": "Spanish conquest of western Nicaragua begins" },
-  { "year": 1524, "event": "Granada is founded as a colonial city" },
-  { "year": 1525, "event": "León is founded as a colonial administrative center" },
-  { "year": 1600, "event": "Region develops as a colonial frontier between oceans" },
-  { "year": 1821, "event": "Nicaragua declares independence from Spain" },
-  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
-  { "year": 1838, "event": "Nicaragua becomes an independent republic" },
-  { "year": 1856, "event": "Filibuster William Walker briefly seizes power" },
-  { "year": 1909, "event": "Foreign intervention shapes national politics" },
-  { "year": 1979, "event": "Revolution overthrows long-standing dictatorship" },
-  { "year": 1990, "event": "Civil conflict ends and democratic transition begins" }
+  {
+    "year": -10000,
+    "event": "Paleo-Indian hunter-gatherers settle the Isthmus of Panama, leaving fluted projectile points at sites such as Lake La Yeguada and the Madden Lake region."
+  },
+  {
+    "year": -5000,
+    "event": "Early communities begin cultivating maize, manioc, and other crops, marking the shift toward settled agricultural life on the isthmus."
+  },
+  {
+    "year": -2500,
+    "event": "Ceramic-producing villages emerge, with Monagrillo on the Pacific coast yielding some of the oldest pottery known in the Americas."
+  },
+  {
+    "year": -200,
+    "event": "Chiefdom societies develop in central Panama, producing distinctive polychrome pottery and goldwork at sites like Sitio Conte."
+  },
+  {
+    "year": 700,
+    "event": "The Coclé culture flourishes, renowned for elaborate gold ornaments, painted ceramics, and richly furnished elite burials at Sitio Conte."
+  },
+  {
+    "year": 1501,
+    "event": "Spanish explorer Rodrigo de Bastidas becomes the first European to sail along Panama's Caribbean coast."
+  },
+  {
+    "year": 1502,
+    "event": "Christopher Columbus, on his fourth voyage, explores the Caribbean coast and attempts to found a settlement at Belén."
+  },
+  {
+    "year": 1510,
+    "event": "Santa María la Antigua del Darién is founded, becoming one of the first permanent European settlements on the American mainland."
+  },
+  {
+    "year": 1513,
+    "event": "Vasco Núñez de Balboa crosses the isthmus and becomes the first European to sight the Pacific Ocean from the Americas, claiming it for Spain."
+  },
+  {
+    "year": 1519,
+    "event": "Pedro Arias Dávila founds Panama City on the Pacific coast, which becomes a key hub for Spanish exploration and trade."
+  },
+  {
+    "year": 1538,
+    "event": "The Audiencia of Panama is established, organizing Spanish colonial administration over the isthmus."
+  },
+  {
+    "year": 1671,
+    "event": "Welsh privateer Henry Morgan sacks and burns Panama City, forcing its relocation a few kilometers west to its present site."
+  },
+  {
+    "year": 1698,
+    "event": "Scotland launches the ill-fated Darién colonial scheme, which collapses within two years amid disease and Spanish hostility."
+  },
+  {
+    "year": 1739,
+    "event": "Panama is incorporated into the Viceroyalty of New Granada, shifting its administration toward Bogotá."
+  },
+  {
+    "year": 1821,
+    "event": "Panama declares independence from Spain and voluntarily joins Simón Bolívar's Gran Colombia."
+  },
+  {
+    "year": 1826,
+    "event": "Panama City hosts the Congress of Panama, Bolívar's pioneering effort to unite the newly independent Latin American republics."
+  },
+  {
+    "year": 1831,
+    "event": "Following the dissolution of Gran Colombia, Panama remains part of the Republic of New Granada, later Colombia."
+  },
+  {
+    "year": 1846,
+    "event": "The Mallarino-Bidlack Treaty grants the United States transit rights across the isthmus in exchange for guaranteeing Colombian sovereignty."
+  },
+  {
+    "year": 1855,
+    "event": "The Panama Railroad opens, becoming the first transcontinental railway and a major route for travelers during the California Gold Rush."
+  },
+  {
+    "year": 1881,
+    "event": "A French company led by Ferdinand de Lesseps begins construction of a sea-level canal across Panama."
+  },
+  {
+    "year": 1889,
+    "event": "The French canal effort collapses amid massive financial losses and tens of thousands of deaths from malaria and yellow fever."
+  },
+  {
+    "year": 1903,
+    "event": "Panama declares independence from Colombia with U.S. backing and signs the Hay-Bunau-Varilla Treaty granting the U.S. control of a Canal Zone."
+  },
+  {
+    "year": 1904,
+    "event": "The United States begins construction of the Panama Canal after taking over the French concession."
+  },
+  {
+    "year": 1914,
+    "event": "The Panama Canal opens to maritime traffic, transforming global trade and shipping routes."
+  },
+  {
+    "year": 1925,
+    "event": "The Guna people of the San Blas islands stage a revolt against forced assimilation, leading to recognition of their autonomy."
+  },
+  {
+    "year": 1931,
+    "event": "The nationalist Acción Comunal group overthrows the government in Panama's first coup d'état."
+  },
+  {
+    "year": 1941,
+    "event": "President Arnulfo Arias is ousted in a coup shortly after promulgating a new nationalist constitution."
+  },
+  {
+    "year": 1945,
+    "event": "Panama becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1964,
+    "event": "Anti-American riots over flag rights in the Canal Zone, known as Martyrs' Day, leave more than twenty Panamanians dead."
+  },
+  {
+    "year": 1968,
+    "event": "The National Guard, led by Omar Torrijos, seizes power in a coup, beginning years of military-dominated rule."
+  },
+  {
+    "year": 1977,
+    "event": "Omar Torrijos and U.S. President Jimmy Carter sign the Torrijos-Carter Treaties, agreeing to transfer the canal to Panama by 1999."
+  },
+  {
+    "year": 1981,
+    "event": "General Omar Torrijos dies in a plane crash, opening a power struggle within the military."
+  },
+  {
+    "year": 1983,
+    "event": "Manuel Noriega consolidates control over the Panama Defense Forces and becomes the country's de facto ruler."
+  },
+  {
+    "year": 1989,
+    "event": "The United States invades Panama in Operation Just Cause, ousting Manuel Noriega, who is later convicted on drug trafficking charges."
+  },
+  {
+    "year": 1994,
+    "event": "Panama abolishes its standing army through a constitutional amendment."
+  },
+  {
+    "year": 1999,
+    "event": "Panama assumes full control of the Panama Canal as the United States completes the handover, and Mireya Moscoso becomes its first female president."
+  },
+  {
+    "year": 2000,
+    "event": "Panama takes over administration of the former Canal Zone, integrating its lands and ports into the national economy."
+  },
+  {
+    "year": 2006,
+    "event": "Panamanians approve a referendum to expand the canal with a new, larger set of locks."
+  },
+  {
+    "year": 2014,
+    "event": "Panama City opens Central America's first metro system, easing chronic urban congestion."
+  },
+  {
+    "year": 2016,
+    "event": "The expanded Panama Canal opens, doubling capacity, while the Panama Papers leak exposes the country's offshore financial industry."
+  },
+  {
+    "year": 2023,
+    "event": "Mass protests and a Supreme Court ruling lead to the closure of the major Cobre Panamá copper mine over environmental and sovereignty concerns."
+  },
+  {
+    "year": 2024,
+    "event": "José Raúl Mulino wins the presidency, while a historic drought reduces Panama Canal water levels and limits ship transits."
+  }
 ]

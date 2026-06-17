@@ -1,14 +1,166 @@
 [
-  { "year": -7000, "event": "Earliest human presence on Trinidad and Tobago" },
-  { "year": -1000, "event": "Arawak and Carib peoples settle the islands" },
-  { "year": 1498, "event": "Christopher Columbus sights Trinidad" },
-  { "year": 1592, "event": "Spain establishes permanent settlement on Trinidad" },
-  { "year": 1797, "event": "Britain captures Trinidad from Spain" },
-  { "year": 1802, "event": "Trinidad is formally ceded to Britain" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1845, "event": "Indentured labor immigration begins from India" },
-  { "year": 1889, "event": "Trinidad and Tobago are administratively united" },
-  { "year": 1937, "event": "Labor movements drive political reforms" },
-  { "year": 1962, "event": "Trinidad and Tobago gains independence from the United Kingdom" },
-  { "year": 1976, "event": "Republic is proclaimed, ending ties to the British monarchy" }
+  {
+    "year": -5000,
+    "event": "Archaic-period peoples, among the earliest known inhabitants of the Caribbean, settle Trinidad as evidenced by sites such as Banwari Trace."
+  },
+  {
+    "year": -250,
+    "event": "Saladoid Arawak-speaking agriculturalists migrate from South America, introducing pottery, cassava cultivation, and village life to Trinidad."
+  },
+  {
+    "year": 1000,
+    "event": "Distinct indigenous groups including the Nepoya, Suppoya, and Yao live in Trinidad, with Carib-speaking peoples also present in the region."
+  },
+  {
+    "year": 1498,
+    "event": "Christopher Columbus reaches Trinidad on his third voyage on 31 July, naming the island and sighting Tobago from a distance."
+  },
+  {
+    "year": 1530,
+    "event": "Spain attempts early colonization of Trinidad, but settlement efforts repeatedly fail amid indigenous resistance."
+  },
+  {
+    "year": 1592,
+    "event": "Domingo de Vera founds San Jose de Oruna (Saint Joseph), the first permanent Spanish town and capital of Trinidad."
+  },
+  {
+    "year": 1595,
+    "event": "English captain Sir Walter Raleigh attacks and burns Saint Joseph while exploring the Orinoco region in search of El Dorado."
+  },
+  {
+    "year": 1632,
+    "event": "Dutch settlers establish a colony on Tobago, beginning a long period of contested European control over the island."
+  },
+  {
+    "year": 1687,
+    "event": "Capuchin missionaries begin establishing Catholic missions among Trinidad's indigenous population under Spanish rule."
+  },
+  {
+    "year": 1699,
+    "event": "Amerindians at the Arena mission revolt and kill Spanish priests and the governor, after which the rebellion is brutally suppressed."
+  },
+  {
+    "year": 1783,
+    "event": "The Spanish Crown issues the Cedula of Population, inviting Catholic settlers and their enslaved Africans, transforming Trinidad's economy and demographics."
+  },
+  {
+    "year": 1797,
+    "event": "A British expedition under Sir Ralph Abercromby captures Trinidad from Spain, which surrenders without major resistance."
+  },
+  {
+    "year": 1802,
+    "event": "The Treaty of Amiens formally cedes Trinidad to Britain, making it a British colony."
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolishes the transatlantic slave trade, curbing the importation of enslaved Africans into Trinidad."
+  },
+  {
+    "year": 1814,
+    "event": "Tobago is ceded to Britain by France under the Treaty of Paris, ending decades of shifting European control."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished throughout the British Empire, with an apprenticeship system imposed on the formerly enslaved in Trinidad and Tobago."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect as the apprenticeship system ends, freeing the remaining enslaved population."
+  },
+  {
+    "year": 1845,
+    "event": "The first indentured laborers from India arrive aboard the Fatel Razack to work Trinidad's sugar plantations."
+  },
+  {
+    "year": 1866,
+    "event": "Tobago becomes part of the Windward Islands colonial administration as its sugar economy declines."
+  },
+  {
+    "year": 1889,
+    "event": "Trinidad and Tobago are administratively united into a single British Crown Colony."
+  },
+  {
+    "year": 1903,
+    "event": "The Water Riots erupt in Port of Spain over water-rate restrictions, ending with the burning of the Red House."
+  },
+  {
+    "year": 1917,
+    "event": "Indian indentured immigration to Trinidad is ended after decades that reshaped the colony's population and culture."
+  },
+  {
+    "year": 1919,
+    "event": "A major dockworkers' strike and labor unrest spread across Trinidad in the aftermath of World War I."
+  },
+  {
+    "year": 1937,
+    "event": "Widespread labor riots led by oilfield workers under Tubal Uriah Butler shake the colony and spur the rise of trade unions."
+  },
+  {
+    "year": 1941,
+    "event": "The United States establishes military bases at Chaguaramas and elsewhere under a wartime lease arrangement with Britain."
+  },
+  {
+    "year": 1956,
+    "event": "Eric Williams founds the People's National Movement, which goes on to dominate Trinidad and Tobago's politics."
+  },
+  {
+    "year": 1958,
+    "event": "Trinidad and Tobago joins the West Indies Federation, with Port of Spain serving as the federal capital."
+  },
+  {
+    "year": 1962,
+    "event": "Trinidad and Tobago gains independence from Britain on 31 August with Eric Williams as the first prime minister, and joins the United Nations."
+  },
+  {
+    "year": 1970,
+    "event": "The Black Power movement and a mutiny within the Defence Force lead to a state of emergency as social tensions peak."
+  },
+  {
+    "year": 1976,
+    "event": "Trinidad and Tobago becomes a republic, replacing the British monarch with a president as head of state."
+  },
+  {
+    "year": 1981,
+    "event": "Prime Minister Eric Williams dies in office after nearly 25 years leading the nation."
+  },
+  {
+    "year": 1986,
+    "event": "The National Alliance for Reconstruction wins elections, ending three decades of unbroken People's National Movement rule."
+  },
+  {
+    "year": 1990,
+    "event": "Members of the Jamaat al Muslimeen stage a violent coup attempt, holding the prime minister and parliament hostage for six days."
+  },
+  {
+    "year": 1995,
+    "event": "Basdeo Panday becomes the country's first prime minister of Indian descent after the United National Congress wins power."
+  },
+  {
+    "year": 2001,
+    "event": "Tobago gains expanded self-government autonomy through reforms to the Tobago House of Assembly."
+  },
+  {
+    "year": 2007,
+    "event": "Trinidad and Tobago co-hosts the Cricket World Cup, showcasing its sporting and cultural prominence in the Caribbean."
+  },
+  {
+    "year": 2010,
+    "event": "Kamla Persad-Bissessar becomes the nation's first female prime minister at the head of a People's Partnership coalition."
+  },
+  {
+    "year": 2015,
+    "event": "The People's National Movement under Keith Rowley returns to power in general elections."
+  },
+  {
+    "year": 2018,
+    "event": "Paula-Mae Weekes is inaugurated as the country's first female president."
+  },
+  {
+    "year": 2020,
+    "event": "The COVID-19 pandemic prompts border closures and public-health measures across Trinidad and Tobago."
+  },
+  {
+    "year": 2025,
+    "event": "Kamla Persad-Bissessar returns as prime minister after the United National Congress wins general elections."
+  }
 ]

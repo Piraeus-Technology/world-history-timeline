@@ -1,13 +1,178 @@
 [
-  { "year": -9000, "event": "Earliest human presence in present-day Belize" },
-  { "year": -2000, "event": "Early Maya communities develop agriculture and villages" },
-  { "year": 250, "event": "Classic Maya civilization flourishes with major cities and temples" },
-  { "year": 900, "event": "Collapse of Classic Maya city-states in the lowlands" },
-  { "year": 1502, "event": "Spanish explorers reach the Belizean coast" },
-  { "year": 1638, "event": "English settlers establish logging camps along the coast" },
-  { "year": 1700, "event": "British logwood and mahogany trade expands inland" },
-  { "year": 1798, "event": "Battle of St. George’s Caye secures British control" },
-  { "year": 1862, "event": "British Honduras becomes a formal British colony" },
-  { "year": 1954, "event": "Self-government movement gains momentum" },
-  { "year": 1981, "event": "Belize gains independence from the United Kingdom" }
+  {
+    "year": -9000,
+    "event": "Paleo-Indian hunter-gatherers occupy the region, marking the earliest known human presence in present-day Belize."
+  },
+  {
+    "year": -2000,
+    "event": "Early Maya communities such as Cuello establish permanent farming villages, beginning the long Preclassic occupation."
+  },
+  {
+    "year": -1000,
+    "event": "Maya populations grow with maize agriculture, pottery, and trade networks spreading across the lowlands."
+  },
+  {
+    "year": -250,
+    "event": "Maya ceremonial centers like Lamanai and Cerros develop monumental architecture and regional trade."
+  },
+  {
+    "year": 250,
+    "event": "The Classic Maya period begins, with city-states such as Caracol and Xunantunich rising to prominence."
+  },
+  {
+    "year": 562,
+    "event": "Caracol defeats the powerful city of Tikal, marking the height of Belizean Maya political and military influence."
+  },
+  {
+    "year": 900,
+    "event": "The Classic Maya collapse leaves many great cities abandoned, though sites like Lamanai remain occupied for centuries."
+  },
+  {
+    "year": 1502,
+    "event": "Christopher Columbus sails along the Bay of Honduras during his fourth voyage, the first European contact with the region."
+  },
+  {
+    "year": 1638,
+    "event": "Shipwrecked English sailors and buccaneers begin settling the coast to cut logwood, founding the earliest European settlement."
+  },
+  {
+    "year": 1670,
+    "event": "The Treaty of Madrid between England and Spain seeks to curb piracy, indirectly affecting the British logwood cutters known as Baymen."
+  },
+  {
+    "year": 1716,
+    "event": "British Baymen expand logwood cutting operations despite Spanish claims of sovereignty over the territory."
+  },
+  {
+    "year": 1763,
+    "event": "The Treaty of Paris grants British settlers the right to cut logwood while affirming Spanish sovereignty over the land."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Versailles confirms British logwood-cutting rights and defines settlement boundaries between the Hondo and Belize rivers."
+  },
+  {
+    "year": 1786,
+    "event": "The Convention of London extends British cutting rights to mahogany, deepening a timber economy reliant on enslaved Africans."
+  },
+  {
+    "year": 1798,
+    "event": "The Baymen and their enslaved laborers defeat a Spanish naval force at the Battle of St. George's Caye, securing British control."
+  },
+  {
+    "year": 1838,
+    "event": "Slavery is fully abolished following emancipation across the British Empire, ending forced labor in the timber camps."
+  },
+  {
+    "year": 1847,
+    "event": "The Caste War of Yucatán drives thousands of Maya and Mestizo refugees south into northern British Honduras, reshaping its population."
+  },
+  {
+    "year": 1859,
+    "event": "Britain and Guatemala sign a boundary treaty, the source of a territorial dispute that persists into the modern era."
+  },
+  {
+    "year": 1862,
+    "event": "The settlement is formally declared the colony of British Honduras, administered under the Governor of Jamaica."
+  },
+  {
+    "year": 1871,
+    "event": "British Honduras becomes a Crown Colony with its own legislative council under direct British rule."
+  },
+  {
+    "year": 1884,
+    "event": "British Honduras is separated administratively from Jamaica and given its own governor."
+  },
+  {
+    "year": 1931,
+    "event": "A devastating hurricane strikes Belize Town, killing more than a thousand people and destroying much of the capital."
+  },
+  {
+    "year": 1934,
+    "event": "Economic hardship during the Great Depression sparks labor unrest and the rise of an early nationalist and workers' movement."
+  },
+  {
+    "year": 1950,
+    "event": "The People's United Party is founded under George Price, launching the modern movement for self-government and independence."
+  },
+  {
+    "year": 1954,
+    "event": "A new constitution introduces universal adult suffrage, and the People's United Party wins the colony's first elections under it."
+  },
+  {
+    "year": 1961,
+    "event": "Hurricane Hattie devastates Belize City, prompting plans to build a new inland capital."
+  },
+  {
+    "year": 1964,
+    "event": "British Honduras attains full internal self-government, with George Price becoming the first Premier."
+  },
+  {
+    "year": 1970,
+    "event": "The newly built city of Belmopan becomes the official capital, replacing the hurricane-prone Belize City."
+  },
+  {
+    "year": 1973,
+    "event": "The colony is renamed Belize, reflecting a growing national identity ahead of independence."
+  },
+  {
+    "year": 1975,
+    "event": "Belize secures United Nations support affirming its right to independence and territorial integrity against Guatemalan claims."
+  },
+  {
+    "year": 1981,
+    "event": "Belize gains full independence from the United Kingdom on 21 September, with George Price as its first Prime Minister."
+  },
+  {
+    "year": 1981,
+    "event": "Belize is admitted as a member state of the United Nations shortly after achieving independence."
+  },
+  {
+    "year": 1984,
+    "event": "The United Democratic Party wins the first post-independence general election, with Manuel Esquivel becoming Prime Minister."
+  },
+  {
+    "year": 1991,
+    "event": "Guatemala formally recognizes Belize's independence, easing decades of territorial tension."
+  },
+  {
+    "year": 1994,
+    "event": "British military forces withdraw from Belize, ending the long-standing defense guarantee against Guatemala."
+  },
+  {
+    "year": 1996,
+    "event": "The Belize Barrier Reef Reserve System is inscribed as a UNESCO World Heritage Site, recognizing its global ecological importance."
+  },
+  {
+    "year": 1998,
+    "event": "Said Musa leads the People's United Party to a landslide election victory and becomes Prime Minister."
+  },
+  {
+    "year": 2000,
+    "event": "Belize and Guatemala begin an Organization of American States process to seek a peaceful resolution to their border dispute."
+  },
+  {
+    "year": 2008,
+    "event": "Dean Barrow becomes Belize's first Black Prime Minister after the United Democratic Party wins the general election."
+  },
+  {
+    "year": 2017,
+    "event": "Belize bans offshore oil drilling in its territorial waters to protect the barrier reef ecosystem."
+  },
+  {
+    "year": 2018,
+    "event": "UNESCO removes the Belize Barrier Reef from its List of World Heritage in Danger after major conservation gains."
+  },
+  {
+    "year": 2019,
+    "event": "Belizean voters approve in a referendum taking the territorial dispute with Guatemala to the International Court of Justice."
+  },
+  {
+    "year": 2020,
+    "event": "John Briceño leads the People's United Party to victory, becoming Prime Minister amid the COVID-19 pandemic's economic impact."
+  },
+  {
+    "year": 2021,
+    "event": "Belize completes a landmark debt-for-nature swap, restructuring its sovereign debt to fund marine conservation."
+  }
 ]

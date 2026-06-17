@@ -1,12 +1,182 @@
 [
-  { "year": -5000, "event": "Earliest human presence in the Bahamas" },
-  { "year": 800, "event": "Lucayan Taíno people settle the islands" },
-  { "year": 1492, "event": "Christopher Columbus makes first landfall in the Americas" },
-  { "year": 1648, "event": "English settlers establish first permanent colony" },
-  { "year": 1700, "event": "Piracy flourishes across the Bahamian islands" },
-  { "year": 1718, "event": "British crown restores control and suppresses piracy" },
-  { "year": 1783, "event": "Loyalist settlers arrive after the American Revolution" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1964, "event": "Internal self-government is achieved" },
-  { "year": 1973, "event": "The Bahamas gains independence from the United Kingdom" }
+  {
+    "year": -700,
+    "event": "The Lucayan people, an Arawakan-speaking branch of the Taino, begin migrating from Hispaniola and Cuba to settle the islands of the Bahamas."
+  },
+  {
+    "year": 800,
+    "event": "Lucayan settlement expands across the archipelago, with communities supported by fishing, conch harvesting, and the cultivation of cassava."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus makes his first New World landfall on a Bahamian island the Lucayans called Guanahani, which he named San Salvador, initiating European contact."
+  },
+  {
+    "year": 1513,
+    "event": "Juan Ponce de Leon passes through the Bahamas during his search for Bimini and the fabled fountain of youth."
+  },
+  {
+    "year": 1520,
+    "event": "Spanish slave raids deport the Lucayan population to work in mines and pearl fisheries, effectively depopulating the islands within a few decades."
+  },
+  {
+    "year": 1648,
+    "event": "English Puritan settlers known as the Eleutheran Adventurers, led by William Sayle, establish a colony on Eleuthera seeking religious freedom."
+  },
+  {
+    "year": 1670,
+    "event": "King Charles II grants the Bahamas to the Lords Proprietors of Carolina, formalizing English claims to the islands."
+  },
+  {
+    "year": 1684,
+    "event": "Spanish forces from Cuba attack and destroy the English settlement at Charles Town on New Providence in retaliation for piracy."
+  },
+  {
+    "year": 1696,
+    "event": "The settlement of Charles Town is renamed Nassau in honor of King William III of the House of Orange-Nassau."
+  },
+  {
+    "year": 1706,
+    "event": "Pirates effectively control Nassau, turning New Providence into a notorious base during the golden age of piracy."
+  },
+  {
+    "year": 1718,
+    "event": "Woodes Rogers arrives as the first royal governor and suppresses piracy under the motto 'Expulsis Piratis, Restituta Commercia.'"
+  },
+  {
+    "year": 1729,
+    "event": "The first Bahamian colonial assembly meets in Nassau, establishing representative government in the islands."
+  },
+  {
+    "year": 1776,
+    "event": "American Continental Navy forces briefly seize Nassau during the American Revolutionary War to capture military stores."
+  },
+  {
+    "year": 1782,
+    "event": "Spanish forces capture Nassau and occupy the Bahamas near the end of the American Revolutionary War."
+  },
+  {
+    "year": 1783,
+    "event": "Loyalist Andrew Deveaux recaptures Nassau, and the Treaty of Paris formally restores the Bahamas to British control."
+  },
+  {
+    "year": 1784,
+    "event": "American Loyalists fleeing the new United States arrive with enslaved people, expanding cotton plantation agriculture across the islands."
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolishes the transatlantic slave trade, after which the Royal Navy resettles liberated Africans in the Bahamas."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished throughout the British Empire, emancipating enslaved people in the Bahamas under an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect as the apprenticeship system ends, freeing the formerly enslaved Bahamian population."
+  },
+  {
+    "year": 1861,
+    "event": "Nassau becomes a major blockade-running hub supplying the Confederacy during the American Civil War, bringing a brief economic boom."
+  },
+  {
+    "year": 1866,
+    "event": "A devastating hurricane strikes the islands, causing severe damage as the Civil War economic boom collapses."
+  },
+  {
+    "year": 1898,
+    "event": "Henry Flagler opens the Hotel Colonial in Nassau, launching the Bahamas as a winter tourist destination for wealthy Americans."
+  },
+  {
+    "year": 1920,
+    "event": "American Prohibition turns the Bahamas into a bootlegging center, fueling a liquor-smuggling boom centered on Nassau and Bimini."
+  },
+  {
+    "year": 1929,
+    "event": "Pan American Airways begins air service to Nassau, opening regular air links between the Bahamas and the United States."
+  },
+  {
+    "year": 1940,
+    "event": "The Duke of Windsor, the former King Edward VIII, becomes Governor of the Bahamas during the Second World War."
+  },
+  {
+    "year": 1942,
+    "event": "The Burma Road riot erupts in Nassau as Black laborers protest unequal wages on wartime airfield construction projects."
+  },
+  {
+    "year": 1953,
+    "event": "The Progressive Liberal Party is founded, mobilizing the Black majority against the white minority Bay Street merchant elite."
+  },
+  {
+    "year": 1958,
+    "event": "A general strike led by labor leader Randol Fawkes paralyzes Nassau and accelerates demands for political and economic reform."
+  },
+  {
+    "year": 1962,
+    "event": "Women win the right to vote in the Bahamas, a major milestone achieved through the suffrage movement."
+  },
+  {
+    "year": 1964,
+    "event": "The Bahamas gains internal self-government under a new constitution while remaining a British colony."
+  },
+  {
+    "year": 1967,
+    "event": "The Progressive Liberal Party under Lynden Pindling wins power, marking the first Black majority government in Bahamian history."
+  },
+  {
+    "year": 1969,
+    "event": "The colony's name is formally changed to the Commonwealth of the Bahamas, reflecting expanded self-rule."
+  },
+  {
+    "year": 1973,
+    "event": "The Bahamas achieves full independence from the United Kingdom on July 10 with Lynden Pindling as the first prime minister."
+  },
+  {
+    "year": 1973,
+    "event": "The Bahamas is admitted to the United Nations as a sovereign member state."
+  },
+  {
+    "year": 1974,
+    "event": "The Bahamas joins the Organization of American States, deepening its regional diplomatic engagement."
+  },
+  {
+    "year": 1983,
+    "event": "An international drug-trafficking scandal implicates senior government figures, tarnishing the Pindling administration."
+  },
+  {
+    "year": 1992,
+    "event": "Hubert Ingraham and the Free National Movement defeat the PLP, ending Lynden Pindling's 25 years in power."
+  },
+  {
+    "year": 1999,
+    "event": "Hurricane Floyd causes extensive damage across the northern Bahamas, prompting major relief and rebuilding efforts."
+  },
+  {
+    "year": 2002,
+    "event": "Perry Christie leads the PLP back to power, winning the general election after a decade in opposition."
+  },
+  {
+    "year": 2012,
+    "event": "Bahamian sprinters and the men's relay team win Olympic medals in London, boosting the nation's athletic prestige."
+  },
+  {
+    "year": 2015,
+    "event": "The cargo ship El Faro sinks near the Bahamas during Hurricane Joaquin, killing all 33 crew in a major maritime disaster."
+  },
+  {
+    "year": 2017,
+    "event": "Hubert Minnis and the Free National Movement win a landslide election victory over Perry Christie's PLP."
+  },
+  {
+    "year": 2019,
+    "event": "Hurricane Dorian, a catastrophic Category 5 storm, devastates Abaco and Grand Bahama, killing dozens and displacing thousands."
+  },
+  {
+    "year": 2020,
+    "event": "The Bahamas launches the Sand Dollar, becoming one of the first countries to issue a nationwide central bank digital currency."
+  },
+  {
+    "year": 2021,
+    "event": "Philip Davis leads the PLP to victory in a snap election held amid the COVID-19 pandemic, becoming prime minister."
+  }
 ]

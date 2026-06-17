@@ -1,16 +1,214 @@
 [
-  { "year": -14000, "event": "Earliest human presence in present-day Canada after Ice Age retreat" },
-  { "year": -3000, "event": "Indigenous cultures develop across Arctic, Plains, and woodlands" },
-  { "year": 1000, "event": "Norse establish a short-lived settlement in Newfoundland" },
-  { "year": 1497, "event": "John Cabot reaches Atlantic Canada for England" },
-  { "year": 1534, "event": "Jacques Cartier explores the St. Lawrence River" },
-  { "year": 1608, "event": "Quebec City is founded as New France’s capital" },
-  { "year": 1670, "event": "Hudson’s Bay Company is chartered, shaping fur trade routes" },
-  { "year": 1759, "event": "British defeat French forces at the Battle of Quebec" },
-  { "year": 1763, "event": "France cedes Canada to Britain under the Treaty of Paris" },
-  { "year": 1812, "event": "War of 1812 reinforces separation from the United States" },
-  { "year": 1867, "event": "Canadian Confederation creates a self-governing dominion" },
-  { "year": 1885, "event": "Canadian Pacific Railway links the country coast to coast" },
-  { "year": 1931, "event": "Statute of Westminster grants full legislative independence" },
-  { "year": 1982, "event": "Constitution is patriated, completing legal independence" }
+  {
+    "year": -14000,
+    "event": "Paleo-Indian peoples migrate into North America, with early human settlement reaching what is now Canada via the Bering land bridge and ice-free corridors."
+  },
+  {
+    "year": -9000,
+    "event": "Distinct Indigenous cultures develop across the land as hunting societies adapt to the post-glacial environment."
+  },
+  {
+    "year": -3000,
+    "event": "The Maritime Archaic and Pre-Dorset cultures flourish in the eastern and Arctic regions."
+  },
+  {
+    "year": -500,
+    "event": "The Dorset culture emerges across the Canadian Arctic, known for distinctive carvings and ivory work."
+  },
+  {
+    "year": 1000,
+    "event": "Norse explorer Leif Erikson establishes a short-lived settlement at L'Anse aux Meadows in Newfoundland, the first known European presence in the Americas."
+  },
+  {
+    "year": 1200,
+    "event": "The Thule people, ancestors of the modern Inuit, spread across the Arctic, displacing the Dorset culture."
+  },
+  {
+    "year": 1497,
+    "event": "John Cabot, sailing for England, explores the Atlantic coast and lays the basis for later English claims to North America."
+  },
+  {
+    "year": 1534,
+    "event": "Jacques Cartier claims the Gaspe Peninsula for France, beginning French exploration of the St. Lawrence region."
+  },
+  {
+    "year": 1583,
+    "event": "Humphrey Gilbert claims Newfoundland for England, establishing one of the earliest English overseas possessions."
+  },
+  {
+    "year": 1605,
+    "event": "Samuel de Champlain helps found Port-Royal in Acadia, an early permanent French settlement."
+  },
+  {
+    "year": 1608,
+    "event": "Samuel de Champlain founds Quebec City, establishing the heart of New France."
+  },
+  {
+    "year": 1610,
+    "event": "Henry Hudson explores Hudson Bay, opening the region to later fur-trade activity."
+  },
+  {
+    "year": 1642,
+    "event": "Ville-Marie, the settlement that becomes Montreal, is founded as a French missionary outpost."
+  },
+  {
+    "year": 1670,
+    "event": "King Charles II charters the Hudson's Bay Company, granting it trading rights over the vast Rupert's Land watershed."
+  },
+  {
+    "year": 1713,
+    "event": "The Treaty of Utrecht cedes Acadia, Newfoundland, and Hudson Bay territories to Britain."
+  },
+  {
+    "year": 1755,
+    "event": "British authorities begin the deportation of the Acadians, expelling thousands of French settlers from the Maritimes."
+  },
+  {
+    "year": 1759,
+    "event": "British forces defeat the French at the Battle of the Plains of Abraham, leading to the fall of Quebec City."
+  },
+  {
+    "year": 1763,
+    "event": "The Treaty of Paris ends the Seven Years' War, transferring New France to Britain, while the Royal Proclamation recognizes Indigenous land rights."
+  },
+  {
+    "year": 1774,
+    "event": "The Quebec Act guarantees French Canadians religious and civil-law rights, helping secure their loyalty during the American Revolution."
+  },
+  {
+    "year": 1783,
+    "event": "Tens of thousands of United Empire Loyalists flee the newly independent United States and settle in British North America."
+  },
+  {
+    "year": 1791,
+    "event": "The Constitutional Act divides Quebec into Upper Canada and Lower Canada, each with its own legislature."
+  },
+  {
+    "year": 1812,
+    "event": "The War of 1812 begins, with American invasions repelled and key battles shaping a sense of Canadian identity."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished throughout the British Empire, ending legal slavery in British North America."
+  },
+  {
+    "year": 1837,
+    "event": "Rebellions break out in Upper and Lower Canada, demanding responsible government and political reform."
+  },
+  {
+    "year": 1840,
+    "event": "The Act of Union merges Upper and Lower Canada into the single Province of Canada."
+  },
+  {
+    "year": 1848,
+    "event": "Responsible government is achieved in the Province of Canada and Nova Scotia, giving elected assemblies control over domestic affairs."
+  },
+  {
+    "year": 1867,
+    "event": "The British North America Act creates the Dominion of Canada by uniting Ontario, Quebec, New Brunswick, and Nova Scotia."
+  },
+  {
+    "year": 1869,
+    "event": "The Red River Resistance led by Louis Riel asserts Metis rights amid the transfer of Rupert's Land to Canada."
+  },
+  {
+    "year": 1870,
+    "event": "Manitoba enters Confederation, and the Northwest Territories are added to the new nation."
+  },
+  {
+    "year": 1871,
+    "event": "British Columbia joins Confederation after being promised a transcontinental railway."
+  },
+  {
+    "year": 1873,
+    "event": "Prince Edward Island joins Confederation, and the North-West Mounted Police are established."
+  },
+  {
+    "year": 1885,
+    "event": "The Canadian Pacific Railway is completed, and the North-West Rebellion ends with Louis Riel's execution."
+  },
+  {
+    "year": 1898,
+    "event": "The Klondike Gold Rush peaks in the Yukon, which becomes a separate territory."
+  },
+  {
+    "year": 1905,
+    "event": "Alberta and Saskatchewan are created as provinces from the Northwest Territories."
+  },
+  {
+    "year": 1914,
+    "event": "Canada enters World War I alongside Britain, sending hundreds of thousands of troops overseas."
+  },
+  {
+    "year": 1917,
+    "event": "Canadian forces capture Vimy Ridge, a defining moment of national pride, as conscription divides the country."
+  },
+  {
+    "year": 1918,
+    "event": "Women win the right to vote in federal elections following years of suffrage campaigning."
+  },
+  {
+    "year": 1931,
+    "event": "The Statute of Westminster grants Canada full legislative independence in foreign and domestic affairs."
+  },
+  {
+    "year": 1939,
+    "event": "Canada declares war on Germany, joining World War II as an independent nation."
+  },
+  {
+    "year": 1944,
+    "event": "Canadian troops land at Juno Beach during the D-Day invasion of Normandy."
+  },
+  {
+    "year": 1945,
+    "event": "Canada becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1949,
+    "event": "Newfoundland joins Confederation as Canada's tenth province, and Canada becomes a founding member of NATO."
+  },
+  {
+    "year": 1965,
+    "event": "Canada adopts its iconic red-and-white maple leaf national flag."
+  },
+  {
+    "year": 1967,
+    "event": "Canada celebrates its centennial and hosts Expo 67 in Montreal."
+  },
+  {
+    "year": 1969,
+    "event": "The Official Languages Act establishes English and French as Canada's official languages."
+  },
+  {
+    "year": 1970,
+    "event": "The October Crisis erupts as the FLQ carries out kidnappings, prompting the invocation of the War Measures Act in peacetime."
+  },
+  {
+    "year": 1982,
+    "event": "Canada patriates its Constitution and adopts the Charter of Rights and Freedoms, ending British legislative authority."
+  },
+  {
+    "year": 1995,
+    "event": "The Quebec sovereignty referendum narrowly fails, with the federalist side winning by a razor-thin margin."
+  },
+  {
+    "year": 1999,
+    "event": "Nunavut is established as a self-governing Inuit territory carved from the Northwest Territories."
+  },
+  {
+    "year": 2005,
+    "event": "Canada legalizes same-sex marriage nationwide through the Civil Marriage Act."
+  },
+  {
+    "year": 2008,
+    "event": "Prime Minister Stephen Harper issues a formal apology for the residential school system that harmed Indigenous children."
+  },
+  {
+    "year": 2015,
+    "event": "The Truth and Reconciliation Commission releases its final report documenting the legacy of residential schools."
+  },
+  {
+    "year": 2018,
+    "event": "Canada legalizes recreational cannabis nationwide, becoming one of the first major nations to do so."
+  }
 ]

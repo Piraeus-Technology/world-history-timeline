@@ -1,16 +1,190 @@
 [
-  { "year": -6000, "event": "Earliest human presence in present-day Cuba" },
-  { "year": -2000, "event": "Taíno and other Indigenous societies develop agriculture and villages" },
-  { "year": 1492, "event": "Christopher Columbus reaches Cuba" },
-  { "year": 1511, "event": "Spanish conquest and colonization begin" },
-  { "year": 1519, "event": "Havana is founded as a colonial settlement" },
-  { "year": 1600, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1762, "event": "British briefly occupy Havana during European wars" },
-  { "year": 1800, "event": "Cuba becomes the world’s leading sugar producer" },
-  { "year": 1868, "event": "Ten Years’ War launches the independence struggle" },
-  { "year": 1895, "event": "Final war of independence against Spain begins" },
-  { "year": 1898, "event": "Spanish rule ends after U.S. intervention" },
-  { "year": 1902, "event": "Republic of Cuba is established" },
-  { "year": 1959, "event": "Cuban Revolution overthrows the Batista regime" },
-  { "year": 1961, "event": "Cuba declares itself a socialist state" }
+  {
+    "year": -4000,
+    "event": "Early hunter-gatherer peoples, often called the Guanahatabey, settle the island of Cuba, living as cave-dwellers and foragers."
+  },
+  {
+    "year": -2000,
+    "event": "Ciboney (Siboney) peoples spread across Cuba, subsisting on fishing, shellfish gathering, and small-scale foraging."
+  },
+  {
+    "year": 800,
+    "event": "Taino (Arawak) agriculturalists migrate from Hispaniola into eastern Cuba, introducing cassava cultivation, pottery, and village life."
+  },
+  {
+    "year": 1200,
+    "event": "Taino chiefdoms (cacicazgos) become well established across much of Cuba, organizing settlements, agriculture, and trade."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus lands on the northeastern coast of Cuba during his first voyage and claims the island for Spain."
+  },
+  {
+    "year": 1511,
+    "event": "Diego Velazquez de Cuellar begins the Spanish conquest of Cuba, founding Baracoa as the first European settlement."
+  },
+  {
+    "year": 1512,
+    "event": "The Taino leader Hatuey is captured and burned at the stake by the Spanish, becoming a lasting symbol of indigenous resistance."
+  },
+  {
+    "year": 1514,
+    "event": "Spanish settlers found Santiago de Cuba and other early towns, organizing the island under the encomienda labor system."
+  },
+  {
+    "year": 1519,
+    "event": "Havana is established at its permanent harbor site and grows into a key port for Spanish fleets crossing the Atlantic."
+  },
+  {
+    "year": 1607,
+    "event": "Havana is designated the capital of Spanish Cuba, becoming a strategic hub for treasure fleets and colonial trade."
+  },
+  {
+    "year": 1762,
+    "event": "British forces capture Havana during the Seven Years' War, briefly opening Cuba to expanded trade and slave imports."
+  },
+  {
+    "year": 1763,
+    "event": "Britain returns Havana to Spain under the Treaty of Paris in exchange for Florida."
+  },
+  {
+    "year": 1791,
+    "event": "The Haitian Revolution prompts a surge in sugar and coffee production in Cuba, accelerating the expansion of plantation slavery."
+  },
+  {
+    "year": 1820,
+    "event": "Spain formally agrees to abolish the transatlantic slave trade to Cuba, though illegal slave imports continue for decades."
+  },
+  {
+    "year": 1868,
+    "event": "Carlos Manuel de Cespedes issues the Grito de Yara and frees his slaves, launching the Ten Years' War for independence."
+  },
+  {
+    "year": 1878,
+    "event": "The Pact of Zanjon ends the Ten Years' War without securing independence, though it promises some reforms."
+  },
+  {
+    "year": 1886,
+    "event": "Slavery is fully abolished in Cuba, ending centuries of enslaved labor on the island's plantations."
+  },
+  {
+    "year": 1895,
+    "event": "Jose Marti and Maximo Gomez relaunch the war of independence; Marti is killed in battle at Dos Rios."
+  },
+  {
+    "year": 1898,
+    "event": "The explosion of the USS Maine in Havana harbor triggers the Spanish-American War, ending in Spanish defeat and withdrawal."
+  },
+  {
+    "year": 1899,
+    "event": "The United States establishes a military occupation government over Cuba following the departure of Spain."
+  },
+  {
+    "year": 1902,
+    "event": "Cuba becomes an independent republic, though the Platt Amendment grants the United States broad rights to intervene."
+  },
+  {
+    "year": 1903,
+    "event": "Cuba leases Guantanamo Bay to the United States for a naval base under terms tied to the Platt Amendment."
+  },
+  {
+    "year": 1925,
+    "event": "Gerardo Machado becomes president and soon rules as a dictator, provoking widespread political unrest."
+  },
+  {
+    "year": 1933,
+    "event": "A revolution overthrows Machado, and Fulgencio Batista emerges as a dominant power behind a series of governments."
+  },
+  {
+    "year": 1934,
+    "event": "The Platt Amendment is abrogated, ending the formal U.S. right to intervene in Cuban affairs while keeping the Guantanamo base."
+  },
+  {
+    "year": 1940,
+    "event": "Cuba adopts a progressive new constitution, and Fulgencio Batista is elected president."
+  },
+  {
+    "year": 1945,
+    "event": "Cuba becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1952,
+    "event": "Fulgencio Batista seizes power in a military coup, canceling elections and establishing an authoritarian regime."
+  },
+  {
+    "year": 1953,
+    "event": "Fidel Castro leads a failed attack on the Moncada Barracks in Santiago, marking the start of his revolutionary movement."
+  },
+  {
+    "year": 1956,
+    "event": "Castro, Che Guevara, and other rebels land aboard the yacht Granma and begin a guerrilla campaign in the Sierra Maestra."
+  },
+  {
+    "year": 1959,
+    "event": "Batista flees as Castro's forces triumph, bringing the Cuban Revolution to power on January 1."
+  },
+  {
+    "year": 1960,
+    "event": "Cuba nationalizes U.S.-owned businesses and signs trade deals with the Soviet Union, prompting a U.S. economic embargo."
+  },
+  {
+    "year": 1961,
+    "event": "The U.S.-backed Bay of Pigs invasion is defeated, and Castro declares the revolution to be socialist."
+  },
+  {
+    "year": 1962,
+    "event": "The Cuban Missile Crisis brings the world to the brink of nuclear war before Soviet missiles are withdrawn from the island."
+  },
+  {
+    "year": 1965,
+    "event": "The Communist Party of Cuba is formally established as the sole legal party under Fidel Castro's leadership."
+  },
+  {
+    "year": 1976,
+    "event": "A new socialist constitution is adopted, formalizing the structures of the Cuban state with Fidel Castro as president."
+  },
+  {
+    "year": 1980,
+    "event": "The Mariel boatlift sends roughly 125,000 Cubans to the United States over several months."
+  },
+  {
+    "year": 1991,
+    "event": "The collapse of the Soviet Union ends crucial subsidies, plunging Cuba into the economic crisis known as the Special Period."
+  },
+  {
+    "year": 1996,
+    "event": "The U.S. tightens its embargo through the Helms-Burton Act after Cuban forces shoot down two exile aircraft."
+  },
+  {
+    "year": 1998,
+    "event": "Pope John Paul II makes a historic visit to Cuba, calling for greater openness on the island."
+  },
+  {
+    "year": 2006,
+    "event": "An ailing Fidel Castro temporarily transfers power to his brother Raul Castro."
+  },
+  {
+    "year": 2008,
+    "event": "Raul Castro formally becomes president and begins introducing limited economic reforms."
+  },
+  {
+    "year": 2015,
+    "event": "Cuba and the United States restore diplomatic relations and reopen embassies after more than five decades of hostility."
+  },
+  {
+    "year": 2016,
+    "event": "Fidel Castro dies at age 90, marking the end of an era for the Cuban Revolution."
+  },
+  {
+    "year": 2018,
+    "event": "Miguel Diaz-Canel becomes president, the first Cuban leader from outside the Castro family since 1959."
+  },
+  {
+    "year": 2019,
+    "event": "Cuba adopts a new constitution that recognizes private property and market elements while reaffirming socialism."
+  },
+  {
+    "year": 2021,
+    "event": "Widespread anti-government protests erupt across Cuba amid economic hardship, shortages, and the pandemic."
+  }
 ]

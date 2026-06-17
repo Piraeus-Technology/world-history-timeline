@@ -1,13 +1,166 @@
 [
-  { "year": -3000, "event": "Earliest human presence on Saint Vincent and the Grenadines" },
-  { "year": 1000, "event": "Kalinago peoples inhabit Saint Vincent and nearby islands" },
-  { "year": 1498, "event": "Christopher Columbus sights Saint Vincent" },
-  { "year": 1700, "event": "French and British compete for control of the island" },
-  { "year": 1763, "event": "Britain gains control of Saint Vincent" },
-  { "year": 1797, "event": "Garifuna are forcibly deported after resistance" },
-  { "year": 1800, "event": "Sugar plantations expand under British rule" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1958, "event": "Joins the West Indies Federation" },
-  { "year": 1969, "event": "Associated statehood grants internal self-government" },
-  { "year": 1979, "event": "Saint Vincent and the Grenadines gains independence from the United Kingdom" }
+  {
+    "year": -5000,
+    "event": "Early Archaic (pre-ceramic) peoples reached the Caribbean islands, with evidence suggesting human presence in the Lesser Antilles region."
+  },
+  {
+    "year": -200,
+    "event": "Arawak-speaking Saladoid peoples migrated northward from South America and settled the island they called Hairouna or Youloumain."
+  },
+  {
+    "year": 1300,
+    "event": "Kalinago (Island Carib) peoples, migrating from the South American mainland, displaced or absorbed the earlier Arawak inhabitants of the island."
+  },
+  {
+    "year": 1498,
+    "event": "Christopher Columbus is traditionally said to have sighted the island, reputedly on Saint Vincent's feast day, lending it the name Saint Vincent."
+  },
+  {
+    "year": 1635,
+    "event": "African survivors of shipwrecked or captured slave ships intermarried with the Kalinago, giving rise to the Garifuna or 'Black Caribs'."
+  },
+  {
+    "year": 1660,
+    "event": "England and France signed a treaty declaring Saint Vincent a neutral island left to the Caribs, reflecting fierce indigenous resistance to colonization."
+  },
+  {
+    "year": 1719,
+    "event": "French settlers from Martinique began establishing plantations on Saint Vincent, cultivating coffee, tobacco, indigo, cotton and sugar with enslaved African labor."
+  },
+  {
+    "year": 1763,
+    "event": "France ceded Saint Vincent to Britain under the Treaty of Paris ending the Seven Years' War."
+  },
+  {
+    "year": 1769,
+    "event": "British attempts to survey and seize Carib lands sparked open conflict with the Garifuna led by Chief Joseph Chatoyer."
+  },
+  {
+    "year": 1772,
+    "event": "The First Carib War ended with a treaty between Britain and the Garifuna establishing a boundary between their territories."
+  },
+  {
+    "year": 1779,
+    "event": "France recaptured Saint Vincent during the American War of Independence with Carib support."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Versailles returned Saint Vincent to British control."
+  },
+  {
+    "year": 1795,
+    "event": "The Second Carib War erupted as the Garifuna, aided by the French, rose against British rule."
+  },
+  {
+    "year": 1795,
+    "event": "Garifuna paramount chief Joseph Chatoyer, a national hero of Saint Vincent, was killed during the Second Carib War."
+  },
+  {
+    "year": 1797,
+    "event": "Britain defeated the Garifuna and deported some 5,000 'Black Caribs' to the island of Roatan off Honduras, founding the Central American Garifuna diaspora."
+  },
+  {
+    "year": 1812,
+    "event": "The La Soufriere volcano erupted violently, devastating plantations and causing widespread destruction across the island."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery was abolished throughout the British Empire, freeing the enslaved population of Saint Vincent under an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation took effect, ending the apprenticeship period for formerly enslaved Vincentians."
+  },
+  {
+    "year": 1845,
+    "event": "Portuguese laborers from Madeira began arriving as indentured workers to address labor shortages on the sugar estates."
+  },
+  {
+    "year": 1861,
+    "event": "Indentured laborers from India began arriving to work on Saint Vincent's plantations following the decline of the sugar economy."
+  },
+  {
+    "year": 1871,
+    "event": "Saint Vincent became part of the federated British Windward Islands colony."
+  },
+  {
+    "year": 1902,
+    "event": "La Soufriere erupted catastrophically, killing around 1,600 people, just hours before the deadlier Mont Pelee eruption on nearby Martinique."
+  },
+  {
+    "year": 1925,
+    "event": "A new constitution established a partly elected Legislative Council, giving Vincentians limited representation."
+  },
+  {
+    "year": 1935,
+    "event": "Riots over economic hardship and falling wages erupted in Kingstown, part of a wave of labor unrest across the British West Indies."
+  },
+  {
+    "year": 1951,
+    "event": "Universal adult suffrage was introduced, granting all adult Vincentians the right to vote."
+  },
+  {
+    "year": 1958,
+    "event": "Saint Vincent joined the short-lived West Indies Federation."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapsed, ending hopes of a unified independent British Caribbean state."
+  },
+  {
+    "year": 1969,
+    "event": "Saint Vincent attained associated statehood with Britain, gaining full internal self-government while Britain retained control of defense and foreign affairs."
+  },
+  {
+    "year": 1979,
+    "event": "La Soufriere erupted in April, forcing the evacuation of thousands shortly before the country's independence."
+  },
+  {
+    "year": 1979,
+    "event": "Saint Vincent and the Grenadines gained full independence from the United Kingdom on 27 October, with Milton Cato as first Prime Minister."
+  },
+  {
+    "year": 1980,
+    "event": "Saint Vincent and the Grenadines was admitted as a member state of the United Nations and the Commonwealth of Nations."
+  },
+  {
+    "year": 1980,
+    "event": "Hurricane Allen devastated the banana crop, the country's economic mainstay, causing severe hardship."
+  },
+  {
+    "year": 1984,
+    "event": "James Mitchell of the New Democratic Party became Prime Minister, beginning a long period of NDP governance."
+  },
+  {
+    "year": 1994,
+    "event": "Saint Vincent and the Grenadines expanded its offshore financial services sector as it sought to diversify beyond agriculture."
+  },
+  {
+    "year": 2001,
+    "event": "Ralph Gonsalves of the Unity Labour Party became Prime Minister, beginning a long tenure in office."
+  },
+  {
+    "year": 2009,
+    "event": "Voters rejected a referendum to replace the monarchy with a republic and adopt a new constitution."
+  },
+  {
+    "year": 2013,
+    "event": "Devastating Christmas Eve floods caused deadly landslides and widespread damage across the islands."
+  },
+  {
+    "year": 2017,
+    "event": "Argyle International Airport opened, providing the country its first airport capable of handling large jets and direct international flights."
+  },
+  {
+    "year": 2020,
+    "event": "Saint Vincent and the Grenadines was elected to a two-year term on the United Nations Security Council, becoming the smallest nation ever to serve on it."
+  },
+  {
+    "year": 2021,
+    "event": "La Soufriere erupted explosively in April, forcing the evacuation of around 20,000 people and burying farmland in ash."
+  },
+  {
+    "year": 2024,
+    "event": "Hurricane Beryl, an early and exceptionally powerful storm, struck the Grenadines, causing catastrophic damage on Union, Canouan and Mayreau islands."
+  }
 ]

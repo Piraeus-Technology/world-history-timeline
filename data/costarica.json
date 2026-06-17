@@ -1,16 +1,178 @@
 [
-  { "year": -12000, "event": "Earliest human presence in present-day Costa Rica" },
-  { "year": -2000, "event": "Indigenous groups develop agriculture and village life" },
-  { "year": 500, "event": "Chorotega and other cultures flourish in the northwest" },
-  { "year": 1000, "event": "Trade networks link Costa Rica between Mesoamerica and the Andes" },
-  { "year": 1502, "event": "Christopher Columbus reaches the Caribbean coast" },
-  { "year": 1561, "event": "Spanish establish early settlements in the Central Valley" },
-  { "year": 1600, "event": "Region remains sparsely populated and marginal to the empire" },
-  { "year": 1821, "event": "Costa Rica declares independence from Spain" },
-  { "year": 1824, "event": "Costa Rica joins the Federal Republic of Central America" },
-  { "year": 1838, "event": "Costa Rica becomes a fully independent republic" },
-  { "year": 1843, "event": "Coffee production drives economic growth and stability" },
-  { "year": 1917, "event": "Short-lived military dictatorship disrupts civilian rule" },
-  { "year": 1948, "event": "Civil war leads to abolition of the military" },
-  { "year": 1949, "event": "New constitution establishes lasting democratic institutions" }
+  {
+    "year": -10000,
+    "event": "Paleo-Indian hunter-gatherers settle the region, leaving stone tools such as Clovis-style points in sites like the Turrialba Valley."
+  },
+  {
+    "year": -1000,
+    "event": "Settled agricultural villages develop, cultivating maize, beans, and root crops across the territory."
+  },
+  {
+    "year": -500,
+    "event": "Chiefdom societies emerge, producing distinctive jade ornaments and elaborate pottery."
+  },
+  {
+    "year": -200,
+    "event": "Artisans in the Diquis Delta begin carving the mysterious stone spheres later recognized as a UNESCO World Heritage feature."
+  },
+  {
+    "year": 500,
+    "event": "The Chorotega and other cultures flourish in the northwest, with Mesoamerican influence in their art and society."
+  },
+  {
+    "year": 800,
+    "event": "Gold metallurgy spreads as Chibchan-linked cultures flourish across the southern and central regions."
+  },
+  {
+    "year": 1000,
+    "event": "Guayabo develops into the largest known pre-Columbian ceremonial and political center in Costa Rica."
+  },
+  {
+    "year": 1502,
+    "event": "Christopher Columbus lands near present-day Limon on his fourth voyage, the first European contact with the area."
+  },
+  {
+    "year": 1522,
+    "event": "Gil Gonzalez Davila explores the Pacific coast and initiates Spanish contact with indigenous peoples."
+  },
+  {
+    "year": 1561,
+    "event": "Juan de Cavallon leads the first sustained Spanish colonization effort in the interior highlands."
+  },
+  {
+    "year": 1564,
+    "event": "Juan Vazquez de Coronado founds Cartago, which becomes the colonial capital."
+  },
+  {
+    "year": 1635,
+    "event": "The apparition of the Virgin of Los Angeles at Cartago establishes La Negrita as the national patroness."
+  },
+  {
+    "year": 1709,
+    "event": "Indigenous peoples in Talamanca rise in a major rebellion against Spanish missions and forced labor."
+  },
+  {
+    "year": 1723,
+    "event": "The eruption of the Irazu volcano devastates Cartago and surrounding settlements."
+  },
+  {
+    "year": 1737,
+    "event": "San Jose is founded, eventually growing into the country's leading city."
+  },
+  {
+    "year": 1808,
+    "event": "Coffee cultivation is introduced, beginning its transformation into the colony's economic mainstay."
+  },
+  {
+    "year": 1821,
+    "event": "Costa Rica gains independence from Spain as part of the broader Central American secession on September 15."
+  },
+  {
+    "year": 1823,
+    "event": "Costa Rica joins the Federal Republic of Central America after a brief civil conflict between San Jose and Cartago factions."
+  },
+  {
+    "year": 1824,
+    "event": "The Nicoya region votes to annex to Costa Rica, expanding the nation's northwestern territory."
+  },
+  {
+    "year": 1838,
+    "event": "Costa Rica secedes from the dissolving Federal Republic of Central America and becomes fully independent."
+  },
+  {
+    "year": 1843,
+    "event": "Coffee exports to Britain begin in earnest, integrating Costa Rica into the global economy."
+  },
+  {
+    "year": 1848,
+    "event": "Costa Rica is formally declared a republic and adopts its national flag and coat of arms."
+  },
+  {
+    "year": 1856,
+    "event": "Costa Rican forces defeat American filibuster William Walker, with national hero Juan Santamaria dying at the Battle of Rivas."
+  },
+  {
+    "year": 1870,
+    "event": "General Tomas Guardia seizes power, modernizing the state and curbing the coffee oligarchy's dominance."
+  },
+  {
+    "year": 1871,
+    "event": "Construction of the Atlantic Railroad begins, importing Afro-Caribbean laborers, mainly from Jamaica, to the Limon region."
+  },
+  {
+    "year": 1882,
+    "event": "The death penalty is permanently abolished, an early hallmark of Costa Rican civic life."
+  },
+  {
+    "year": 1889,
+    "event": "A landmark free election and popular defense of its results establish a lasting democratic tradition."
+  },
+  {
+    "year": 1899,
+    "event": "The United Fruit Company is founded, coming to dominate the banana economy of the Caribbean lowlands."
+  },
+  {
+    "year": 1917,
+    "event": "Federico Tinoco seizes power in a coup, establishing a short-lived military dictatorship."
+  },
+  {
+    "year": 1919,
+    "event": "Tinoco's dictatorship falls, restoring constitutional government."
+  },
+  {
+    "year": 1940,
+    "event": "President Rafael Angel Calderon Guardia begins major social reforms, including a labor code and social security."
+  },
+  {
+    "year": 1948,
+    "event": "A disputed election sparks a 44-day civil war won by Jose Figueres Ferrer."
+  },
+  {
+    "year": 1949,
+    "event": "A new constitution abolishes the army, grants women and Afro-Costa Ricans full citizenship and suffrage, and nationalizes banking."
+  },
+  {
+    "year": 1953,
+    "event": "Jose Figueres Ferrer wins the presidency in the first election under the new constitution."
+  },
+  {
+    "year": 1963,
+    "event": "Costa Rica joins the Central American Common Market to promote regional trade integration."
+  },
+  {
+    "year": 1968,
+    "event": "The Arenal volcano erupts violently, killing dozens and reshaping the central region."
+  },
+  {
+    "year": 1970,
+    "event": "Santa Rosa National Park is established, launching a pioneering national park and conservation system."
+  },
+  {
+    "year": 1987,
+    "event": "President Oscar Arias wins the Nobel Peace Prize for his Central American peace plan ending regional civil wars."
+  },
+  {
+    "year": 1997,
+    "event": "Intel opens a major microchip plant, diversifying the economy toward high technology."
+  },
+  {
+    "year": 2007,
+    "event": "Voters narrowly approve joining the Central American Free Trade Agreement (CAFTA-DR) in a national referendum."
+  },
+  {
+    "year": 2010,
+    "event": "Laura Chinchilla is elected the country's first female president."
+  },
+  {
+    "year": 2017,
+    "event": "Costa Rica runs on nearly 100 percent renewable electricity for much of the year, highlighting its green energy leadership."
+  },
+  {
+    "year": 2020,
+    "event": "Same-sex marriage becomes legal, a first in Central America."
+  },
+  {
+    "year": 2021,
+    "event": "Costa Rica joins the Organisation for Economic Co-operation and Development (OECD)."
+  }
 ]

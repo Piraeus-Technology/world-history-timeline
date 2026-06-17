@@ -1,29 +1,202 @@
 [
-  { "year": -15000, "event": "Earliest human presence in present-day United States" },
-  { "year": -3000, "event": "Indigenous societies develop agriculture and regional cultures" },
-  { "year": 1000, "event": "Mississippian civilization builds large mound cities" },
-  { "year": 1492, "event": "European exploration of the Americas begins" },
-  { "year": 1565, "event": "St. Augustine is founded as the first permanent European settlement" },
-  { "year": 1607, "event": "Jamestown is founded as England’s first lasting colony" },
-  { "year": 1620, "event": "Plymouth Colony is established by English settlers" },
-  { "year": 1700, "event": "British colonies expand along the Atlantic coast" },
-  { "year": 1754, "event": "French and Indian War reshapes control of North America" },
-  { "year": 1775, "event": "American Revolutionary War begins" },
-  { "year": 1776, "event": "Declaration of Independence is issued" },
-  { "year": 1787, "event": "United States Constitution is drafted" },
-  { "year": 1791, "event": "Bill of Rights is ratified" },
-  { "year": 1803, "event": "Louisiana Purchase doubles national territory" },
-  { "year": 1812, "event": "War of 1812 reinforces independence from Britain" },
-  { "year": 1848, "event": "Mexican-American War expands U.S. borders westward" },
-  { "year": 1861, "event": "Civil War begins between Union and Confederate states" },
-  { "year": 1865, "event": "Civil War ends and slavery is abolished" },
-  { "year": 1890, "event": "Frontier expansion officially ends" },
-  { "year": 1917, "event": "United States enters World War I" },
-  { "year": 1929, "event": "Great Depression begins, reshaping economic policy" },
-  { "year": 1941, "event": "United States enters World War II after Pearl Harbor" },
-  { "year": 1945, "event": "United States emerges as a global superpower" },
-  { "year": 1947, "event": "Cold War rivalry with the Soviet Union begins" },
-  { "year": 1964, "event": "Civil Rights Act advances legal equality" },
-  { "year": 1969, "event": "Apollo 11 lands the first humans on the Moon" },
-  { "year": 1991, "event": "Cold War ends with U.S. as sole superpower" }
+  {
+    "year": -13000,
+    "event": "Paleo-Indian peoples, ancestors of Native Americans, are well established across North America after migrating from Asia."
+  },
+  {
+    "year": -11000,
+    "event": "Clovis culture, known for distinctive fluted stone spear points, spreads widely across the continent."
+  },
+  {
+    "year": -1000,
+    "event": "The Adena culture builds elaborate burial mounds in the Ohio River Valley."
+  },
+  {
+    "year": -200,
+    "event": "The Hopewell tradition develops extensive trade networks and monumental earthworks across eastern North America."
+  },
+  {
+    "year": 800,
+    "event": "The Mississippian culture rises, building large mound centers and maize-based chiefdoms."
+  },
+  {
+    "year": 1050,
+    "event": "Cahokia near present-day St. Louis becomes the largest pre-Columbian city north of Mexico."
+  },
+  {
+    "year": 1100,
+    "event": "Ancestral Puebloans construct cliff dwellings and great houses at sites such as Mesa Verde and Chaco Canyon."
+  },
+  {
+    "year": 1492,
+    "event": "Christopher Columbus reaches the Caribbean, initiating sustained European contact with the Americas."
+  },
+  {
+    "year": 1565,
+    "event": "Spanish settlers found St. Augustine in Florida, the oldest continuously inhabited European settlement in the present-day U.S."
+  },
+  {
+    "year": 1607,
+    "event": "English colonists establish Jamestown in Virginia, the first permanent English settlement in North America."
+  },
+  {
+    "year": 1619,
+    "event": "The first enslaved Africans are brought to Virginia, beginning slavery in English North America."
+  },
+  {
+    "year": 1620,
+    "event": "The Pilgrims arrive on the Mayflower and found Plymouth Colony in present-day Massachusetts."
+  },
+  {
+    "year": 1754,
+    "event": "The French and Indian War begins, part of the global Seven Years' War contesting control of North America."
+  },
+  {
+    "year": 1765,
+    "event": "The Stamp Act provokes colonial protest against taxation without representation."
+  },
+  {
+    "year": 1773,
+    "event": "Colonists stage the Boston Tea Party in protest against British tea taxes."
+  },
+  {
+    "year": 1775,
+    "event": "The American Revolutionary War erupts with battles at Lexington and Concord."
+  },
+  {
+    "year": 1776,
+    "event": "The Continental Congress adopts the Declaration of Independence on July 4."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Paris ends the Revolutionary War and Britain recognizes American independence."
+  },
+  {
+    "year": 1787,
+    "event": "The Constitutional Convention drafts the United States Constitution in Philadelphia."
+  },
+  {
+    "year": 1789,
+    "event": "George Washington is inaugurated as the first President under the new federal government."
+  },
+  {
+    "year": 1791,
+    "event": "The Bill of Rights, the first ten amendments to the Constitution, is ratified."
+  },
+  {
+    "year": 1803,
+    "event": "The Louisiana Purchase from France roughly doubles the size of the young nation."
+  },
+  {
+    "year": 1812,
+    "event": "The War of 1812 begins against Britain over trade, impressment, and territorial disputes."
+  },
+  {
+    "year": 1830,
+    "event": "The Indian Removal Act forces the displacement of Native nations, leading to the Trail of Tears."
+  },
+  {
+    "year": 1848,
+    "event": "The Treaty of Guadalupe Hidalgo ends the Mexican-American War and cedes vast western territory to the U.S."
+  },
+  {
+    "year": 1861,
+    "event": "The Civil War begins as Southern states secede over slavery and states' rights."
+  },
+  {
+    "year": 1863,
+    "event": "President Lincoln issues the Emancipation Proclamation declaring enslaved people in rebel states free."
+  },
+  {
+    "year": 1865,
+    "event": "The Civil War ends, Lincoln is assassinated, and the Thirteenth Amendment abolishes slavery."
+  },
+  {
+    "year": 1869,
+    "event": "The first transcontinental railroad is completed, linking the eastern and western United States."
+  },
+  {
+    "year": 1890,
+    "event": "The massacre at Wounded Knee marks the violent close of the Indian Wars and the western frontier."
+  },
+  {
+    "year": 1898,
+    "event": "The Spanish-American War makes the U.S. a colonial power, acquiring the Philippines, Puerto Rico, and Guam."
+  },
+  {
+    "year": 1917,
+    "event": "The United States enters World War I on the side of the Allies."
+  },
+  {
+    "year": 1920,
+    "event": "The Nineteenth Amendment grants women the right to vote nationwide."
+  },
+  {
+    "year": 1929,
+    "event": "The Wall Street Crash triggers the Great Depression."
+  },
+  {
+    "year": 1933,
+    "event": "President Franklin Roosevelt launches the New Deal to combat the Depression."
+  },
+  {
+    "year": 1941,
+    "event": "Japan attacks Pearl Harbor, bringing the United States into World War II."
+  },
+  {
+    "year": 1945,
+    "event": "The U.S. drops atomic bombs on Hiroshima and Nagasaki to end World War II and becomes a founding member of the UN."
+  },
+  {
+    "year": 1950,
+    "event": "The United States leads UN forces in the Korean War against communist advances."
+  },
+  {
+    "year": 1955,
+    "event": "The Montgomery Bus Boycott energizes the modern civil rights movement."
+  },
+  {
+    "year": 1963,
+    "event": "President John F. Kennedy is assassinated in Dallas, Texas."
+  },
+  {
+    "year": 1964,
+    "event": "The Civil Rights Act outlaws discrimination based on race, color, religion, sex, or national origin."
+  },
+  {
+    "year": 1969,
+    "event": "Apollo 11 lands the first humans on the Moon."
+  },
+  {
+    "year": 1973,
+    "event": "The U.S. withdraws combat troops from Vietnam after a long and divisive war."
+  },
+  {
+    "year": 1974,
+    "event": "President Richard Nixon resigns over the Watergate scandal."
+  },
+  {
+    "year": 1991,
+    "event": "The Cold War ends with the dissolution of the Soviet Union, leaving the U.S. as the sole superpower."
+  },
+  {
+    "year": 2001,
+    "event": "The September 11 terrorist attacks kill nearly 3,000 people and launch the global War on Terror."
+  },
+  {
+    "year": 2008,
+    "event": "A financial crisis originating in U.S. markets triggers the Great Recession."
+  },
+  {
+    "year": 2009,
+    "event": "Barack Obama is inaugurated as the first African American president."
+  },
+  {
+    "year": 2020,
+    "event": "The COVID-19 pandemic causes mass disruption and over a million eventual U.S. deaths."
+  },
+  {
+    "year": 2021,
+    "event": "Rioters storm the U.S. Capitol on January 6 in an attempt to overturn the 2020 election results."
+  }
 ]

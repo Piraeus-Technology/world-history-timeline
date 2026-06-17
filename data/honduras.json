@@ -1,16 +1,174 @@
 [
-  { "year": -9000, "event": "Earliest human presence in present-day Honduras" },
-  { "year": -2000, "event": "Early agricultural villages develop in valleys and highlands" },
-  { "year": 400, "event": "Maya civilization flourishes in the Copán region" },
-  { "year": 900, "event": "Collapse of Classic Maya centers including Copán" },
-  { "year": 1200, "event": "Lenca and other Indigenous groups dominate the interior" },
-  { "year": 1524, "event": "Spanish conquest of the region begins" },
-  { "year": 1537, "event": "Lenca resistance under Lempira challenges Spanish rule" },
-  { "year": 1600, "event": "Honduras remains a sparsely populated colonial frontier" },
-  { "year": 1821, "event": "Honduras declares independence from Spain" },
-  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
-  { "year": 1838, "event": "Honduras becomes an independent republic" },
-  { "year": 1900, "event": "Banana exports dominate the economy and foreign influence grows" },
-  { "year": 1957, "event": "Civilian constitutional government is restored" },
-  { "year": 1980, "event": "Cold War conflicts shape politics and security" }
+  {
+    "year": -10000,
+    "event": "Paleo-Indian hunter-gatherers settle the region of present-day Honduras, leaving stone tools and rock art such as those near La Esperanza."
+  },
+  {
+    "year": -2000,
+    "event": "Early agricultural communities develop, cultivating maize, beans, and squash and establishing settled village life."
+  },
+  {
+    "year": -1000,
+    "event": "Maya-influenced cultures emerge in western Honduras, with growing trade networks linking the region to Mesoamerica."
+  },
+  {
+    "year": 426,
+    "event": "K'inich Yax K'uk' Mo' founds the Maya royal dynasty at Copán, beginning the city's rise as a major Classic Maya center."
+  },
+  {
+    "year": 738,
+    "event": "Copán's ruler Uaxaclajuun Ubaah K'awiil (18 Rabbit) is captured and beheaded by the rival city of Quiriguá."
+  },
+  {
+    "year": 822,
+    "event": "Copán's last known monument is dedicated as the Maya city enters decline and is gradually abandoned."
+  },
+  {
+    "year": 1502,
+    "event": "Christopher Columbus reaches the Bay Islands and the Caribbean coast on his fourth voyage, naming the cape Gracias a Dios."
+  },
+  {
+    "year": 1524,
+    "event": "Spanish conquistadors led by Gil González Dávila and Cristóbal de Olid begin the conquest of Honduras."
+  },
+  {
+    "year": 1537,
+    "event": "The Lenca leader Lempira leads a major indigenous revolt against Spanish rule before being killed, becoming a national symbol of resistance."
+  },
+  {
+    "year": 1539,
+    "event": "The city of Comayagua is established and later becomes the colonial capital of the province of Honduras."
+  },
+  {
+    "year": 1578,
+    "event": "Rich silver deposits are discovered near Tegucigalpa, spurring a mining boom and the growth of the settlement."
+  },
+  {
+    "year": 1643,
+    "event": "English and Dutch pirates sack and destroy the port of Trujillo, reflecting European rivalry over the Caribbean coast."
+  },
+  {
+    "year": 1797,
+    "event": "The British deport thousands of Garifuna from St. Vincent to the island of Roatán, founding the Garifuna communities of Honduras's coast."
+  },
+  {
+    "year": 1821,
+    "event": "Honduras gains independence from Spain on 15 September as part of the Central American declaration of independence."
+  },
+  {
+    "year": 1823,
+    "event": "Honduras joins the United Provinces of Central America, a federal republic of the former Spanish provinces."
+  },
+  {
+    "year": 1838,
+    "event": "Honduras declares itself an independent sovereign state following the dissolution of the Federal Republic of Central America."
+  },
+  {
+    "year": 1860,
+    "event": "American filibuster William Walker is captured and executed at Trujillo after attempting to seize control in Central America."
+  },
+  {
+    "year": 1880,
+    "event": "Tegucigalpa is designated the permanent national capital, replacing Comayagua."
+  },
+  {
+    "year": 1899,
+    "event": "U.S. fruit companies begin large-scale banana plantation operations on the north coast, launching the country's banana export economy."
+  },
+  {
+    "year": 1911,
+    "event": "Civil conflict tied to U.S. business interests deepens the country's reputation as a 'banana republic'."
+  },
+  {
+    "year": 1929,
+    "event": "The United Fruit Company absorbs Cuyamel, consolidating overwhelming foreign control over Honduras's banana industry."
+  },
+  {
+    "year": 1933,
+    "event": "Tiburcio Carías Andino becomes president and establishes a long authoritarian dictatorship lasting until 1949."
+  },
+  {
+    "year": 1945,
+    "event": "Honduras becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1954,
+    "event": "A massive strike against the banana companies wins recognition of labor rights and spurs the growth of the Honduran labor movement."
+  },
+  {
+    "year": 1957,
+    "event": "Ramón Villeda Morales is elected president and launches social and land reforms during a period of civilian rule."
+  },
+  {
+    "year": 1963,
+    "event": "Colonel Oswaldo López Arellano seizes power in a military coup, beginning decades of frequent army dominance over politics."
+  },
+  {
+    "year": 1969,
+    "event": "The brief 'Football War' erupts with El Salvador over migration and border tensions, leaving thousands dead before a ceasefire."
+  },
+  {
+    "year": 1974,
+    "event": "Hurricane Fifi devastates the north coast, killing thousands and causing catastrophic damage to crops and infrastructure."
+  },
+  {
+    "year": 1980,
+    "event": "Honduras and El Salvador sign a peace treaty formally ending hostilities from the 1969 war."
+  },
+  {
+    "year": 1982,
+    "event": "A new constitution takes effect and civilian rule returns with the inauguration of President Roberto Suazo Córdova."
+  },
+  {
+    "year": 1983,
+    "event": "Honduras becomes a base for U.S.-backed Contra forces fighting Nicaragua's Sandinista government, militarizing the country during the Cold War."
+  },
+  {
+    "year": 1992,
+    "event": "The International Court of Justice settles the long-standing land and maritime border dispute with El Salvador."
+  },
+  {
+    "year": 1998,
+    "event": "Hurricane Mitch strikes with catastrophic force, killing thousands and destroying much of the country's infrastructure and agriculture."
+  },
+  {
+    "year": 2006,
+    "event": "Honduras joins the Central America-Dominican Republic Free Trade Agreement (CAFTA-DR) with the United States."
+  },
+  {
+    "year": 2009,
+    "event": "President Manuel Zelaya is removed in a military-backed coup and expelled from the country, triggering an international crisis."
+  },
+  {
+    "year": 2010,
+    "event": "Porfirio Lobo takes office after contested elections held in the aftermath of the coup."
+  },
+  {
+    "year": 2012,
+    "event": "Honduras records one of the world's highest homicide rates, driven by drug trafficking and gang violence, prompting major emigration."
+  },
+  {
+    "year": 2014,
+    "event": "A surge of unaccompanied Honduran children and families migrating to the United States highlights the country's violence and poverty crisis."
+  },
+  {
+    "year": 2017,
+    "event": "President Juan Orlando Hernández is declared winner of a disputed reelection, sparking protests and accusations of fraud."
+  },
+  {
+    "year": 2018,
+    "event": "Large 'migrant caravans' of Hondurans set out for the United States, drawing global attention to regional migration pressures."
+  },
+  {
+    "year": 2020,
+    "event": "Back-to-back hurricanes Eta and Iota strike within weeks, causing widespread flooding, destruction, and displacement."
+  },
+  {
+    "year": 2022,
+    "event": "Xiomara Castro is inaugurated as the first woman president of Honduras."
+  },
+  {
+    "year": 2024,
+    "event": "Former president Juan Orlando Hernández is convicted in a U.S. court on drug trafficking and weapons charges and sentenced to a long prison term."
+  }
 ]

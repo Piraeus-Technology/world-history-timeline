@@ -1,12 +1,170 @@
 [
-  { "year": -3000, "event": "Earliest human presence on Antigua and Barbuda" },
-  { "year": -1000, "event": "Arawak and later Carib peoples settle the islands" },
-  { "year": 1493, "event": "Christopher Columbus sights Antigua" },
-  { "year": 1632, "event": "English colonization of Antigua begins" },
-  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1730, "event": "English Harbour develops as a major naval base" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1860, "event": "Sugar economy declines after emancipation" },
-  { "year": 1947, "event": "Political self-government movement gains strength" },
-  { "year": 1981, "event": "Antigua and Barbuda gains independence from the United Kingdom" }
+  {
+    "year": -3100,
+    "event": "Archaic (pre-ceramic) Amerindian peoples, sometimes called the Siboney, established the earliest known settlements on Antigua, living by fishing, shellfish gathering, and stone tool use."
+  },
+  {
+    "year": -775,
+    "event": "Ceramic-age Saladoid Arawakan-speaking peoples migrated from South America via the Lesser Antilles, introducing agriculture, pottery, and village life to Antigua and Barbuda."
+  },
+  {
+    "year": 1200,
+    "event": "Carib (Kalinago) peoples expanded through the Lesser Antilles, increasingly displacing or absorbing earlier Arawak populations across the region."
+  },
+  {
+    "year": 1493,
+    "event": "Christopher Columbus sighted Antigua during his second voyage and named it Santa Maria de la Antigua after a church in Seville."
+  },
+  {
+    "year": 1632,
+    "event": "English colonists from St. Kitts established the first permanent European settlement on Antigua, claiming it for England."
+  },
+  {
+    "year": 1666,
+    "event": "A French force briefly captured Antigua, but the island was returned to English control by the Treaty of Breda the following year."
+  },
+  {
+    "year": 1674,
+    "event": "Sir Christopher Codrington established Betty's Hope, Antigua's first large-scale sugar plantation, accelerating the shift to a sugar monoculture worked by enslaved Africans."
+  },
+  {
+    "year": 1685,
+    "event": "The Codrington family leased the island of Barbuda from the Crown, using it primarily to supply provisions and labor to their Antiguan sugar estates."
+  },
+  {
+    "year": 1736,
+    "event": "An alleged slave conspiracy led by an enslaved man known as Prince Klaas (Court) was discovered and brutally suppressed, with dozens of the accused executed."
+  },
+  {
+    "year": 1784,
+    "event": "Horatio Nelson arrived to command the British Royal Navy dockyard at English Harbour, later known as Nelson's Dockyard."
+  },
+  {
+    "year": 1807,
+    "event": "The British Parliament abolished the transatlantic slave trade, ending the legal importation of enslaved Africans into Antigua."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery was fully abolished in Antigua without an apprenticeship period, immediately emancipating the enslaved population on 1 August."
+  },
+  {
+    "year": 1843,
+    "event": "A powerful earthquake struck the region, causing severe damage to buildings across Antigua including in the capital St. John's."
+  },
+  {
+    "year": 1860,
+    "event": "Barbuda was formally annexed to Antigua, uniting the two islands under a single colonial administration."
+  },
+  {
+    "year": 1871,
+    "event": "Antigua became part of the British colony of the Leeward Islands federation."
+  },
+  {
+    "year": 1939,
+    "event": "Trade unionist and political leader Vere Cornwall Bird helped found the Antigua Trades and Labour Union, galvanizing the labor and political movement."
+  },
+  {
+    "year": 1943,
+    "event": "Vere Cornwall Bird became president of the Antigua Trades and Labour Union, building the base for his decades-long political dominance."
+  },
+  {
+    "year": 1946,
+    "event": "The Antigua Labour Party was formed, growing out of the trade union movement led by Vere Bird."
+  },
+  {
+    "year": 1951,
+    "event": "Universal adult suffrage was introduced, dramatically expanding the franchise in Antigua and Barbuda."
+  },
+  {
+    "year": 1956,
+    "event": "The Leeward Islands federation was dissolved, and Antigua became a separate colony."
+  },
+  {
+    "year": 1958,
+    "event": "Antigua joined the short-lived West Indies Federation, an attempt to unite Britain's Caribbean colonies."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapsed, ending the regional union and prompting Antigua to seek its own constitutional path."
+  },
+  {
+    "year": 1967,
+    "event": "Antigua became an associated state of the United Kingdom, gaining full internal self-government with Vere Bird as premier while Britain retained defense and foreign affairs."
+  },
+  {
+    "year": 1971,
+    "event": "The Progressive Labour Movement won the general election, briefly ousting Vere Bird's Antigua Labour Party from power."
+  },
+  {
+    "year": 1972,
+    "event": "The sugar industry, long the economic backbone of the colony, was effectively shut down as it became unprofitable."
+  },
+  {
+    "year": 1976,
+    "event": "Vere Bird's Antigua Labour Party returned to power, restoring his leadership ahead of the push for full independence."
+  },
+  {
+    "year": 1981,
+    "event": "Antigua and Barbuda gained full independence from the United Kingdom on 1 November, with Vere Cornwall Bird as the first prime minister."
+  },
+  {
+    "year": 1981,
+    "event": "Antigua and Barbuda was admitted to the United Nations on 11 November, shortly after achieving independence."
+  },
+  {
+    "year": 1983,
+    "event": "Antigua and Barbuda supported and provided a staging point for the United States-led invasion of Grenada."
+  },
+  {
+    "year": 1990,
+    "event": "A gun-smuggling scandal implicated Vere Bird Jr., a government minister and the prime minister's son, in arms trafficking linked to Colombian drug cartels."
+  },
+  {
+    "year": 1994,
+    "event": "Lester Bird succeeded his father Vere Bird as prime minister after the Antigua Labour Party won re-election, extending the family's long rule."
+  },
+  {
+    "year": 1995,
+    "event": "Hurricane Luis caused extensive destruction across Antigua and especially devastated the island of Barbuda."
+  },
+  {
+    "year": 1999,
+    "event": "Hurricane Lenny battered the islands during a damaging late-1990s hurricane season."
+  },
+  {
+    "year": 2004,
+    "event": "Baldwin Spencer's United Progressive Party defeated the Antigua Labour Party, ending the Bird family's nearly continuous half-century hold on power."
+  },
+  {
+    "year": 2007,
+    "event": "Antigua and Barbuda co-hosted matches of the ICC Cricket World Cup, opening the new Sir Vivian Richards Stadium named for the legendary Antiguan batsman."
+  },
+  {
+    "year": 2009,
+    "event": "American financier Allen Stanford, a major investor knighted in Antigua, was charged in a massive Ponzi scheme that severely damaged the country's economy."
+  },
+  {
+    "year": 2013,
+    "event": "Antigua and Barbuda won a long-running World Trade Organization dispute against the United States over online gambling restrictions, gaining authorization for trade sanctions."
+  },
+  {
+    "year": 2014,
+    "event": "Gaston Browne led the Antigua Labour Party back to power, becoming prime minister after a decisive election victory."
+  },
+  {
+    "year": 2017,
+    "event": "Hurricane Irma struck as a Category 5 storm, devastating Barbuda so severely that the entire island was evacuated for the first time in modern history."
+  },
+  {
+    "year": 2018,
+    "event": "Gaston Browne's Antigua Labour Party won re-election, securing another term to lead post-hurricane recovery efforts."
+  },
+  {
+    "year": 2022,
+    "event": "Following the death of Queen Elizabeth II, Prime Minister Gaston Browne announced plans to hold a referendum on becoming a republic within a few years."
+  },
+  {
+    "year": 2023,
+    "event": "Gaston Browne and the Antigua Labour Party won a third consecutive general election victory."
+  }
 ]

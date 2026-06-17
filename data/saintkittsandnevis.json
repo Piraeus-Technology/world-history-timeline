@@ -1,13 +1,166 @@
 [
-  { "year": -3000, "event": "Earliest human presence on Saint Kitts and Nevis" },
-  { "year": 1000, "event": "Kalinago peoples inhabit the islands" },
-  { "year": 1493, "event": "Christopher Columbus sights Saint Kitts" },
-  { "year": 1623, "event": "English establish the first permanent settlement on Saint Kitts" },
-  { "year": 1625, "event": "French and English jointly colonize Saint Kitts" },
-  { "year": 1700, "event": "Sugar plantations expand using enslaved African labor" },
-  { "year": 1713, "event": "Britain gains full control of Saint Kitts" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1882, "event": "Saint Kitts, Nevis, and Anguilla are administratively united" },
-  { "year": 1967, "event": "Associated statehood grants internal self-government" },
-  { "year": 1983, "event": "Saint Kitts and Nevis gains independence from the United Kingdom" }
+  {
+    "year": -3000,
+    "event": "Pre-ceramic Archaic (Ortoiroid) peoples migrate from South America and establish the earliest known settlements on the islands."
+  },
+  {
+    "year": -100,
+    "event": "Ceramic-making Saladoid Arawak peoples arrive from the Orinoco region, founding agricultural villages and giving Saint Kitts the name Liamuiga ('fertile land')."
+  },
+  {
+    "year": 800,
+    "event": "Later Arawakan and then Kalinago (Carib) peoples occupy the islands, with the Kalinago calling Nevis Oualie ('land of beautiful waters')."
+  },
+  {
+    "year": 1493,
+    "event": "Christopher Columbus sights the islands on his second voyage, with the larger island later associated with the name Saint Christopher."
+  },
+  {
+    "year": 1623,
+    "event": "Thomas Warner leads English colonists to settle Saint Kitts, making it the first successful English colony in the Caribbean (the 'mother colony of the West Indies')."
+  },
+  {
+    "year": 1625,
+    "event": "French settlers under Pierre Belain d'Esnambuc arrive and the island is partitioned, with the English and French sharing Saint Kitts."
+  },
+  {
+    "year": 1626,
+    "event": "English and French colonists jointly massacre the indigenous Kalinago at Bloody Point to forestall a feared uprising."
+  },
+  {
+    "year": 1628,
+    "event": "Anthony Hilton leads English settlers from Saint Kitts to colonize neighboring Nevis."
+  },
+  {
+    "year": 1640,
+    "event": "Sugar cane cultivation expands rapidly, transforming the islands into plantation economies dependent on enslaved African labor."
+  },
+  {
+    "year": 1690,
+    "event": "A massive earthquake and tsunami devastate Nevis's then-capital Jamestown, contributing to the rise of Charlestown."
+  },
+  {
+    "year": 1706,
+    "event": "A French force under Pierre Le Moyne d'Iberville raids and ransacks Nevis during the War of the Spanish Succession."
+  },
+  {
+    "year": 1713,
+    "event": "The Treaty of Utrecht cedes the entire island of Saint Kitts to Britain, ending the period of Anglo-French partition."
+  },
+  {
+    "year": 1755,
+    "event": "Alexander Hamilton, future founding father of the United States, is born in Charlestown, Nevis."
+  },
+  {
+    "year": 1782,
+    "event": "French forces capture Saint Kitts after the siege of Brimstone Hill before the island is later returned to Britain."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Paris confirms British sovereignty over Saint Kitts and Nevis, ending French claims."
+  },
+  {
+    "year": 1787,
+    "event": "Captain Horatio Nelson marries Frances Nisbet on Nevis while enforcing the Navigation Acts in the Caribbean."
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolishes the transatlantic slave trade, though slavery itself continues on the islands' plantations."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery is abolished throughout the British Empire, emancipating the enslaved population under an apprenticeship system."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation takes effect as the apprenticeship system ends, freeing former slaves completely."
+  },
+  {
+    "year": 1871,
+    "event": "Saint Kitts, Nevis, and Anguilla are incorporated into the British Leeward Islands federal colony."
+  },
+  {
+    "year": 1882,
+    "event": "Saint Kitts, Nevis, and Anguilla are formally united into a single presidency within the Leeward Islands."
+  },
+  {
+    "year": 1932,
+    "event": "The St Kitts-Nevis-Anguilla Trades and Labour Union is founded, becoming a driving force for workers' rights and political change."
+  },
+  {
+    "year": 1935,
+    "event": "Sugar workers strike at Buckley's Estate, where police kill several protesters in a pivotal moment for the labour movement."
+  },
+  {
+    "year": 1940,
+    "event": "Robert Bradshaw rises to lead the labour movement, becoming a dominant figure in the islands' politics for decades."
+  },
+  {
+    "year": 1952,
+    "event": "Universal adult suffrage is introduced, dramatically expanding the right to vote."
+  },
+  {
+    "year": 1958,
+    "event": "Saint Kitts-Nevis-Anguilla joins the short-lived West Indies Federation."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapses, returning the islands to direct British colonial administration."
+  },
+  {
+    "year": 1967,
+    "event": "Saint Christopher-Nevis-Anguilla becomes an associated state with full internal self-government, with Robert Bradshaw as premier."
+  },
+  {
+    "year": 1969,
+    "event": "Anguilla rebels against rule from Saint Kitts in the 'Anguilla Revolution,' prompting a British intervention."
+  },
+  {
+    "year": 1971,
+    "event": "Britain resumes direct control of Anguilla, effectively detaching it from Saint Kitts and Nevis."
+  },
+  {
+    "year": 1980,
+    "event": "Anguilla is formally separated from the state, leaving Saint Kitts and Nevis as a two-island union."
+  },
+  {
+    "year": 1983,
+    "event": "Saint Kitts and Nevis gains full independence from the United Kingdom on 19 September, becoming the smallest sovereign nation in the Western Hemisphere."
+  },
+  {
+    "year": 1983,
+    "event": "The newly independent nation joins the United Nations, the Commonwealth of Nations, and the Organisation of Eastern Caribbean States."
+  },
+  {
+    "year": 1984,
+    "event": "Kennedy Simmonds, the country's first prime minister, wins the first post-independence general election."
+  },
+  {
+    "year": 1995,
+    "event": "Denzil Douglas of the Saint Kitts and Nevis Labour Party becomes prime minister, beginning a long tenure."
+  },
+  {
+    "year": 1998,
+    "event": "A Nevis referendum on secession from the union narrowly fails to reach the two-thirds majority required."
+  },
+  {
+    "year": 1998,
+    "event": "Hurricane Georges strikes the islands, causing severe damage to homes, agriculture, and infrastructure."
+  },
+  {
+    "year": 2005,
+    "event": "The government closes the centuries-old state-owned sugar industry, ending Saint Kitts's economic reliance on sugar cane."
+  },
+  {
+    "year": 2015,
+    "event": "Timothy Harris becomes prime minister as the Team Unity coalition ends the long-ruling Labour Party government."
+  },
+  {
+    "year": 2017,
+    "event": "Hurricanes Irma and Maria pass near the islands, causing damage while the nation aids harder-hit Caribbean neighbours."
+  },
+  {
+    "year": 2022,
+    "event": "Terrance Drew of the Saint Kitts and Nevis Labour Party becomes prime minister after winning the general election."
+  }
 ]

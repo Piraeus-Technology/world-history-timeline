@@ -1,17 +1,186 @@
 [
-  { "year": -10000, "event": "Earliest human presence in present-day Nicaragua" },
-  { "year": -2000, "event": "Indigenous societies develop agriculture and lake-based settlements" },
-  { "year": 500, "event": "Mesoamerican cultural influence spreads into western Nicaragua" },
-  { "year": 1000, "event": "Chorotega and Nicarao peoples dominate the Pacific region" },
-  { "year": 1524, "event": "Spanish conquest of western Nicaragua begins" },
-  { "year": 1524, "event": "Granada is founded as a colonial city" },
-  { "year": 1525, "event": "León is founded as a colonial administrative center" },
-  { "year": 1600, "event": "Region develops as a colonial frontier between oceans" },
-  { "year": 1821, "event": "Nicaragua declares independence from Spain" },
-  { "year": 1823, "event": "Joins the Federal Republic of Central America" },
-  { "year": 1838, "event": "Nicaragua becomes an independent republic" },
-  { "year": 1856, "event": "Filibuster William Walker briefly seizes power" },
-  { "year": 1909, "event": "Foreign intervention shapes national politics" },
-  { "year": 1979, "event": "Revolution overthrows long-standing dictatorship" },
-  { "year": 1990, "event": "Civil conflict ends and democratic transition begins" }
+  {
+    "year": -10000,
+    "event": "Early human hunter-gatherers leave footprints later preserved as the Acahualinca tracks near present-day Managua, marking among the oldest evidence of human presence in Nicaragua."
+  },
+  {
+    "year": -2000,
+    "event": "Agricultural societies cultivating maize, beans, and squash develop across the Pacific lowlands of what is now western Nicaragua."
+  },
+  {
+    "year": -500,
+    "event": "Chibcha-speaking peoples and other groups establish settled villages and chiefdoms throughout the region."
+  },
+  {
+    "year": 800,
+    "event": "Nahua-speaking Nicarao and Chorotega peoples migrate southward from Mesoamerica, settling the fertile Pacific zone around the great lakes."
+  },
+  {
+    "year": 1502,
+    "event": "Christopher Columbus reaches the Caribbean coast of Nicaragua during his fourth voyage, marking the first European contact."
+  },
+  {
+    "year": 1522,
+    "event": "Gil González Dávila leads the first Spanish expedition into the interior, encountering the chief Nicarao for whom the country is named."
+  },
+  {
+    "year": 1524,
+    "event": "Francisco Hernández de Córdoba founds the cities of Granada and León, beginning permanent Spanish colonization."
+  },
+  {
+    "year": 1610,
+    "event": "The original city of León is destroyed by the eruption of the Momotombo volcano and is rebuilt at its present location."
+  },
+  {
+    "year": 1655,
+    "event": "English buccaneers and settlers expand influence over the Mosquito Coast, establishing the British-protected Miskito Kingdom."
+  },
+  {
+    "year": 1685,
+    "event": "Pirates including Henry Morgan repeatedly sack the wealthy colonial city of Granada via the San Juan River and Lake Nicaragua."
+  },
+  {
+    "year": 1762,
+    "event": "British forces attempting to seize the San Juan River are repelled, including a defense led by the heroine Rafaela Herrera at the El Castillo fortress."
+  },
+  {
+    "year": 1821,
+    "event": "Nicaragua declares independence from Spain as part of the broader Central American independence movement on September 15."
+  },
+  {
+    "year": 1823,
+    "event": "Nicaragua joins the United Provinces of Central America, a federation of the former Spanish provinces."
+  },
+  {
+    "year": 1838,
+    "event": "Nicaragua secedes from the disintegrating Federal Republic of Central America to become a fully independent sovereign state."
+  },
+  {
+    "year": 1848,
+    "event": "Britain seizes the port of San Juan del Norte (Greytown), heightening tensions over control of a potential interoceanic canal route."
+  },
+  {
+    "year": 1850,
+    "event": "The Clayton-Bulwer Treaty between Britain and the United States agrees neither power will exclusively control a Nicaraguan canal."
+  },
+  {
+    "year": 1856,
+    "event": "American filibuster William Walker seizes power and declares himself president of Nicaragua, reinstating slavery before being driven out."
+  },
+  {
+    "year": 1857,
+    "event": "A coalition of Central American armies defeats William Walker, and Managua is later established as the national capital to end the León-Granada rivalry."
+  },
+  {
+    "year": 1860,
+    "event": "The Treaty of Managua transfers nominal British control of the Mosquito Coast to Nicaragua while granting the Miskito limited autonomy."
+  },
+  {
+    "year": 1893,
+    "event": "Liberal general José Santos Zelaya seizes power and begins a modernizing, centralizing dictatorship."
+  },
+  {
+    "year": 1894,
+    "event": "Zelaya formally reincorporates the autonomous Mosquito Coast into the Nicaraguan state."
+  },
+  {
+    "year": 1909,
+    "event": "Zelaya is overthrown amid U.S. pressure following the execution of two Americans, opening an era of U.S. intervention."
+  },
+  {
+    "year": 1912,
+    "event": "United States Marines land to support a conservative government, beginning a long military occupation of Nicaragua."
+  },
+  {
+    "year": 1914,
+    "event": "The Bryan-Chamorro Treaty grants the United States exclusive rights to build a canal across Nicaragua."
+  },
+  {
+    "year": 1927,
+    "event": "Augusto César Sandino launches a guerrilla rebellion against the U.S. Marine occupation and the conservative government."
+  },
+  {
+    "year": 1933,
+    "event": "U.S. Marines withdraw, leaving the U.S.-trained National Guard under the command of Anastasio Somoza García."
+  },
+  {
+    "year": 1934,
+    "event": "Sandino is assassinated on Somoza's orders after agreeing to a peace settlement."
+  },
+  {
+    "year": 1937,
+    "event": "Anastasio Somoza García takes the presidency, founding a family dynasty that rules Nicaragua for over four decades."
+  },
+  {
+    "year": 1945,
+    "event": "Nicaragua becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1956,
+    "event": "Anastasio Somoza García is assassinated by the poet Rigoberto López Pérez, and power passes to his sons."
+  },
+  {
+    "year": 1961,
+    "event": "The Sandinista National Liberation Front (FSLN) is founded to oppose the Somoza dictatorship."
+  },
+  {
+    "year": 1972,
+    "event": "A catastrophic earthquake devastates Managua, killing thousands, and the regime's embezzlement of relief aid fuels growing opposition."
+  },
+  {
+    "year": 1978,
+    "event": "The assassination of opposition journalist Pedro Joaquín Chamorro sparks a nationwide uprising against Somoza."
+  },
+  {
+    "year": 1979,
+    "event": "The Sandinista revolution triumphs as Anastasio Somoza Debayle flees, ending the Somoza dynasty and establishing a revolutionary government."
+  },
+  {
+    "year": 1981,
+    "event": "The United States begins funding and arming the Contra rebels to fight the Sandinista government."
+  },
+  {
+    "year": 1984,
+    "event": "Daniel Ortega is elected president in elections boycotted by parts of the opposition."
+  },
+  {
+    "year": 1986,
+    "event": "The International Court of Justice rules that U.S. support for the Contras violated international law, a verdict the U.S. ignores."
+  },
+  {
+    "year": 1987,
+    "event": "Nicaragua grants autonomy to its Caribbean coast regions, and the regional Esquipulas peace accords advance an end to the war."
+  },
+  {
+    "year": 1990,
+    "event": "Violeta Chamorro defeats Daniel Ortega in democratic elections, ending Sandinista rule and the Contra war."
+  },
+  {
+    "year": 1998,
+    "event": "Hurricane Mitch devastates Nicaragua, killing thousands and causing massive flooding and economic damage."
+  },
+  {
+    "year": 2006,
+    "event": "Daniel Ortega returns to the presidency through democratic elections, beginning a new and enduring period in power."
+  },
+  {
+    "year": 2007,
+    "event": "Nicaragua joins the Venezuelan-led ALBA regional alliance, securing oil subsidies and aid."
+  },
+  {
+    "year": 2014,
+    "event": "The National Assembly abolishes presidential term limits, allowing Ortega indefinite reelection, amid a stalled Chinese-backed canal project."
+  },
+  {
+    "year": 2018,
+    "event": "Mass anti-government protests erupt and are violently suppressed, leaving hundreds dead and triggering international condemnation."
+  },
+  {
+    "year": 2021,
+    "event": "Daniel Ortega wins another term after jailing leading opposition candidates, drawing widespread accusations of an illegitimate election."
+  },
+  {
+    "year": 2023,
+    "event": "The government strips citizenship from hundreds of dissidents and expels political prisoners, deepening Nicaragua's authoritarian isolation."
+  }
 ]

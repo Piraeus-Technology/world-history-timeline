@@ -1,12 +1,186 @@
 [
-  { "year": -3000, "event": "Earliest human presence on the island of Saint Lucia" },
-  { "year": 1000, "event": "Kalinago peoples inhabit the island" },
-  { "year": 1502, "event": "European explorers sight Saint Lucia" },
-  { "year": 1635, "event": "French attempt early settlement on the island" },
-  { "year": 1700, "event": "France and Britain repeatedly contest control of Saint Lucia" },
-  { "year": 1814, "event": "Britain gains permanent control of Saint Lucia" },
-  { "year": 1834, "event": "Slavery is abolished under British rule" },
-  { "year": 1938, "event": "Labor unrest leads to political reforms" },
-  { "year": 1967, "event": "Associated statehood grants internal self-government" },
-  { "year": 1979, "event": "Saint Lucia gains independence from the United Kingdom" }
+  {
+    "year": -2000,
+    "event": "Archaic-period Amerindian peoples likely made early visits to or seasonal use of the island during preceramic migrations through the Lesser Antilles."
+  },
+  {
+    "year": -200,
+    "event": "Arawak-speaking Saladoid peoples migrated from South America and established the first permanent agricultural and pottery-making settlements on the island."
+  },
+  {
+    "year": 800,
+    "event": "Island-Carib (Kalinago) peoples gradually displaced or absorbed the earlier Arawak inhabitants, naming the island Iouanalao or Hewanorra, 'land of the iguanas.'"
+  },
+  {
+    "year": 1500,
+    "event": "Spanish navigators charting the Lesser Antilles recorded the island on early maps, though no Spanish settlement was attempted."
+  },
+  {
+    "year": 1605,
+    "event": "Sixty-seven English colonists bound for Guiana landed after their ship was blown off course, but Kalinago resistance soon reduced the survivors and forced their flight."
+  },
+  {
+    "year": 1638,
+    "event": "An English settlement attempt by colonists from Bermuda and St. Kitts was destroyed by the Kalinago within a few years."
+  },
+  {
+    "year": 1650,
+    "event": "The French West India Company purchased the island, and French settlers from Martinique began establishing a foothold."
+  },
+  {
+    "year": 1660,
+    "event": "The French concluded a treaty with the Kalinago, easing tensions and allowing French colonial expansion on the island."
+  },
+  {
+    "year": 1664,
+    "event": "Thomas Warner led an English expedition from Barbados that briefly occupied the island before disease and resistance forced withdrawal."
+  },
+  {
+    "year": 1674,
+    "event": "The French crown took direct control of the island, annexing it as a dependency of Martinique."
+  },
+  {
+    "year": 1746,
+    "event": "Soufriere was founded as the first organized French town on the island, anchoring the developing plantation society."
+  },
+  {
+    "year": 1765,
+    "event": "Large-scale sugar cultivation worked by enslaved Africans expanded across the island under French planters."
+  },
+  {
+    "year": 1778,
+    "event": "British forces captured the island during the American Revolutionary War, using its harbors as a base against the French fleet."
+  },
+  {
+    "year": 1783,
+    "event": "The Treaty of Paris returned the island to French control following the end of the American Revolutionary War."
+  },
+  {
+    "year": 1794,
+    "event": "Revolutionary France abolished slavery and British forces captured the island, which then descended into the guerrilla conflict known as the Brigands' War."
+  },
+  {
+    "year": 1795,
+    "event": "Free people and formerly enslaved fighters of the 'Brigands' drove British forces from much of the island."
+  },
+  {
+    "year": 1796,
+    "event": "British troops under Sir Ralph Abercromby retook the island and suppressed the Brigand resistance, restoring colonial control and slavery."
+  },
+  {
+    "year": 1803,
+    "event": "Britain captured the island for the final time during the Napoleonic Wars, ending more than a century of contested Franco-British rule."
+  },
+  {
+    "year": 1814,
+    "event": "The Treaty of Paris formally ceded the island to Britain, making Saint Lucia a permanent British colony after changing hands fourteen times."
+  },
+  {
+    "year": 1834,
+    "event": "Slavery was abolished throughout the British Empire, beginning a period of apprenticeship for the island's enslaved population."
+  },
+  {
+    "year": 1838,
+    "event": "Full emancipation ended the apprenticeship system, freeing the island's African-descended population from forced labor."
+  },
+  {
+    "year": 1840,
+    "event": "Saint Lucia was incorporated into the British Windward Islands administration."
+  },
+  {
+    "year": 1885,
+    "event": "Castries became the administrative capital of the British Windward Islands, boosting the town's importance as a coaling station."
+  },
+  {
+    "year": 1924,
+    "event": "A new constitution introduced the first elected members to the colony's legislative council, beginning limited representative government."
+  },
+  {
+    "year": 1938,
+    "event": "Labour unrest across the British West Indies spurred the formation of trade unions and pressure for political reform in Saint Lucia."
+  },
+  {
+    "year": 1948,
+    "event": "A devastating fire destroyed much of central Castries, prompting major rebuilding of the capital."
+  },
+  {
+    "year": 1951,
+    "event": "Universal adult suffrage was introduced, granting all adults the right to vote in colonial elections."
+  },
+  {
+    "year": 1958,
+    "event": "Saint Lucia joined the short-lived West Indies Federation as a constituent territory."
+  },
+  {
+    "year": 1962,
+    "event": "The West Indies Federation collapsed, ending hopes of a unified independent Caribbean state."
+  },
+  {
+    "year": 1964,
+    "event": "The Hess Oil terminal opened, establishing a major petroleum transshipment facility that became an economic mainstay."
+  },
+  {
+    "year": 1967,
+    "event": "Saint Lucia became an associated state of the United Kingdom, gaining full internal self-government with Britain retaining defense and foreign affairs."
+  },
+  {
+    "year": 1979,
+    "event": "Saint Lucia achieved full independence on 22 February as a constitutional monarchy within the Commonwealth, with John Compton as first prime minister."
+  },
+  {
+    "year": 1979,
+    "event": "Saint Lucia was admitted to the United Nations on 18 September as its 152nd member state."
+  },
+  {
+    "year": 1979,
+    "event": "The Saint Lucia Labour Party won the first post-independence election, bringing Allan Louisy to the premiership."
+  },
+  {
+    "year": 1981,
+    "event": "Saint Lucia became a founding member of the Organisation of Eastern Caribbean States."
+  },
+  {
+    "year": 1982,
+    "event": "John Compton's United Workers Party returned to power after a period of political instability, beginning a long era of UWP dominance."
+  },
+  {
+    "year": 1992,
+    "event": "Saint Lucian poet Derek Walcott was awarded the Nobel Prize in Literature, bringing international acclaim to the island's culture."
+  },
+  {
+    "year": 1994,
+    "event": "Plummeting banana prices and the threatened loss of preferential European markets triggered a deep crisis in the island's agriculture-dependent economy."
+  },
+  {
+    "year": 1997,
+    "event": "The Saint Lucia Labour Party under Kenny Anthony won a landslide victory, ending fifteen years of UWP rule and accelerating diversification toward tourism."
+  },
+  {
+    "year": 2004,
+    "event": "Tourism firmly overtook bananas as the leading economic sector, reshaping the island's development around hospitality and services."
+  },
+  {
+    "year": 2007,
+    "event": "Founding father Sir John Compton died shortly after returning to office, marking the end of an era in Saint Lucian politics."
+  },
+  {
+    "year": 2010,
+    "event": "Hurricane Tomas struck the island, causing severe flooding, landslides, deaths, and major damage to infrastructure and agriculture."
+  },
+  {
+    "year": 2013,
+    "event": "Allegations of extrajudicial police killings led the United States to suspend assistance to the Royal Saint Lucia Police Force in the 'IMPACS' affair."
+  },
+  {
+    "year": 2016,
+    "event": "Allen Chastanet's United Workers Party won the general election, returning the party to government."
+  },
+  {
+    "year": 2021,
+    "event": "The Saint Lucia Labour Party under Philip J. Pierre won the general election, returning to power amid the COVID-19 pandemic."
+  },
+  {
+    "year": 2022,
+    "event": "Saint Lucia and the wider Commonwealth marked the death of Queen Elizabeth II and the accession of King Charles III as head of state."
+  }
 ]
