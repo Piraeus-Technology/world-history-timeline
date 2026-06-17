@@ -108,6 +108,11 @@ th, td {
   text-align: center;
 }
 
+/* Per-cell country label is only used by the mobile card layout */
+.cell-country {
+  display: none;
+}
+
 thead {
   background: #f1f3f5;
   position: sticky;
@@ -214,14 +219,91 @@ th img {
     padding: 12px;
   }
 
+  /* Collapse the comparison table into a vertical stack of year cards. */
   .timeline-wrapper {
+    overflow-x: visible;
+    border-top: none;
     border-radius: 0;
+    background: transparent;
+    box-shadow: none;
     padding: 0;
+    margin-top: 20px;
   }
 
-  table th,
-  table td {
-    padding: 10px;
+  .timeline-wrapper table,
+  .timeline-wrapper tbody {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  /* Country names move into each cell as labels, so the header is redundant. */
+  .timeline-wrapper thead {
+    display: none;
+  }
+
+  /* Each year becomes a card. */
+  .timeline-wrapper tbody tr {
+    display: block;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    padding: 14px 16px;
+    margin-bottom: 14px;
+  }
+
+  .timeline-wrapper tbody tr:nth-child(even) {
+    background: #fff;
+  }
+
+  .timeline-wrapper td {
+    display: block;
+    border: none;
+    padding: 0;
+    max-width: none;
+    font-size: 0.95rem;
+  }
+
+  /* Year heading at the top of the card. */
+  .timeline-wrapper td:first-child {
+    position: static;
+    box-shadow: none;
+    font-size: 1.1rem;
+    white-space: normal;
+    padding-bottom: 10px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #eee;
+  }
+
+  /* Hide the em-dash placeholders; only show countries with an event. */
+  .timeline-wrapper td.empty-cell {
+    display: none;
+  }
+
+  /* Each country entry inside the card. */
+  .timeline-wrapper td:not(:first-child) {
+    margin-top: 12px;
+  }
+
+  .cell-country {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
     font-size: 0.9rem;
+    color: #333;
+    margin-bottom: 3px;
+  }
+
+  .cell-country img {
+    height: 14px;
+    margin: 0;
+  }
+
+  .cell-event {
+    display: block;
+    color: #222;
+    line-height: 1.45;
   }
 }

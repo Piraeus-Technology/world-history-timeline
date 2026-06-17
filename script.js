@@ -155,7 +155,24 @@ function renderMultiTimeline(countryDataMap, orderedKeys) {
       const event = yearsMap.get(year)[k];
 
       if (event) {
-        td.textContent = event;
+        // Per-cell country label (flag + name): hidden in the desktop table,
+        // shown when the table collapses into year cards on mobile.
+        const c = COUNTRIES[k];
+        const cellLabel = document.createElement('span');
+        cellLabel.className = 'cell-country';
+        const flag = document.createElement('img');
+        flag.src = `https://flagcdn.com/24x18/${c.code}.png`;
+        flag.alt = '';
+        flag.setAttribute('aria-hidden', 'true');
+        cellLabel.appendChild(flag);
+        cellLabel.appendChild(document.createTextNode(c.name));
+
+        const cellEvent = document.createElement('span');
+        cellEvent.className = 'cell-event';
+        cellEvent.textContent = event;
+
+        td.appendChild(cellLabel);
+        td.appendChild(cellEvent);
       } else {
         td.className = 'empty-cell';
         const placeholder = document.createElement('span');
