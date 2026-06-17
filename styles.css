@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 body {
   font-family: 'Inter', sans-serif;
@@ -24,46 +27,225 @@ h1 {
 
 /* === Country Selector === */
 #country-selector {
-  background: white;
+  background: #fff;
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   max-width: 640px;
-  margin-bottom: 40px;
-  position: relative;
-  z-index: 100;
+  margin-bottom: 24px;
 }
 
-label {
-  font-weight: 600;
-  font-size: 1rem;
-  display: block;
-  margin-bottom: 8px;
-  color: #333;
+/* Selected-country chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
-#country-select {
-  width: 100%;
-  font-size: 1em;
+#selected-chips:not(:empty) {
+  margin-bottom: 12px;
 }
 
-/* === Button === */
-button {
-  margin-top: 16px;
-  padding: 10px 16px;
-  font-size: 1em;
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #eef4ff;
+  color: #14346b;
+  border: 1px solid #d3e2ff;
+  border-radius: 999px;
+  padding: 6px 6px 6px 10px;
+  font-size: 0.9rem;
   font-weight: 500;
-  color: white;
-  background-color: #007bff;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0, 123, 255, 0.2);
-  transition: background-color 0.2s ease;
 }
 
-button:hover {
-  background-color: #0056b3;
+.chip img { height: 13px; border-radius: 2px; }
+
+.chip-remove {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(20, 52, 107, 0.1);
+  color: #14346b;
+  font-size: 1.05rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+}
+.chip-remove:hover { background: rgba(20, 52, 107, 0.2); }
+
+/* Search row */
+.search-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#country-search {
+  flex: 1;
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+}
+#country-search:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.12);
+}
+
+.text-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 6px 4px;
+  white-space: nowrap;
+}
+.text-btn:hover { text-decoration: underline; }
+
+/* Scrollable grouped country list */
+#country-list {
+  margin-top: 12px;
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.group-header {
+  position: sticky;
+  top: 0;
+  background: #f1f3f5;
+  color: #555;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 6px 14px;
+  z-index: 1;
+}
+
+.country-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 8px 14px;
+  cursor: pointer;
+  border-bottom: 1px solid #f3f3f3;
+  font-size: 0.95rem;
+}
+.country-option:hover { background: #f7f9fc; }
+.country-option.selected { background: #eef4ff; color: #14346b; font-weight: 500; }
+
+.country-option .check {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+  border: 1.5px solid #c4c4c4;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.8rem;
+}
+.country-option.selected .check { background: #007bff; border-color: #007bff; }
+
+.list-empty {
+  padding: 16px 14px;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+/* === Empty state with presets === */
+#empty-state {
+  max-width: 640px;
+  margin-bottom: 24px;
+}
+.empty-title { font-size: 1.1rem; font-weight: 600; color: #1a1a1a; margin: 0 0 4px; }
+.empty-sub { color: #666; margin: 0 0 12px; }
+
+.preset-chip {
+  background: #fff;
+  border: 1px solid #d3e2ff;
+  color: #14346b;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+.preset-chip:hover { background: #eef4ff; border-color: #007bff; }
+
+/* === Timeline filter controls === */
+#timeline-controls {
+  max-width: 640px;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#filter-keyword {
+  width: 100%;
+  padding: 11px 14px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+#filter-keyword:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.12);
+}
+
+.year-range {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.year-range label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #444;
+}
+.year-range input {
+  width: 110px;
+  padding: 9px 10px;
+  font-size: 0.95rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+.year-hint { font-size: 0.8rem; color: #888; }
+
+.controls-footer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+#filter-summary { font-size: 0.85rem; color: #666; }
+
+#no-results {
+  max-width: 640px;
+  color: #777;
+  font-style: italic;
+  padding: 20px 0;
 }
 
 /* === Timeline Wrapper === */
@@ -73,8 +255,8 @@ button:hover {
   position: relative;
   border-top: 2px solid #ccc;
   padding-top: 10px;
-  margin-top: 30px;
-  background: white;
+  margin-top: 8px;
+  background: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
   width: 100%;
@@ -93,7 +275,7 @@ th, td {
   vertical-align: top;
   text-align: left;
   font-size: 0.95rem;
-  background-color: white;
+  background-color: #fff;
   white-space: normal;
   overflow-wrap: anywhere;
 }
@@ -103,15 +285,10 @@ th, td {
   max-width: 360px;
 }
 
-.empty-cell {
-  color: #ccc;
-  text-align: center;
-}
+.empty-cell { color: #ccc; text-align: center; }
 
 /* Per-cell country label is only used by the mobile card layout */
-.cell-country {
-  display: none;
-}
+.cell-country { display: none; }
 
 thead {
   background: #f1f3f5;
@@ -120,17 +297,11 @@ thead {
   z-index: 5;
 }
 
-tbody tr:nth-child(even) {
-  background: #fafafa;
-}
+tbody tr:nth-child(even) { background: #fafafa; }
 
-th img {
-  height: 16px;
-  margin-right: 6px;
-  vertical-align: middle;
-}
+th img { height: 16px; margin-right: 6px; vertical-align: middle; }
 
-/* ✅ Sticky first column */
+/* Sticky first (Year) column */
 .timeline-wrapper th:first-child,
 .timeline-wrapper td:first-child {
   position: sticky;
@@ -142,82 +313,19 @@ th img {
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.04);
 }
 
-/* === Choices.js Styling Overrides === */
-.choices {
-  position: relative;
-  z-index: 1000;
-  width: 100%;
-  max-width: 600px;
-}
-
-.choices__inner {
-  border: 1px solid #ccc !important;
-  border-radius: 6px;
-  padding: 10px;
-  min-height: 44px;
-  background-color: #fff;
-  box-sizing: border-box;
-  width: 100%;
-  font-size: 1rem;
-}
-
-.choices__list--dropdown {
-  position: absolute;
-  left: 0;
-  right: 0;
-  width: 100%;
-  min-width: 100%;
-  box-sizing: border-box;
-  z-index: 2000;
-  border: 1px solid #ccc;
-  border-top: none;
-  background-color: white;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.05);
-  overflow: auto;
-  border-radius: 0 0 6px 6px;
-}
-
-.choices__list--dropdown .choices__item {
-  white-space: normal;
-  padding: 10px;
-  font-size: 0.95rem;
-  cursor: pointer;
-}
-
-.choices__list--dropdown .choices__item--selectable:hover {
-  background-color: #f0f0f0;
-}
-
 /* === Responsive Adjustments === */
 @media (max-width: 600px) {
-  body {
-    padding: 24px 12px;
-  }
+  body { padding: 24px 12px; }
 
-  h1 {
-    font-size: 1.8rem;
-    text-align: center;
-  }
+  h1 { font-size: 1.8rem; }
 
-  #country-selector {
-    padding: 16px;
-    margin-bottom: 24px;
-    box-shadow: none;
-  }
+  #country-selector { padding: 16px; }
 
-  .choices {
-    max-width: 100%;
-  }
+  #country-list { max-height: 50vh; }
 
-  .choices__inner {
-    font-size: 0.95rem;
-  }
+  .country-option { min-height: 48px; }
 
-  button {
-    width: 100%;
-    font-size: 1rem;
-    padding: 12px;
-  }
+  .year-range input { flex: 1; width: auto; min-width: 0; }
 
   /* Collapse the comparison table into a vertical stack of year cards. */
   .timeline-wrapper {
@@ -227,7 +335,7 @@ th img {
     background: transparent;
     box-shadow: none;
     padding: 0;
-    margin-top: 20px;
+    margin-top: 8px;
   }
 
   .timeline-wrapper table,
@@ -237,12 +345,8 @@ th img {
     min-width: 0;
   }
 
-  /* Country names move into each cell as labels, so the header is redundant. */
-  .timeline-wrapper thead {
-    display: none;
-  }
+  .timeline-wrapper thead { display: none; }
 
-  /* Each year becomes a card. */
   .timeline-wrapper tbody tr {
     display: block;
     background: #fff;
@@ -253,9 +357,7 @@ th img {
     margin-bottom: 14px;
   }
 
-  .timeline-wrapper tbody tr:nth-child(even) {
-    background: #fff;
-  }
+  .timeline-wrapper tbody tr:nth-child(even) { background: #fff; }
 
   .timeline-wrapper td {
     display: block;
@@ -265,7 +367,6 @@ th img {
     font-size: 0.95rem;
   }
 
-  /* Year heading at the top of the card. */
   .timeline-wrapper td:first-child {
     position: static;
     box-shadow: none;
@@ -276,15 +377,9 @@ th img {
     border-bottom: 1px solid #eee;
   }
 
-  /* Hide the em-dash placeholders; only show countries with an event. */
-  .timeline-wrapper td.empty-cell {
-    display: none;
-  }
+  .timeline-wrapper td.empty-cell { display: none; }
 
-  /* Each country entry inside the card. */
-  .timeline-wrapper td:not(:first-child) {
-    margin-top: 12px;
-  }
+  .timeline-wrapper td:not(:first-child) { margin-top: 12px; }
 
   .cell-country {
     display: flex;
@@ -295,15 +390,7 @@ th img {
     color: #333;
     margin-bottom: 3px;
   }
+  .cell-country img { height: 14px; margin: 0; }
 
-  .cell-country img {
-    height: 14px;
-    margin: 0;
-  }
-
-  .cell-event {
-    display: block;
-    color: #222;
-    line-height: 1.45;
-  }
+  .cell-event { display: block; color: #222; line-height: 1.45; }
 }

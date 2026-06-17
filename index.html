@@ -4,27 +4,62 @@
   <meta charset="UTF-8" />
   <title>World History Timeline</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <h1>World History Timeline</h1>
 
   <div id="country-selector">
-    <label for="country-select"></label><br />
-    <select id="country-select" multiple></select>
-    <br />
-    <button onclick="loadSelectedTimeline()">Show Timeline</button>
+    <div id="selected-chips" class="chips" aria-live="polite"></div>
+
+    <div class="search-row">
+      <input
+        id="country-search"
+        type="search"
+        placeholder="Search countries…"
+        autocomplete="off"
+        aria-label="Search countries"
+      />
+      <button id="clear-btn" type="button" class="text-btn" hidden>Clear all</button>
+    </div>
+
+    <div id="country-list" role="listbox" aria-multiselectable="true" aria-label="Countries"></div>
   </div>
 
-  <div class="timeline-wrapper">
+  <div id="empty-state">
+    <p class="empty-title">Pick countries to compare their histories side by side.</p>
+    <p class="empty-sub">Search above, or start with a preset:</p>
+    <div id="preset-chips" class="chips"></div>
+  </div>
+
+  <div id="timeline-controls" hidden>
+    <input
+      id="filter-keyword"
+      type="search"
+      placeholder="Filter events (e.g. war, treaty, independence)…"
+      autocomplete="off"
+      aria-label="Filter events by keyword"
+    />
+    <div class="year-range">
+      <label>From <input id="filter-from" type="number" inputmode="numeric" placeholder="e.g. -3000" aria-label="From year (negative for BC)" /></label>
+      <label>To <input id="filter-to" type="number" inputmode="numeric" placeholder="e.g. 2025" aria-label="To year" /></label>
+      <span class="year-hint">Negative = BC</span>
+    </div>
+    <div class="controls-footer">
+      <span id="filter-summary"></span>
+      <button id="reset-filters" type="button" class="text-btn" hidden>Reset filters</button>
+    </div>
+  </div>
+
+  <div class="timeline-wrapper" hidden>
     <table id="timeline-table">
       <thead id="timeline-head"></thead>
       <tbody id="timeline-body"></tbody>
     </table>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+  <p id="no-results" hidden>No events match these filters.</p>
+
   <script src="script.js"></script>
 </body>
 </html>
