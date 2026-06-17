@@ -16,7 +16,7 @@ const GROUP_ORDER = [
 const PRESETS = [
   { label: 'Ancient Civilizations', keys: ['egypt', 'greece', 'italy', 'china', 'iran', 'india'] },
   { label: 'WWII Powers', keys: ['unitedstates', 'unitedkingdom', 'germany', 'japan', 'russia', 'france', 'italy'] },
-  { label: 'East Asia', keys: ['china', 'japan', 'southkorea'] },
+  { label: 'East Asia', keys: ['china', 'japan', 'southkorea', 'taiwan'] },
   { label: 'North American Neighbors', keys: ['unitedstates', 'canada', 'mexico'] },
   { label: 'Empire Builders', keys: ['unitedkingdom', 'spain', 'portugal', 'france', 'netherlands'] }
 ];
