@@ -1,13 +1,170 @@
 [
-  { "year": -2000, "event": "Early Tibeto-Burman communities settle Himalayan valleys" },
-  { "year": -600, "event": "Kirat kingdoms dominate eastern Himalayan regions" },
-  { "year": -563, "event": "Siddhartha Gautama born in Lumbini" },
-  { "year": 400, "event": "Licchavi dynasty establishes urban state culture" },
-  { "year": 750, "event": "Nepal becomes a trans-Himalayan trade corridor" },
-  { "year": 1200, "event": "Malla kingdoms foster art, architecture, and city-states" },
-  { "year": 1768, "event": "Prithvi Narayan Shah unifies modern Nepal" },
-  { "year": 1816, "event": "Treaty of Sugauli limits Nepalese territorial expansion" },
-  { "year": 1846, "event": "Rana dynasty establishes hereditary autocratic rule" },
-  { "year": 1951, "event": "Rana regime ends and monarchy restored" },
-  { "year": 2008, "event": "Nepal abolishes monarchy and becomes a republic" }
+  {
+    "year": -28000,
+    "event": "Paleolithic and later stone tools and rock shelters in the hills and Kathmandu Valley indicate early human habitation."
+  },
+  {
+    "year": -2000,
+    "event": "Early Tibeto-Burman and other peoples settle the Himalayan valleys and form agricultural communities."
+  },
+  {
+    "year": -700,
+    "event": "The Kirat (Kirati) dynasty, traditionally led by Yalamber, establishes early rule over the Kathmandu Valley."
+  },
+  {
+    "year": -563,
+    "event": "Siddhartha Gautama, the future Buddha, is born at Lumbini in the Shakya republic of present-day southern Nepal."
+  },
+  {
+    "year": -250,
+    "event": "Emperor Ashoka of the Maurya Empire visits Lumbini and erects a commemorative pillar marking the Buddha's birthplace."
+  },
+  {
+    "year": 464,
+    "event": "King Manadeva I of the Licchavi dynasty issues the Changu Narayan inscription, the earliest dated inscription in Nepal."
+  },
+  {
+    "year": 605,
+    "event": "Amshuvarma rises to power in the Licchavi kingdom, strengthening trade ties with Tibet and India."
+  },
+  {
+    "year": 640,
+    "event": "A Licchavi princess (traditionally Bhrikuti) is said to marry Tibetan king Songtsen Gampo, helping spread Buddhism northward."
+  },
+  {
+    "year": 879,
+    "event": "The Nepal Sambat calendar era begins, later used widely by the Newar people of the Kathmandu Valley."
+  },
+  {
+    "year": 1200,
+    "event": "Arideva (Ari Malla) founds the Malla dynasty, ushering in a long era of art, architecture, and Newari culture."
+  },
+  {
+    "year": 1349,
+    "event": "Sultan Shams ud-Din Ilyas of Bengal raids and sacks the Kathmandu Valley, damaging temples and shrines."
+  },
+  {
+    "year": 1382,
+    "event": "Jayasthiti Malla consolidates power and codifies social and legal structures across the Kathmandu Valley."
+  },
+  {
+    "year": 1428,
+    "event": "Yaksha Malla expands and consolidates the Malla kingdom to its greatest territorial extent."
+  },
+  {
+    "year": 1482,
+    "event": "After Yaksha Malla's death, the kingdom fragments into the rival city-states of Kathmandu, Patan, and Bhaktapur."
+  },
+  {
+    "year": 1559,
+    "event": "Dravya Shah founds the principality of Gorkha, the future seat of the Shah dynasty that would unify Nepal."
+  },
+  {
+    "year": 1743,
+    "event": "Prithvi Narayan Shah ascends the throne of Gorkha and begins his campaign to unify the kingdoms of the region."
+  },
+  {
+    "year": 1768,
+    "event": "Prithvi Narayan Shah conquers Kathmandu, founding the unified Kingdom of Nepal under the Shah dynasty."
+  },
+  {
+    "year": 1769,
+    "event": "Shah forces complete the conquest of the Kathmandu Valley, capturing Bhaktapur and ending Malla rule."
+  },
+  {
+    "year": 1788,
+    "event": "Nepal launches military campaigns into Tibet, beginning a series of conflicts over trade and territory."
+  },
+  {
+    "year": 1792,
+    "event": "Qing China intervenes on Tibet's behalf, forcing Nepal to sue for peace after the Sino-Nepalese War."
+  },
+  {
+    "year": 1814,
+    "event": "The Anglo-Nepalese War (Gurkha War) breaks out as Nepal clashes with the British East India Company over territory."
+  },
+  {
+    "year": 1816,
+    "event": "The Treaty of Sugauli ends the war, ceding territory to Britain and establishing Nepal's enduring borders."
+  },
+  {
+    "year": 1846,
+    "event": "Jung Bahadur Rana seizes power in the Kot Massacre, founding the hereditary Rana prime ministership."
+  },
+  {
+    "year": 1857,
+    "event": "Nepal sends Gurkha troops to aid Britain in suppressing the Indian Rebellion, deepening Anglo-Nepali ties."
+  },
+  {
+    "year": 1923,
+    "event": "Britain recognizes Nepal's full sovereignty and independence through a treaty of friendship."
+  },
+  {
+    "year": 1934,
+    "event": "A massive earthquake devastates the Kathmandu Valley and eastern Nepal, killing thousands and destroying monuments."
+  },
+  {
+    "year": 1951,
+    "event": "A revolution backed by King Tribhuvan ends 104 years of autocratic Rana rule and restores the monarchy's power."
+  },
+  {
+    "year": 1953,
+    "event": "Tenzing Norgay, a Nepali Sherpa, and Edmund Hillary make the first confirmed summit of Mount Everest."
+  },
+  {
+    "year": 1955,
+    "event": "Nepal is admitted to the United Nations as a member state."
+  },
+  {
+    "year": 1959,
+    "event": "Nepal holds its first democratic general elections, bringing the Nepali Congress to power under B.P. Koirala."
+  },
+  {
+    "year": 1960,
+    "event": "King Mahendra dissolves parliament, bans political parties, and assumes direct rule."
+  },
+  {
+    "year": 1962,
+    "event": "King Mahendra introduces the partyless Panchayat system under a new constitution centralizing royal power."
+  },
+  {
+    "year": 1990,
+    "event": "The Jana Andolan (People's Movement) forces King Birendra to end the Panchayat system and accept multiparty democracy."
+  },
+  {
+    "year": 1996,
+    "event": "The Communist Party of Nepal (Maoist) launches a decade-long armed insurgency known as the People's War."
+  },
+  {
+    "year": 2001,
+    "event": "King Birendra and most of the royal family are killed in a palace massacre, and Gyanendra becomes king."
+  },
+  {
+    "year": 2005,
+    "event": "King Gyanendra dismisses the government and assumes direct authoritarian rule, suspending civil liberties."
+  },
+  {
+    "year": 2006,
+    "event": "The Jana Andolan II protests force Gyanendra to restore parliament, and a peace accord ends the Maoist war."
+  },
+  {
+    "year": 2008,
+    "event": "Nepal's Constituent Assembly abolishes the monarchy and declares the country a federal democratic republic."
+  },
+  {
+    "year": 2015,
+    "event": "A magnitude-7.8 earthquake kills nearly 9,000 people, and a new federal constitution is promulgated."
+  },
+  {
+    "year": 2017,
+    "event": "Nepal holds its first elections under the new federal constitution, establishing provincial and federal governments."
+  },
+  {
+    "year": 2020,
+    "event": "Nepal updates its official map to assert claims over the Kalapani, Lipulekh, and Limpiyadhura border areas with India."
+  },
+  {
+    "year": 2023,
+    "event": "Pushpa Kamal Dahal 'Prachanda' leads a coalition government amid ongoing political realignment in the federal republic."
+  }
 ]

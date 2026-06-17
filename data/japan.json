@@ -1,21 +1,194 @@
 [
-  { "year": -14000, "event": "Jomon culture develops early sedentary life and pottery" },
-  { "year": -300, "event": "Yayoi migration introduces wet-rice agriculture and metallurgy" },
-  { "year": 250, "event": "Kofun period forms early state power through elite burial mounds" },
-  { "year": 538, "event": "Buddhism introduced from the Korean Peninsula" },
-  { "year": 645, "event": "Taika Reforms centralize rule on Chinese models" },
-  { "year": 710, "event": "Nara established as Japan’s first permanent capital" },
-  { "year": 794, "event": "Heian period begins with court culture and aristocratic rule" },
-  { "year": 1185, "event": "Kamakura shogunate establishes samurai governance" },
-  { "year": 1274, "event": "Mongol invasions repelled by storms and resistance" },
-  { "year": 1336, "event": "Ashikaga shogunate ushers in feudal decentralization" },
-  { "year": 1467, "event": "Onin War fractures authority and triggers the Sengoku era" },
-  { "year": 1600, "event": "Tokugawa victory unifies Japan under shogunal rule" },
-  { "year": 1639, "event": "Japan adopts isolationist foreign policy" },
-  { "year": 1853, "event": "Western gunboats force Japan’s opening to trade" },
-  { "year": 1868, "event": "Meiji Restoration restores imperial rule and modernizes the state" },
-  { "year": 1895, "event": "Japan emerges as a regional power after victory over China" },
-  { "year": 1905, "event": "Japan defeats Russia and gains international recognition" },
-  { "year": 1945, "event": "World War II ends with Japan’s defeat" },
-  { "year": 1952, "event": "Japan regains sovereignty under a pacifist constitution" }
+  {
+    "year": -14000,
+    "event": "The Jomon period begins, marked by hunter-gatherer communities producing some of the world's earliest pottery."
+  },
+  {
+    "year": -300,
+    "event": "The Yayoi period begins, introducing wet-rice agriculture and bronze and iron metallurgy from the Asian mainland."
+  },
+  {
+    "year": 57,
+    "event": "A ruler of the Wa state of Na receives a gold seal from the Chinese Han emperor, the earliest documented contact with China."
+  },
+  {
+    "year": 239,
+    "event": "Queen Himiko of the Yamatai polity sends envoys to the Chinese Wei court, as recorded in Chinese chronicles."
+  },
+  {
+    "year": 300,
+    "event": "The Kofun period begins, with powerful clans building massive keyhole-shaped burial mounds and the Yamato state consolidating power."
+  },
+  {
+    "year": 538,
+    "event": "Buddhism is officially introduced to Japan from the Korean kingdom of Baekje, transforming religion and art."
+  },
+  {
+    "year": 604,
+    "event": "Prince Shotoku promulgates the Seventeen-Article Constitution, establishing moral and political principles for governance."
+  },
+  {
+    "year": 645,
+    "event": "The Taika Reforms centralize state power along Chinese imperial models, reorganizing land and administration."
+  },
+  {
+    "year": 710,
+    "event": "The capital is established at Nara (Heijo-kyo), beginning the Nara period and a flourishing of Buddhist culture."
+  },
+  {
+    "year": 712,
+    "event": "The Kojiki, Japan's oldest surviving chronicle of myth and history, is compiled."
+  },
+  {
+    "year": 794,
+    "event": "Emperor Kanmu moves the capital to Heian-kyo (Kyoto), beginning the Heian period of aristocratic court culture."
+  },
+  {
+    "year": 1008,
+    "event": "Murasaki Shikibu writes The Tale of Genji, often considered the world's first novel."
+  },
+  {
+    "year": 1185,
+    "event": "Minamoto no Yoritomo defeats the Taira clan in the Genpei War, establishing warrior rule."
+  },
+  {
+    "year": 1192,
+    "event": "Yoritomo is named shogun, founding the Kamakura shogunate and Japan's first warrior government."
+  },
+  {
+    "year": 1274,
+    "event": "The first Mongol invasion is repelled, aided by storms later mythologized as the 'kamikaze' divine wind."
+  },
+  {
+    "year": 1281,
+    "event": "A second, larger Mongol invasion fails when a typhoon destroys Kublai Khan's fleet."
+  },
+  {
+    "year": 1336,
+    "event": "Ashikaga Takauji establishes the Muromachi shogunate, ushering in a long era of cultural patronage and instability."
+  },
+  {
+    "year": 1467,
+    "event": "The Onin War erupts, plunging Japan into the century-long Sengoku period of warring states."
+  },
+  {
+    "year": 1543,
+    "event": "Portuguese traders arrive, introducing firearms and beginning European contact and the spread of Christianity."
+  },
+  {
+    "year": 1573,
+    "event": "Oda Nobunaga overthrows the last Ashikaga shogun, accelerating the reunification of Japan."
+  },
+  {
+    "year": 1592,
+    "event": "Toyotomi Hideyoshi launches the first of two failed invasions of Korea."
+  },
+  {
+    "year": 1600,
+    "event": "Tokugawa Ieyasu wins the decisive Battle of Sekigahara, securing national dominance."
+  },
+  {
+    "year": 1603,
+    "event": "Tokugawa Ieyasu becomes shogun, founding the Edo shogunate and over two centuries of stability."
+  },
+  {
+    "year": 1639,
+    "event": "The shogunate completes its sakoku isolation policy, closing Japan to most foreign contact."
+  },
+  {
+    "year": 1853,
+    "event": "Commodore Matthew Perry's American 'Black Ships' arrive, pressuring Japan to end its isolation."
+  },
+  {
+    "year": 1854,
+    "event": "The Convention of Kanagawa opens Japanese ports to American trade, ending centuries of seclusion."
+  },
+  {
+    "year": 1868,
+    "event": "The Meiji Restoration topples the shogunate and restores imperial rule, launching rapid modernization."
+  },
+  {
+    "year": 1889,
+    "event": "The Meiji Constitution is promulgated, establishing a constitutional monarchy with a parliament (Diet)."
+  },
+  {
+    "year": 1894,
+    "event": "Japan wins the First Sino-Japanese War, gaining Taiwan and emerging as a regional power."
+  },
+  {
+    "year": 1905,
+    "event": "Japan defeats Russia in the Russo-Japanese War, becoming the first Asian power to defeat a European empire in modern times."
+  },
+  {
+    "year": 1910,
+    "event": "Japan annexes Korea, beginning 35 years of colonial rule over the peninsula."
+  },
+  {
+    "year": 1923,
+    "event": "The Great Kanto Earthquake devastates Tokyo and Yokohama, killing over 100,000 people."
+  },
+  {
+    "year": 1931,
+    "event": "Japan invades Manchuria and establishes the puppet state of Manchukuo."
+  },
+  {
+    "year": 1937,
+    "event": "The Second Sino-Japanese War begins, including the atrocity of the Nanjing Massacre."
+  },
+  {
+    "year": 1941,
+    "event": "Japan attacks Pearl Harbor, bringing the United States into World War II."
+  },
+  {
+    "year": 1945,
+    "event": "Atomic bombings of Hiroshima and Nagasaki precede Japan's surrender, ending World War II."
+  },
+  {
+    "year": 1947,
+    "event": "A new pacifist constitution takes effect, renouncing war and establishing democratic government."
+  },
+  {
+    "year": 1952,
+    "event": "The Treaty of San Francisco restores Japanese sovereignty, ending the Allied occupation."
+  },
+  {
+    "year": 1956,
+    "event": "Japan is admitted to the United Nations, rejoining the international community."
+  },
+  {
+    "year": 1964,
+    "event": "Tokyo hosts the Summer Olympics and launches the Shinkansen bullet train, symbolizing postwar recovery."
+  },
+  {
+    "year": 1972,
+    "event": "The United States returns Okinawa to Japanese administration."
+  },
+  {
+    "year": 1989,
+    "event": "Emperor Hirohito dies, ending the Showa era and beginning the Heisei era under Emperor Akihito."
+  },
+  {
+    "year": 1991,
+    "event": "The collapse of the asset price bubble ushers in the 'Lost Decade' of economic stagnation."
+  },
+  {
+    "year": 1995,
+    "event": "The Great Hanshin earthquake strikes Kobe and the Aum Shinrikyo cult carries out a sarin attack on the Tokyo subway."
+  },
+  {
+    "year": 2011,
+    "event": "A massive earthquake and tsunami trigger the Fukushima nuclear disaster, the worst since Chernobyl."
+  },
+  {
+    "year": 2019,
+    "event": "Emperor Akihito abdicates and Naruhito ascends the throne, beginning the Reiwa era."
+  },
+  {
+    "year": 2021,
+    "event": "Tokyo hosts the pandemic-delayed Summer Olympics, held largely without spectators."
+  },
+  {
+    "year": 2022,
+    "event": "Former Prime Minister Shinzo Abe is assassinated during a campaign speech, shocking the nation."
+  }
 ]

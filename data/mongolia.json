@@ -1,18 +1,178 @@
 [
-  { "year": -3000, "event": "Pastoral nomadic cultures dominate the eastern Eurasian steppe" },
-  { "year": -209, "event": "Xiongnu confederation challenges Han China" },
-  { "year": 552, "event": "Turkic Khaganate controls much of the Mongolian Plateau" },
-  { "year": 744, "event": "Uyghur Khaganate succeeds Turkic rule" },
-  { "year": 907, "event": "Khitan Liao dynasty rules Mongolia and northern China" },
-  { "year": 1206, "event": "Temujin proclaimed Genghis Khan and unites Mongol tribes" },
-  { "year": 1215, "event": "Mongols capture Zhongdu, accelerating continental conquest" },
-  { "year": 1237, "event": "Mongol armies devastate Eastern Europe" },
-  { "year": 1271, "event": "Yuan dynasty proclaimed with rule over China" },
-  { "year": 1294, "event": "Mongol Empire fragments into rival khanates" },
-  { "year": 1368, "event": "Mongols expelled from China by the Ming dynasty" },
-  { "year": 1636, "event": "Inner Mongolia incorporated into the Qing Empire" },
-  { "year": 1691, "event": "Outer Mongolia submits to Qing protection" },
-  { "year": 1911, "event": "Mongolia declares independence after Qing collapse" },
-  { "year": 1924, "event": "Mongolian People’s Republic established" },
-  { "year": 1990, "event": "Peaceful revolution ends socialist rule" }
+  {
+    "year": -209,
+    "event": "Modu Chanyu founds the Xiongnu Empire, the first major steppe confederation on the Mongolian Plateau."
+  },
+  {
+    "year": -200,
+    "event": "The Xiongnu defeat the Han emperor Gaozu at Baideng, forcing China into the tributary heqin marriage-alliance system."
+  },
+  {
+    "year": -119,
+    "event": "Han general Huo Qubing's northern campaigns drive the Xiongnu beyond the Gobi Desert."
+  },
+  {
+    "year": 48,
+    "event": "The Xiongnu split into northern and southern branches, weakening steppe power."
+  },
+  {
+    "year": 156,
+    "event": "The Xianbei under Tanshihuai unite the steppe, displacing the remnants of the Xiongnu."
+  },
+  {
+    "year": 552,
+    "event": "The Turkic Bumin Qaghan overthrows the Rouran and establishes the First Turkic Khaganate."
+  },
+  {
+    "year": 744,
+    "event": "The Uyghur Khaganate is founded, ruling the Mongolian steppe from its capital at Ordu-Baliq."
+  },
+  {
+    "year": 840,
+    "event": "The Kyrgyz overthrow the Uyghur Khaganate, scattering the Uyghurs from the steppe."
+  },
+  {
+    "year": 916,
+    "event": "The Khitan Liao dynasty rises, extending Mongolic-speaking rule over much of the eastern steppe."
+  },
+  {
+    "year": 1162,
+    "event": "Temujin, the future Genghis Khan, is born to a Mongol clan near the Onon River."
+  },
+  {
+    "year": 1206,
+    "event": "Temujin is proclaimed Genghis Khan at a kurultai, unifying the Mongol tribes and founding the Mongol Empire."
+  },
+  {
+    "year": 1219,
+    "event": "Genghis Khan launches the invasion of the Khwarazmian Empire in Central Asia."
+  },
+  {
+    "year": 1227,
+    "event": "Genghis Khan dies, leaving an empire stretching from the Caspian Sea toward the Pacific."
+  },
+  {
+    "year": 1235,
+    "event": "Ogedei Khan completes construction of Karakorum as the imperial capital of the Mongol Empire."
+  },
+  {
+    "year": 1241,
+    "event": "Mongol armies devastate Eastern Europe, crushing forces at Legnica and Mohi before withdrawing."
+  },
+  {
+    "year": 1260,
+    "event": "Kublai Khan is proclaimed Great Khan, beginning a succession dispute that fractures the empire."
+  },
+  {
+    "year": 1271,
+    "event": "Kublai Khan founds the Yuan dynasty, ruling China and the Mongol heartland."
+  },
+  {
+    "year": 1294,
+    "event": "The death of Kublai Khan marks the empire's effective fragmentation into rival independent khanates."
+  },
+  {
+    "year": 1368,
+    "event": "The Yuan dynasty is overthrown by the Ming, and the Mongol court retreats north as the Northern Yuan."
+  },
+  {
+    "year": 1578,
+    "event": "Altan Khan grants the title Dalai Lama to the Tibetan leader Sonam Gyatso, spreading Tibetan Buddhism among the Mongols."
+  },
+  {
+    "year": 1635,
+    "event": "Ligdan Khan, the last Northern Yuan ruler, dies, ending unified Chahar Mongol resistance to the rising Manchus."
+  },
+  {
+    "year": 1636,
+    "event": "Inner Mongolia is incorporated into the Manchu Qing Empire."
+  },
+  {
+    "year": 1691,
+    "event": "The Khalkha Mongol nobles submit to the Qing dynasty at the Dolon Nor assembly, bringing Outer Mongolia under Qing rule."
+  },
+  {
+    "year": 1727,
+    "event": "The Treaty of Kyakhta fixes the border between Qing Mongolia and the Russian Empire."
+  },
+  {
+    "year": 1755,
+    "event": "The Qing conquest of the Dzungar Khanate eliminates the last independent Mongol power in the west."
+  },
+  {
+    "year": 1911,
+    "event": "Outer Mongolia declares independence from the collapsing Qing dynasty under the Bogd Khan, a Buddhist theocratic monarch."
+  },
+  {
+    "year": 1915,
+    "event": "The Treaty of Kyakhta grants Mongolia autonomy under nominal Chinese suzerainty and Russian influence."
+  },
+  {
+    "year": 1919,
+    "event": "Chinese forces under Xu Shuzheng occupy Mongolia and revoke its autonomy."
+  },
+  {
+    "year": 1921,
+    "event": "Mongolian revolutionaries with Soviet Red Army support expel Chinese and White Russian forces, securing independence under a people's government."
+  },
+  {
+    "year": 1924,
+    "event": "The Bogd Khan dies and the Mongolian People's Republic is proclaimed, becoming the world's second communist state."
+  },
+  {
+    "year": 1932,
+    "event": "Armed uprisings break out against forced collectivization and the persecution of Buddhist monasteries."
+  },
+  {
+    "year": 1937,
+    "event": "The Stalinist Great Repression under Khorloogiin Choibalsan kills tens of thousands and destroys most Buddhist monasteries."
+  },
+  {
+    "year": 1939,
+    "event": "Soviet and Mongolian forces defeat Japan at the Battle of Khalkhin Gol, securing Mongolia's eastern frontier."
+  },
+  {
+    "year": 1945,
+    "event": "A plebiscite overwhelmingly affirms independence, which the Republic of China recognizes the following year."
+  },
+  {
+    "year": 1961,
+    "event": "Mongolia is admitted to the United Nations after years of vetoes."
+  },
+  {
+    "year": 1962,
+    "event": "Mongolia joins the Soviet-led economic bloc Comecon, deepening its integration with the USSR."
+  },
+  {
+    "year": 1990,
+    "event": "Peaceful pro-democracy protests force the ruling communist party to allow multiparty elections, ending one-party rule."
+  },
+  {
+    "year": 1992,
+    "event": "A new democratic constitution is adopted, renaming the country simply Mongolia and establishing a market-oriented republic."
+  },
+  {
+    "year": 1996,
+    "event": "The Democratic Union coalition wins parliamentary elections, ending over seventy years of communist-party dominance."
+  },
+  {
+    "year": 2009,
+    "event": "Tsakhiagiin Elbegdorj is elected president, a prominent leader of the 1990 democratic revolution."
+  },
+  {
+    "year": 2011,
+    "event": "Development of the giant Oyu Tolgoi copper-gold mine accelerates, transforming Mongolia's resource-driven economy."
+  },
+  {
+    "year": 2017,
+    "event": "Mongolia secures an IMF bailout to stabilize an economy hit by falling commodity prices and mounting debt."
+  },
+  {
+    "year": 2019,
+    "event": "Constitutional amendments are passed to strengthen the prime minister's powers and improve governmental stability."
+  },
+  {
+    "year": 2020,
+    "event": "Mongolia records strikingly few COVID-19 cases early in the pandemic after rapid border closures."
+  }
 ]

@@ -1,13 +1,190 @@
 [
-  { "year": -4000, "event": "Austronesian settlers populate the Philippine archipelago" },
-  { "year": 900, "event": "Maritime polities trade with China and Southeast Asia" },
-  { "year": 1521, "event": "Spanish expedition reaches the Philippines" },
-  { "year": 1565, "event": "Spain establishes permanent colonial rule" },
-  { "year": 1571, "event": "Manila becomes a global galleon trade hub" },
-  { "year": 1762, "event": "British briefly occupy Manila during global war" },
-  { "year": 1896, "event": "Philippine Revolution erupts against Spanish rule" },
-  { "year": 1898, "event": "Spain cedes the Philippines to the United States" },
-  { "year": 1902, "event": "American colonial administration consolidates control" },
-  { "year": 1942, "event": "Japan occupies the Philippines during World War II" },
-  { "year": 1946, "event": "Philippines gains independence from the United States" }
+  {
+    "year": -67000,
+    "event": "Early modern humans inhabit Callao Cave in Luzon, evidenced by fossil remains later attributed to the species Homo luzonensis."
+  },
+  {
+    "year": -3000,
+    "event": "Austronesian-speaking peoples begin migrating into the archipelago, bringing agriculture, pottery, and seafaring technology."
+  },
+  {
+    "year": -1000,
+    "event": "Metal Age cultures emerge, with the development of jade ornaments, trade networks, and early ironworking across the islands."
+  },
+  {
+    "year": 900,
+    "event": "The Laguna Copperplate Inscription, the earliest known written document in the Philippines, records a debt settlement and reflects ties to Javanese and Indic culture."
+  },
+  {
+    "year": 1011,
+    "event": "Chinese records mention the polity of Ma-i, an early trading state likely centered in Mindoro or Bay, sending envoys to Song China."
+  },
+  {
+    "year": 1225,
+    "event": "Chinese official Zhao Rugua describes the trading communities of Ma-i and the Visayan islands in his work Zhu Fan Zhi."
+  },
+  {
+    "year": 1380,
+    "event": "Arab missionary Karim ul-Makhdum introduces Islam to Sulu, founding one of the archipelago's first mosques."
+  },
+  {
+    "year": 1457,
+    "event": "The Sultanate of Sulu is established under Sharif ul-Hashim, becoming a major Islamic political and trading power."
+  },
+  {
+    "year": 1500,
+    "event": "The Sultanate of Maguindanao consolidates power in Mindanao under Islamic rule and expanding trade."
+  },
+  {
+    "year": 1521,
+    "event": "Ferdinand Magellan reaches the islands during the first circumnavigation and is killed by Lapulapu's forces at the Battle of Mactan."
+  },
+  {
+    "year": 1543,
+    "event": "Spanish explorer Ruy Lopez de Villalobos names the islands Las Islas Filipinas in honor of Prince Philip of Spain."
+  },
+  {
+    "year": 1565,
+    "event": "Miguel Lopez de Legazpi establishes the first permanent Spanish settlement at Cebu, beginning Spanish colonization."
+  },
+  {
+    "year": 1571,
+    "event": "Legazpi founds Manila as the capital of the Spanish East Indies after defeating the local ruler Rajah Sulayman."
+  },
+  {
+    "year": 1572,
+    "event": "The Manila Galleon trade begins, linking Manila and Acapulco and integrating the Philippines into global commerce for 250 years."
+  },
+  {
+    "year": 1762,
+    "event": "British forces capture Manila during the Seven Years' War, occupying the city until its return to Spain in 1764."
+  },
+  {
+    "year": 1781,
+    "event": "Governor-General Jose Basco establishes the tobacco monopoly, reshaping the colonial economy of Luzon."
+  },
+  {
+    "year": 1834,
+    "event": "Manila is formally opened to world trade, accelerating the growth of cash-crop agriculture and a Filipino merchant class."
+  },
+  {
+    "year": 1872,
+    "event": "The Cavite Mutiny leads to the execution of priests Gomez, Burgos, and Zamora, galvanizing Filipino nationalist sentiment."
+  },
+  {
+    "year": 1887,
+    "event": "Jose Rizal publishes the novel Noli Me Tangere, exposing colonial abuses and inspiring the reform movement."
+  },
+  {
+    "year": 1892,
+    "event": "Andres Bonifacio founds the Katipunan, a secret revolutionary society dedicated to independence from Spain."
+  },
+  {
+    "year": 1896,
+    "event": "The Philippine Revolution erupts against Spanish rule, and Jose Rizal is executed by firing squad in Manila."
+  },
+  {
+    "year": 1898,
+    "event": "Emilio Aguinaldo proclaims independence at Kawit, but the Treaty of Paris cedes the islands from Spain to the United States."
+  },
+  {
+    "year": 1899,
+    "event": "The First Philippine Republic is inaugurated and the Philippine-American War breaks out against U.S. annexation."
+  },
+  {
+    "year": 1901,
+    "event": "Aguinaldo is captured by American forces, and the United States establishes civil government under William Howard Taft."
+  },
+  {
+    "year": 1902,
+    "event": "The Philippine-American War is officially declared over, with U.S. colonial rule consolidated across most of the archipelago."
+  },
+  {
+    "year": 1916,
+    "event": "The Jones Act pledges eventual independence and creates an elected Philippine Legislature."
+  },
+  {
+    "year": 1935,
+    "event": "The Commonwealth of the Philippines is established with Manuel Quezon as president, transitioning toward full sovereignty."
+  },
+  {
+    "year": 1941,
+    "event": "Japan invades the Philippines shortly after Pearl Harbor, beginning a brutal occupation during World War II."
+  },
+  {
+    "year": 1942,
+    "event": "American and Filipino forces surrender at Bataan, leading to the deadly Bataan Death March under Japanese control."
+  },
+  {
+    "year": 1944,
+    "event": "General Douglas MacArthur returns at Leyte, launching the campaign to liberate the islands from Japanese occupation."
+  },
+  {
+    "year": 1945,
+    "event": "The Battle of Manila devastates the capital as Allied and Filipino forces retake the city from Japanese troops."
+  },
+  {
+    "year": 1946,
+    "event": "The Philippines gains full independence from the United States on July 4, with Manuel Roxas as the first president of the republic."
+  },
+  {
+    "year": 1947,
+    "event": "The Military Bases Agreement grants the United States long-term use of Clark Air Base and Subic Bay Naval Base."
+  },
+  {
+    "year": 1965,
+    "event": "Ferdinand Marcos is elected president, beginning a tenure that would extend through authoritarian rule."
+  },
+  {
+    "year": 1972,
+    "event": "President Marcos declares martial law, suspending civil liberties and consolidating dictatorial power."
+  },
+  {
+    "year": 1981,
+    "event": "Marcos formally lifts martial law while retaining sweeping powers under a new constitution."
+  },
+  {
+    "year": 1983,
+    "event": "Opposition leader Benigno Aquino Jr. is assassinated at Manila airport, igniting mass outrage against the regime."
+  },
+  {
+    "year": 1986,
+    "event": "The People Power Revolution peacefully topples Marcos, and Corazon Aquino becomes president."
+  },
+  {
+    "year": 1987,
+    "event": "A new democratic constitution is ratified, restoring the bicameral Congress and presidential term limits."
+  },
+  {
+    "year": 1991,
+    "event": "Mount Pinatubo erupts catastrophically, and the Senate votes to end the U.S. military bases agreement."
+  },
+  {
+    "year": 1992,
+    "event": "The last U.S. forces withdraw from Subic Bay, ending nearly a century of American military presence."
+  },
+  {
+    "year": 2001,
+    "event": "The second People Power uprising ousts President Joseph Estrada, elevating Gloria Macapagal Arroyo to the presidency."
+  },
+  {
+    "year": 2013,
+    "event": "Super Typhoon Haiyan (Yolanda) devastates the central Philippines, killing thousands in one of the strongest landfalling storms recorded."
+  },
+  {
+    "year": 2016,
+    "event": "Rodrigo Duterte becomes president and launches a deadly anti-drug campaign, while a UN tribunal rejects China's claims in the South China Sea."
+  },
+  {
+    "year": 2017,
+    "event": "The Battle of Marawi sees government forces retake the city from Islamic State-aligned militants after months of fighting."
+  },
+  {
+    "year": 2019,
+    "event": "The Bangsamoro Autonomous Region in Muslim Mindanao is established following a peace plebiscite."
+  },
+  {
+    "year": 2022,
+    "event": "Ferdinand Marcos Jr., son of the former dictator, wins the presidency in a landslide election."
+  }
 ]

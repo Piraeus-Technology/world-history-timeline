@@ -1,11 +1,178 @@
 [
-  { "year": 700, "event": "Early riverine settlements engage in regional trade" },
-  { "year": 1363, "event": "Brunei emerges as an independent Islamic sultanate" },
-  { "year": 1500, "event": "Brunei controls much of coastal Borneo and nearby islands" },
-  { "year": 1578, "event": "Spanish attack weakens Bruneian maritime power" },
-  { "year": 1658, "event": "Territorial influence declines amid regional competition" },
-  { "year": 1888, "event": "Brunei becomes a British protectorate" },
-  { "year": 1941, "event": "Japanese occupation disrupts colonial administration" },
-  { "year": 1959, "event": "Brunei gains internal self-government under British protection" },
-  { "year": 1984, "event": "Brunei becomes a fully independent state" }
+  {
+    "year": -40000,
+    "event": "Archaeological evidence from caves in nearby Borneo, including the Niah Caves region, indicates human habitation in the area tens of thousands of years ago."
+  },
+  {
+    "year": -2500,
+    "event": "Austronesian-speaking peoples migrate into coastal Borneo, establishing the ancestral populations of the region's later Malay and indigenous communities."
+  },
+  {
+    "year": 500,
+    "event": "Coastal trading settlements develop along northwestern Borneo, drawn into maritime networks linking China, India, and Southeast Asia."
+  },
+  {
+    "year": 518,
+    "event": "Chinese records mention a kingdom called Poli, often associated with early Brunei, sending an embassy to the Chinese court."
+  },
+  {
+    "year": 977,
+    "event": "Chinese Song dynasty records note a trade mission from Po-ni (Boni), an early Bruneian polity, marking some of the first firm references to the state."
+  },
+  {
+    "year": 1082,
+    "event": "Po-ni sends another tribute mission to China, reflecting sustained commercial and diplomatic ties with the Song dynasty."
+  },
+  {
+    "year": 1225,
+    "event": "Chinese official Zhao Rugua describes Po-ni as a prosperous trading state in his account of foreign lands."
+  },
+  {
+    "year": 1370,
+    "event": "Boni sends a tribute mission to the Ming dynasty as China reasserts its presence in maritime Southeast Asian trade."
+  },
+  {
+    "year": 1408,
+    "event": "King Abdul Majid Hassan of Boni dies during a state visit to Nanjing and is buried in China with full honors."
+  },
+  {
+    "year": 1425,
+    "event": "Awang Alak Betatar, traditionally regarded as the first sultan Muhammad Shah, converts to Islam and founds the Bruneian Sultanate as a Muslim state."
+  },
+  {
+    "year": 1485,
+    "event": "Sultan Bolkiah ascends the throne, beginning a reign that expands Brunei into a powerful maritime empire across northern Borneo and into the Philippines."
+  },
+  {
+    "year": 1500,
+    "event": "Under Sultan Bolkiah, the Bruneian Empire reaches its golden age, controlling coastal Borneo, Sulu, and parts of the Philippine archipelago including Manila."
+  },
+  {
+    "year": 1521,
+    "event": "Survivors of Ferdinand Magellan's expedition, including chronicler Antonio Pigafetta, visit Brunei and record its wealthy and well-organized court."
+  },
+  {
+    "year": 1578,
+    "event": "Spanish forces from the Philippines attack and briefly occupy Brunei during the Castilian War before being driven out by disease and resistance."
+  },
+  {
+    "year": 1660,
+    "event": "A civil war over the succession weakens the sultanate and accelerates the gradual decline of Bruneian power in the region."
+  },
+  {
+    "year": 1775,
+    "event": "Brunei's influence wanes as European trading powers and regional rivals erode its control over Borneo's coasts and trade routes."
+  },
+  {
+    "year": 1839,
+    "event": "British adventurer James Brooke arrives in Borneo and aids the sultanate in suppressing a rebellion in the Sarawak region."
+  },
+  {
+    "year": 1841,
+    "event": "Sultan Omar Ali Saifuddin II grants James Brooke governorship of Sarawak, making him the first White Rajah and beginning the dismemberment of Brunei's territory."
+  },
+  {
+    "year": 1846,
+    "event": "Brunei cedes the island of Labuan to Britain, which establishes a colony and naval coaling station there."
+  },
+  {
+    "year": 1865,
+    "event": "Brunei grants land concessions in northern Borneo to foreign interests, foreshadowing the later loss of Sabah."
+  },
+  {
+    "year": 1888,
+    "event": "Brunei becomes a British protectorate, retaining internal self-rule while Britain controls its foreign affairs and defense."
+  },
+  {
+    "year": 1890,
+    "event": "Sarawak under the Brooke regime annexes the Limbang district, splitting Brunei into two separate non-contiguous parts."
+  },
+  {
+    "year": 1906,
+    "event": "A British Resident is installed in Brunei, giving the British significant control over administration while preserving the sultan's nominal authority."
+  },
+  {
+    "year": 1929,
+    "event": "Oil is discovered at Seria, beginning the transformation of Brunei's economy into one based on petroleum wealth."
+  },
+  {
+    "year": 1941,
+    "event": "Japanese forces invade and occupy Brunei during World War II, seizing its oil fields and ending British administration."
+  },
+  {
+    "year": 1945,
+    "event": "Allied forces, primarily Australian troops, liberate Brunei from Japanese occupation near the end of World War II."
+  },
+  {
+    "year": 1950,
+    "event": "Sultan Omar Ali Saifuddien III ascends the throne and begins modernizing the country using growing oil revenues."
+  },
+  {
+    "year": 1959,
+    "event": "Brunei adopts its first written constitution, establishing internal self-government while Britain retains responsibility for defense and foreign affairs."
+  },
+  {
+    "year": 1962,
+    "event": "The Brunei Revolt led by A.M. Azahari and the People's Party erupts against plans to join Malaysia and is suppressed with British military help."
+  },
+  {
+    "year": 1963,
+    "event": "Brunei declines to join the newly formed Federation of Malaysia, choosing instead to remain a separate British-protected state."
+  },
+  {
+    "year": 1967,
+    "event": "Sultan Omar Ali Saifuddien III abdicates in favor of his son Hassanal Bolkiah, who becomes the 29th Sultan of Brunei."
+  },
+  {
+    "year": 1968,
+    "event": "Hassanal Bolkiah is formally crowned Sultan of Brunei in a lavish coronation ceremony."
+  },
+  {
+    "year": 1979,
+    "event": "Brunei and Britain sign a treaty of friendship and cooperation setting a timetable for full independence."
+  },
+  {
+    "year": 1984,
+    "event": "Brunei gains full independence from Britain on 1 January and that year joins ASEAN, the United Nations, and the Organisation of Islamic Cooperation."
+  },
+  {
+    "year": 1990,
+    "event": "The government promotes the national ideology of Melayu Islam Beraja, the Malay Islamic Monarchy, as the foundation of the state."
+  },
+  {
+    "year": 1991,
+    "event": "Brunei introduces stricter Islamic social policies, including restrictions on alcohol sales, reinforcing conservative national values."
+  },
+  {
+    "year": 1998,
+    "event": "Prince Al-Muhtadee Billah is proclaimed Crown Prince and heir apparent to the throne."
+  },
+  {
+    "year": 2000,
+    "event": "A high-profile legal dispute erupts over the alleged misuse of state funds by Prince Jefri, the sultan's brother and former finance minister."
+  },
+  {
+    "year": 2004,
+    "event": "Sultan Hassanal Bolkiah reconvenes the Legislative Council for the first time in two decades as a step toward limited constitutional reform."
+  },
+  {
+    "year": 2014,
+    "event": "Brunei begins phasing in a strict Sharia-based penal code, becoming the first East Asian country to adopt such a code at the national level."
+  },
+  {
+    "year": 2017,
+    "event": "Sultan Hassanal Bolkiah celebrates his Golden Jubilee marking fifty years on the throne."
+  },
+  {
+    "year": 2019,
+    "event": "Brunei implements harsh Sharia penalties including death by stoning, drawing international condemnation before pledging a moratorium on executions."
+  },
+  {
+    "year": 2020,
+    "event": "Brunei records its first cases of COVID-19 and imposes public health measures while continuing efforts to diversify its oil-dependent economy."
+  },
+  {
+    "year": 2023,
+    "event": "Brunei continues pursuing economic diversification under its Wawasan 2035 vision while remaining one of the world's last absolute monarchies."
+  }
 ]

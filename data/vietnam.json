@@ -1,16 +1,202 @@
 [
-  { "year": -2000, "event": "Early Austroasiatic cultures emerge in the Red River Delta" },
-  { "year": -111, "event": "Han China annexes northern Vietnam" },
-  { "year": 40, "event": "Trung Sisters lead a rebellion against Chinese rule" },
-  { "year": 939, "event": "Vietnam regains independence after defeating Southern Han forces" },
-  { "year": 1010, "event": "Ly dynasty establishes Hanoi as the imperial capital" },
-  { "year": 1225, "event": "Tran dynasty consolidates a centralized Vietnamese state" },
-  { "year": 1288, "event": "Vietnam repels Mongol invasions" },
-  { "year": 1407, "event": "Ming China briefly reoccupies Vietnam" },
-  { "year": 1471, "event": "Vietnam destroys Champa and expands southward" },
-  { "year": 1802, "event": "Nguyen dynasty unifies Vietnam" },
-  { "year": 1887, "event": "France incorporates Vietnam into Indochina" },
-  { "year": 1945, "event": "Vietnam declares independence after Japanese surrender" },
-  { "year": 1954, "event": "French rule ends after defeat at Dien Bien Phu" },
-  { "year": 1975, "event": "Vietnam reunified after prolonged warfare" }
+  {
+    "year": -700,
+    "event": "The Dong Son culture flourishes in the Red River Delta, producing the elaborate bronze drums emblematic of early Vietnamese civilization."
+  },
+  {
+    "year": -257,
+    "event": "Thuc Phan defeats the legendary Hung kings and founds the kingdom of Au Lac, building the citadel of Co Loa as his capital."
+  },
+  {
+    "year": -179,
+    "event": "Trieu Da of Nam Viet conquers Au Lac, absorbing the region into his southern kingdom."
+  },
+  {
+    "year": -111,
+    "event": "The Han dynasty of China conquers Nam Viet, beginning roughly a thousand years of Chinese imperial domination."
+  },
+  {
+    "year": 40,
+    "event": "The Trung sisters lead a major uprising against Han rule and briefly establish an independent realm."
+  },
+  {
+    "year": 43,
+    "event": "Han general Ma Yuan crushes the Trung sisters' revolt, restoring Chinese control over the region."
+  },
+  {
+    "year": 192,
+    "event": "The kingdom of Champa emerges along the central coast, founded by the Cham people who would rival the Vietnamese for centuries."
+  },
+  {
+    "year": 248,
+    "event": "Lady Trieu leads a rebellion against the Eastern Wu, becoming a celebrated symbol of resistance."
+  },
+  {
+    "year": 544,
+    "event": "Ly Bi rebels against the Liang dynasty and proclaims the short-lived independent state of Van Xuan."
+  },
+  {
+    "year": 938,
+    "event": "Ngo Quyen defeats the Southern Han fleet at the Battle of Bach Dang, ending Chinese domination and securing Vietnamese independence."
+  },
+  {
+    "year": 968,
+    "event": "Dinh Bo Linh reunifies the country and founds the Dinh dynasty, naming the state Dai Co Viet."
+  },
+  {
+    "year": 1010,
+    "event": "Emperor Ly Thai To founds the Ly dynasty and moves the capital to Thang Long, the site of present-day Hanoi."
+  },
+  {
+    "year": 1054,
+    "event": "The state is renamed Dai Viet under the Ly dynasty, a name it would bear for centuries."
+  },
+  {
+    "year": 1075,
+    "event": "Vietnam holds its first Confucian civil service examinations, institutionalizing scholar-officialdom modeled on China."
+  },
+  {
+    "year": 1225,
+    "event": "The Tran dynasty supplants the Ly, inaugurating an era of cultural achievement and military strength."
+  },
+  {
+    "year": 1288,
+    "event": "Tran Hung Dao decisively defeats the Mongol Yuan navy at the Battle of Bach Dang, repelling the third Mongol invasion."
+  },
+  {
+    "year": 1407,
+    "event": "Ming China invades and annexes Dai Viet, imposing a harsh two-decade occupation."
+  },
+  {
+    "year": 1428,
+    "event": "Le Loi expels the Ming after a long resistance and founds the Le dynasty, ushering in a golden age."
+  },
+  {
+    "year": 1471,
+    "event": "Emperor Le Thanh Tong conquers the Cham capital Vijaya, decisively weakening the kingdom of Champa."
+  },
+  {
+    "year": 1527,
+    "event": "Mac Dang Dung usurps the throne and establishes the Mac dynasty, splitting the country into rival courts."
+  },
+  {
+    "year": 1592,
+    "event": "The Le-aligned Trinh lords retake Thang Long, after which power divides between the Trinh in the north and the Nguyen in the south."
+  },
+  {
+    "year": 1698,
+    "event": "The Nguyen lords establish their administration at Saigon, extending Vietnamese settlement into the Mekong Delta."
+  },
+  {
+    "year": 1771,
+    "event": "The Tay Son brothers launch a peasant rebellion that overturns both the Nguyen and Trinh lords."
+  },
+  {
+    "year": 1789,
+    "event": "Nguyen Hue, the Tay Son emperor Quang Trung, routs a Qing invasion army at the Battle of Ngoc Hoi-Dong Da near Hanoi."
+  },
+  {
+    "year": 1802,
+    "event": "Nguyen Anh defeats the Tay Son, founds the Nguyen dynasty as Emperor Gia Long, and unifies the country under the name Vietnam."
+  },
+  {
+    "year": 1858,
+    "event": "French and Spanish forces attack Da Nang, beginning France's military conquest of Vietnam."
+  },
+  {
+    "year": 1862,
+    "event": "The Treaty of Saigon cedes three southern provinces to France, establishing the colony of Cochinchina."
+  },
+  {
+    "year": 1883,
+    "event": "France imposes protectorates over Annam and Tonkin, completing its colonial control of Vietnam."
+  },
+  {
+    "year": 1887,
+    "event": "France incorporates Vietnam into the Indochinese Union alongside Cambodia, later adding Laos."
+  },
+  {
+    "year": 1930,
+    "event": "Ho Chi Minh founds the Indochinese Communist Party, organizing anti-colonial revolutionary struggle."
+  },
+  {
+    "year": 1940,
+    "event": "Imperial Japan occupies French Indochina during World War II while leaving the Vichy French administration in place."
+  },
+  {
+    "year": 1945,
+    "event": "A devastating famine kills up to two million people, and Ho Chi Minh declares Vietnamese independence in Hanoi after the August Revolution."
+  },
+  {
+    "year": 1946,
+    "event": "The First Indochina War erupts as fighting breaks out between French forces and the Viet Minh."
+  },
+  {
+    "year": 1954,
+    "event": "The Viet Minh defeat France at Dien Bien Phu, and the Geneva Accords temporarily partition the country at the 17th parallel."
+  },
+  {
+    "year": 1955,
+    "event": "Ngo Dinh Diem proclaims the Republic of Vietnam in the south, deepening the north-south division."
+  },
+  {
+    "year": 1959,
+    "event": "North Vietnam begins building the Ho Chi Minh Trail to support insurgency in the south, escalating the conflict."
+  },
+  {
+    "year": 1964,
+    "event": "The Gulf of Tonkin incident prompts the United States to dramatically expand its military involvement."
+  },
+  {
+    "year": 1965,
+    "event": "The United States deploys combat troops and begins sustained bombing of North Vietnam, marking full-scale American intervention."
+  },
+  {
+    "year": 1968,
+    "event": "The Tet Offensive shocks American public opinion and becomes a turning point in the Vietnam War."
+  },
+  {
+    "year": 1969,
+    "event": "Ho Chi Minh dies, leaving a profound legacy as the founding leader of communist Vietnam."
+  },
+  {
+    "year": 1973,
+    "event": "The Paris Peace Accords are signed, leading to the withdrawal of remaining U.S. combat forces."
+  },
+  {
+    "year": 1975,
+    "event": "North Vietnamese forces capture Saigon, ending the war and reunifying the country under communist rule."
+  },
+  {
+    "year": 1976,
+    "event": "The Socialist Republic of Vietnam is formally proclaimed, with Saigon renamed Ho Chi Minh City."
+  },
+  {
+    "year": 1978,
+    "event": "Vietnam invades Cambodia, toppling the Khmer Rouge regime and triggering a prolonged occupation."
+  },
+  {
+    "year": 1979,
+    "event": "China launches a brief but bloody border war in retaliation for Vietnam's intervention in Cambodia."
+  },
+  {
+    "year": 1986,
+    "event": "The Communist Party launches the Doi Moi reforms, transitioning toward a socialist-oriented market economy."
+  },
+  {
+    "year": 1989,
+    "event": "Vietnam withdraws its forces from Cambodia, easing its international isolation."
+  },
+  {
+    "year": 1995,
+    "event": "Vietnam normalizes relations with the United States and joins ASEAN, reintegrating into the international community."
+  },
+  {
+    "year": 2007,
+    "event": "Vietnam joins the World Trade Organization, accelerating its integration into the global economy."
+  },
+  {
+    "year": 2020,
+    "event": "Vietnam wins international praise for its early containment of the COVID-19 pandemic while chairing ASEAN."
+  }
 ]

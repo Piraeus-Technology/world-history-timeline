@@ -1,14 +1,194 @@
 [
-  { "year": -3000, "event": "Austronesian peoples settle the Malay Peninsula and Borneo" },
-  { "year": 300, "event": "Indianized kingdoms spread Hindu-Buddhist culture" },
-  { "year": 700, "event": "Srivijaya dominates regional maritime trade routes" },
-  { "year": 1400, "event": "Malacca Sultanate emerges as a major Islamic trading hub" },
-  { "year": 1511, "event": "Portuguese capture Malacca" },
-  { "year": 1641, "event": "Dutch replace Portuguese control of Malacca" },
-  { "year": 1786, "event": "British establish Penang as a trading post" },
-  { "year": 1824, "event": "Anglo-Dutch Treaty divides Malay and Indonesian spheres" },
-  { "year": 1874, "event": "British expand indirect rule over Malay states" },
-  { "year": 1942, "event": "Japanese occupation dismantles British authority" },
-  { "year": 1957, "event": "Federation of Malaya gains independence" },
-  { "year": 1963, "event": "Malaysia formed with Sabah and Sarawak" }
+  {
+    "year": -38000,
+    "event": "Early modern humans inhabit the Niah Caves in Sarawak, leaving behind one of Southeast Asia's oldest human skulls (the Deep Skull)."
+  },
+  {
+    "year": -10000,
+    "event": "Hoabinhian hunter-gatherer cultures spread across the Malay Peninsula during the late Pleistocene and early Holocene."
+  },
+  {
+    "year": -2500,
+    "event": "Austronesian-speaking peoples migrate southward into the region, introducing agriculture, pottery, and seafaring traditions."
+  },
+  {
+    "year": -300,
+    "event": "Iron Age communities engage in maritime trade, linking the peninsula to wider Indian Ocean and South China Sea networks."
+  },
+  {
+    "year": 100,
+    "event": "Indianized trading polities emerge along the peninsula, adopting Hindu-Buddhist culture, Sanskrit, and Indian statecraft."
+  },
+  {
+    "year": 200,
+    "event": "The early state of Langkasuka is established on the northern Malay Peninsula as a hub of regional commerce."
+  },
+  {
+    "year": 671,
+    "event": "The Srivijaya maritime empire, based in Sumatra, extends its commercial and political dominance over the Malay Peninsula's coasts."
+  },
+  {
+    "year": 1025,
+    "event": "The Chola dynasty of South India raids Srivijayan ports along the peninsula, weakening Srivijaya's grip on the straits."
+  },
+  {
+    "year": 1136,
+    "event": "The Kedah kingdom converts to Islam, with its ruler taking the title Sultan Mudzafar Shah according to local tradition."
+  },
+  {
+    "year": 1300,
+    "event": "Srivijayan power collapses, fragmenting control of the Strait of Malacca among competing local rulers."
+  },
+  {
+    "year": 1400,
+    "event": "Parameswara founds the Malacca Sultanate, which rapidly grows into the dominant trading port of the region."
+  },
+  {
+    "year": 1409,
+    "event": "Malacca formalizes a tributary relationship with Ming China, hosting visits from the admiral Zheng He's fleets."
+  },
+  {
+    "year": 1414,
+    "event": "Parameswara embraces Islam, accelerating the religion's spread across the Malay world through Malacca's influence."
+  },
+  {
+    "year": 1511,
+    "event": "Portuguese forces under Afonso de Albuquerque conquer Malacca, establishing the first European colony in the region."
+  },
+  {
+    "year": 1528,
+    "event": "The Johor Sultanate is founded by descendants of Malacca's royal line, becoming a leading Malay power."
+  },
+  {
+    "year": 1641,
+    "event": "The Dutch East India Company, allied with Johor, captures Malacca from the Portuguese."
+  },
+  {
+    "year": 1786,
+    "event": "Francis Light acquires Penang for the British East India Company, establishing the first British foothold on the peninsula."
+  },
+  {
+    "year": 1819,
+    "event": "Stamford Raffles founds Singapore, drawing trade away from Dutch-held ports."
+  },
+  {
+    "year": 1824,
+    "event": "The Anglo-Dutch Treaty divides the Malay world, assigning the peninsula and Singapore to British influence."
+  },
+  {
+    "year": 1826,
+    "event": "Britain unites Penang, Malacca, and Singapore into the Straits Settlements."
+  },
+  {
+    "year": 1841,
+    "event": "James Brooke becomes the first White Rajah of Sarawak after aiding the Sultan of Brunei against a rebellion."
+  },
+  {
+    "year": 1874,
+    "event": "The Pangkor Treaty introduces the British Residential System into Perak, beginning indirect colonial control of the Malay states."
+  },
+  {
+    "year": 1881,
+    "event": "The British North Borneo Company receives a charter to administer North Borneo (modern Sabah)."
+  },
+  {
+    "year": 1896,
+    "event": "Britain organizes Perak, Selangor, Negeri Sembilan, and Pahang into the Federated Malay States."
+  },
+  {
+    "year": 1909,
+    "event": "Siam cedes Kedah, Kelantan, Perlis, and Terengganu to British control under the Anglo-Siamese Treaty."
+  },
+  {
+    "year": 1941,
+    "event": "Japanese forces invade Malaya, beginning a swift campaign down the peninsula during World War II."
+  },
+  {
+    "year": 1942,
+    "event": "Japan completes its occupation of Malaya, Singapore, and Borneo, ending British rule for the war's duration."
+  },
+  {
+    "year": 1945,
+    "event": "British rule is restored after Japan's surrender, amid rising nationalist sentiment."
+  },
+  {
+    "year": 1946,
+    "event": "The United Malays National Organisation (UMNO) is founded to oppose the centralized Malayan Union proposal."
+  },
+  {
+    "year": 1948,
+    "event": "The Federation of Malaya is established, and the Malayan Emergency begins as communist insurgents take up arms."
+  },
+  {
+    "year": 1955,
+    "event": "Malaya holds its first federal elections, won decisively by the Alliance coalition led by Tunku Abdul Rahman."
+  },
+  {
+    "year": 1957,
+    "event": "Malaya gains independence from Britain on 31 August, with Tunku Abdul Rahman as its first prime minister."
+  },
+  {
+    "year": 1960,
+    "event": "The Malayan Emergency is officially declared over after the defeat of the communist insurgency."
+  },
+  {
+    "year": 1963,
+    "event": "Malaysia is formed by uniting Malaya with Singapore, Sarawak, and North Borneo (Sabah), prompting confrontation with Indonesia."
+  },
+  {
+    "year": 1965,
+    "event": "Singapore separates from Malaysia to become an independent republic."
+  },
+  {
+    "year": 1969,
+    "event": "Deadly ethnic riots erupt in Kuala Lumpur on 13 May, leading to a suspension of parliament."
+  },
+  {
+    "year": 1971,
+    "event": "The New Economic Policy is launched to reduce poverty and restructure economic disparities between ethnic groups."
+  },
+  {
+    "year": 1981,
+    "event": "Mahathir Mohamad becomes prime minister, beginning a 22-year tenure marked by rapid industrialization."
+  },
+  {
+    "year": 1991,
+    "event": "Mahathir announces Vision 2020, a plan to make Malaysia a fully developed nation by that year."
+  },
+  {
+    "year": 1997,
+    "event": "The Asian Financial Crisis batters Malaysia's economy, prompting capital controls and a currency peg."
+  },
+  {
+    "year": 1998,
+    "event": "Kuala Lumpur opens the Petronas Twin Towers, then the world's tallest buildings, and hosts the Commonwealth Games."
+  },
+  {
+    "year": 2003,
+    "event": "Abdullah Ahmad Badawi succeeds Mahathir as prime minister, ending Mahathir's long premiership."
+  },
+  {
+    "year": 2008,
+    "event": "The ruling Barisan Nasional coalition loses its two-thirds parliamentary majority in a landmark general election."
+  },
+  {
+    "year": 2009,
+    "event": "Najib Razak becomes prime minister and launches the '1Malaysia' national unity campaign."
+  },
+  {
+    "year": 2014,
+    "event": "Malaysia Airlines suffers two disasters as Flight MH370 vanishes and Flight MH17 is shot down over Ukraine."
+  },
+  {
+    "year": 2018,
+    "event": "The Pakatan Harapan coalition wins power, ending six decades of Barisan Nasional rule, with Mahathir returning as prime minister."
+  },
+  {
+    "year": 2020,
+    "event": "The 'Sheraton Move' political crisis collapses the Pakatan Harapan government, and the COVID-19 pandemic triggers nationwide lockdowns."
+  },
+  {
+    "year": 2022,
+    "event": "Anwar Ibrahim becomes prime minister after inconclusive elections, ending decades of political struggle."
+  }
 ]

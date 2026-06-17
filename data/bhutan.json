@@ -1,10 +1,190 @@
 [
-  { "year": 600, "event": "Tibetan Buddhist culture spreads into the region" },
-  { "year": 747, "event": "Guru Padmasambhava introduces Vajrayana Buddhism" },
-  { "year": 1100, "event": "Fortified dzong systems organize regional rule" },
-  { "year": 1616, "event": "Zhabdrung Ngawang Namgyal unifies Bhutan" },
-  { "year": 1865, "event": "Treaty of Sinchula establishes British influence" },
-  { "year": 1907, "event": "Hereditary monarchy established" },
-  { "year": 1949, "event": "Bhutan secures sovereignty through treaty with India" },
-  { "year": 2008, "event": "Bhutan adopts constitutional monarchy" }
+  {
+    "year": -2000,
+    "event": "Stone tools, megaliths, and other artifacts indicate human habitation in the Himalayan valleys of present-day Bhutan during the late Stone and Bronze Ages."
+  },
+  {
+    "year": -500,
+    "event": "Early tribal communities, possibly associated with a polity known as Lhomon, settle the fertile river valleys and practice subsistence agriculture and herding."
+  },
+  {
+    "year": 600,
+    "event": "Tibetan King Songtsen Gampo orders construction of the Kyichu Lhakhang in Paro and Jambay Lhakhang in Bumthang, marking the introduction of Buddhism to the region."
+  },
+  {
+    "year": 746,
+    "event": "Guru Padmasambhava (Guru Rinpoche) visits Bumthang to heal the local king Sindhu Raja, firmly establishing Tantric Buddhism across the valleys."
+  },
+  {
+    "year": 1000,
+    "event": "Successive waves of Tibetan migrants and Buddhist teachers settle Bhutan, founding monasteries and spreading various religious schools across the central valleys."
+  },
+  {
+    "year": 1224,
+    "event": "Phajo Drugom Zhigpo arrives from Tibet and establishes the Drukpa Kagyu school as the dominant Buddhist tradition in western Bhutan."
+  },
+  {
+    "year": 1433,
+    "event": "The treasure-revealer Pema Lingpa is born in Bumthang, becoming one of Bhutan's most revered religious figures and a key cultural pillar."
+  },
+  {
+    "year": 1616,
+    "event": "Zhabdrung Ngawang Namgyal flees a succession dispute in Tibet and arrives in Bhutan, beginning the unification of the country under his leadership."
+  },
+  {
+    "year": 1629,
+    "event": "Zhabdrung Ngawang Namgyal builds Simtokha Dzong near Thimphu, the first of the fortress-monasteries that would anchor his theocratic state."
+  },
+  {
+    "year": 1634,
+    "event": "Zhabdrung Ngawang Namgyal defeats an alliance of rival lamas and Tibetan forces at the Battle of Five Lamas, consolidating his control over Bhutan."
+  },
+  {
+    "year": 1637,
+    "event": "Construction begins on Punakha Dzong, which becomes the seat of government and the religious capital of the unified state."
+  },
+  {
+    "year": 1639,
+    "event": "Zhabdrung Ngawang Namgyal establishes the dual system of government, dividing authority between a spiritual ruler (Je Khenpo) and a temporal ruler (Druk Desi)."
+  },
+  {
+    "year": 1644,
+    "event": "Bhutanese forces repel a major Tibetan-Mongol invasion, helping secure the territorial integrity of the newly unified country."
+  },
+  {
+    "year": 1651,
+    "event": "Zhabdrung Ngawang Namgyal dies, but his death is concealed for decades to preserve political stability under the dual system of government."
+  },
+  {
+    "year": 1714,
+    "event": "Tibetan and Mongol forces launch another invasion of Bhutan, which is again repelled, reaffirming Bhutan's independence from Tibet."
+  },
+  {
+    "year": 1772,
+    "event": "Bhutan's invasion of the princely state of Cooch Behar draws the British East India Company into conflict on the southern frontier."
+  },
+  {
+    "year": 1774,
+    "event": "Bhutan signs a peace treaty with the British East India Company, the first formal agreement between Bhutan and a Western power."
+  },
+  {
+    "year": 1864,
+    "event": "The Duar War breaks out between Bhutan and British India over control of the strategic Duars lowlands along the southern border."
+  },
+  {
+    "year": 1865,
+    "event": "Bhutan signs the Treaty of Sinchula, ceding the Duars to British India in exchange for an annual subsidy."
+  },
+  {
+    "year": 1885,
+    "event": "Ugyen Wangchuck, the penlop (governor) of Trongsa, emerges victorious from internal power struggles and consolidates control over the country."
+  },
+  {
+    "year": 1904,
+    "event": "Ugyen Wangchuck accompanies the British expedition to Tibet as a mediator, earning British favor and strengthening his domestic position."
+  },
+  {
+    "year": 1907,
+    "event": "Ugyen Wangchuck is unanimously elected the first hereditary King (Druk Gyalpo) of Bhutan, founding the Wangchuck dynasty and ending the dual system."
+  },
+  {
+    "year": 1910,
+    "event": "The Treaty of Punakha is signed with British India, granting Britain guidance over Bhutan's foreign affairs while preserving internal autonomy."
+  },
+  {
+    "year": 1926,
+    "event": "Jigme Wangchuck succeeds his father as the second King of Bhutan, continuing to centralize and modernize the monarchy."
+  },
+  {
+    "year": 1947,
+    "event": "India gains independence, prompting Bhutan to negotiate a new relationship with the successor government in New Delhi."
+  },
+  {
+    "year": 1949,
+    "event": "Bhutan signs the Treaty of Friendship with newly independent India, which returns some territory and guides Bhutan's external relations."
+  },
+  {
+    "year": 1952,
+    "event": "Jigme Dorji Wangchuck becomes the third King of Bhutan and launches a wide-ranging program of social and political modernization."
+  },
+  {
+    "year": 1953,
+    "event": "King Jigme Dorji Wangchuck establishes the National Assembly (Tshogdu), introducing a representative legislative body to Bhutan."
+  },
+  {
+    "year": 1958,
+    "event": "Slavery and serfdom are formally abolished in Bhutan as part of the third king's reforms, and citizenship laws are introduced."
+  },
+  {
+    "year": 1961,
+    "event": "Bhutan launches its first Five-Year Plan, funded largely by India, beginning the construction of roads, schools, and modern infrastructure."
+  },
+  {
+    "year": 1968,
+    "event": "King Jigme Dorji Wangchuck establishes a Council of Ministers and moves to reduce the absolute powers of the monarchy."
+  },
+  {
+    "year": 1971,
+    "event": "Bhutan is admitted to the United Nations, marking a major step in its emergence onto the international stage."
+  },
+  {
+    "year": 1972,
+    "event": "Jigme Singye Wangchuck becomes the fourth King at age sixteen and later articulates the guiding philosophy of Gross National Happiness."
+  },
+  {
+    "year": 1974,
+    "event": "Bhutan opens to foreign tourists for the first time, pursuing a controlled, high-value tourism policy to preserve its culture and environment."
+  },
+  {
+    "year": 1985,
+    "event": "Bhutan enacts a stricter Citizenship Act, which contributes to mounting tensions with the Nepali-speaking Lhotshampa population in the south."
+  },
+  {
+    "year": 1990,
+    "event": "Ethnic and political tensions erupt as tens of thousands of Lhotshampa flee or are expelled, creating a long-lasting refugee crisis in Nepal."
+  },
+  {
+    "year": 1998,
+    "event": "King Jigme Singye Wangchuck devolves executive power to an elected Council of Ministers, advancing Bhutan's gradual democratization."
+  },
+  {
+    "year": 1999,
+    "event": "Bhutan lifts its ban on television and the internet, becoming one of the last countries in the world to introduce these media."
+  },
+  {
+    "year": 2003,
+    "event": "Bhutanese forces conduct military operations to expel Indian separatist insurgent camps from the country's southern jungles."
+  },
+  {
+    "year": 2006,
+    "event": "King Jigme Singye Wangchuck abdicates in favor of his son Jigme Khesar Namgyel Wangchuck, who becomes the fifth Druk Gyalpo."
+  },
+  {
+    "year": 2008,
+    "event": "Bhutan holds its first parliamentary elections and adopts a new Constitution, transforming into a democratic constitutional monarchy."
+  },
+  {
+    "year": 2008,
+    "event": "King Jigme Khesar Namgyel Wangchuck is formally crowned, ushering in the era of democratic governance under the monarchy."
+  },
+  {
+    "year": 2011,
+    "event": "King Jigme Khesar Namgyel Wangchuck marries Jetsun Pema in Punakha, in a widely celebrated royal wedding."
+  },
+  {
+    "year": 2013,
+    "event": "Bhutan holds its second general elections, resulting in the country's first democratic transfer of power between political parties."
+  },
+  {
+    "year": 2020,
+    "event": "Bhutan navigates the COVID-19 pandemic with strict measures and is widely praised for its low case and death numbers."
+  },
+  {
+    "year": 2023,
+    "event": "Bhutan announces the ambitious Gelephu Mindfulness City project, a special economic zone intended to spur sustainable development and investment."
+  },
+  {
+    "year": 2024,
+    "event": "Bhutan holds general elections returning the People's Democratic Party to power, continuing its consolidation of democratic institutions."
+  }
 ]

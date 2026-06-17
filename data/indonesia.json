@@ -1,16 +1,198 @@
 [
-  { "year": -2000, "event": "Austronesian migrations settle the Indonesian archipelago" },
-  { "year": 400, "event": "Indianized kingdoms introduce Hindu-Buddhist culture" },
-  { "year": 650, "event": "Srivijaya emerges as a maritime trading empire" },
-  { "year": 750, "event": "Sailendra dynasty builds Borobudur in central Java" },
-  { "year": 1293, "event": "Majapahit founded as a Javanese imperial state" },
-  { "year": 1350, "event": "Majapahit dominates much of maritime Southeast Asia" },
-  { "year": 1400, "event": "Islam spreads through coastal trade networks" },
-  { "year": 1511, "event": "Portuguese capture Malacca and enter regional trade" },
-  { "year": 1602, "event": "Dutch East India Company establishes monopoly power" },
-  { "year": 1800, "event": "Dutch colonial state replaces company rule" },
-  { "year": 1908, "event": "Nationalist movements begin organized resistance" },
-  { "year": 1942, "event": "Japanese occupation dismantles Dutch authority" },
-  { "year": 1945, "event": "Indonesia declares independence" },
-  { "year": 1949, "event": "Dutch formally recognize Indonesian sovereignty" }
+  {
+    "year": -1500000,
+    "event": "Homo erectus, known as Java Man, inhabits the island of Java, marking one of the earliest hominin presences in the region."
+  },
+  {
+    "year": -40000,
+    "event": "Anatomically modern humans settle the Indonesian archipelago, leaving cave art in Sulawesi among the oldest figurative paintings on Earth."
+  },
+  {
+    "year": -2000,
+    "event": "Austronesian peoples migrate into the archipelago from Taiwan and the Philippines, bringing agriculture, pottery, and seafaring traditions."
+  },
+  {
+    "year": -500,
+    "event": "Bronze and iron Dong Son culture spreads through the islands, evidenced by ceremonial bronze drums and metalworking."
+  },
+  {
+    "year": 130,
+    "event": "The Hindu kingdom of Salakanagara, one of the earliest organized states in western Java, emerges according to tradition."
+  },
+  {
+    "year": 400,
+    "event": "The Tarumanagara kingdom flourishes in western Java, leaving Sanskrit stone inscriptions attesting to early Indianized statehood."
+  },
+  {
+    "year": 671,
+    "event": "Chinese pilgrim Yijing records the maritime Buddhist empire of Srivijaya centered at Palembang in southern Sumatra."
+  },
+  {
+    "year": 732,
+    "event": "King Sanjaya founds the Mataram Kingdom in central Java, establishing a Hindu dynasty."
+  },
+  {
+    "year": 780,
+    "event": "Construction begins on Borobudur, the colossal Buddhist temple in central Java built under the Sailendra dynasty."
+  },
+  {
+    "year": 850,
+    "event": "The Hindu temple complex of Prambanan is built in central Java, dedicated to the Trimurti."
+  },
+  {
+    "year": 1019,
+    "event": "King Airlangga reunifies and rules the eastern Javanese kingdom of Kahuripan after a period of fragmentation."
+  },
+  {
+    "year": 1222,
+    "event": "Ken Arok founds the Singhasari kingdom in eastern Java after overthrowing Kediri."
+  },
+  {
+    "year": 1293,
+    "event": "Raden Wijaya founds the Majapahit Empire after repelling a Mongol invasion sent by Kublai Khan."
+  },
+  {
+    "year": 1350,
+    "event": "Hayam Wuruk ascends the Majapahit throne, presiding with Gajah Mada over the empire's greatest expansion across the archipelago."
+  },
+  {
+    "year": 1405,
+    "event": "Chinese admiral Zheng He visits the archipelago, strengthening trade and Muslim communities in coastal Java."
+  },
+  {
+    "year": 1511,
+    "event": "Portuguese forces capture Malacca, opening European competition for the lucrative spice trade."
+  },
+  {
+    "year": 1527,
+    "event": "Forces under Fatahillah seize the port of Sunda Kelapa and rename it Jayakarta, the future Jakarta."
+  },
+  {
+    "year": 1527,
+    "event": "The Majapahit Empire collapses as Islamic sultanates rise, completing the transition to a predominantly Muslim Java."
+  },
+  {
+    "year": 1602,
+    "event": "The Dutch East India Company (VOC) is chartered, beginning sustained European commercial dominance in the spice trade."
+  },
+  {
+    "year": 1619,
+    "event": "Jan Pieterszoon Coen seizes Jayakarta and founds Batavia as the VOC's colonial capital."
+  },
+  {
+    "year": 1641,
+    "event": "The Dutch capture Malacca from Portugal, consolidating their grip on archipelago trade routes."
+  },
+  {
+    "year": 1755,
+    "event": "The Treaty of Giyanti splits the Mataram Sultanate into the courts of Yogyakarta and Surakarta under Dutch influence."
+  },
+  {
+    "year": 1800,
+    "event": "The bankrupt VOC is dissolved and its territories are nationalized, beginning direct Dutch state colonial rule."
+  },
+  {
+    "year": 1811,
+    "event": "British forces under Stamford Raffles seize Java during the Napoleonic Wars, instituting brief British rule."
+  },
+  {
+    "year": 1825,
+    "event": "Prince Diponegoro launches the Java War, a major anti-colonial uprising against the Dutch lasting five years."
+  },
+  {
+    "year": 1830,
+    "event": "The Dutch impose the Cultivation System, forcing Javanese peasants to grow cash crops for export."
+  },
+  {
+    "year": 1883,
+    "event": "The volcano Krakatoa erupts catastrophically, killing tens of thousands and altering global climate."
+  },
+  {
+    "year": 1908,
+    "event": "Budi Utomo is founded, marking the beginning of the organized Indonesian nationalist awakening."
+  },
+  {
+    "year": 1928,
+    "event": "The Youth Pledge proclaims one nation, one people, and one language, Bahasa Indonesia, galvanizing the independence movement."
+  },
+  {
+    "year": 1942,
+    "event": "Imperial Japan invades and occupies the Dutch East Indies during World War II, ending Dutch colonial control."
+  },
+  {
+    "year": 1945,
+    "event": "Sukarno and Mohammad Hatta proclaim Indonesian independence on 17 August, days after Japan's surrender."
+  },
+  {
+    "year": 1949,
+    "event": "The Netherlands formally recognizes Indonesian sovereignty after a four-year armed and diplomatic revolution."
+  },
+  {
+    "year": 1950,
+    "event": "Indonesia joins the United Nations and adopts a unitary republican constitution."
+  },
+  {
+    "year": 1955,
+    "event": "Indonesia hosts the Bandung Conference of Asian and African nations, helping launch the Non-Aligned Movement."
+  },
+  {
+    "year": 1959,
+    "event": "Sukarno introduces Guided Democracy, concentrating power in the presidency."
+  },
+  {
+    "year": 1963,
+    "event": "Western New Guinea is transferred from Dutch to Indonesian control, later formalized as the province of Papua."
+  },
+  {
+    "year": 1965,
+    "event": "An attempted coup triggers mass anti-communist killings in which hundreds of thousands are murdered."
+  },
+  {
+    "year": 1967,
+    "event": "General Suharto assumes power and Indonesia co-founds ASEAN to promote regional cooperation."
+  },
+  {
+    "year": 1975,
+    "event": "Indonesia invades East Timor following Portugal's withdrawal, beginning a long and contested occupation."
+  },
+  {
+    "year": 1976,
+    "event": "Suharto's New Order regime formally annexes East Timor as Indonesia's 27th province amid international dispute."
+  },
+  {
+    "year": 1997,
+    "event": "The Asian financial crisis devastates the Indonesian economy, sparking widespread unrest."
+  },
+  {
+    "year": 1998,
+    "event": "Mass protests and riots force Suharto to resign after 31 years, beginning the Reformasi democratic era."
+  },
+  {
+    "year": 1999,
+    "event": "East Timor votes for independence in a UN-supervised referendum, ending Indonesian occupation."
+  },
+  {
+    "year": 2002,
+    "event": "Bombings in Bali kill over 200 people, the deadliest terrorist attack in Indonesian history."
+  },
+  {
+    "year": 2004,
+    "event": "A massive Indian Ocean earthquake and tsunami devastate Aceh, killing more than 160,000 Indonesians."
+  },
+  {
+    "year": 2004,
+    "event": "Susilo Bambang Yudhoyono wins Indonesia's first direct presidential election."
+  },
+  {
+    "year": 2005,
+    "event": "A peace agreement ends the decades-long Aceh separatist insurgency, granting the province special autonomy."
+  },
+  {
+    "year": 2014,
+    "event": "Joko Widodo is elected president, the first Indonesian leader from outside the political and military elite."
+  },
+  {
+    "year": 2022,
+    "event": "Indonesia hosts the G20 summit in Bali and passes a law to relocate the national capital to Nusantara in Kalimantan."
+  }
 ]

@@ -1,20 +1,202 @@
 [
-  { "year": -7000, "event": "Neolithic farming communities develop at Mehrgarh" },
-  { "year": -2600, "event": "Indus Valley Civilization flourishes along the Indus River" },
-  { "year": -1900, "event": "Indus urban centers decline amid environmental change" },
-  { "year": -1500, "event": "Indo-Aryan culture influences northern South Asia" },
-  { "year": -600, "event": "Achaemenid Empire incorporates Indus territories" },
-  { "year": -326, "event": "Alexander the Great invades the Indus region" },
-  { "year": -305, "event": "Maurya Empire absorbs the Indus basin" },
-  { "year": 50, "event": "Kushan Empire links the region to Silk Road trade" },
-  { "year": 712, "event": "Arab conquest of Sindh introduces Islam" },
-  { "year": 1000, "event": "Ghaznavid invasions integrate the region into Islamic empires" },
-  { "year": 1206, "event": "Delhi Sultanate controls much of present-day Pakistan" },
-  { "year": 1398, "event": "Timur invades and devastates Indus cities" },
-  { "year": 1526, "event": "Mughal Empire incorporates the Indus heartland" },
-  { "year": 1739, "event": "Nader Shah sacks Lahore during regional collapse" },
-  { "year": 1849, "event": "British annex Punjab after Sikh defeat" },
-  { "year": 1858, "event": "British Crown consolidates rule over the region" },
-  { "year": 1906, "event": "All-India Muslim League founded" },
-  { "year": 1947, "event": "Pakistan established during the partition of British India" }
+  {
+    "year": -7000,
+    "event": "Mehrgarh, one of the earliest farming and herding settlements in South Asia, is established on the Kacchi Plain in Balochistan."
+  },
+  {
+    "year": -2600,
+    "event": "The Indus Valley Civilization reaches its mature urban phase, with major cities such as Harappa and Mohenjo-daro featuring advanced drainage and grid planning."
+  },
+  {
+    "year": -1900,
+    "event": "The mature Indus Valley Civilization declines as its major cities are gradually abandoned."
+  },
+  {
+    "year": -1500,
+    "event": "Indo-Aryan-speaking peoples settle the Punjab region and the early Vedic culture takes root in the northwest."
+  },
+  {
+    "year": -518,
+    "event": "Darius I of the Persian Achaemenid Empire annexes the Indus Valley as the satrapy of Hindush."
+  },
+  {
+    "year": -326,
+    "event": "Alexander the Great defeats King Porus at the Battle of the Hydaspes (Jhelum) River, extending Greek influence into the Punjab."
+  },
+  {
+    "year": -305,
+    "event": "Chandragupta Maurya secures the Indus region from the Seleucids, bringing it under the Mauryan Empire."
+  },
+  {
+    "year": -250,
+    "event": "Buddhism flourishes in Gandhara under Mauryan patronage, with Taxila becoming a renowned center of learning."
+  },
+  {
+    "year": -180,
+    "event": "Indo-Greek kingdoms rise in the northwest as Greco-Bactrian rulers expand into Gandhara and the Punjab."
+  },
+  {
+    "year": -90,
+    "event": "Indo-Scythian (Saka) rulers conquer much of the Indus region from the Indo-Greeks."
+  },
+  {
+    "year": 78,
+    "event": "The Kushan Empire under Kanishka the Great makes Gandhara a major hub of trade, art, and Mahayana Buddhism."
+  },
+  {
+    "year": 455,
+    "event": "The Hephthalites (White Huns) invade and disrupt the northwest, weakening established kingdoms in the Indus region."
+  },
+  {
+    "year": 711,
+    "event": "Umayyad general Muhammad bin Qasim conquers Sindh and southern Punjab, introducing Islam to the region."
+  },
+  {
+    "year": 1001,
+    "event": "Mahmud of Ghazni begins a series of campaigns into the Punjab, incorporating it into the Ghaznavid Empire."
+  },
+  {
+    "year": 1186,
+    "event": "Muhammad of Ghor overthrows the Ghaznavids at Lahore, paving the way for Muslim rule across northern South Asia."
+  },
+  {
+    "year": 1206,
+    "event": "The Delhi Sultanate is founded, bringing the Punjab and Sindh under successive Turkic and Afghan dynasties."
+  },
+  {
+    "year": 1398,
+    "event": "Timur invades and sacks Delhi, devastating the Punjab on his march through the region."
+  },
+  {
+    "year": 1526,
+    "event": "Babur defeats the Delhi Sultanate at the First Battle of Panipat, founding the Mughal Empire that rules the region."
+  },
+  {
+    "year": 1556,
+    "event": "Akbar's reign begins, ushering in a Mughal golden age with Lahore serving as a major imperial city."
+  },
+  {
+    "year": 1673,
+    "event": "The Badshahi Mosque is completed in Lahore under Aurangzeb, epitomizing Mughal architecture in the region."
+  },
+  {
+    "year": 1739,
+    "event": "Nader Shah of Persia invades and sacks the Mughal northwest, accelerating Mughal decline."
+  },
+  {
+    "year": 1799,
+    "event": "Ranjit Singh captures Lahore and establishes the Sikh Empire across the Punjab."
+  },
+  {
+    "year": 1843,
+    "event": "The British East India Company conquers Sindh after the Battle of Miani."
+  },
+  {
+    "year": 1849,
+    "event": "Britain annexes the Punjab following victory in the Second Anglo-Sikh War, completing colonial control of the region."
+  },
+  {
+    "year": 1857,
+    "event": "The Indian Rebellion against British rule erupts, after which the Crown assumes direct governance of British India."
+  },
+  {
+    "year": 1885,
+    "event": "The Indian National Congress is founded, beginning organized political mobilization across British India."
+  },
+  {
+    "year": 1906,
+    "event": "The All-India Muslim League is founded in Dhaka to advocate for the political interests of Muslims."
+  },
+  {
+    "year": 1930,
+    "event": "Poet Muhammad Iqbal delivers his Allahabad address envisioning a separate Muslim state in northwestern India."
+  },
+  {
+    "year": 1940,
+    "event": "The Muslim League adopts the Lahore Resolution, formally demanding independent states for Muslim-majority regions."
+  },
+  {
+    "year": 1947,
+    "event": "Pakistan gains independence from Britain on 14 August with Muhammad Ali Jinnah as first Governor-General, amid the partition of India and mass migration."
+  },
+  {
+    "year": 1947,
+    "event": "The First Kashmir War breaks out between Pakistan and India over the disputed princely state of Jammu and Kashmir."
+  },
+  {
+    "year": 1947,
+    "event": "Pakistan is admitted to the United Nations on 30 September."
+  },
+  {
+    "year": 1948,
+    "event": "Founder Muhammad Ali Jinnah dies, leaving the new nation to consolidate under his successors."
+  },
+  {
+    "year": 1956,
+    "event": "Pakistan adopts its first constitution and becomes an Islamic Republic."
+  },
+  {
+    "year": 1958,
+    "event": "General Ayub Khan seizes power in a military coup, beginning the country's first period of military rule."
+  },
+  {
+    "year": 1965,
+    "event": "The Second Indo-Pakistani War is fought over Kashmir, ending in a UN-brokered ceasefire."
+  },
+  {
+    "year": 1971,
+    "event": "East Pakistan secedes after a civil war and the Indo-Pakistani War, becoming the independent nation of Bangladesh."
+  },
+  {
+    "year": 1973,
+    "event": "A new constitution establishes a parliamentary system with Zulfikar Ali Bhutto as Prime Minister."
+  },
+  {
+    "year": 1977,
+    "event": "General Zia-ul-Haq overthrows Bhutto in a coup and launches a program of Islamization."
+  },
+  {
+    "year": 1979,
+    "event": "Former Prime Minister Zulfikar Ali Bhutto is executed after a controversial trial."
+  },
+  {
+    "year": 1988,
+    "event": "Benazir Bhutto becomes Prime Minister, the first woman to head a government in a Muslim-majority country, after Zia dies in a plane crash."
+  },
+  {
+    "year": 1998,
+    "event": "Pakistan conducts nuclear weapons tests in Balochistan, becoming a declared nuclear power."
+  },
+  {
+    "year": 1999,
+    "event": "General Pervez Musharraf seizes power in a bloodless coup, ousting Prime Minister Nawaz Sharif."
+  },
+  {
+    "year": 2007,
+    "event": "Former Prime Minister Benazir Bhutto is assassinated while campaigning in Rawalpindi."
+  },
+  {
+    "year": 2008,
+    "event": "Musharraf resigns and civilian democratic rule is restored following national elections."
+  },
+  {
+    "year": 2010,
+    "event": "Catastrophic monsoon flooding submerges roughly a fifth of the country, affecting some 20 million people."
+  },
+  {
+    "year": 2011,
+    "event": "Al-Qaeda leader Osama bin Laden is killed in a US raid in Abbottabad."
+  },
+  {
+    "year": 2013,
+    "event": "Pakistan completes its first democratic transition between elected civilian governments."
+  },
+  {
+    "year": 2014,
+    "event": "Militants attack an Army Public School in Peshawar, killing nearly 150 people, most of them children."
+  },
+  {
+    "year": 2022,
+    "event": "Devastating floods inundate a third of the country, displacing millions amid a deepening economic crisis."
+  }
 ]

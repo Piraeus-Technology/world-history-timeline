@@ -1,14 +1,186 @@
 [
-  { "year": -2000, "event": "Early Tibeto-Burman cultures settle the Irrawaddy basin" },
-  { "year": 200, "event": "Pyu city-states flourish along inland trade routes" },
-  { "year": 849, "event": "Bagan founded as a Burman power center" },
-  { "year": 1044, "event": "Anawrahta unifies Upper Burma and adopts Theravada Buddhism" },
-  { "year": 1287, "event": "Mongol invasions lead to the collapse of Bagan" },
-  { "year": 1531, "event": "Toungoo dynasty reunifies Myanmar and expands regionally" },
-  { "year": 1752, "event": "Konbaung dynasty rises after civil war" },
-  { "year": 1767, "event": "Burmese armies sack Ayutthaya" },
-  { "year": 1826, "event": "British annex Lower Burma after the First Anglo-Burmese War" },
-  { "year": 1886, "event": "Britain fully annexes Burma into British India" },
-  { "year": 1942, "event": "Japanese occupation disrupts British colonial rule" },
-  { "year": 1948, "event": "Burma gains independence from Britain" }
+  {
+    "year": -11000,
+    "event": "Stone tools of the Anyathian culture indicate early human habitation in the central Irrawaddy valley."
+  },
+  {
+    "year": -1500,
+    "event": "Bronze Age communities at sites such as Nyaunggan develop metalworking and settled farming villages."
+  },
+  {
+    "year": -200,
+    "event": "The Pyu peoples establish walled city-states such as Sri Ksetra and Beikthano in the Irrawaddy basin."
+  },
+  {
+    "year": 200,
+    "event": "Pyu city-states flourish as Buddhist trading centers linking India and China along overland and river routes."
+  },
+  {
+    "year": 832,
+    "event": "The Nanzhao kingdom raids and weakens the Pyu city-states, accelerating their decline."
+  },
+  {
+    "year": 849,
+    "event": "The Burmans (Bamar) found the fortified settlement of Pagan (Bagan), seed of the future kingdom."
+  },
+  {
+    "year": 1044,
+    "event": "King Anawrahta ascends the throne and begins unifying the Irrawaddy valley into the Pagan Empire."
+  },
+  {
+    "year": 1057,
+    "event": "Anawrahta conquers the Mon kingdom of Thaton, importing Theravada Buddhism and scriptures to Pagan."
+  },
+  {
+    "year": 1287,
+    "event": "Mongol invasions under the Yuan dynasty shatter the Pagan Empire, ending its golden age."
+  },
+  {
+    "year": 1287,
+    "event": "The Mon-speaking Hanthawaddy kingdom rises in Lower Burma centered on Pegu (Bago)."
+  },
+  {
+    "year": 1364,
+    "event": "The Ava (Inwa) kingdom is founded, becoming a leading Burman power in central Myanmar."
+  },
+  {
+    "year": 1453,
+    "event": "Queen Shin Sawbu begins her reign over the prosperous Mon kingdom of Hanthawaddy Pegu."
+  },
+  {
+    "year": 1510,
+    "event": "King Mingyinyo founds the Toungoo dynasty, which would go on to reunify Burma."
+  },
+  {
+    "year": 1551,
+    "event": "King Bayinnaung begins his reign, building the largest empire in Southeast Asian history."
+  },
+  {
+    "year": 1599,
+    "event": "Pegu falls and the First Toungoo Empire collapses amid Arakanese and Siamese pressure."
+  },
+  {
+    "year": 1635,
+    "event": "King Thalun moves the capital to Ava, consolidating the Restored Toungoo dynasty."
+  },
+  {
+    "year": 1752,
+    "event": "Mon forces sack Ava, ending the Toungoo dynasty and triggering a power struggle."
+  },
+  {
+    "year": 1752,
+    "event": "Alaungpaya founds the Konbaung dynasty, the last royal dynasty of Burma."
+  },
+  {
+    "year": 1767,
+    "event": "Konbaung armies sack the Siamese capital of Ayutthaya, marking the empire's expansionist peak."
+  },
+  {
+    "year": 1784,
+    "event": "King Bodawpaya conquers the kingdom of Arakan (Rakhine), absorbing it into Burma."
+  },
+  {
+    "year": 1824,
+    "event": "The First Anglo-Burmese War begins, marking the start of British colonial encroachment."
+  },
+  {
+    "year": 1826,
+    "event": "The Treaty of Yandabo ends the First Anglo-Burmese War, ceding Arakan and Tenasserim to Britain."
+  },
+  {
+    "year": 1852,
+    "event": "Britain annexes Lower Burma, including Rangoon and Pegu, after the Second Anglo-Burmese War."
+  },
+  {
+    "year": 1885,
+    "event": "The Third Anglo-Burmese War ends with the capture of Mandalay and the exile of King Thibaw."
+  },
+  {
+    "year": 1886,
+    "event": "Britain annexes all of Burma, making it a province of British India."
+  },
+  {
+    "year": 1937,
+    "event": "Burma is separated from British India and becomes a self-governing crown colony."
+  },
+  {
+    "year": 1942,
+    "event": "Japanese forces invade and occupy Burma during World War II with help from the Burma Independence Army."
+  },
+  {
+    "year": 1945,
+    "event": "Aung San and the Anti-Fascist organization switch sides to aid Allied forces in liberating Burma."
+  },
+  {
+    "year": 1947,
+    "event": "The Panglong Agreement is signed, promising autonomy to ethnic minorities within a unified Burma."
+  },
+  {
+    "year": 1947,
+    "event": "Independence leader Aung San and several cabinet colleagues are assassinated months before independence."
+  },
+  {
+    "year": 1948,
+    "event": "Burma gains full independence from Britain on January 4, becoming a sovereign republic."
+  },
+  {
+    "year": 1948,
+    "event": "Burma is admitted to the United Nations as a member state."
+  },
+  {
+    "year": 1961,
+    "event": "Burmese diplomat U Thant becomes Secretary-General of the United Nations."
+  },
+  {
+    "year": 1962,
+    "event": "General Ne Win seizes power in a military coup, launching the isolationist Burmese Way to Socialism."
+  },
+  {
+    "year": 1974,
+    "event": "A new constitution establishes a one-party socialist state under the Burma Socialist Programme Party."
+  },
+  {
+    "year": 1988,
+    "event": "The 8888 Uprising erupts as mass pro-democracy protests are brutally crushed by the military."
+  },
+  {
+    "year": 1989,
+    "event": "The ruling junta officially renames the country Myanmar and the capital Yangon."
+  },
+  {
+    "year": 1990,
+    "event": "Aung San Suu Kyi's National League for Democracy wins elections, but the junta refuses to cede power."
+  },
+  {
+    "year": 1991,
+    "event": "Aung San Suu Kyi is awarded the Nobel Peace Prize while under house arrest."
+  },
+  {
+    "year": 2005,
+    "event": "The military government relocates the national capital to the newly built city of Naypyidaw."
+  },
+  {
+    "year": 2007,
+    "event": "The Saffron Revolution, led by Buddhist monks, sweeps the country before being suppressed."
+  },
+  {
+    "year": 2008,
+    "event": "Cyclone Nargis devastates the Irrawaddy Delta, killing roughly 140,000 people."
+  },
+  {
+    "year": 2011,
+    "event": "A nominally civilian government begins political and economic reforms, easing decades of isolation."
+  },
+  {
+    "year": 2015,
+    "event": "The National League for Democracy wins a landslide in Myanmar's first openly contested election in 25 years."
+  },
+  {
+    "year": 2017,
+    "event": "A military crackdown drives over 700,000 Rohingya to flee to Bangladesh amid accusations of genocide."
+  },
+  {
+    "year": 2021,
+    "event": "The military stages a coup, detaining Aung San Suu Kyi and triggering nationwide protests and civil conflict."
+  }
 ]

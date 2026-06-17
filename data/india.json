@@ -1,33 +1,214 @@
 [
-  { "year": -7000, "event": "Neolithic farming communities emerge in the Indus region" },
-  { "year": -2600, "event": "Indus Valley Civilization develops urban planning and trade" },
-  { "year": -1900, "event": "Indus cities decline amid climate and economic shifts" },
-  { "year": -1500, "event": "Indo-Aryan migrations shape Vedic culture" },
-  { "year": -1200, "event": "Rigveda composed in early Vedic society" },
-  { "year": -800, "event": "Later Vedic period formalizes caste and ritual systems" },
-  { "year": -600, "event": "Mahajanapada states compete across northern India" },
-  { "year": -563, "event": "Birth of Siddhartha Gautama influences regional thought" },
-  { "year": -322, "event": "Maurya Empire unifies much of the subcontinent" },
-  { "year": -261, "event": "Ashoka adopts Buddhism after the Kalinga War" },
-  { "year": -185, "event": "Maurya collapse fragments imperial authority" },
-  { "year": 78, "event": "Kushan Empire links India to Silk Road trade" },
-  { "year": 320, "event": "Gupta Empire establishes political and cultural stability" },
-  { "year": 499, "event": "Advances in mathematics and astronomy flourish under Gupta rule" },
-  { "year": 550, "event": "Gupta decline opens the early medieval period" },
-  { "year": 712, "event": "Arab forces enter Sindh introducing Islam" },
-  { "year": 750, "event": "Regional kingdoms dominate early medieval India" },
-  { "year": 1000, "event": "Turkic invasions weaken northern Indian states" },
-  { "year": 1206, "event": "Delhi Sultanate establishes Muslim rule in North India" },
-  { "year": 1336, "event": "Vijayanagara Empire rises in southern India" },
-  { "year": 1398, "event": "Timur sacks Delhi and destabilizes the Sultanate" },
-  { "year": 1526, "event": "Babur founds the Mughal Empire" },
-  { "year": 1556, "event": "Akbar consolidates Mughal administration and tolerance" },
-  { "year": 1658, "event": "Aurangzeb expands Mughal rule to its greatest extent" },
-  { "year": 1707, "event": "Mughal decline accelerates after Aurangzeb’s death" },
-  { "year": 1757, "event": "British East India Company wins the Battle of Plassey" },
-  { "year": 1857, "event": "Indian Rebellion challenges Company rule" },
-  { "year": 1858, "event": "British Crown establishes direct colonial governance" },
-  { "year": 1885, "event": "Indian National Congress founded" },
-  { "year": 1915, "event": "Gandhi leads mass nonviolent resistance movements" },
-  { "year": 1947, "event": "Independence and partition create India and Pakistan" }
+  {
+    "year": -7000,
+    "event": "Neolithic farming communities at Mehrgarh begin cultivating crops and domesticating animals, marking the earliest settled life in the subcontinent."
+  },
+  {
+    "year": -3300,
+    "event": "The Indus Valley (Harappan) Civilization emerges, developing planned cities, drainage systems, and standardized weights across the northwest."
+  },
+  {
+    "year": -2600,
+    "event": "Major Harappan urban centers such as Mohenjo-daro and Harappa flourish as one of the world's earliest great urban civilizations."
+  },
+  {
+    "year": -1900,
+    "event": "The Indus Valley Civilization declines as major cities are gradually abandoned amid climate change and shifting river patterns."
+  },
+  {
+    "year": -1500,
+    "event": "Indo-Aryan peoples and Vedic culture spread across northern India, beginning composition of the Rigveda and the Vedic tradition."
+  },
+  {
+    "year": -800,
+    "event": "The later Vedic period formalizes social hierarchies, ritual practice, and the early caste system across the Gangetic plain."
+  },
+  {
+    "year": -600,
+    "event": "The Mahajanapadas, sixteen powerful kingdoms and republics, arise across northern India during the second urbanization."
+  },
+  {
+    "year": -563,
+    "event": "Siddhartha Gautama, the future Buddha, is born, founding a tradition that would become Buddhism."
+  },
+  {
+    "year": -527,
+    "event": "Mahavira, the 24th Tirthankara, revitalizes Jainism, shaping a major Indian religious and philosophical tradition."
+  },
+  {
+    "year": -326,
+    "event": "Alexander the Great invades the Punjab and defeats King Porus at the Battle of the Hydaspes before withdrawing from India."
+  },
+  {
+    "year": -322,
+    "event": "Chandragupta Maurya founds the Maurya Empire, the first to unify most of the Indian subcontinent under a single ruler."
+  },
+  {
+    "year": -268,
+    "event": "Ashoka the Great ascends the Mauryan throne and, after the bloody Kalinga War, embraces Buddhism and spreads it across Asia."
+  },
+  {
+    "year": -185,
+    "event": "The Maurya Empire collapses and is succeeded by the Shunga dynasty in northern India."
+  },
+  {
+    "year": 78,
+    "event": "The Saka era calendar begins under Kushan ruler Kanishka, who presides over a flourishing of Buddhism and Silk Road commerce."
+  },
+  {
+    "year": 320,
+    "event": "Chandragupta I founds the Gupta Empire, inaugurating a classical golden age of Indian science, mathematics, and art."
+  },
+  {
+    "year": 499,
+    "event": "Mathematician Aryabhata composes the Aryabhatiya, advancing astronomy, trigonometry, and the concept of zero and place value."
+  },
+  {
+    "year": 550,
+    "event": "The Gupta Empire disintegrates under pressure from the Huna invasions, fragmenting northern India into regional kingdoms."
+  },
+  {
+    "year": 606,
+    "event": "Harsha establishes a short-lived empire over much of northern India, becoming a noted patron of learning and Buddhism."
+  },
+  {
+    "year": 712,
+    "event": "Umayyad general Muhammad bin Qasim conquers Sindh, marking the first significant Muslim foothold in the subcontinent."
+  },
+  {
+    "year": 850,
+    "event": "The Chola dynasty rises to prominence in southern India, later building a powerful maritime empire across the Indian Ocean."
+  },
+  {
+    "year": 1001,
+    "event": "Mahmud of Ghazni begins a series of raids into northern India, plundering wealthy temple cities."
+  },
+  {
+    "year": 1192,
+    "event": "Muhammad of Ghor defeats Prithviraj Chauhan at the Second Battle of Tarain, opening northern India to Muslim rule."
+  },
+  {
+    "year": 1206,
+    "event": "Qutb al-Din Aibak founds the Delhi Sultanate, beginning over three centuries of Turkic and Afghan rule in northern India."
+  },
+  {
+    "year": 1336,
+    "event": "The Vijayanagara Empire is founded in southern India, becoming a major Hindu power and center of culture."
+  },
+  {
+    "year": 1398,
+    "event": "Timur sacks Delhi, devastating the city and hastening the decline of the Delhi Sultanate."
+  },
+  {
+    "year": 1498,
+    "event": "Portuguese explorer Vasco da Gama reaches Calicut, opening a direct sea route between Europe and India."
+  },
+  {
+    "year": 1526,
+    "event": "Babur defeats Ibrahim Lodi at the First Battle of Panipat and founds the Mughal Empire."
+  },
+  {
+    "year": 1556,
+    "event": "Akbar the Great ascends the throne and expands the Mughal Empire while promoting religious tolerance and administrative reform."
+  },
+  {
+    "year": 1600,
+    "event": "The English East India Company is chartered, beginning English commercial penetration of India."
+  },
+  {
+    "year": 1632,
+    "event": "Emperor Shah Jahan begins construction of the Taj Mahal at Agra in memory of his wife Mumtaz Mahal."
+  },
+  {
+    "year": 1674,
+    "event": "Shivaji founds the Maratha Empire, which would rise to challenge Mughal dominance across much of India."
+  },
+  {
+    "year": 1707,
+    "event": "The death of Emperor Aurangzeb triggers the gradual decline and fragmentation of the Mughal Empire."
+  },
+  {
+    "year": 1757,
+    "event": "Robert Clive's victory at the Battle of Plassey establishes British East India Company dominance over Bengal."
+  },
+  {
+    "year": 1857,
+    "event": "The Indian Rebellion (Sepoy Mutiny) erupts against East India Company rule, the first major uprising for Indian independence."
+  },
+  {
+    "year": 1858,
+    "event": "The British Crown assumes direct rule of India, ending Company governance and establishing the British Raj."
+  },
+  {
+    "year": 1885,
+    "event": "The Indian National Congress is founded, becoming the leading vehicle of the independence movement."
+  },
+  {
+    "year": 1919,
+    "event": "British troops massacre hundreds of unarmed civilians at Jallianwala Bagh in Amritsar, galvanizing nationalist sentiment."
+  },
+  {
+    "year": 1930,
+    "event": "Mahatma Gandhi leads the Salt March, a landmark act of nonviolent civil disobedience against British rule."
+  },
+  {
+    "year": 1942,
+    "event": "Gandhi launches the Quit India Movement, demanding an immediate end to British rule during World War II."
+  },
+  {
+    "year": 1947,
+    "event": "India gains independence on 15 August and is partitioned into India and Pakistan, accompanied by mass migration and violence."
+  },
+  {
+    "year": 1948,
+    "event": "Mahatma Gandhi is assassinated by a Hindu nationalist in New Delhi."
+  },
+  {
+    "year": 1950,
+    "event": "India adopts its Constitution and becomes a sovereign democratic republic on 26 January."
+  },
+  {
+    "year": 1962,
+    "event": "India suffers a defeat in a brief border war with China in the Himalayas."
+  },
+  {
+    "year": 1965,
+    "event": "India and Pakistan fight a major war over the disputed region of Kashmir."
+  },
+  {
+    "year": 1971,
+    "event": "India intervenes in the Bangladesh Liberation War, defeating Pakistan and aiding the creation of Bangladesh."
+  },
+  {
+    "year": 1974,
+    "event": "India conducts its first nuclear test, code-named Smiling Buddha, at Pokhran."
+  },
+  {
+    "year": 1975,
+    "event": "Prime Minister Indira Gandhi declares a national State of Emergency, suspending civil liberties for nearly two years."
+  },
+  {
+    "year": 1984,
+    "event": "Indira Gandhi is assassinated by her bodyguards following Operation Blue Star, and the Bhopal gas disaster kills thousands."
+  },
+  {
+    "year": 1991,
+    "event": "India launches sweeping economic liberalization reforms, opening its economy and accelerating growth."
+  },
+  {
+    "year": 1998,
+    "event": "India conducts the Pokhran-II nuclear tests, openly declaring itself a nuclear weapons state."
+  },
+  {
+    "year": 2008,
+    "event": "Coordinated terrorist attacks in Mumbai kill over 160 people, straining India-Pakistan relations."
+  },
+  {
+    "year": 2014,
+    "event": "Narendra Modi leads the BJP to a decisive election victory, becoming prime minister."
+  },
+  {
+    "year": 2023,
+    "event": "India's Chandrayaan-3 mission lands near the lunar south pole, and the country becomes the world's most populous nation."
+  }
 ]

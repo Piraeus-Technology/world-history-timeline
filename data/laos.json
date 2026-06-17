@@ -1,12 +1,194 @@
 [
-  { "year": -2000, "event": "Early Austroasiatic communities settle the Mekong valley" },
-  { "year": 700, "event": "Mon and Khmer influence shapes early Lao societies" },
-  { "year": 1353, "event": "Lan Xang founded as a major Lao kingdom" },
-  { "year": 1560, "event": "Lan Xang capital moved to Vientiane" },
-  { "year": 1707, "event": "Lan Xang fragments into rival kingdoms" },
-  { "year": 1778, "event": "Siam establishes suzerainty over Lao states" },
-  { "year": 1893, "event": "France incorporates Laos into Indochina" },
-  { "year": 1945, "event": "Japanese occupation weakens French control" },
-  { "year": 1953, "event": "Laos gains independence from France" },
-  { "year": 1975, "event": "Communist government takes power" }
+  {
+    "year": -44000,
+    "event": "Early modern humans inhabit what is now Laos, with skeletal remains found at Tam Pa Ling cave among the oldest in mainland Southeast Asia."
+  },
+  {
+    "year": -2000,
+    "event": "Bronze Age communities develop in the region, part of broader prehistoric metallurgy traditions in mainland Southeast Asia."
+  },
+  {
+    "year": -500,
+    "event": "Iron Age cultures emerge, and the megalithic stone vessels of the Plain of Jars begin to be created on the Xiangkhoang Plateau."
+  },
+  {
+    "year": 700,
+    "event": "Mon Dvaravati Buddhist culture spreads influence into parts of the middle Mekong region."
+  },
+  {
+    "year": 900,
+    "event": "Muang Sua (later Luang Prabang) and other early Tai-Lao principalities form along the Mekong as Khmer influence extends northward."
+  },
+  {
+    "year": 1238,
+    "event": "Tai peoples expand across the region as the Sukhothai kingdom rises, accelerating Tai migration and statehood in present-day Laos."
+  },
+  {
+    "year": 1353,
+    "event": "Fa Ngum founds the unified kingdom of Lan Xang ('Land of a Million Elephants') with its capital at Muang Sua, establishing the first great Lao state."
+  },
+  {
+    "year": 1359,
+    "event": "Theravada Buddhism is established as the state religion of Lan Xang, and the sacred Phra Bang Buddha image is brought from the Khmer court."
+  },
+  {
+    "year": 1373,
+    "event": "King Samsenthai succeeds Fa Ngum and consolidates Lan Xang's administration, conducting a census that gives him his name ('300,000 Tai')."
+  },
+  {
+    "year": 1421,
+    "event": "Lan Xang enters a period of dynastic instability and succession disputes following the death of King Samsenthai."
+  },
+  {
+    "year": 1479,
+    "event": "Vietnamese forces under Le Thanh Tong invade and sack the Lan Xang capital before being driven out, marking a major external threat."
+  },
+  {
+    "year": 1520,
+    "event": "King Photisarath ascends the throne and strengthens Buddhism while expanding Lan Xang's regional influence."
+  },
+  {
+    "year": 1548,
+    "event": "King Setthathirath ascends, briefly uniting Lan Xang with Lan Na (Chiang Mai) through dynastic ties."
+  },
+  {
+    "year": 1560,
+    "event": "Setthathirath moves the capital from Luang Prabang to Vientiane to better defend against Burmese expansion."
+  },
+  {
+    "year": 1566,
+    "event": "King Setthathirath builds the That Luang stupa in Vientiane, which becomes the most sacred national monument of Laos."
+  },
+  {
+    "year": 1637,
+    "event": "King Sourigna Vongsa begins a long reign regarded as the golden age of Lan Xang, marked by peace, prosperity, and cultural flourishing."
+  },
+  {
+    "year": 1641,
+    "event": "Dutch merchant Gerrit van Wuysthoff of the East India Company visits Vientiane, leaving the first European account of Lan Xang."
+  },
+  {
+    "year": 1707,
+    "event": "Lan Xang fractures following Sourigna Vongsa's death, splitting into the rival kingdoms of Luang Prabang and Vientiane."
+  },
+  {
+    "year": 1713,
+    "event": "The southern Kingdom of Champasak breaks away, dividing the Lao lands into three competing kingdoms."
+  },
+  {
+    "year": 1779,
+    "event": "Siamese forces conquer Vientiane and Champasak, reducing the Lao kingdoms to Siamese vassal states."
+  },
+  {
+    "year": 1827,
+    "event": "King Anouvong of Vientiane leads a rebellion against Siamese domination, which ultimately fails."
+  },
+  {
+    "year": 1828,
+    "event": "Siam razes Vientiane and deports much of its population, ending the Kingdom of Vientiane as an independent entity."
+  },
+  {
+    "year": 1885,
+    "event": "France establishes a vice-consulate in Luang Prabang, beginning direct French involvement in Lao affairs."
+  },
+  {
+    "year": 1893,
+    "event": "After the Franco-Siamese War, Siam cedes Lao territory east of the Mekong to France, creating a French protectorate over Laos."
+  },
+  {
+    "year": 1899,
+    "event": "France consolidates the Lao territories into a single administrative unit within French Indochina."
+  },
+  {
+    "year": 1907,
+    "event": "A Franco-Siamese treaty fixes the borders of French Laos, defining much of the modern territory of the country."
+  },
+  {
+    "year": 1945,
+    "event": "Japanese forces occupy Laos during World War II, and Prince Phetsarath proclaims the Lao Issara independence movement."
+  },
+  {
+    "year": 1946,
+    "event": "France reasserts control and reunifies Laos under the king of Luang Prabang as a constitutional monarchy within the French Union."
+  },
+  {
+    "year": 1949,
+    "event": "Laos is granted limited self-government as an associated state within the French Union."
+  },
+  {
+    "year": 1953,
+    "event": "Laos gains full independence from France under the Kingdom of Laos with King Sisavang Vong as monarch."
+  },
+  {
+    "year": 1954,
+    "event": "The Geneva Accords confirm Lao independence after the First Indochina War, but leave the communist Pathet Lao controlling two northern provinces."
+  },
+  {
+    "year": 1955,
+    "event": "Laos is admitted as a member state of the United Nations."
+  },
+  {
+    "year": 1957,
+    "event": "A first coalition government unites royalists and the Pathet Lao under Prince Souvanna Phouma in an attempt at national reconciliation."
+  },
+  {
+    "year": 1960,
+    "event": "Captain Kong Le stages a coup seeking neutrality, deepening the civil war among rightist, neutralist, and communist factions."
+  },
+  {
+    "year": 1962,
+    "event": "A second Geneva agreement declares Lao neutrality, but it quickly breaks down as fighting resumes."
+  },
+  {
+    "year": 1964,
+    "event": "The United States begins a massive secret bombing campaign over Laos targeting the Ho Chi Minh Trail during the Vietnam War."
+  },
+  {
+    "year": 1973,
+    "event": "A ceasefire agreement ends overt fighting, and a third coalition government is formed including the Pathet Lao."
+  },
+  {
+    "year": 1975,
+    "event": "The Pathet Lao seize power, abolish the monarchy, and proclaim the Lao People's Democratic Republic under communist rule."
+  },
+  {
+    "year": 1977,
+    "event": "Laos signs a 25-year Treaty of Friendship with Vietnam, cementing close political and military ties."
+  },
+  {
+    "year": 1986,
+    "event": "The government launches the 'New Economic Mechanism,' beginning market-oriented reforms and opening to foreign investment."
+  },
+  {
+    "year": 1991,
+    "event": "Laos adopts its first constitution as a one-party socialist republic led by the Lao People's Revolutionary Party."
+  },
+  {
+    "year": 1995,
+    "event": "The town of Luang Prabang is designated a UNESCO World Heritage Site for its preserved royal and Buddhist architecture."
+  },
+  {
+    "year": 1997,
+    "event": "Laos becomes a full member of the Association of Southeast Asian Nations (ASEAN)."
+  },
+  {
+    "year": 2001,
+    "event": "The Vat Phou ancient Khmer temple complex in southern Laos is inscribed as a UNESCO World Heritage Site."
+  },
+  {
+    "year": 2013,
+    "event": "Laos joins the World Trade Organization, integrating further into the global economy."
+  },
+  {
+    "year": 2019,
+    "event": "The Plain of Jars megalithic landscape is inscribed as a UNESCO World Heritage Site."
+  },
+  {
+    "year": 2021,
+    "event": "The China-Laos Railway opens, linking Vientiane to Kunming and marking a major Belt and Road infrastructure milestone."
+  },
+  {
+    "year": 2024,
+    "event": "Laos assumes the rotating chairmanship of ASEAN amid efforts to manage mounting public debt and regional diplomacy."
+  }
 ]

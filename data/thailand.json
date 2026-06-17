@@ -1,15 +1,194 @@
 [
-  { "year": -4000, "event": "Early agricultural communities settle mainland Southeast Asia" },
-  { "year": 600, "event": "Mon kingdoms spread Theravada Buddhism in the Chao Phraya basin" },
-  { "year": 1238, "event": "Sukhothai kingdom emerges as an early Thai state" },
-  { "year": 1351, "event": "Ayutthaya founded as a regional trading and military power" },
-  { "year": 1431, "event": "Ayutthaya expands after the decline of Angkor" },
-  { "year": 1511, "event": "Portuguese traders establish contact with Siam" },
-  { "year": 1767, "event": "Burmese forces sack Ayutthaya" },
-  { "year": 1768, "event": "Thonburi kingdom reunifies Siam under Taksin" },
-  { "year": 1782, "event": "Bangkok founded and Chakri dynasty established" },
-  { "year": 1855, "event": "Bowring Treaty opens Siam to global trade" },
-  { "year": 1893, "event": "Territorial losses to France preserve Siamese independence" },
-  { "year": 1932, "event": "Absolute monarchy replaced by constitutional rule" },
-  { "year": 1945, "event": "Thailand emerges from World War II without colonization" }
+  {
+    "year": -3600,
+    "event": "Prehistoric communities at Ban Chiang in the northeast develop one of the earliest known bronze-working and rice-farming cultures in Southeast Asia."
+  },
+  {
+    "year": -500,
+    "event": "Iron Age communities across present-day Thailand expand metallurgy, agriculture, and long-distance trade networks."
+  },
+  {
+    "year": 200,
+    "event": "Indianized maritime trading polities emerge in the region, adopting Indian scripts, Hindu-Buddhist religion, and statecraft."
+  },
+  {
+    "year": 550,
+    "event": "The Mon Dvaravati civilization flourishes in the Chao Phraya basin, spreading Theravada Buddhism and Indian-influenced art."
+  },
+  {
+    "year": 700,
+    "event": "The Hindu-Buddhist Srivijaya empire extends influence over the southern Thai peninsula and its trade routes."
+  },
+  {
+    "year": 802,
+    "event": "The Khmer Empire rises at Angkor and gradually dominates much of central and northeastern Thailand."
+  },
+  {
+    "year": 1238,
+    "event": "Thai chieftains overthrow Khmer overlords and found the Kingdom of Sukhothai, often regarded as the first Thai state."
+  },
+  {
+    "year": 1283,
+    "event": "King Ramkhamhaeng of Sukhothai is traditionally credited with creating the Thai alphabet."
+  },
+  {
+    "year": 1296,
+    "event": "King Mangrai founds Chiang Mai as the capital of the northern Lanna kingdom."
+  },
+  {
+    "year": 1351,
+    "event": "King Ramathibodi I founds the Kingdom of Ayutthaya, which becomes a dominant power in Southeast Asia."
+  },
+  {
+    "year": 1431,
+    "event": "Ayutthaya sacks the Khmer capital of Angkor, accelerating the decline of the Khmer Empire."
+  },
+  {
+    "year": 1438,
+    "event": "Ayutthaya absorbs the weakening Sukhothai kingdom into its expanding realm."
+  },
+  {
+    "year": 1511,
+    "event": "Portuguese envoys arrive at Ayutthaya, beginning sustained European contact and trade with Siam."
+  },
+  {
+    "year": 1569,
+    "event": "Ayutthaya falls to the Burmese Toungoo dynasty, briefly becoming a vassal before reasserting independence."
+  },
+  {
+    "year": 1584,
+    "event": "King Naresuan declares Ayutthaya's independence from Burmese control and revives the kingdom's strength."
+  },
+  {
+    "year": 1593,
+    "event": "King Naresuan defeats the Burmese crown prince in a famous elephant duel, securing Siamese sovereignty."
+  },
+  {
+    "year": 1656,
+    "event": "King Narai ascends the throne and opens Ayutthaya to extensive trade and diplomacy with France and other powers."
+  },
+  {
+    "year": 1688,
+    "event": "The Siamese Revolution of 1688 expels French influence and ushers in a more isolationist period."
+  },
+  {
+    "year": 1767,
+    "event": "Burmese armies sack and destroy Ayutthaya, ending the kingdom after more than four centuries."
+  },
+  {
+    "year": 1768,
+    "event": "General Taksin reunifies the country and establishes a new capital at Thonburi."
+  },
+  {
+    "year": 1782,
+    "event": "Rama I founds the Chakri dynasty and establishes Bangkok (Rattanakosin) as the new capital."
+  },
+  {
+    "year": 1851,
+    "event": "King Mongkut (Rama IV) begins modernizing reforms and expands engagement with Western powers."
+  },
+  {
+    "year": 1855,
+    "event": "Siam signs the Bowring Treaty with Britain, opening the economy to free trade and Western commerce."
+  },
+  {
+    "year": 1868,
+    "event": "King Chulalongkorn (Rama V) begins a reign of sweeping modernization of administration, infrastructure, and law."
+  },
+  {
+    "year": 1893,
+    "event": "The Franco-Siamese crisis forces Siam to cede Laotian territories to France, beginning major losses to colonial powers."
+  },
+  {
+    "year": 1905,
+    "event": "King Chulalongkorn abolishes slavery in Siam after decades of gradual reform."
+  },
+  {
+    "year": 1909,
+    "event": "The Anglo-Siamese Treaty cedes northern Malay states to Britain, fixing much of Siam's southern border."
+  },
+  {
+    "year": 1917,
+    "event": "Siam joins the Allies in World War I, sending an expeditionary force to Europe."
+  },
+  {
+    "year": 1932,
+    "event": "A bloodless revolution ends absolute monarchy and establishes a constitutional monarchy in Siam."
+  },
+  {
+    "year": 1939,
+    "event": "The country officially changes its name from Siam to Thailand under nationalist leader Plaek Phibunsongkhram."
+  },
+  {
+    "year": 1941,
+    "event": "Japan invades Thailand during World War II, and the government allies with Japan after brief resistance."
+  },
+  {
+    "year": 1946,
+    "event": "King Ananda Mahidol dies and Bhumibol Adulyadej (Rama IX) ascends the throne; Thailand joins the United Nations."
+  },
+  {
+    "year": 1947,
+    "event": "A military coup returns the army to power, beginning decades of frequent coups and military influence."
+  },
+  {
+    "year": 1954,
+    "event": "Thailand becomes a founding member of the Southeast Asia Treaty Organization (SEATO), aligning with the West."
+  },
+  {
+    "year": 1967,
+    "event": "Thailand co-founds the Association of Southeast Asian Nations (ASEAN) in Bangkok."
+  },
+  {
+    "year": 1973,
+    "event": "A popular student-led uprising overthrows the military dictatorship and briefly restores democratic rule."
+  },
+  {
+    "year": 1976,
+    "event": "The Thammasat University massacre crushes student protesters and returns the military to power."
+  },
+  {
+    "year": 1992,
+    "event": "Black May protests against military rule end in violence, prompting King Bhumibol's intervention and renewed democratization."
+  },
+  {
+    "year": 1997,
+    "event": "The Asian financial crisis erupts from Thailand's currency collapse, devastating the economy and the wider region."
+  },
+  {
+    "year": 2001,
+    "event": "Telecommunications tycoon Thaksin Shinawatra wins a landslide election, reshaping Thai politics."
+  },
+  {
+    "year": 2004,
+    "event": "The Indian Ocean tsunami devastates Thailand's Andaman coast, killing thousands including many foreign tourists."
+  },
+  {
+    "year": 2006,
+    "event": "A military coup ousts Prime Minister Thaksin Shinawatra, deepening political polarization."
+  },
+  {
+    "year": 2011,
+    "event": "Yingluck Shinawatra becomes Thailand's first female prime minister amid continued political division."
+  },
+  {
+    "year": 2014,
+    "event": "The military seizes power in a coup led by General Prayut Chan-o-cha, establishing a junta."
+  },
+  {
+    "year": 2016,
+    "event": "King Bhumibol Adulyadej dies after a 70-year reign and is succeeded by his son, King Vajiralongkorn (Rama X)."
+  },
+  {
+    "year": 2020,
+    "event": "Mass youth-led pro-democracy protests demand constitutional reform and unprecedented changes to the monarchy."
+  },
+  {
+    "year": 2023,
+    "event": "The progressive Move Forward Party wins the most seats in elections, but is blocked from forming a government."
+  },
+  {
+    "year": 2025,
+    "event": "Thailand legalizes same-sex marriage, becoming the first country in Southeast Asia to do so."
+  }
 ]

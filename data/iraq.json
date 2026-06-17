@@ -1,0 +1,218 @@
+[
+  {
+    "year": -10000,
+    "event": "Early Neolithic communities settle in the foothills of northern Mesopotamia, beginning the transition to farming."
+  },
+  {
+    "year": -5500,
+    "event": "The Ubaid culture spreads across southern Mesopotamia, establishing irrigation-based villages and early temples."
+  },
+  {
+    "year": -4000,
+    "event": "The Uruk period sees the rise of the world's first cities in southern Mesopotamia."
+  },
+  {
+    "year": -3200,
+    "event": "Cuneiform writing develops at Uruk, marking one of humanity's earliest writing systems."
+  },
+  {
+    "year": -2900,
+    "event": "Sumerian city-states such as Ur, Uruk, Lagash, and Kish flourish during the Early Dynastic period."
+  },
+  {
+    "year": -2334,
+    "event": "Sargon of Akkad founds the Akkadian Empire, the world's first known multinational empire."
+  },
+  {
+    "year": -2112,
+    "event": "Ur-Nammu founds the Third Dynasty of Ur, ushering in a Sumerian renaissance and one of the earliest law codes."
+  },
+  {
+    "year": -1894,
+    "event": "The Amorite dynasty establishes Babylon as a rising power in central Mesopotamia."
+  },
+  {
+    "year": -1792,
+    "event": "Hammurabi becomes king of Babylon and later issues his famous law code."
+  },
+  {
+    "year": -1595,
+    "event": "The Hittites sack Babylon, ending the First Babylonian Dynasty and ushering in Kassite rule."
+  },
+  {
+    "year": -1350,
+    "event": "Assyria rises as a major power in northern Mesopotamia under kings like Ashur-uballit I."
+  },
+  {
+    "year": -911,
+    "event": "The Neo-Assyrian Empire begins its expansion, becoming the dominant power of the ancient Near East."
+  },
+  {
+    "year": -705,
+    "event": "Sennacherib makes Nineveh the magnificent capital of the Assyrian Empire."
+  },
+  {
+    "year": -668,
+    "event": "Ashurbanipal reigns over Assyria and assembles the great library at Nineveh."
+  },
+  {
+    "year": -612,
+    "event": "A coalition of Babylonians and Medes sacks Nineveh, destroying the Assyrian Empire."
+  },
+  {
+    "year": -605,
+    "event": "Nebuchadnezzar II ascends the throne, leading the Neo-Babylonian Empire to its zenith."
+  },
+  {
+    "year": -539,
+    "event": "Cyrus the Great of Persia conquers Babylon, incorporating Mesopotamia into the Achaemenid Empire."
+  },
+  {
+    "year": -331,
+    "event": "Alexander the Great defeats the Persians at Gaugamela and takes Babylon, beginning Hellenistic rule."
+  },
+  {
+    "year": -323,
+    "event": "Alexander the Great dies in Babylon, and his empire is divided among his generals."
+  },
+  {
+    "year": -141,
+    "event": "The Parthian Empire conquers Mesopotamia, establishing Ctesiphon as a key capital."
+  },
+  {
+    "year": 224,
+    "event": "The Sasanian Empire supplants the Parthians and rules Mesopotamia with Ctesiphon as its capital."
+  },
+  {
+    "year": 637,
+    "event": "Arab Muslim armies defeat the Sasanians at the Battle of al-Qadisiyyah, bringing Islam to Mesopotamia."
+  },
+  {
+    "year": 762,
+    "event": "The Abbasid caliph al-Mansur founds Baghdad, which becomes the capital of the Islamic world."
+  },
+  {
+    "year": 813,
+    "event": "Caliph al-Ma'mun establishes the House of Wisdom in Baghdad, a center of the Islamic Golden Age."
+  },
+  {
+    "year": 1258,
+    "event": "Mongol forces under Hulagu Khan sack Baghdad, ending the Abbasid Caliphate."
+  },
+  {
+    "year": 1401,
+    "event": "Timur (Tamerlane) sacks Baghdad, devastating the city for a second time within a century."
+  },
+  {
+    "year": 1508,
+    "event": "The Safavid Persians under Shah Ismail capture Baghdad."
+  },
+  {
+    "year": 1534,
+    "event": "The Ottoman Empire under Suleiman the Magnificent conquers Baghdad, beginning centuries of Ottoman rule."
+  },
+  {
+    "year": 1623,
+    "event": "Safavid Persia briefly recaptures Baghdad amid Ottoman-Persian wars."
+  },
+  {
+    "year": 1638,
+    "event": "The Ottomans retake Baghdad, securing lasting control over the Mesopotamian provinces."
+  },
+  {
+    "year": 1869,
+    "event": "Ottoman reformer Midhat Pasha modernizes Baghdad province with new administration and infrastructure."
+  },
+  {
+    "year": 1914,
+    "event": "British forces invade Ottoman Mesopotamia during World War I, landing at Basra."
+  },
+  {
+    "year": 1917,
+    "event": "British troops capture Baghdad from the Ottomans."
+  },
+  {
+    "year": 1920,
+    "event": "The League of Nations grants Britain the Mandate for Mesopotamia, sparking a major nationalist revolt."
+  },
+  {
+    "year": 1921,
+    "event": "Faisal I is crowned king, establishing the Kingdom of Iraq under British mandate."
+  },
+  {
+    "year": 1927,
+    "event": "Oil is discovered in commercial quantities at Baba Gurgur near Kirkuk."
+  },
+  {
+    "year": 1932,
+    "event": "Iraq gains formal independence and joins the League of Nations as a sovereign state."
+  },
+  {
+    "year": 1941,
+    "event": "Britain intervenes militarily to suppress a pro-Axis coup led by Rashid Ali al-Gaylani."
+  },
+  {
+    "year": 1958,
+    "event": "A military coup overthrows and kills King Faisal II, abolishing the monarchy and proclaiming a republic."
+  },
+  {
+    "year": 1963,
+    "event": "The Ba'ath Party seizes power in a coup, later consolidating control over the state."
+  },
+  {
+    "year": 1968,
+    "event": "A Ba'athist coup brings the party to lasting power, with Saddam Hussein rising as a key figure."
+  },
+  {
+    "year": 1972,
+    "event": "Iraq nationalizes the Iraq Petroleum Company, taking control of its oil industry."
+  },
+  {
+    "year": 1979,
+    "event": "Saddam Hussein becomes president of Iraq and launches a sweeping purge of rivals."
+  },
+  {
+    "year": 1980,
+    "event": "Iraq invades Iran, beginning the eight-year Iran-Iraq War."
+  },
+  {
+    "year": 1988,
+    "event": "The Iran-Iraq War ends, and Iraqi forces carry out chemical attacks on Kurdish civilians at Halabja."
+  },
+  {
+    "year": 1990,
+    "event": "Iraq invades and annexes Kuwait, triggering international condemnation and sanctions."
+  },
+  {
+    "year": 1991,
+    "event": "A U.S.-led coalition expels Iraqi forces from Kuwait in the Gulf War, followed by Kurdish and Shia uprisings."
+  },
+  {
+    "year": 2003,
+    "event": "A U.S.-led invasion topples Saddam Hussein's regime, beginning a prolonged occupation and insurgency."
+  },
+  {
+    "year": 2005,
+    "event": "Iraqis approve a new constitution and hold democratic elections under the new political order."
+  },
+  {
+    "year": 2006,
+    "event": "Saddam Hussein is executed after conviction by an Iraqi tribunal, amid escalating sectarian violence."
+  },
+  {
+    "year": 2011,
+    "event": "U.S. forces complete their withdrawal from Iraq, formally ending the war."
+  },
+  {
+    "year": 2014,
+    "event": "The Islamic State seizes Mosul and large areas of Iraq, triggering a major military campaign to defeat it."
+  },
+  {
+    "year": 2017,
+    "event": "Iraqi forces recapture Mosul and declare victory over the Islamic State."
+  },
+  {
+    "year": 2019,
+    "event": "Mass anti-government protests erupt across Iraq over corruption, unemployment, and poor services."
+  }
+]

@@ -1,14 +1,190 @@
 [
-  { "year": -2000, "event": "Early agricultural communities settle the Ganges–Brahmaputra delta" },
-  { "year": -600, "event": "Gangaridai region emerges as a powerful delta polity" },
-  { "year": -326, "event": "Alexander’s campaign reaches the eastern edge of the subcontinent" },
-  { "year": 350, "event": "Gupta influence integrates Bengal into classical Indian culture" },
-  { "year": 750, "event": "Pala Empire promotes Buddhism and regional autonomy" },
-  { "year": 1204, "event": "Turkic conquest introduces Muslim rule in Bengal" },
-  { "year": 1352, "event": "Independent Bengal Sultanate established" },
-  { "year": 1576, "event": "Mughal Empire incorporates Bengal" },
-  { "year": 1757, "event": "British East India Company gains control after Plassey" },
-  { "year": 1858, "event": "British Crown consolidates colonial administration" },
-  { "year": 1947, "event": "Bengal partition creates East Pakistan" },
-  { "year": 1971, "event": "Bangladesh gains independence after liberation war" }
+  {
+    "year": -1500,
+    "event": "Copper Age settlements such as those at Wari-Bateshwar develop in the Bengal delta during the Chalcolithic period."
+  },
+  {
+    "year": -700,
+    "event": "The fortified urban site of Wari-Bateshwar flourishes as an early trading center engaged in regional commerce."
+  },
+  {
+    "year": -300,
+    "event": "The territory becomes part of the Mauryan Empire, with Pundranagara (modern Mahasthangarh) serving as a major administrative city."
+  },
+  {
+    "year": -250,
+    "event": "Buddhism spreads through the region under Mauryan influence following Emperor Ashoka's patronage."
+  },
+  {
+    "year": 320,
+    "event": "The Gupta Empire incorporates Bengal, ushering in a classical era of art, learning, and Sanskrit culture."
+  },
+  {
+    "year": 590,
+    "event": "King Shashanka establishes the Gauda Kingdom, regarded as the first independent unified polity in the Bengal region."
+  },
+  {
+    "year": 750,
+    "event": "Gopala is elected as the first Pala king, founding the Buddhist Pala Empire that dominates Bengal for centuries."
+  },
+  {
+    "year": 783,
+    "event": "Emperor Dharmapala expands Pala power across northern India and patronizes the great monastery of Somapura Mahavihara."
+  },
+  {
+    "year": 1077,
+    "event": "The Kaivarta revolt under Divya temporarily challenges Pala rule in northern Bengal."
+  },
+  {
+    "year": 1150,
+    "event": "The Hindu Sena dynasty rises to rule Bengal, displacing the declining Pala Empire."
+  },
+  {
+    "year": 1204,
+    "event": "Muhammad bin Bakhtiyar Khalji conquers Bengal for the Delhi Sultanate, beginning centuries of Muslim rule."
+  },
+  {
+    "year": 1342,
+    "event": "Shamsuddin Ilyas Shah founds the independent Bengal Sultanate with its capital at Pandua."
+  },
+  {
+    "year": 1352,
+    "event": "Ilyas Shah unifies Bengal, fostering a distinct Bengali Muslim cultural and linguistic identity."
+  },
+  {
+    "year": 1576,
+    "event": "The Mughal Empire defeats the Bengal Sultanate at the Battle of Rajmahal, annexing the region."
+  },
+  {
+    "year": 1610,
+    "event": "Dhaka is established as the Mughal provincial capital of Bengal and named Jahangirnagar."
+  },
+  {
+    "year": 1717,
+    "event": "Murshid Quli Khan establishes the largely autonomous Nawabs of Bengal under nominal Mughal authority."
+  },
+  {
+    "year": 1757,
+    "event": "The British East India Company defeats Nawab Siraj-ud-Daulah at the Battle of Plassey, beginning British dominance over Bengal."
+  },
+  {
+    "year": 1764,
+    "event": "Victory at the Battle of Buxar secures Company control over the revenues of Bengal, Bihar, and Orissa."
+  },
+  {
+    "year": 1770,
+    "event": "The Great Bengal Famine kills an estimated ten million people, roughly a third of the population, under Company misrule."
+  },
+  {
+    "year": 1793,
+    "event": "The Permanent Settlement institutes the zamindari landholding system across Bengal."
+  },
+  {
+    "year": 1857,
+    "event": "The Indian Rebellion spreads to Bengal, after which the British Crown assumes direct rule over India."
+  },
+  {
+    "year": 1905,
+    "event": "The British partition of Bengal creates a separate eastern province, sparking widespread nationalist protest."
+  },
+  {
+    "year": 1911,
+    "event": "The partition of Bengal is annulled amid sustained agitation, reuniting the province."
+  },
+  {
+    "year": 1943,
+    "event": "The Bengal Famine causes an estimated two to three million deaths during the Second World War."
+  },
+  {
+    "year": 1947,
+    "event": "The Partition of India creates East Bengal as the eastern wing of the new state of Pakistan."
+  },
+  {
+    "year": 1952,
+    "event": "Police kill student protesters in Dhaka during the Bengali Language Movement, later commemorated as International Mother Language Day."
+  },
+  {
+    "year": 1955,
+    "event": "East Bengal is renamed East Pakistan under the One Unit administrative scheme."
+  },
+  {
+    "year": 1966,
+    "event": "Sheikh Mujibur Rahman proclaims the Six Point Movement demanding greater autonomy for East Pakistan."
+  },
+  {
+    "year": 1970,
+    "event": "The Bhola cyclone kills hundreds of thousands, and the Awami League wins a landslide in Pakistan's general election."
+  },
+  {
+    "year": 1971,
+    "event": "Bangladesh declares independence and wins the Liberation War after a genocidal crackdown, supported by Indian intervention against Pakistan."
+  },
+  {
+    "year": 1972,
+    "event": "Sheikh Mujibur Rahman becomes the first leader of independent Bangladesh and a new constitution is adopted."
+  },
+  {
+    "year": 1974,
+    "event": "Bangladesh is admitted to the United Nations as a member state and suffers a devastating famine."
+  },
+  {
+    "year": 1975,
+    "event": "Sheikh Mujibur Rahman and most of his family are assassinated in a military coup, triggering years of political instability."
+  },
+  {
+    "year": 1977,
+    "event": "General Ziaur Rahman assumes the presidency and reorients national policy after consolidating military-backed power."
+  },
+  {
+    "year": 1981,
+    "event": "President Ziaur Rahman is assassinated in an attempted military coup in Chittagong."
+  },
+  {
+    "year": 1982,
+    "event": "General Hussain Muhammad Ershad seizes power in a bloodless coup and establishes military rule."
+  },
+  {
+    "year": 1988,
+    "event": "Islam is declared the state religion of Bangladesh through a constitutional amendment."
+  },
+  {
+    "year": 1990,
+    "event": "A mass pro-democracy uprising forces President Ershad to resign, restoring parliamentary democracy."
+  },
+  {
+    "year": 1991,
+    "event": "Khaleda Zia becomes the country's first female prime minister, and a catastrophic cyclone kills around 138,000 people."
+  },
+  {
+    "year": 1996,
+    "event": "Sheikh Hasina leads the Awami League to power as prime minister for the first time."
+  },
+  {
+    "year": 2006,
+    "event": "Muhammad Yunus and the Grameen Bank win the Nobel Peace Prize for pioneering microfinance."
+  },
+  {
+    "year": 2007,
+    "event": "A military-backed caretaker government declares a state of emergency amid political crisis."
+  },
+  {
+    "year": 2009,
+    "event": "Sheikh Hasina returns as prime minister after an Awami League election victory, beginning a long tenure in power."
+  },
+  {
+    "year": 2013,
+    "event": "The Rana Plaza garment factory collapse kills over 1,100 workers, prompting global scrutiny of the textile industry."
+  },
+  {
+    "year": 2017,
+    "event": "Hundreds of thousands of Rohingya refugees flee Myanmar into Bangladesh, creating vast camps at Cox's Bazar."
+  },
+  {
+    "year": 2022,
+    "event": "The Padma Bridge, the country's largest infrastructure project, opens to connect the southwest to the capital."
+  },
+  {
+    "year": 2024,
+    "event": "A student-led mass uprising forces Sheikh Hasina to resign and flee, ending her fifteen-year rule and bringing an interim government led by Muhammad Yunus."
+  }
 ]

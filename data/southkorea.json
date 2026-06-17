@@ -1,21 +1,214 @@
 [
-  { "year": -1500, "event": "Bronze Age cultures emerge on the Korean Peninsula" },
-  { "year": -108, "event": "Han China establishes commanderies in northern Korea" },
-  { "year": 313, "event": "Goguryeo expels Chinese commanderies from the peninsula" },
-  { "year": 372, "event": "Buddhism adopted by Goguryeo" },
-  { "year": 528, "event": "Buddhism adopted by Silla" },
-  { "year": 668, "event": "Silla unifies most of the Korean Peninsula" },
-  { "year": 698, "event": "Balhae forms in northern Korea and Manchuria" },
-  { "year": 918, "event": "Goryeo dynasty unifies Korea" },
-  { "year": 1019, "event": "Goryeo repels Khitan invasions" },
-  { "year": 1231, "event": "Mongol invasions weaken Goryeo sovereignty" },
-  { "year": 1392, "event": "Joseon dynasty replaces Goryeo" },
-  { "year": 1443, "event": "Hangul alphabet created to expand literacy" },
-  { "year": 1592, "event": "Japanese invasions devastate the peninsula" },
-  { "year": 1637, "event": "Joseon becomes tributary to Qing China" },
-  { "year": 1876, "event": "Korea forcibly opened to foreign trade" },
-  { "year": 1910, "event": "Japan annexes Korea" },
-  { "year": 1945, "event": "Japanese rule ends and Korea is divided" },
-  { "year": 1950, "event": "Korean War devastates the peninsula" },
-  { "year": 1953, "event": "Armistice solidifies North–South division" }
+  {
+    "year": -700000,
+    "event": "Paleolithic hominins inhabit the Korean Peninsula, leaving stone tools at sites such as Jeongok-ri."
+  },
+  {
+    "year": -8000,
+    "event": "Neolithic Jeulmun pottery culture emerges with settled fishing, foraging, and comb-pattern ceramics."
+  },
+  {
+    "year": -2333,
+    "event": "Traditional founding date of Gojoseon by the legendary Dangun, Korea's first recorded kingdom."
+  },
+  {
+    "year": -1500,
+    "event": "Mumun pottery period begins, marking the spread of rice agriculture and bronze tools."
+  },
+  {
+    "year": -300,
+    "event": "Iron Age technology spreads across the peninsula and Gojoseon develops as a regional power."
+  },
+  {
+    "year": -108,
+    "event": "Han China conquers Wiman Joseon and establishes the Four Commanderies on the northern peninsula."
+  },
+  {
+    "year": -57,
+    "event": "Silla is traditionally founded in the southeast under Bak Hyeokgeose."
+  },
+  {
+    "year": -37,
+    "event": "Goguryeo is traditionally founded by Jumong in the north."
+  },
+  {
+    "year": -18,
+    "event": "Baekje is traditionally founded by Onjo in the southwest, beginning the Three Kingdoms era."
+  },
+  {
+    "year": 313,
+    "event": "Goguryeo conquers the Lelang commandery, expelling Chinese rule from the peninsula."
+  },
+  {
+    "year": 372,
+    "event": "Buddhism is officially introduced to Goguryeo and a Confucian academy is established."
+  },
+  {
+    "year": 427,
+    "event": "Goguryeo moves its capital to Pyongyang under King Jangsu at the height of its power."
+  },
+  {
+    "year": 660,
+    "event": "Silla, allied with Tang China, conquers the kingdom of Baekje."
+  },
+  {
+    "year": 668,
+    "event": "Silla and Tang forces destroy Goguryeo, leaving Silla dominant."
+  },
+  {
+    "year": 676,
+    "event": "Silla expels the Tang and unifies most of the peninsula as Unified Silla."
+  },
+  {
+    "year": 698,
+    "event": "Balhae is founded in former Goguryeo lands, beginning the Northern and Southern States period."
+  },
+  {
+    "year": 918,
+    "event": "Wang Geon founds the Goryeo dynasty, from which the name Korea derives."
+  },
+  {
+    "year": 935,
+    "event": "Goryeo absorbs Silla, completing reunification of the peninsula."
+  },
+  {
+    "year": 958,
+    "event": "Goryeo institutes a Confucian civil-service examination system to recruit officials."
+  },
+  {
+    "year": 1019,
+    "event": "Goryeo decisively repels the Khitan Liao invasions at the Battle of Gwiju."
+  },
+  {
+    "year": 1231,
+    "event": "The Mongol invasions begin, eventually reducing Goryeo to a vassal of the Yuan."
+  },
+  {
+    "year": 1234,
+    "event": "Goryeo produces books with movable metal type, predating Gutenberg in Europe."
+  },
+  {
+    "year": 1251,
+    "event": "The Tripitaka Koreana woodblocks are completed during the Mongol invasions."
+  },
+  {
+    "year": 1392,
+    "event": "Yi Seong-gye founds the Joseon dynasty, which would rule Korea for over five centuries."
+  },
+  {
+    "year": 1394,
+    "event": "Joseon moves its capital to Hanyang, modern-day Seoul."
+  },
+  {
+    "year": 1446,
+    "event": "King Sejong the Great promulgates the Hangul alphabet to give Koreans a native writing system."
+  },
+  {
+    "year": 1592,
+    "event": "Japan invades in the Imjin War; Admiral Yi Sun-sin's turtle ships repel the naval assault."
+  },
+  {
+    "year": 1637,
+    "event": "The Qing invasion forces Joseon into a tributary relationship with Manchu China."
+  },
+  {
+    "year": 1866,
+    "event": "Korea repels a French naval expedition, reinforcing its isolationist policy."
+  },
+  {
+    "year": 1876,
+    "event": "The Treaty of Ganghwa with Japan opens Korean ports and ends seclusion."
+  },
+  {
+    "year": 1894,
+    "event": "The Donghak Peasant Revolution and the Gabo Reforms upend the old order amid Sino-Japanese rivalry."
+  },
+  {
+    "year": 1897,
+    "event": "King Gojong proclaims the Korean Empire, asserting independence and modernization."
+  },
+  {
+    "year": 1905,
+    "event": "The Eulsa Treaty makes Korea a protectorate of Japan after the Russo-Japanese War."
+  },
+  {
+    "year": 1910,
+    "event": "Japan formally annexes Korea, beginning 35 years of colonial rule."
+  },
+  {
+    "year": 1919,
+    "event": "The March First Movement sparks nationwide independence protests and a provisional government forms in Shanghai."
+  },
+  {
+    "year": 1945,
+    "event": "Japan's surrender ends colonial rule, and the peninsula is divided at the 38th parallel by the US and USSR."
+  },
+  {
+    "year": 1948,
+    "event": "The Republic of Korea is established in the south with Syngman Rhee as first president."
+  },
+  {
+    "year": 1950,
+    "event": "North Korea invades the south, igniting the Korean War."
+  },
+  {
+    "year": 1953,
+    "event": "An armistice halts the Korean War, leaving the peninsula divided along the DMZ."
+  },
+  {
+    "year": 1960,
+    "event": "The April Revolution forces Syngman Rhee from power after rigged elections."
+  },
+  {
+    "year": 1961,
+    "event": "Park Chung-hee seizes power in a military coup, launching state-led industrialization."
+  },
+  {
+    "year": 1965,
+    "event": "South Korea normalizes diplomatic relations with Japan."
+  },
+  {
+    "year": 1979,
+    "event": "President Park Chung-hee is assassinated, ending his authoritarian rule."
+  },
+  {
+    "year": 1980,
+    "event": "The Gwangju Uprising is violently suppressed by Chun Doo-hwan's regime."
+  },
+  {
+    "year": 1987,
+    "event": "The June Democratic Struggle wins direct presidential elections and democratization."
+  },
+  {
+    "year": 1988,
+    "event": "Seoul hosts the Summer Olympics, showcasing South Korea's rapid development."
+  },
+  {
+    "year": 1991,
+    "event": "South Korea is admitted to the United Nations alongside North Korea."
+  },
+  {
+    "year": 1997,
+    "event": "The Asian financial crisis triggers an IMF bailout and sweeping economic reforms."
+  },
+  {
+    "year": 2000,
+    "event": "President Kim Dae-jung holds the first inter-Korean summit and wins the Nobel Peace Prize."
+  },
+  {
+    "year": 2002,
+    "event": "South Korea co-hosts the FIFA World Cup and reaches the semifinals."
+  },
+  {
+    "year": 2017,
+    "event": "President Park Geun-hye is impeached and removed over a corruption scandal."
+  },
+  {
+    "year": 2020,
+    "event": "South Korea wins international praise for its rapid, tech-driven response to the COVID-19 pandemic."
+  },
+  {
+    "year": 2021,
+    "event": "UNCTAD reclassifies South Korea as a developed economy, capping its rise as a global cultural and tech power."
+  }
 ]

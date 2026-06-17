@@ -1,25 +1,222 @@
 [
-  { "year": -2100, "event": "Early Chinese states emerge along the Yellow River" },
-  { "year": -1600, "event": "Shang dynasty develops bronze culture and early writing" },
-  { "year": -1046, "event": "Zhou dynasty introduces the Mandate of Heaven" },
-  { "year": -770, "event": "Warring States period accelerates philosophy and warfare" },
-  { "year": -221, "event": "Qin unifies China under centralized imperial rule" },
-  { "year": -206, "event": "Han dynasty institutionalizes bureaucracy and Confucianism" },
-  { "year": 105, "event": "Papermaking spreads literacy and administration" },
-  { "year": 220, "event": "Han collapse fragments China into rival kingdoms" },
-  { "year": 589, "event": "Sui dynasty reunifies China and builds the Grand Canal" },
-  { "year": 618, "event": "Tang dynasty fosters cosmopolitan culture and Silk Road trade" },
-  { "year": 755, "event": "An Lushan Rebellion weakens Tang imperial authority" },
-  { "year": 907, "event": "China fractures during the Five Dynasties period" },
-  { "year": 960, "event": "Song dynasty advances commerce, cities, and technology" },
-  { "year": 1127, "event": "Northern China lost to nomadic Jin rule" },
-  { "year": 1271, "event": "Mongol Yuan dynasty integrates China into a Eurasian empire" },
-  { "year": 1368, "event": "Ming dynasty restores Han Chinese governance" },
-  { "year": 1405, "event": "Zheng He leads large-scale maritime expeditions" },
-  { "year": 1644, "event": "Manchu Qing dynasty conquers China" },
-  { "year": 1683, "event": "Qing incorporates Taiwan into imperial rule" },
-  { "year": 1796, "event": "Internal rebellions signal Qing decline" },
-  { "year": 1842, "event": "Opium Wars force treaty ports open" },
-  { "year": 1912, "event": "Imperial system ends with the fall of the Qing dynasty" },
-  { "year": 1949, "event": "Communist victory reunifies mainland China" }
+  {
+    "year": -8000,
+    "event": "Neolithic farming communities along the Yellow and Yangtze rivers begin cultivating millet and rice, laying the foundations of Chinese civilization."
+  },
+  {
+    "year": -5000,
+    "event": "The Yangshao culture flourishes in the central Yellow River valley, producing distinctive painted pottery."
+  },
+  {
+    "year": -3000,
+    "event": "The Longshan culture develops advanced black pottery, walled settlements, and early social stratification."
+  },
+  {
+    "year": -2070,
+    "event": "Traditional dating of the founding of the Xia dynasty, regarded as China's first hereditary dynasty."
+  },
+  {
+    "year": -1600,
+    "event": "The Shang dynasty rises, leaving the earliest Chinese writing on oracle bones and sophisticated bronze casting."
+  },
+  {
+    "year": -1046,
+    "event": "The Zhou dynasty overthrows the Shang and introduces the concept of the Mandate of Heaven to justify rule."
+  },
+  {
+    "year": -771,
+    "event": "Western Zhou collapses after a nomadic attack, beginning the Eastern Zhou and the era of declining royal power."
+  },
+  {
+    "year": -551,
+    "event": "The philosopher Confucius is born, founding a tradition of ethics and governance that shapes Chinese thought for millennia."
+  },
+  {
+    "year": -475,
+    "event": "The Warring States period begins as rival states fight for supremacy amid major military and philosophical innovation."
+  },
+  {
+    "year": -221,
+    "event": "Qin Shi Huang unifies China and proclaims himself First Emperor, founding the Qin dynasty and a centralized imperial state."
+  },
+  {
+    "year": -214,
+    "event": "Qin Shi Huang connects and extends earlier walls into an early version of the Great Wall to guard the northern frontier."
+  },
+  {
+    "year": -206,
+    "event": "The Qin dynasty collapses after the emperor's death, leading to civil war among contending warlords."
+  },
+  {
+    "year": -202,
+    "event": "Liu Bang founds the Han dynasty, inaugurating a golden age of Chinese imperial culture and administration."
+  },
+  {
+    "year": -138,
+    "event": "Emperor Wu sends Zhang Qian westward, opening the Silk Road trade routes linking China to Central Asia and beyond."
+  },
+  {
+    "year": 9,
+    "event": "Wang Mang usurps the throne and establishes the short-lived Xin dynasty, interrupting Han rule."
+  },
+  {
+    "year": 25,
+    "event": "The Eastern Han dynasty is restored with its capital at Luoyang."
+  },
+  {
+    "year": 105,
+    "event": "The court official Cai Lun improves and standardizes papermaking, a transformative Chinese invention."
+  },
+  {
+    "year": 220,
+    "event": "The Han dynasty falls, fragmenting China into the rival Three Kingdoms of Wei, Shu, and Wu."
+  },
+  {
+    "year": 581,
+    "event": "The Sui dynasty reunifies a long-divided China and begins constructing the Grand Canal."
+  },
+  {
+    "year": 618,
+    "event": "The Tang dynasty is founded, ushering in a cosmopolitan golden age of poetry, art, and territorial expansion."
+  },
+  {
+    "year": 690,
+    "event": "Wu Zetian declares herself emperor, becoming the only woman to rule China in her own name."
+  },
+  {
+    "year": 755,
+    "event": "The An Lushan Rebellion erupts, devastating the Tang dynasty and weakening central authority."
+  },
+  {
+    "year": 907,
+    "event": "The Tang collapses, fracturing China during the turbulent Five Dynasties and Ten Kingdoms period."
+  },
+  {
+    "year": 960,
+    "event": "The Song dynasty is established, presiding over commercial growth, urbanization, and the spread of printing."
+  },
+  {
+    "year": 1127,
+    "event": "The Jurchen Jin capture the Song capital, forcing the dynasty south to establish the Southern Song."
+  },
+  {
+    "year": 1271,
+    "event": "Kublai Khan proclaims the Yuan dynasty, beginning Mongol rule over all of China."
+  },
+  {
+    "year": 1368,
+    "event": "Zhu Yuanzhang expels the Mongols and founds the Ming dynasty, restoring native Chinese rule."
+  },
+  {
+    "year": 1405,
+    "event": "Admiral Zheng He launches the first of seven grand maritime expeditions across the Indian Ocean."
+  },
+  {
+    "year": 1644,
+    "event": "The Ming dynasty falls and the Manchu-led Qing dynasty seizes Beijing, founding China's last imperial dynasty."
+  },
+  {
+    "year": 1683,
+    "event": "The Qing conquers Taiwan, incorporating the island into imperial administration."
+  },
+  {
+    "year": 1839,
+    "event": "The First Opium War breaks out as Britain forces China open to the opium trade and foreign commerce."
+  },
+  {
+    "year": 1842,
+    "event": "The Treaty of Nanjing cedes Hong Kong to Britain and opens treaty ports, beginning China's 'century of humiliation'."
+  },
+  {
+    "year": 1850,
+    "event": "The Taiping Rebellion erupts, becoming one of the deadliest civil wars in history before its suppression in 1864."
+  },
+  {
+    "year": 1894,
+    "event": "The First Sino-Japanese War begins, ending in defeat and the loss of Taiwan to Japan in 1895."
+  },
+  {
+    "year": 1900,
+    "event": "The Boxer Rebellion against foreign influence is crushed by an international expeditionary force."
+  },
+  {
+    "year": 1911,
+    "event": "The Xinhai Revolution overthrows the Qing dynasty, ending more than two thousand years of imperial rule."
+  },
+  {
+    "year": 1912,
+    "event": "The Republic of China is established with Sun Yat-sen as provisional president."
+  },
+  {
+    "year": 1919,
+    "event": "The May Fourth Movement ignites nationalist and cultural reform protests against foreign concessions."
+  },
+  {
+    "year": 1921,
+    "event": "The Chinese Communist Party is founded in Shanghai."
+  },
+  {
+    "year": 1934,
+    "event": "Communist forces begin the Long March, a strategic retreat that elevates Mao Zedong to leadership."
+  },
+  {
+    "year": 1937,
+    "event": "Japan launches a full-scale invasion, beginning the Second Sino-Japanese War with atrocities such as the Nanjing Massacre."
+  },
+  {
+    "year": 1945,
+    "event": "Japan surrenders at the end of World War II, and Taiwan is returned to Chinese control."
+  },
+  {
+    "year": 1949,
+    "event": "Mao Zedong proclaims the People's Republic of China after Communist victory, while the Nationalists retreat to Taiwan."
+  },
+  {
+    "year": 1958,
+    "event": "The Great Leap Forward begins, triggering a catastrophic famine that kills tens of millions."
+  },
+  {
+    "year": 1966,
+    "event": "Mao launches the Cultural Revolution, unleashing a decade of political upheaval and persecution."
+  },
+  {
+    "year": 1971,
+    "event": "The People's Republic of China takes China's seat at the United Nations, replacing the Republic of China."
+  },
+  {
+    "year": 1972,
+    "event": "U.S. President Richard Nixon visits China, beginning the normalization of relations between the two powers."
+  },
+  {
+    "year": 1978,
+    "event": "Deng Xiaoping launches market-oriented economic reforms and the policy of opening up to the world."
+  },
+  {
+    "year": 1989,
+    "event": "Pro-democracy protests in Tiananmen Square are suppressed by the military, drawing international condemnation."
+  },
+  {
+    "year": 1997,
+    "event": "Hong Kong is returned to Chinese sovereignty under the 'one country, two systems' framework."
+  },
+  {
+    "year": 2001,
+    "event": "China joins the World Trade Organization, accelerating its integration into the global economy."
+  },
+  {
+    "year": 2008,
+    "event": "Beijing hosts the Summer Olympic Games, showcasing China's rising global stature."
+  },
+  {
+    "year": 2010,
+    "event": "China overtakes Japan to become the world's second-largest economy."
+  },
+  {
+    "year": 2013,
+    "event": "President Xi Jinping launches the Belt and Road Initiative to expand global infrastructure and influence."
+  },
+  {
+    "year": 2020,
+    "event": "The COVID-19 pandemic emerges from Wuhan, reshaping global health and China's relations with the world."
+  }
 ]

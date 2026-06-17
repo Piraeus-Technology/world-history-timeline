@@ -1,15 +1,190 @@
 [
-  { "year": -4000, "event": "Austronesian cultures settle Taiwan" },
-  { "year": 1200, "event": "Indigenous societies dominate the island" },
-  { "year": 1624, "event": "Dutch establish colonial rule in southern Taiwan" },
-  { "year": 1626, "event": "Spanish briefly control northern Taiwan" },
-  { "year": 1662, "event": "Zheng Chenggong expels Europeans and founds a Han regime" },
-  { "year": 1683, "event": "Qing dynasty annexes Taiwan" },
-  { "year": 1887, "event": "Taiwan elevated to provincial status under Qing rule" },
-  { "year": 1895, "event": "Japan acquires Taiwan after victory over Qing China" },
-  { "year": 1930, "event": "Japanese modernization reshapes infrastructure and cities" },
-  { "year": 1945, "event": "Japan surrenders and Taiwan transferred to Chinese rule" },
-  { "year": 1949, "event": "Chinese Nationalist government relocates to Taiwan" },
-  { "year": 1987, "event": "Martial law lifted after decades of authoritarian rule" },
-  { "year": 1996, "event": "First direct presidential election held" }
+  {
+    "year": -3000,
+    "event": "Austronesian-speaking peoples, ancestors of Taiwan's indigenous tribes, settle the island, making it a likely homeland of the wider Austronesian expansion."
+  },
+  {
+    "year": -2500,
+    "event": "The Neolithic Dabenkeng (Tapenkeng) culture flourishes with corded-ware pottery and early agriculture along Taiwan's coasts."
+  },
+  {
+    "year": 230,
+    "event": "Chinese records from the Three Kingdoms state of Wu describe an expedition to an island often identified as Taiwan."
+  },
+  {
+    "year": 1349,
+    "event": "Yuan-dynasty traveler Wang Dayuan describes Taiwan and the Penghu Islands in his account 'Daoyi Zhilue'."
+  },
+  {
+    "year": 1544,
+    "event": "Portuguese sailors sight the island and name it 'Ilha Formosa' (Beautiful Island), a name long used by Europeans."
+  },
+  {
+    "year": 1624,
+    "event": "The Dutch East India Company establishes Fort Zeelandia at Tayouan, beginning Dutch colonial rule over southwestern Taiwan."
+  },
+  {
+    "year": 1626,
+    "event": "Spain establishes settlements in northern Taiwan, founding fortifications at Keelung and later Tamsui."
+  },
+  {
+    "year": 1642,
+    "event": "The Dutch expel the Spanish from northern Taiwan, consolidating European control of the island under the VOC."
+  },
+  {
+    "year": 1652,
+    "event": "Chinese settlers stage the Guo Huaiyi Rebellion against Dutch rule, which is suppressed with heavy loss of life."
+  },
+  {
+    "year": 1662,
+    "event": "Ming loyalist Koxinga (Zheng Chenggong) drives out the Dutch and founds the Kingdom of Tungning on Taiwan."
+  },
+  {
+    "year": 1683,
+    "event": "The Qing dynasty defeats the Zheng regime at the Battle of Penghu and annexes Taiwan into the Chinese empire."
+  },
+  {
+    "year": 1684,
+    "event": "Qing authorities incorporate Taiwan as a prefecture of Fujian Province, opening it to regulated Han Chinese migration."
+  },
+  {
+    "year": 1721,
+    "event": "Zhu Yigui leads a large anti-Qing rebellion, briefly capturing much of the island before being defeated."
+  },
+  {
+    "year": 1786,
+    "event": "The Lin Shuangwen uprising, the largest Qing-era rebellion in Taiwan, erupts and is crushed after more than a year."
+  },
+  {
+    "year": 1860,
+    "event": "Following the Second Opium War, treaty ports including Tamsui and Anping open Taiwan to expanded foreign trade."
+  },
+  {
+    "year": 1871,
+    "event": "The Mudan Incident, in which Paiwan people kill shipwrecked Ryukyuan sailors, sparks a diplomatic crisis with Japan."
+  },
+  {
+    "year": 1874,
+    "event": "Japan launches a punitive military expedition to southern Taiwan, exposing the limits of Qing control over indigenous areas."
+  },
+  {
+    "year": 1885,
+    "event": "The Qing elevate Taiwan to a full province, with reformer Liu Mingchuan as its first governor pursuing modernization."
+  },
+  {
+    "year": 1895,
+    "event": "The Treaty of Shimonoseki cedes Taiwan to Japan; the short-lived Republic of Formosa resists before Japanese forces take control."
+  },
+  {
+    "year": 1908,
+    "event": "Japan completes the north-south Western Trunk railway, integrating Taiwan's economy under colonial development."
+  },
+  {
+    "year": 1915,
+    "event": "The Tapani Incident, a major Han-led armed uprising against Japanese rule, is brutally suppressed."
+  },
+  {
+    "year": 1930,
+    "event": "The Wushe (Musha) Incident sees Seediq people rise against Japanese rule, prompting a harsh military reprisal."
+  },
+  {
+    "year": 1935,
+    "event": "Japan stages the Taiwan Exhibition in Taipei, showcasing four decades of colonial modernization."
+  },
+  {
+    "year": 1945,
+    "event": "Japan surrenders at the end of World War II and the Republic of China takes administrative control of Taiwan."
+  },
+  {
+    "year": 1947,
+    "event": "The February 28 Incident erupts as anti-government protests are violently suppressed, killing thousands and beginning the White Terror."
+  },
+  {
+    "year": 1949,
+    "event": "After losing the Chinese Civil War, Chiang Kai-shek's Nationalist government retreats to Taiwan and imposes martial law."
+  },
+  {
+    "year": 1950,
+    "event": "With the Korean War underway, the United States deploys the Seventh Fleet to the Taiwan Strait, shielding the island."
+  },
+  {
+    "year": 1954,
+    "event": "The First Taiwan Strait Crisis prompts the Sino-American Mutual Defense Treaty between the ROC and the United States."
+  },
+  {
+    "year": 1958,
+    "event": "The Second Taiwan Strait Crisis sees intense PRC shelling of the offshore island of Kinmen."
+  },
+  {
+    "year": 1965,
+    "event": "US economic aid to Taiwan ends as the island's export-oriented industrialization takes off, beginning the 'Taiwan Miracle'."
+  },
+  {
+    "year": 1971,
+    "event": "The United Nations seats the People's Republic of China and the ROC loses its UN membership and Security Council seat."
+  },
+  {
+    "year": 1975,
+    "event": "Chiang Kai-shek dies, ending nearly three decades as the dominant ruler of Nationalist Taiwan."
+  },
+  {
+    "year": 1979,
+    "event": "The United States switches diplomatic recognition to Beijing; the Kaohsiung Incident galvanizes Taiwan's democracy movement."
+  },
+  {
+    "year": 1986,
+    "event": "The Democratic Progressive Party is founded, the first opposition party formed in defiance of one-party rule."
+  },
+  {
+    "year": 1987,
+    "event": "President Chiang Ching-kuo lifts martial law after 38 years, beginning Taiwan's democratic liberalization."
+  },
+  {
+    "year": 1988,
+    "event": "Lee Teng-hui becomes president, the first native-born Taiwanese to lead the ROC, accelerating democratization."
+  },
+  {
+    "year": 1991,
+    "event": "Taiwan ends the 'Period of Mobilization for Suppression of Communist Rebellion', formally easing its war footing with the mainland."
+  },
+  {
+    "year": 1996,
+    "event": "Taiwan holds its first direct presidential election, re-electing Lee Teng-hui amid Chinese missile tests in the strait."
+  },
+  {
+    "year": 2000,
+    "event": "Chen Shui-bian wins the presidency, achieving the first peaceful transfer of power away from the Kuomintang."
+  },
+  {
+    "year": 2002,
+    "event": "Taiwan joins the World Trade Organization under the name 'Chinese Taipei'."
+  },
+  {
+    "year": 2004,
+    "event": "Taipei 101, then the world's tallest building, opens as a symbol of Taiwan's economic and technological prowess."
+  },
+  {
+    "year": 2008,
+    "event": "Ma Ying-jeou wins the presidency, returning the Kuomintang to power and easing cross-strait economic ties."
+  },
+  {
+    "year": 2014,
+    "event": "The Sunflower Movement occupies the legislature in protest against a cross-strait services trade pact with China."
+  },
+  {
+    "year": 2016,
+    "event": "Tsai Ing-wen is elected Taiwan's first female president as the DPP wins control of the legislature."
+  },
+  {
+    "year": 2019,
+    "event": "Taiwan becomes the first jurisdiction in Asia to legalize same-sex marriage."
+  },
+  {
+    "year": 2020,
+    "event": "Taiwan wins international praise for its early and effective response to the COVID-19 pandemic."
+  },
+  {
+    "year": 2024,
+    "event": "Lai Ching-te of the DPP is elected president, marking a third consecutive term for the party."
+  }
 ]

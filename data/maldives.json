@@ -1,10 +1,182 @@
 [
-  { "year": -2000, "event": "Early seafaring settlers inhabit the coral atolls" },
-  { "year": 300, "event": "Indian Ocean trade integrates the islands into regional networks" },
-  { "year": 1153, "event": "Maldives converts to Islam and forms a sultanate" },
-  { "year": 1558, "event": "Portuguese briefly occupy the islands" },
-  { "year": 1573, "event": "Local forces expel the Portuguese" },
-  { "year": 1887, "event": "Maldives becomes a British protectorate" },
-  { "year": 1965, "event": "Maldives gains independence from Britain" },
-  { "year": 1968, "event": "Sultanate abolished and republic declared" }
+  {
+    "year": -1500,
+    "event": "Early settlers, likely from southern India and Sri Lanka, begin inhabiting the Maldivian atolls."
+  },
+  {
+    "year": -500,
+    "event": "Indo-Aryan and Dravidian seafarers establish more permanent coastal communities, laying the basis for Maldivian culture and language."
+  },
+  {
+    "year": -300,
+    "event": "Buddhism spreads to the islands following missionary activity associated with the Mauryan emperor Ashoka, becoming the dominant religion."
+  },
+  {
+    "year": 150,
+    "event": "Greek geographer Ptolemy references islands believed to be the Maldives, placing them on early Indian Ocean trade routes."
+  },
+  {
+    "year": 362,
+    "event": "An embassy from the islands is recorded reaching the Roman emperor Julian, reflecting long-distance maritime contact."
+  },
+  {
+    "year": 400,
+    "event": "Theravada Buddhism flourishes, with stupas and monasteries (hawittas) built across the atolls during the Buddhist era."
+  },
+  {
+    "year": 662,
+    "event": "Chinese Tang dynasty records note tribute from the islands, attesting to early diplomatic and trade links with China."
+  },
+  {
+    "year": 947,
+    "event": "Arab traveler al-Masudi describes the islands' cowrie-shell economy and woman-ruled polities."
+  },
+  {
+    "year": 1117,
+    "event": "Royal Lomafanu copperplate grants begin to be issued, documenting land donations during the late Buddhist kingdom."
+  },
+  {
+    "year": 1153,
+    "event": "King Dhovemi converts to Islam, traditionally credited to the missionary Abu al-Barakat, founding the Maldives as a Muslim sultanate."
+  },
+  {
+    "year": 1194,
+    "event": "The Theemuge dynasty consolidates the Islamic sultanate and Arabic-influenced administration takes root."
+  },
+  {
+    "year": 1340,
+    "event": "The visiting traveler Ibn Battuta serves as a qadi (judge) in the Maldives, leaving a detailed account of its society and rulers."
+  },
+  {
+    "year": 1388,
+    "event": "Queen Khadijah reigns over the sultanate, one of several women to lead the islands during the medieval period."
+  },
+  {
+    "year": 1411,
+    "event": "Ming dynasty admiral Zheng He's fleet visits the Maldives during its Indian Ocean voyages, strengthening ties with China."
+  },
+  {
+    "year": 1513,
+    "event": "Portuguese forces from Goa begin attempts to establish control over the strategically located islands."
+  },
+  {
+    "year": 1558,
+    "event": "The Portuguese capture Male and impose colonial rule over the Maldives."
+  },
+  {
+    "year": 1573,
+    "event": "Muhammad Thakurufaanu leads a rebellion that expels the Portuguese, an event commemorated as National Day."
+  },
+  {
+    "year": 1645,
+    "event": "The Maldives establishes a tributary relationship with the Dutch rulers of Ceylon in exchange for protection."
+  },
+  {
+    "year": 1752,
+    "event": "Raiders from the Ali Rajas of Cannanore (Malabar) briefly seize Male before being driven out."
+  },
+  {
+    "year": 1759,
+    "event": "Sultan Hassan Nooraddeen I founds the Huraa dynasty, which would rule until the end of the monarchy."
+  },
+  {
+    "year": 1796,
+    "event": "Britain takes control of Ceylon, gradually bringing the Maldives within its sphere of influence."
+  },
+  {
+    "year": 1887,
+    "event": "The Maldives becomes a British protectorate, retaining internal self-rule while ceding defence and foreign affairs."
+  },
+  {
+    "year": 1932,
+    "event": "The Maldives adopts its first written constitution, formalizing the sultanate's governance."
+  },
+  {
+    "year": 1953,
+    "event": "The sultanate is briefly abolished and a first republic declared under President Mohamed Amin Didi, before the monarchy is restored months later."
+  },
+  {
+    "year": 1959,
+    "event": "The southern atolls secede to form the breakaway United Suvadive Republic, which lasts until 1963."
+  },
+  {
+    "year": 1965,
+    "event": "The Maldives gains full independence from Britain on 26 July and joins the United Nations on 21 September."
+  },
+  {
+    "year": 1968,
+    "event": "A national referendum abolishes the sultanate, and the Second Republic is proclaimed with Ibrahim Nasir as president."
+  },
+  {
+    "year": 1972,
+    "event": "The first tourist resort opens, launching the tourism industry that would transform the Maldivian economy."
+  },
+  {
+    "year": 1978,
+    "event": "Maumoon Abdul Gayoom becomes president, beginning a 30-year rule that was among the longest in Asia."
+  },
+  {
+    "year": 1982,
+    "event": "The Maldives joins the Commonwealth of Nations."
+  },
+  {
+    "year": 1988,
+    "event": "Indian military intervention (Operation Cactus) defeats a coup attempt by Maldivian dissidents and Sri Lankan Tamil mercenaries."
+  },
+  {
+    "year": 1989,
+    "event": "The Maldives hosts the Small States Conference on Sea Level Rise, becoming an early global voice on climate change."
+  },
+  {
+    "year": 1998,
+    "event": "A revised constitution strengthens the presidency as Gayoom continues to dominate the political system."
+  },
+  {
+    "year": 2004,
+    "event": "The Indian Ocean tsunami devastates many islands, killing scores and causing widespread destruction across the atolls."
+  },
+  {
+    "year": 2005,
+    "event": "Parliament votes to allow a multiparty political system, ending decades of one-party dominance."
+  },
+  {
+    "year": 2008,
+    "event": "A new democratic constitution is adopted, and Mohamed Nasheed wins the first multiparty presidential election."
+  },
+  {
+    "year": 2009,
+    "event": "President Nasheed holds a televised underwater cabinet meeting to highlight the threat of rising sea levels."
+  },
+  {
+    "year": 2012,
+    "event": "President Nasheed resigns amid a police and military mutiny he later describes as a coup, and Mohamed Waheed becomes president."
+  },
+  {
+    "year": 2013,
+    "event": "Abdulla Yameen wins a contested presidential election after a turbulent and repeatedly delayed vote."
+  },
+  {
+    "year": 2015,
+    "event": "Former president Nasheed is convicted under anti-terrorism laws in a trial widely condemned as politically motivated."
+  },
+  {
+    "year": 2016,
+    "event": "The Maldives announces its withdrawal from the Commonwealth amid criticism of its human-rights record."
+  },
+  {
+    "year": 2018,
+    "event": "Ibrahim Mohamed Solih wins the presidential election, defeating Yameen in a major opposition victory."
+  },
+  {
+    "year": 2020,
+    "event": "The Maldives rejoins the Commonwealth of Nations."
+  },
+  {
+    "year": 2023,
+    "event": "Mohamed Muizzu wins the presidency on a platform emphasizing closer ties with China and an 'India Out' stance."
+  },
+  {
+    "year": 2024,
+    "event": "President Muizzu's party wins a parliamentary supermajority and Indian military personnel are withdrawn from the islands."
+  }
 ]

@@ -1,16 +1,198 @@
 [
-  { "year": -4000, "event": "Early Austroasiatic communities settle the Mekong basin" },
-  { "year": 100, "event": "Funan emerges as an early maritime trade kingdom" },
-  { "year": 550, "event": "Chenla replaces Funan as the dominant inland power" },
-  { "year": 802, "event": "Jayavarman II founds the Khmer Empire" },
-  { "year": 889, "event": "Yasovarman I establishes Angkor as the imperial capital" },
-  { "year": 1113, "event": "Angkor Wat constructed under Suryavarman II" },
-  { "year": 1181, "event": "Jayavarman VII expands the empire and promotes Mahayana Buddhism" },
-  { "year": 1431, "event": "Ayutthaya sacks Angkor, ending imperial dominance" },
-  { "year": 1863, "event": "Cambodia becomes a French protectorate" },
-  { "year": 1945, "event": "Japanese occupation disrupts French colonial rule" },
-  { "year": 1953, "event": "Cambodia gains independence from France" },
-  { "year": 1975, "event": "Khmer Rouge seizes Phnom Penh" },
-  { "year": 1979, "event": "Vietnamese invasion ends Khmer Rouge rule" },
-  { "year": 1993, "event": "Constitutional monarchy restored after UN intervention" }
+  {
+    "year": -4200,
+    "event": "Neolithic communities settle along the Mekong and Tonle Sap, leaving evidence of early agriculture and pottery at sites like Laang Spean."
+  },
+  {
+    "year": -1500,
+    "event": "Bronze Age cultures emerge in the region, producing metal tools and engaging in regional trade networks."
+  },
+  {
+    "year": -500,
+    "event": "Iron Age circular earthwork settlements develop in eastern Cambodia, reflecting growing social organization."
+  },
+  {
+    "year": 68,
+    "event": "The kingdom of Funan, the earliest known Indianized state in the lower Mekong, rises as a major maritime trading power."
+  },
+  {
+    "year": 245,
+    "event": "Chinese envoys Kang Tai and Zhu Ying visit Funan, leaving the earliest detailed foreign accounts of the kingdom."
+  },
+  {
+    "year": 550,
+    "event": "The inland kingdom of Chenla emerges and begins to eclipse Funan as the dominant Khmer power."
+  },
+  {
+    "year": 627,
+    "event": "Chenla absorbs the remnants of Funan, consolidating Khmer political power in the region."
+  },
+  {
+    "year": 707,
+    "event": "Chenla fragments into rival polities known as Land Chenla and Water Chenla."
+  },
+  {
+    "year": 802,
+    "event": "Jayavarman II proclaims himself universal monarch in a sacred rite on Phnom Kulen, founding the Khmer Empire."
+  },
+  {
+    "year": 889,
+    "event": "Yasovarman I establishes the capital Yasodharapura near Angkor and builds the temple-mountain of Phnom Bakheng."
+  },
+  {
+    "year": 967,
+    "event": "The exquisite temple of Banteay Srei is consecrated, renowned for its fine pink sandstone carvings."
+  },
+  {
+    "year": 1010,
+    "event": "Suryavarman I expands the empire and oversees major construction at Angkor and across the realm."
+  },
+  {
+    "year": 1113,
+    "event": "Suryavarman II ascends the throne and commissions Angkor Wat, the largest religious monument in the world."
+  },
+  {
+    "year": 1177,
+    "event": "The Cham sack Angkor in a naval assault, plunging the empire into crisis."
+  },
+  {
+    "year": 1181,
+    "event": "Jayavarman VII defeats the Cham, ascends the throne, and ushers in the empire's greatest building era."
+  },
+  {
+    "year": 1190,
+    "event": "Jayavarman VII builds the walled city of Angkor Thom and the Bayon temple, spreading Mahayana Buddhism."
+  },
+  {
+    "year": 1296,
+    "event": "Chinese diplomat Zhou Daguan arrives at Angkor and writes a detailed account of Khmer life at its height."
+  },
+  {
+    "year": 1352,
+    "event": "Ayutthaya (Siam) attacks Angkor, beginning a long period of Thai pressure on the weakening empire."
+  },
+  {
+    "year": 1431,
+    "event": "Siamese forces sack Angkor, prompting the Khmer court to abandon the capital and shift southward."
+  },
+  {
+    "year": 1434,
+    "event": "The Khmer court establishes a new capital near Phnom Penh, marking the start of the post-Angkorian era."
+  },
+  {
+    "year": 1594,
+    "event": "Siam captures the royal capital of Longvek, deepening Cambodia's decline between powerful neighbors."
+  },
+  {
+    "year": 1620,
+    "event": "King Chey Chettha II marries a Vietnamese princess, opening the way for Vietnamese settlement in the Mekong Delta."
+  },
+  {
+    "year": 1772,
+    "event": "Siamese forces ravage Phnom Penh during the turbulent rivalry over Cambodia between Siam and Vietnam."
+  },
+  {
+    "year": 1813,
+    "event": "Vietnam asserts dominance over Cambodia, installing King Ang Chan II as a vassal monarch."
+  },
+  {
+    "year": 1845,
+    "event": "Siam and Vietnam agree to a joint protectorate over Cambodia after years of devastating warfare."
+  },
+  {
+    "year": 1863,
+    "event": "King Norodom signs a treaty making Cambodia a French protectorate, ending Siamese and Vietnamese dominance."
+  },
+  {
+    "year": 1867,
+    "event": "France and Siam sign a treaty in which Siam recognizes the French protectorate but retains Battambang and Siem Reap."
+  },
+  {
+    "year": 1887,
+    "event": "Cambodia is incorporated into the French Indochinese Union alongside Vietnam and Laos."
+  },
+  {
+    "year": 1907,
+    "event": "France recovers the provinces of Battambang, Siem Reap, and Sisophon from Siam, restoring Angkor to Cambodia."
+  },
+  {
+    "year": 1941,
+    "event": "Norodom Sihanouk is crowned king under French rule as Japanese forces occupy Indochina during World War II."
+  },
+  {
+    "year": 1945,
+    "event": "Japan dissolves French control and Sihanouk briefly declares independence before France returns."
+  },
+  {
+    "year": 1953,
+    "event": "Cambodia gains full independence from France through Sihanouk's royal crusade for sovereignty."
+  },
+  {
+    "year": 1955,
+    "event": "Sihanouk abdicates the throne to enter politics, founding the Sangkum movement and becoming head of state."
+  },
+  {
+    "year": 1965,
+    "event": "Sihanouk breaks diplomatic relations with the United States as the Vietnam War spills across the border."
+  },
+  {
+    "year": 1970,
+    "event": "General Lon Nol overthrows Sihanouk in a coup and proclaims the pro-American Khmer Republic."
+  },
+  {
+    "year": 1975,
+    "event": "The Khmer Rouge under Pol Pot capture Phnom Penh, empty the cities, and begin a brutal agrarian revolution."
+  },
+  {
+    "year": 1976,
+    "event": "The Khmer Rouge rename the country Democratic Kampuchea and intensify forced labor, executions, and famine."
+  },
+  {
+    "year": 1979,
+    "event": "Vietnam invades and topples the Khmer Rouge, installing the People's Republic of Kampuchea after a genocide killing roughly 1.7 million."
+  },
+  {
+    "year": 1989,
+    "event": "Vietnamese troops withdraw and the state is renamed the State of Cambodia amid ongoing civil war."
+  },
+  {
+    "year": 1991,
+    "event": "The Paris Peace Accords end the conflict and place Cambodia under a UN transitional authority (UNTAC)."
+  },
+  {
+    "year": 1993,
+    "event": "UN-supervised elections lead to a new constitution restoring the monarchy with Sihanouk as king."
+  },
+  {
+    "year": 1997,
+    "event": "Hun Sen consolidates power through a violent factional clash with co-Prime Minister Norodom Ranariddh."
+  },
+  {
+    "year": 1998,
+    "event": "Pol Pot dies and the Khmer Rouge movement finally collapses, ending decades of insurgency."
+  },
+  {
+    "year": 1999,
+    "event": "Cambodia joins ASEAN, marking its reintegration into Southeast Asian regional affairs."
+  },
+  {
+    "year": 2004,
+    "event": "King Norodom Sihanouk abdicates and his son Norodom Sihamoni becomes king."
+  },
+  {
+    "year": 2006,
+    "event": "The UN-backed Khmer Rouge Tribunal begins work to prosecute surviving leaders for genocide and crimes against humanity."
+  },
+  {
+    "year": 2013,
+    "event": "Opposition gains in national elections trigger mass protests challenging Hun Sen's long rule."
+  },
+  {
+    "year": 2018,
+    "event": "The main opposition party is dissolved, and Hun Sen's ruling party wins every parliamentary seat."
+  },
+  {
+    "year": 2023,
+    "event": "Hun Sen hands power to his son Hun Manet after nearly four decades as prime minister."
+  }
 ]

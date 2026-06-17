@@ -1,0 +1,198 @@
+[
+  {
+    "year": -9000,
+    "event": "Jericho emerges as one of the world's earliest continuously inhabited settlements during the Neolithic period."
+  },
+  {
+    "year": -8000,
+    "event": "Pre-Pottery Neolithic communities at Jericho build a massive stone tower and defensive wall, marking early proto-urban development."
+  },
+  {
+    "year": -3300,
+    "event": "Early Bronze Age Canaanite urban centers develop across the region, with fortified towns and trade links to Egypt and Mesopotamia."
+  },
+  {
+    "year": -1900,
+    "event": "Canaanite city-states such as Hazor, Megiddo, and Lachish flourish during the Middle Bronze Age."
+  },
+  {
+    "year": -1457,
+    "event": "Egyptian pharaoh Thutmose III defeats a Canaanite coalition at the Battle of Megiddo, bringing the region under Egyptian control."
+  },
+  {
+    "year": -1200,
+    "event": "The Philistines settle along the southern coastal plain, giving rise to a pentapolis including Gaza and Ashkelon."
+  },
+  {
+    "year": -1000,
+    "event": "Israelite and Judahite kingdoms consolidate in the highlands, with Jerusalem becoming a political and religious center."
+  },
+  {
+    "year": -722,
+    "event": "The Neo-Assyrian Empire conquers the northern Kingdom of Israel and incorporates the region into its provincial system."
+  },
+  {
+    "year": -586,
+    "event": "The Babylonians under Nebuchadnezzar II destroy Jerusalem and its temple, ending the Kingdom of Judah."
+  },
+  {
+    "year": -539,
+    "event": "The Persian Achaemenid Empire takes control after conquering Babylon, allowing exiled communities to return and rebuild Jerusalem."
+  },
+  {
+    "year": -332,
+    "event": "Alexander the Great conquers the region, beginning centuries of Hellenistic rule under the Ptolemies and Seleucids."
+  },
+  {
+    "year": -63,
+    "event": "The Roman general Pompey captures Jerusalem, bringing the region under Roman authority."
+  },
+  {
+    "year": 70,
+    "event": "Roman forces under Titus destroy the Second Temple in Jerusalem during the suppression of the Jewish revolt."
+  },
+  {
+    "year": 135,
+    "event": "Rome crushes the Bar Kokhba revolt and renames the province Syria Palaestina, popularizing the name Palestine."
+  },
+  {
+    "year": 324,
+    "event": "The region becomes part of the Christian Byzantine Empire, and Jerusalem develops as a major Christian pilgrimage center."
+  },
+  {
+    "year": 614,
+    "event": "Sasanian Persian forces capture Jerusalem during their war with the Byzantine Empire."
+  },
+  {
+    "year": 638,
+    "event": "Muslim Arab armies under Caliph Umar take Jerusalem, beginning Islamic rule over Palestine."
+  },
+  {
+    "year": 691,
+    "event": "The Umayyad caliph Abd al-Malik completes the Dome of the Rock in Jerusalem, a landmark of early Islamic architecture."
+  },
+  {
+    "year": 750,
+    "event": "Abbasid rule replaces the Umayyads, shifting the center of the Islamic empire eastward to Baghdad."
+  },
+  {
+    "year": 969,
+    "event": "The Fatimid Caliphate of Egypt extends its control over Palestine."
+  },
+  {
+    "year": 1099,
+    "event": "Crusaders capture Jerusalem and establish the Latin Kingdom of Jerusalem."
+  },
+  {
+    "year": 1187,
+    "event": "Saladin defeats the Crusaders at the Battle of Hattin and recaptures Jerusalem for the Ayyubids."
+  },
+  {
+    "year": 1260,
+    "event": "The Mamluks defeat the Mongols at Ain Jalut in Palestine and establish enduring control over the region."
+  },
+  {
+    "year": 1516,
+    "event": "The Ottoman Empire conquers Palestine, beginning four centuries of Ottoman rule."
+  },
+  {
+    "year": 1799,
+    "event": "Napoleon Bonaparte invades Ottoman Palestine but fails to capture Acre and withdraws."
+  },
+  {
+    "year": 1831,
+    "event": "Egyptian forces under Muhammad Ali briefly seize Palestine before Ottoman authority is restored in 1840."
+  },
+  {
+    "year": 1882,
+    "event": "The First Aliyah brings waves of Jewish immigration to Ottoman Palestine, spurred by persecution in Europe."
+  },
+  {
+    "year": 1917,
+    "event": "British forces capture Palestine from the Ottomans, and the Balfour Declaration backs a Jewish national home there."
+  },
+  {
+    "year": 1920,
+    "event": "Britain assumes administration of Palestine, formalized as a League of Nations Mandate in 1922."
+  },
+  {
+    "year": 1936,
+    "event": "The Arab Revolt erupts against British rule and Jewish immigration, lasting until 1939."
+  },
+  {
+    "year": 1947,
+    "event": "The UN adopts Resolution 181 partitioning Palestine into Arab and Jewish states, which Arab leaders reject."
+  },
+  {
+    "year": 1948,
+    "event": "Israel declares independence and the ensuing war causes the Nakba, the displacement of about 700,000 Palestinians."
+  },
+  {
+    "year": 1949,
+    "event": "Armistice agreements leave the West Bank under Jordanian control and the Gaza Strip under Egyptian administration."
+  },
+  {
+    "year": 1964,
+    "event": "The Palestine Liberation Organization (PLO) is founded to pursue Palestinian national aspirations."
+  },
+  {
+    "year": 1967,
+    "event": "Israel captures the West Bank, East Jerusalem, and the Gaza Strip in the Six-Day War, beginning the occupation."
+  },
+  {
+    "year": 1969,
+    "event": "Yasser Arafat becomes chairman of the PLO, leading it for decades as the dominant Palestinian movement."
+  },
+  {
+    "year": 1974,
+    "event": "The UN General Assembly recognizes the PLO as the representative of the Palestinian people and grants it observer status."
+  },
+  {
+    "year": 1987,
+    "event": "The First Intifada, a mass Palestinian uprising against Israeli occupation, breaks out and Hamas is founded."
+  },
+  {
+    "year": 1988,
+    "event": "The PLO declares an independent State of Palestine and recognizes Israel, accepting a two-state framework."
+  },
+  {
+    "year": 1993,
+    "event": "The Oslo Accords are signed, establishing the Palestinian Authority and a framework for limited self-rule."
+  },
+  {
+    "year": 1994,
+    "event": "The Palestinian Authority assumes governance in Gaza and Jericho as Yasser Arafat returns from exile."
+  },
+  {
+    "year": 2000,
+    "event": "The Second Intifada erupts after the collapse of peace talks, bringing years of intense violence."
+  },
+  {
+    "year": 2004,
+    "event": "Yasser Arafat dies, and Mahmoud Abbas is elected Palestinian Authority president the following year."
+  },
+  {
+    "year": 2005,
+    "event": "Israel withdraws its settlers and military from the Gaza Strip in a unilateral disengagement."
+  },
+  {
+    "year": 2006,
+    "event": "Hamas wins Palestinian legislative elections, leading to a political split with Fatah."
+  },
+  {
+    "year": 2007,
+    "event": "Hamas seizes control of the Gaza Strip, dividing Palestinian governance between Gaza and the West Bank."
+  },
+  {
+    "year": 2012,
+    "event": "The UN General Assembly upgrades Palestine to non-member observer state status."
+  },
+  {
+    "year": 2014,
+    "event": "A major war erupts between Israel and Hamas in Gaza, causing extensive casualties and destruction."
+  },
+  {
+    "year": 2023,
+    "event": "A Hamas-led attack on Israel triggers a devastating Israeli military campaign in Gaza, causing a humanitarian catastrophe."
+  }
+]

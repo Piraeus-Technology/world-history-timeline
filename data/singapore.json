@@ -1,11 +1,174 @@
 [
-  { "year": 1300, "event": "Temasek emerges as a regional trading settlement" },
-  { "year": 1400, "event": "Malacca Sultanate incorporates Singapore into its sphere" },
-  { "year": 1511, "event": "Portuguese conquest of Malacca marginalizes Singapore" },
-  { "year": 1819, "event": "British establish Singapore as a free port" },
-  { "year": 1867, "event": "Singapore becomes a British Crown Colony" },
-  { "year": 1942, "event": "Japanese occupation devastates the city" },
-  { "year": 1959, "event": "Self-government achieved under British rule" },
-  { "year": 1963, "event": "Singapore joins the Federation of Malaysia" },
-  { "year": 1965, "event": "Singapore becomes an independent republic" }
+  {
+    "year": 1299,
+    "event": "According to the Malay Annals, the prince Sang Nila Utama founds the settlement of Singapura ('Lion City') on the island of Temasek."
+  },
+  {
+    "year": 1320,
+    "event": "Temasek, a thriving trading port at the tip of the Malay Peninsula, sends a trade mission to the Mongol Yuan court of China."
+  },
+  {
+    "year": 1349,
+    "event": "Chinese trader Wang Dayuan describes Temasek as a populated trading settlement with Chinese and indigenous inhabitants."
+  },
+  {
+    "year": 1390,
+    "event": "Parameswara, a Palembang prince, briefly rules Singapura before fleeing and later founding the Malacca Sultanate."
+  },
+  {
+    "year": 1398,
+    "event": "Singapura is sacked, likely by Majapahit or Siamese forces, and declines into a minor settlement under later Malay sultanates."
+  },
+  {
+    "year": 1511,
+    "event": "The Portuguese conquest of Malacca shifts regional power and further marginalizes the Singapore settlement."
+  },
+  {
+    "year": 1613,
+    "event": "Portuguese forces raid and burn down the trading settlement at the mouth of the Singapore River."
+  },
+  {
+    "year": 1819,
+    "event": "Sir Stamford Raffles of the British East India Company establishes a trading post on Singapore, signing a treaty with local Malay rulers."
+  },
+  {
+    "year": 1824,
+    "event": "The Anglo-Dutch Treaty and a treaty with the Sultan and Temenggong cede full sovereignty of Singapore to the British."
+  },
+  {
+    "year": 1826,
+    "event": "Singapore joins Penang and Malacca to form the Straits Settlements under British administration."
+  },
+  {
+    "year": 1832,
+    "event": "Singapore becomes the capital of the Straits Settlements, growing rapidly as a free port and immigration hub."
+  },
+  {
+    "year": 1867,
+    "event": "The Straits Settlements become a Crown Colony directly governed by the British Colonial Office in London."
+  },
+  {
+    "year": 1869,
+    "event": "The opening of the Suez Canal dramatically boosts Singapore's importance as a port on the Europe-Asia shipping route."
+  },
+  {
+    "year": 1887,
+    "event": "Raffles Hotel opens as the rubber and tin trade fuels Singapore's economic boom and its rise as a major entrepot."
+  },
+  {
+    "year": 1923,
+    "event": "The Johor-Singapore Causeway opens, linking the island to the Malay Peninsula by road and rail."
+  },
+  {
+    "year": 1942,
+    "event": "Japanese forces capture Singapore in February, beginning a brutal occupation and renaming the island Syonan-to."
+  },
+  {
+    "year": 1945,
+    "event": "British forces return and reoccupy Singapore in September following Japan's surrender at the end of World War II."
+  },
+  {
+    "year": 1946,
+    "event": "Singapore becomes a separate Crown Colony as the Straits Settlements are dissolved."
+  },
+  {
+    "year": 1948,
+    "event": "Singapore holds its first elections to a Legislative Council, though with a limited franchise."
+  },
+  {
+    "year": 1954,
+    "event": "Lee Kuan Yew and colleagues found the People's Action Party (PAP), which would come to dominate Singaporean politics."
+  },
+  {
+    "year": 1955,
+    "event": "A new constitution expands self-government and the Hock Lee bus riots highlight rising labour and anti-colonial tensions."
+  },
+  {
+    "year": 1959,
+    "event": "Singapore attains full internal self-government and Lee Kuan Yew becomes the first Prime Minister."
+  },
+  {
+    "year": 1963,
+    "event": "Singapore joins the Federation of Malaysia together with Malaya, Sabah, and Sarawak."
+  },
+  {
+    "year": 1964,
+    "event": "Racial riots break out in Singapore, deepening tensions between the PAP and the central Malaysian government."
+  },
+  {
+    "year": 1965,
+    "event": "Singapore separates from Malaysia and becomes a fully independent and sovereign republic on 9 August."
+  },
+  {
+    "year": 1965,
+    "event": "Singapore is admitted to the United Nations in September, shortly after gaining independence."
+  },
+  {
+    "year": 1967,
+    "event": "Singapore becomes a founding member of the Association of Southeast Asian Nations (ASEAN)."
+  },
+  {
+    "year": 1968,
+    "event": "The Jurong Industrial Estate and aggressive industrialization policies drive rapid export-led economic growth."
+  },
+  {
+    "year": 1971,
+    "event": "The last British military forces withdraw from Singapore, ending its role as a major imperial naval base."
+  },
+  {
+    "year": 1981,
+    "event": "Singapore Changi Airport opens, soon becoming one of the world's leading aviation hubs."
+  },
+  {
+    "year": 1981,
+    "event": "Opposition candidate J. B. Jeyaretnam wins a by-election, breaking the PAP's complete hold on Parliament."
+  },
+  {
+    "year": 1987,
+    "event": "The Mass Rapid Transit (MRT) system begins operations, transforming urban transport in the city-state."
+  },
+  {
+    "year": 1990,
+    "event": "Goh Chok Tong succeeds Lee Kuan Yew as Prime Minister, ending Lee's 31-year tenure."
+  },
+  {
+    "year": 1993,
+    "event": "Singapore holds its first direct presidential election, with Ong Teng Cheong becoming the first elected president."
+  },
+  {
+    "year": 1997,
+    "event": "Singapore weathers the Asian Financial Crisis with relative stability owing to strong reserves and prudent policy."
+  },
+  {
+    "year": 2003,
+    "event": "Singapore is struck by the SARS outbreak, prompting strict public health measures across the city-state."
+  },
+  {
+    "year": 2004,
+    "event": "Lee Hsien Loong, son of Lee Kuan Yew, becomes the third Prime Minister of Singapore."
+  },
+  {
+    "year": 2008,
+    "event": "Singapore hosts the inaugural Formula One night race, the Singapore Grand Prix, boosting global tourism."
+  },
+  {
+    "year": 2010,
+    "event": "Two integrated resorts with casinos, Marina Bay Sands and Resorts World Sentosa, open and reshape the tourism economy."
+  },
+  {
+    "year": 2015,
+    "event": "Founding Prime Minister Lee Kuan Yew dies in March as the nation marks its 50th year of independence."
+  },
+  {
+    "year": 2018,
+    "event": "Singapore hosts the historic summit between US President Donald Trump and North Korean leader Kim Jong-un."
+  },
+  {
+    "year": 2020,
+    "event": "Singapore confronts the COVID-19 pandemic with strict 'circuit breaker' lockdown measures and aggressive contact tracing."
+  },
+  {
+    "year": 2024,
+    "event": "Lawrence Wong succeeds Lee Hsien Loong as Prime Minister, marking the first leadership handover beyond the founding generation's direct line."
+  }
 ]

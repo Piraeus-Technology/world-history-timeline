@@ -1,0 +1,190 @@
+[
+  {
+    "year": -100000,
+    "event": "Paleolithic humans inhabit the region, evidenced by Neanderthal remains such as the Teshik-Tash child burial in the southern mountains."
+  },
+  {
+    "year": -2200,
+    "event": "The Bronze Age Bactria-Margiana Archaeological Complex (Oxus civilization) flourishes across the Amu Darya basin with fortified urban centers."
+  },
+  {
+    "year": -1000,
+    "event": "Settled Iranian-speaking peoples establish the oasis cultures of Sogdiana, Bactria, and Khwarezm with irrigated agriculture."
+  },
+  {
+    "year": -540,
+    "event": "Cyrus the Great incorporates Sogdiana, Bactria, and Khwarezm into the Achaemenid Persian Empire as eastern satrapies."
+  },
+  {
+    "year": -329,
+    "event": "Alexander the Great conquers Sogdiana and Bactria, founding Hellenistic cities and marrying the Bactrian princess Roxana."
+  },
+  {
+    "year": -250,
+    "event": "The Greco-Bactrian Kingdom emerges as a wealthy Hellenistic state controlling much of Central Asia."
+  },
+  {
+    "year": -130,
+    "event": "Nomadic Yuezhi overrun Bactria, and the region becomes a hub on the emerging Silk Road trade network."
+  },
+  {
+    "year": 50,
+    "event": "The Kushan Empire rises, unifying Bactria and surrounding lands and promoting Buddhism and long-distance Silk Road commerce."
+  },
+  {
+    "year": 350,
+    "event": "Sogdian merchants dominate trans-Asian trade, with Samarkand and Bukhara becoming prosperous commercial city-states."
+  },
+  {
+    "year": 560,
+    "event": "The Western Turkic Khaganate extends control over the Sogdian city-states of Transoxiana."
+  },
+  {
+    "year": 712,
+    "event": "Arab armies under Qutayba ibn Muslim conquer Bukhara and Samarkand, beginning the Islamization of Transoxiana."
+  },
+  {
+    "year": 819,
+    "event": "The Samanid dynasty rises in Bukhara, ushering in a golden age of Persian-Islamic culture and learning."
+  },
+  {
+    "year": 980,
+    "event": "The polymath Ibn Sina (Avicenna) is born near Bukhara, later writing landmark works in medicine and philosophy."
+  },
+  {
+    "year": 999,
+    "event": "The Turkic Karakhanids capture Bukhara, ending Samanid rule and accelerating the Turkicization of the region."
+  },
+  {
+    "year": 1077,
+    "event": "The Khwarezmian dynasty establishes itself, growing into a powerful empire centered on Khwarezm and Transoxiana."
+  },
+  {
+    "year": 1220,
+    "event": "Genghis Khan's Mongols sack Bukhara and Samarkand, devastating the cities and absorbing the region into the Mongol Empire."
+  },
+  {
+    "year": 1370,
+    "event": "Timur (Tamerlane) seizes power and makes Samarkand the capital of a vast empire stretching across Central Asia and beyond."
+  },
+  {
+    "year": 1404,
+    "event": "Timur dies while campaigning toward China, leaving Samarkand adorned with monumental architecture like the Registan."
+  },
+  {
+    "year": 1409,
+    "event": "Timur's grandson Ulugh Beg governs Samarkand, building a famed astronomical observatory and a madrasa for the sciences."
+  },
+  {
+    "year": 1500,
+    "event": "Muhammad Shaybani leads the Uzbek tribes to conquer Transoxiana, founding the Shaybanid dynasty and the Khanate of Bukhara."
+  },
+  {
+    "year": 1511,
+    "event": "The Khanate of Khiva is established in Khwarezm as a separate Uzbek state."
+  },
+  {
+    "year": 1599,
+    "event": "The Janid (Astrakhanid) dynasty assumes rule over the Khanate of Bukhara."
+  },
+  {
+    "year": 1709,
+    "event": "The Khanate of Kokand is founded in the Fergana Valley, becoming the third major Uzbek khanate."
+  },
+  {
+    "year": 1785,
+    "event": "The Manghit dynasty consolidates power in Bukhara, transforming the khanate into the Emirate of Bukhara."
+  },
+  {
+    "year": 1865,
+    "event": "Russian imperial forces capture Tashkent, marking the decisive expansion of Tsarist control into the region."
+  },
+  {
+    "year": 1868,
+    "event": "Russia defeats the Emirate of Bukhara and seizes Samarkand, making the emirate a protectorate."
+  },
+  {
+    "year": 1873,
+    "event": "The Khanate of Khiva becomes a Russian protectorate after a military campaign."
+  },
+  {
+    "year": 1876,
+    "event": "The Khanate of Kokand is abolished and annexed directly into Russian Turkestan."
+  },
+  {
+    "year": 1916,
+    "event": "A widespread revolt against Russian wartime labor conscription is brutally suppressed across Turkestan."
+  },
+  {
+    "year": 1918,
+    "event": "The Turkestan Autonomous Soviet Socialist Republic is proclaimed as Bolshevik power spreads after the Russian Revolution."
+  },
+  {
+    "year": 1920,
+    "event": "The Red Army overthrows the Emirate of Bukhara and the Khanate of Khiva, establishing Soviet people's republics."
+  },
+  {
+    "year": 1924,
+    "event": "The Uzbek Soviet Socialist Republic is created through Soviet national delimitation of Central Asia."
+  },
+  {
+    "year": 1925,
+    "event": "Samarkand serves as the first capital of the Uzbek SSR before the capital moves to Tashkent in 1930."
+  },
+  {
+    "year": 1929,
+    "event": "Tajikistan is detached from the Uzbek SSR and elevated to a separate union republic."
+  },
+  {
+    "year": 1937,
+    "event": "Stalin's Great Purge devastates the Uzbek political and intellectual elite with mass arrests and executions."
+  },
+  {
+    "year": 1956,
+    "event": "Large-scale Soviet cotton monoculture expands, intensifying irrigation diversions from the rivers feeding the Aral Sea."
+  },
+  {
+    "year": 1966,
+    "event": "A massive earthquake devastates Tashkent, prompting a Soviet-wide reconstruction of the city."
+  },
+  {
+    "year": 1989,
+    "event": "Islam Karimov becomes First Secretary of the Communist Party of Uzbekistan amid rising ethnic and economic tensions."
+  },
+  {
+    "year": 1990,
+    "event": "The Uzbek SSR declares sovereignty and Islam Karimov is elected the republic's first president."
+  },
+  {
+    "year": 1991,
+    "event": "Uzbekistan declares independence from the Soviet Union on 31 August following the failed Moscow coup."
+  },
+  {
+    "year": 1992,
+    "event": "Uzbekistan is admitted to the United Nations and adopts a new post-Soviet constitution."
+  },
+  {
+    "year": 1994,
+    "event": "Uzbekistan introduces its national currency, the soum, replacing the Russian ruble."
+  },
+  {
+    "year": 2001,
+    "event": "Uzbekistan grants the United States use of the Karshi-Khanabad air base for operations in Afghanistan."
+  },
+  {
+    "year": 2005,
+    "event": "Government forces violently suppress unrest in Andijan, killing hundreds and drawing international condemnation."
+  },
+  {
+    "year": 2016,
+    "event": "President Islam Karimov dies, and Shavkat Mirziyoyev assumes leadership and launches political and economic liberalization."
+  },
+  {
+    "year": 2017,
+    "event": "Mirziyoyev liberalizes currency controls, floating the soum and opening the economy to foreign investment and tourism."
+  },
+  {
+    "year": 2023,
+    "event": "Voters approve a constitutional referendum extending presidential terms, allowing Mirziyoyev to remain in power."
+  }
+]

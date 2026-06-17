@@ -1,16 +1,190 @@
 [
-  { "year": -3000, "event": "Early human settlements emerge on the island" },
-  { "year": -543, "event": "Legendary founding of Sinhala civilization begins" },
-  { "year": -377, "event": "Anuradhapura established as an early capital" },
-  { "year": -247, "event": "Buddhism introduced under Mauryan influence" },
-  { "year": 100, "event": "Sri Lanka becomes a hub of Indian Ocean trade" },
-  { "year": 993, "event": "Chola Empire invades and controls northern Sri Lanka" },
-  { "year": 1070, "event": "Sinhala rule restored under Vijayabahu I" },
-  { "year": 1153, "event": "Polonnaruwa period reaches political and cultural peak" },
-  { "year": 1215, "event": "Political fragmentation shifts power southward" },
-  { "year": 1505, "event": "Portuguese arrive and establish coastal control" },
-  { "year": 1658, "event": "Dutch replace Portuguese dominance" },
-  { "year": 1815, "event": "British annex the Kandyan Kingdom" },
-  { "year": 1948, "event": "Sri Lanka gains independence from Britain" },
-  { "year": 1972, "event": "Country becomes a republic" }
+  {
+    "year": -34000,
+    "event": "Anatomically modern humans inhabit the Balangoda region, leaving the earliest evidence of human settlement in Sri Lanka (the Balangoda Man)."
+  },
+  {
+    "year": -900,
+    "event": "Early Iron Age settlements with megalithic burials and proto-urban centers develop, notably at Anuradhapura."
+  },
+  {
+    "year": -543,
+    "event": "Traditional date of the legendary arrival of Prince Vijaya and his followers, marking the founding of Sinhalese kingship according to chronicles."
+  },
+  {
+    "year": -377,
+    "event": "Pandukabhaya founds Anuradhapura as the capital, establishing the long-lived Anuradhapura Kingdom."
+  },
+  {
+    "year": -247,
+    "event": "Buddhism is introduced to the island when the monk Mahinda, sent by Emperor Ashoka, converts King Devanampiya Tissa."
+  },
+  {
+    "year": -245,
+    "event": "The sacred Bodhi tree sapling is brought by Sanghamitta and planted at Anuradhapura, becoming a revered Buddhist relic."
+  },
+  {
+    "year": -205,
+    "event": "The Chola prince Elara seizes Anuradhapura and rules over the northern plains for several decades."
+  },
+  {
+    "year": -161,
+    "event": "King Dutugemunu defeats Elara and unifies the island under Sinhalese rule, a celebrated event in national tradition."
+  },
+  {
+    "year": -89,
+    "event": "King Valagamba returns to power and oversees the writing down of the Pali Buddhist canon (Tripitaka) at the Aluvihare temple."
+  },
+  {
+    "year": 67,
+    "event": "Queen Anula reigns at Anuradhapura, one of the earliest recorded female heads of state in Asia."
+  },
+  {
+    "year": 304,
+    "event": "The Tooth Relic of the Buddha is brought to the island, becoming the supreme palladium of Sinhalese kingship."
+  },
+  {
+    "year": 412,
+    "event": "The Chinese pilgrim Faxian visits the island and records detailed accounts of its flourishing Buddhist civilization."
+  },
+  {
+    "year": 477,
+    "event": "King Kasyapa builds the fortress and palace complex atop Sigiriya rock, renowned for its frescoes and water gardens."
+  },
+  {
+    "year": 993,
+    "event": "The Chola Empire under Rajaraja I invades and annexes the north, sacking Anuradhapura and ending its long reign as capital."
+  },
+  {
+    "year": 1070,
+    "event": "Vijayabahu I expels the Cholas and reunifies the island, establishing Polonnaruwa as the new royal capital."
+  },
+  {
+    "year": 1153,
+    "event": "Parakramabahu I begins his reign, ushering in Polonnaruwa's golden age of vast irrigation works and Buddhist monuments."
+  },
+  {
+    "year": 1215,
+    "event": "Magha of Kalinga invades and devastates Polonnaruwa, triggering the drift of Sinhalese power to the southwest."
+  },
+  {
+    "year": 1232,
+    "event": "The Kingdom of Jaffna emerges as an independent Tamil polity in the northern peninsula."
+  },
+  {
+    "year": 1344,
+    "event": "The traveler Ibn Battuta visits the island, describing its pearl fisheries, cinnamon, and Adam's Peak pilgrimage."
+  },
+  {
+    "year": 1411,
+    "event": "Chinese admiral Zheng He intervenes in local politics, capturing King Alakeshvara and taking him to China."
+  },
+  {
+    "year": 1469,
+    "event": "Parakramabahu VI, ruling from Kotte, briefly reunifies most of the island, the last Sinhalese monarch to do so."
+  },
+  {
+    "year": 1505,
+    "event": "Portuguese explorer Lourenco de Almeida lands at Colombo, beginning European involvement on the island."
+  },
+  {
+    "year": 1597,
+    "event": "The Kingdom of Kotte passes to Portuguese control, extending their dominance over the coastal lowlands."
+  },
+  {
+    "year": 1619,
+    "event": "The Portuguese conquer the Kingdom of Jaffna, ending the independent Tamil kingdom in the north."
+  },
+  {
+    "year": 1638,
+    "event": "The Kingdom of Kandy allies with the Dutch East India Company to expel the Portuguese."
+  },
+  {
+    "year": 1658,
+    "event": "The Dutch complete their conquest of Portuguese coastal possessions, taking control of the island's maritime provinces."
+  },
+  {
+    "year": 1796,
+    "event": "The British capture the Dutch coastal territories during the Napoleonic Wars."
+  },
+  {
+    "year": 1802,
+    "event": "Ceylon becomes a British Crown Colony under the Treaty of Amiens."
+  },
+  {
+    "year": 1815,
+    "event": "The Kandyan Convention ends the Kingdom of Kandy, placing the entire island under British rule for the first time."
+  },
+  {
+    "year": 1818,
+    "event": "The Uva Rebellion against British rule is suppressed, followed by harsh reprisals in the central highlands."
+  },
+  {
+    "year": 1832,
+    "event": "The Colebrooke-Cameron reforms unify the administration and open the economy, paving the way for plantation agriculture."
+  },
+  {
+    "year": 1867,
+    "event": "Commercial tea cultivation begins, transforming the highland economy after coffee blight, with Tamil labor brought from India."
+  },
+  {
+    "year": 1931,
+    "event": "The Donoughmore Constitution introduces universal adult suffrage, the first in Asia under colonial rule."
+  },
+  {
+    "year": 1948,
+    "event": "Ceylon gains independence from Britain on 4 February as a Dominion within the Commonwealth."
+  },
+  {
+    "year": 1955,
+    "event": "Ceylon is admitted to the United Nations as a member state."
+  },
+  {
+    "year": 1956,
+    "event": "The Sinhala Only Act makes Sinhala the sole official language, intensifying ethnic tensions with the Tamil minority."
+  },
+  {
+    "year": 1959,
+    "event": "Prime Minister S.W.R.D. Bandaranaike is assassinated by a Buddhist monk."
+  },
+  {
+    "year": 1960,
+    "event": "Sirimavo Bandaranaike becomes the world's first elected female head of government."
+  },
+  {
+    "year": 1971,
+    "event": "A Marxist JVP youth insurrection is crushed by government forces."
+  },
+  {
+    "year": 1972,
+    "event": "The country becomes a republic and adopts the name Sri Lanka, leaving Dominion status."
+  },
+  {
+    "year": 1983,
+    "event": "Anti-Tamil riots known as Black July ignite the full-scale Sri Lankan Civil War with the LTTE (Tamil Tigers)."
+  },
+  {
+    "year": 1987,
+    "event": "The Indo-Sri Lanka Accord brings an Indian Peacekeeping Force to the island amid the ongoing conflict."
+  },
+  {
+    "year": 1993,
+    "event": "President Ranasinghe Premadasa is assassinated in a suicide bombing."
+  },
+  {
+    "year": 2004,
+    "event": "The Indian Ocean tsunami devastates the coastlines, killing more than 30,000 people."
+  },
+  {
+    "year": 2009,
+    "event": "Government forces defeat the LTTE and kill its leader, ending the 26-year civil war."
+  },
+  {
+    "year": 2019,
+    "event": "Coordinated Easter Sunday suicide bombings kill more than 250 people at churches and hotels."
+  },
+  {
+    "year": 2022,
+    "event": "A severe economic crisis sparks mass protests that force President Gotabaya Rajapaksa to flee and resign."
+  }
 ]

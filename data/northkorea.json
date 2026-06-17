@@ -1,0 +1,178 @@
+[
+  {
+    "year": -8000,
+    "event": "Neolithic communities settle the Korean peninsula, including the northern regions, leaving comb-pattern pottery and early agricultural traces."
+  },
+  {
+    "year": -2333,
+    "event": "Traditional founding date of Gojoseon by the legendary Dangun, regarded as Korea's first kingdom and centered in the north."
+  },
+  {
+    "year": -1000,
+    "event": "Bronze Age culture spreads across the northern peninsula, with dolmen burials and the rise of walled-town polities."
+  },
+  {
+    "year": -194,
+    "event": "Wiman seizes the throne of Gojoseon, establishing the Wiman Joseon state centered near present-day Pyongyang."
+  },
+  {
+    "year": -108,
+    "event": "Han China conquers Wiman Joseon and establishes the Four Commanderies, including Lelang near modern Pyongyang."
+  },
+  {
+    "year": -37,
+    "event": "The kingdom of Goguryeo is traditionally founded in the north, growing into a powerful state spanning Manchuria and the northern peninsula."
+  },
+  {
+    "year": 313,
+    "event": "Goguryeo destroys the Lelang Commandery, ending centuries of Chinese administrative presence in the north."
+  },
+  {
+    "year": 427,
+    "event": "Goguryeo moves its capital to Pyongyang under King Jangsu, making the city a major center of power."
+  },
+  {
+    "year": 612,
+    "event": "Goguryeo decisively defeats a massive Sui Chinese invasion at the Battle of Salsu, securing its northern dominance."
+  },
+  {
+    "year": 668,
+    "event": "Goguryeo falls to the allied forces of Silla and Tang China, ending the Three Kingdoms era."
+  },
+  {
+    "year": 698,
+    "event": "Balhae is founded by Dae Joyeong in the former Goguryeo lands, ruling much of Manchuria and the northern peninsula."
+  },
+  {
+    "year": 926,
+    "event": "Balhae collapses under the Khitan Liao dynasty, with many refugees migrating south into Goryeo territory."
+  },
+  {
+    "year": 936,
+    "event": "Goryeo reunifies the peninsula, incorporating the northern regions and later designating Pyongyang as the Western Capital."
+  },
+  {
+    "year": 1018,
+    "event": "Goryeo defeats the Khitan at the Battle of Gwiju, securing its northern frontier."
+  },
+  {
+    "year": 1392,
+    "event": "Yi Seong-gye founds the Joseon dynasty, which rules the entire peninsula including the north for over five centuries."
+  },
+  {
+    "year": 1592,
+    "event": "Japanese forces invade during the Imjin War, ravaging the peninsula before being repelled with Ming Chinese aid."
+  },
+  {
+    "year": 1627,
+    "event": "The Later Jin (Manchu) invade Joseon through the north, forcing submission and tributary terms."
+  },
+  {
+    "year": 1811,
+    "event": "The Hong Gyeong-nae peasant rebellion erupts in the northwestern Pyongan region against Joseon discrimination and misrule."
+  },
+  {
+    "year": 1866,
+    "event": "The American merchant ship General Sherman is burned near Pyongyang after a clash with local forces."
+  },
+  {
+    "year": 1894,
+    "event": "The First Sino-Japanese War, including the Battle of Pyongyang, devastates the northern peninsula as Japan defeats China."
+  },
+  {
+    "year": 1910,
+    "event": "Japan annexes Korea, beginning a 35-year colonial occupation of the entire peninsula."
+  },
+  {
+    "year": 1919,
+    "event": "The March First Movement for independence spreads nationwide, including across the northern provinces."
+  },
+  {
+    "year": 1945,
+    "event": "Japan surrenders in World War II, and the peninsula is divided at the 38th parallel with Soviet forces occupying the north."
+  },
+  {
+    "year": 1946,
+    "event": "Soviet-backed authorities under Kim Il-sung enact sweeping land reform and nationalization in the north."
+  },
+  {
+    "year": 1948,
+    "event": "The Democratic People's Republic of Korea is proclaimed on September 9 with Kim Il-sung as premier."
+  },
+  {
+    "year": 1950,
+    "event": "North Korea invades the South on June 25, igniting the Korean War."
+  },
+  {
+    "year": 1953,
+    "event": "The Korean War ends in an armistice, leaving the peninsula divided along the Demilitarized Zone."
+  },
+  {
+    "year": 1955,
+    "event": "Kim Il-sung articulates the Juche ideology of self-reliance, which becomes the guiding state philosophy."
+  },
+  {
+    "year": 1968,
+    "event": "North Korean commandos raid the Blue House in Seoul and capture the USS Pueblo, heightening Cold War tensions."
+  },
+  {
+    "year": 1972,
+    "event": "A new socialist constitution names Kim Il-sung president and establishes Pyongyang as the capital."
+  },
+  {
+    "year": 1991,
+    "event": "North and South Korea are simultaneously admitted to the United Nations on September 17."
+  },
+  {
+    "year": 1994,
+    "event": "Kim Il-sung dies and is succeeded by his son Kim Jong-il, beginning a hereditary leadership transition."
+  },
+  {
+    "year": 1994,
+    "event": "North Korea signs the Agreed Framework with the United States, pledging to freeze its plutonium program."
+  },
+  {
+    "year": 1996,
+    "event": "A devastating famine known as the Arduous March kills hundreds of thousands amid economic collapse."
+  },
+  {
+    "year": 1998,
+    "event": "North Korea launches the Taepodong-1 rocket over Japan, alarming the international community."
+  },
+  {
+    "year": 2000,
+    "event": "Kim Jong-il hosts South Korean President Kim Dae-jung in the first inter-Korean summit in Pyongyang."
+  },
+  {
+    "year": 2003,
+    "event": "North Korea withdraws from the Nuclear Non-Proliferation Treaty, escalating the nuclear crisis."
+  },
+  {
+    "year": 2006,
+    "event": "North Korea conducts its first underground nuclear test, drawing UN sanctions."
+  },
+  {
+    "year": 2011,
+    "event": "Kim Jong-il dies and his son Kim Jong-un assumes leadership, continuing dynastic rule."
+  },
+  {
+    "year": 2013,
+    "event": "Kim Jong-un orders the execution of his powerful uncle Jang Song-thaek, consolidating his grip on power."
+  },
+  {
+    "year": 2017,
+    "event": "North Korea tests intercontinental ballistic missiles and detonates a powerful nuclear device, prompting tighter sanctions."
+  },
+  {
+    "year": 2018,
+    "event": "Kim Jong-un meets South Korean President Moon Jae-in at the DMZ and US President Donald Trump in Singapore."
+  },
+  {
+    "year": 2020,
+    "event": "North Korea seals its borders against the COVID-19 pandemic, deepening its economic isolation."
+  },
+  {
+    "year": 2022,
+    "event": "North Korea declares itself an irreversible nuclear weapons state and conducts a record number of missile tests."
+  }
+]
