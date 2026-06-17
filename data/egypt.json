@@ -1,0 +1,230 @@
+[
+  {
+    "year": -700000,
+    "event": "Early hominins inhabit the Nile Valley, leaving Acheulean stone tools in Egypt's deserts and along the river."
+  },
+  {
+    "year": -100000,
+    "event": "Anatomically modern humans move through the Nile corridor as a route out of Africa during the Middle Stone Age."
+  },
+  {
+    "year": -10000,
+    "event": "Hunter-gatherers and early herders settle the Sahara and Nile during a wetter Holocene climate phase."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic farming communities such as the Fayum and Merimde cultures establish agriculture and pottery in the Nile region."
+  },
+  {
+    "year": -3500,
+    "event": "The Naqada culture develops complex society, trade, and the early use of hieroglyphic symbols in Upper Egypt."
+  },
+  {
+    "year": -3100,
+    "event": "King Narmer unifies Upper and Lower Egypt, founding the First Dynasty and the dynastic state."
+  },
+  {
+    "year": -2686,
+    "event": "The Old Kingdom begins, ushering in the age of powerful god-kings and monumental stone architecture."
+  },
+  {
+    "year": -2630,
+    "event": "Architect Imhotep builds the Step Pyramid at Saqqara for Pharaoh Djoser, Egypt's first large stone pyramid."
+  },
+  {
+    "year": -2560,
+    "event": "Pharaoh Khufu completes the Great Pyramid of Giza, the largest of the pyramids and a wonder of the ancient world."
+  },
+  {
+    "year": -2181,
+    "event": "The Old Kingdom collapses into the fragmented First Intermediate Period amid drought and weakened central rule."
+  },
+  {
+    "year": -2055,
+    "event": "Mentuhotep II reunifies Egypt, launching the prosperous Middle Kingdom."
+  },
+  {
+    "year": -1650,
+    "event": "The Hyksos, rulers of West Asian origin, seize power in the Delta during the Second Intermediate Period."
+  },
+  {
+    "year": -1550,
+    "event": "Ahmose I expels the Hyksos and founds the New Kingdom, Egypt's imperial golden age."
+  },
+  {
+    "year": -1479,
+    "event": "Hatshepsut becomes one of Egypt's most successful female pharaohs, expanding trade to the land of Punt."
+  },
+  {
+    "year": -1457,
+    "event": "Thutmose III wins the Battle of Megiddo, extending Egyptian power across the Levant."
+  },
+  {
+    "year": -1353,
+    "event": "Akhenaten introduces worship of the sun-disk Aten and moves the capital to Amarna."
+  },
+  {
+    "year": -1323,
+    "event": "The young pharaoh Tutankhamun dies and is buried in a tomb later found nearly intact in 1922."
+  },
+  {
+    "year": -1274,
+    "event": "Ramesses II fights the Hittites at the Battle of Kadesh, leading to one of history's first peace treaties."
+  },
+  {
+    "year": -1069,
+    "event": "The New Kingdom ends and central authority fractures during the Third Intermediate Period."
+  },
+  {
+    "year": -728,
+    "event": "Kushite kings from Nubia conquer Egypt and rule as the 25th Dynasty."
+  },
+  {
+    "year": -671,
+    "event": "The Assyrian Empire invades Egypt, sacking Memphis and ending Kushite control."
+  },
+  {
+    "year": -525,
+    "event": "Persian king Cambyses II conquers Egypt, making it a satrapy of the Achaemenid Empire."
+  },
+  {
+    "year": -332,
+    "event": "Alexander the Great takes Egypt from Persia and is welcomed as a liberator, founding Alexandria."
+  },
+  {
+    "year": -305,
+    "event": "Ptolemy I establishes the Greek Ptolemaic dynasty, ruling Egypt from Alexandria."
+  },
+  {
+    "year": -196,
+    "event": "Priests issue the decree later inscribed on the Rosetta Stone, key to deciphering hieroglyphs."
+  },
+  {
+    "year": -30,
+    "event": "Cleopatra VII dies after defeat at Actium, and Egypt becomes a province of the Roman Empire."
+  },
+  {
+    "year": 391,
+    "event": "Emperor Theodosius I bans pagan worship, hastening the closure of ancient Egyptian temples."
+  },
+  {
+    "year": 451,
+    "event": "The Coptic Church breaks from imperial Christianity over the Council of Chalcedon, shaping Egyptian Christianity."
+  },
+  {
+    "year": 641,
+    "event": "Arab Muslim armies under Amr ibn al-As conquer Egypt, beginning its Islamization and Arabization."
+  },
+  {
+    "year": 969,
+    "event": "The Fatimid dynasty conquers Egypt and founds Cairo as its new capital."
+  },
+  {
+    "year": 970,
+    "event": "Construction of al-Azhar mosque begins in Cairo, becoming a renowned center of Islamic learning."
+  },
+  {
+    "year": 1171,
+    "event": "Saladin overthrows the Fatimids and founds the Ayyubid dynasty, leading wars against the Crusaders."
+  },
+  {
+    "year": 1250,
+    "event": "The Mamluks, a military slave caste, seize power and establish a sultanate ruling Egypt and Syria."
+  },
+  {
+    "year": 1260,
+    "event": "Mamluk forces defeat the Mongols at Ain Jalut, halting their advance into Africa."
+  },
+  {
+    "year": 1517,
+    "event": "The Ottoman Empire conquers Egypt, ending the Mamluk Sultanate and ruling through governors."
+  },
+  {
+    "year": 1798,
+    "event": "Napoleon Bonaparte invades Egypt, bringing scholars whose work launches modern Egyptology."
+  },
+  {
+    "year": 1805,
+    "event": "Muhammad Ali seizes power and founds a dynasty, modernizing Egypt into a near-autonomous state."
+  },
+  {
+    "year": 1869,
+    "event": "The Suez Canal opens, linking the Mediterranean and Red Seas and transforming global trade."
+  },
+  {
+    "year": 1882,
+    "event": "Britain invades and occupies Egypt after the Urabi revolt, beginning de facto colonial control."
+  },
+  {
+    "year": 1922,
+    "event": "Egypt gains nominal independence from Britain as a kingdom under Fuad I."
+  },
+  {
+    "year": 1928,
+    "event": "Hassan al-Banna founds the Muslim Brotherhood in Ismailia, a movement of lasting influence."
+  },
+  {
+    "year": 1945,
+    "event": "Egypt becomes a founding member of the United Nations and the Arab League."
+  },
+  {
+    "year": 1952,
+    "event": "The Free Officers led by Nasser overthrow King Farouk in a military coup."
+  },
+  {
+    "year": 1953,
+    "event": "Egypt is declared a republic, ending the monarchy."
+  },
+  {
+    "year": 1956,
+    "event": "Nasser nationalizes the Suez Canal, triggering the Suez Crisis and an Anglo-French-Israeli invasion."
+  },
+  {
+    "year": 1967,
+    "event": "Egypt suffers a heavy defeat in the Six-Day War, losing the Sinai Peninsula to Israel."
+  },
+  {
+    "year": 1970,
+    "event": "Nasser dies and Anwar Sadat becomes president as the Aswan High Dam is completed."
+  },
+  {
+    "year": 1973,
+    "event": "Egypt launches the October War against Israel, restoring national pride and reshaping diplomacy."
+  },
+  {
+    "year": 1979,
+    "event": "Sadat signs the Egypt-Israel Peace Treaty at Camp David, the first Arab state to recognize Israel."
+  },
+  {
+    "year": 1981,
+    "event": "Sadat is assassinated by Islamist militants, and Hosni Mubarak becomes president."
+  },
+  {
+    "year": 2002,
+    "event": "The new Bibliotheca Alexandrina opens, reviving the legacy of the ancient Library of Alexandria."
+  },
+  {
+    "year": 2011,
+    "event": "Mass protests of the Arab Spring force Mubarak to resign after nearly thirty years in power."
+  },
+  {
+    "year": 2012,
+    "event": "Mohamed Morsi of the Muslim Brotherhood is elected Egypt's first freely chosen president."
+  },
+  {
+    "year": 2013,
+    "event": "The military, led by Abdel Fattah el-Sisi, removes Morsi amid mass protests."
+  },
+  {
+    "year": 2014,
+    "event": "El-Sisi is elected president, consolidating military-backed rule."
+  },
+  {
+    "year": 2015,
+    "event": "Egypt inaugurates a major expansion of the Suez Canal to boost shipping capacity."
+  },
+  {
+    "year": 2023,
+    "event": "Egypt joins the BRICS bloc as it seeks to expand its global economic partnerships."
+  }
+]

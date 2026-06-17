@@ -1,0 +1,186 @@
+[
+  {
+    "year": -100000,
+    "event": "Stone Age hunter-gatherers inhabit the region, leaving Middle Stone Age tools across present-day Zimbabwe."
+  },
+  {
+    "year": -10000,
+    "event": "Ancestors of the San people occupy the area, later producing the region's renowned rock art in caves and shelters."
+  },
+  {
+    "year": 300,
+    "event": "Bantu-speaking farming communities migrate into the region, introducing iron-working, cattle-keeping, and crop cultivation."
+  },
+  {
+    "year": 700,
+    "event": "Early Iron Age communities of the Zhizo and Leopard's Kopje cultures establish settled villages on the Zimbabwe plateau."
+  },
+  {
+    "year": 1000,
+    "event": "Mapungubwe and related Shona-speaking polities develop trade in gold and ivory linked to the Indian Ocean coast."
+  },
+  {
+    "year": 1100,
+    "event": "Construction begins on the stone enclosures of Great Zimbabwe, capital of a powerful Shona trading state."
+  },
+  {
+    "year": 1300,
+    "event": "Great Zimbabwe reaches its height, controlling regional gold trade with Swahili coastal ports such as Sofala."
+  },
+  {
+    "year": 1430,
+    "event": "Nyatsimba Mutota founds the Kingdom of Mutapa (Monomotapa) in the north, dominating the Zambezi valley gold trade."
+  },
+  {
+    "year": 1450,
+    "event": "Great Zimbabwe is largely abandoned, likely due to resource exhaustion and shifting trade routes."
+  },
+  {
+    "year": 1490,
+    "event": "The Torwa state rises around Khami in the southwest, building elaborate stone-walled settlements."
+  },
+  {
+    "year": 1505,
+    "event": "Portuguese traders establish coastal posts and begin seeking access to the gold of the Mutapa kingdom."
+  },
+  {
+    "year": 1561,
+    "event": "Portuguese Jesuit missionary Gonçalo da Silveira is killed at the Mutapa court, prompting Portuguese military interest."
+  },
+  {
+    "year": 1629,
+    "event": "Mutapa ruler Mavura signs treaties making the kingdom a tributary vassal of the Portuguese crown."
+  },
+  {
+    "year": 1683,
+    "event": "The Rozvi Empire under Changamire Dombo defeats the Portuguese and expels them from the plateau interior."
+  },
+  {
+    "year": 1840,
+    "event": "Ndebele people under Mzilikazi, fleeing the Zulu Mfecane, settle in the southwest and establish the Ndebele Kingdom at Bulawayo."
+  },
+  {
+    "year": 1868,
+    "event": "Lobengula succeeds Mzilikazi as king of the Ndebele following a contested succession."
+  },
+  {
+    "year": 1888,
+    "event": "Lobengula signs the Rudd Concession, granting Cecil Rhodes's agents mining rights that the British exploit to claim the territory."
+  },
+  {
+    "year": 1889,
+    "event": "Cecil Rhodes's British South Africa Company receives a royal charter to administer and colonize the region."
+  },
+  {
+    "year": 1890,
+    "event": "The Pioneer Column of the British South Africa Company occupies Mashonaland and founds Fort Salisbury (now Harare)."
+  },
+  {
+    "year": 1893,
+    "event": "The First Matabele War breaks out, ending with the company's defeat of the Ndebele and the death of King Lobengula."
+  },
+  {
+    "year": 1895,
+    "event": "The territory is named Rhodesia after Cecil Rhodes."
+  },
+  {
+    "year": 1896,
+    "event": "The Ndebele and Shona launch the First Chimurenga uprising against company rule, brutally suppressed by 1897."
+  },
+  {
+    "year": 1923,
+    "event": "Southern Rhodesia becomes a self-governing British colony after white settlers vote against joining South Africa."
+  },
+  {
+    "year": 1930,
+    "event": "The Land Apportionment Act entrenches racial segregation by reserving the best farmland for white settlers."
+  },
+  {
+    "year": 1953,
+    "event": "Southern Rhodesia joins the Federation of Rhodesia and Nyasaland alongside Northern Rhodesia and Nyasaland."
+  },
+  {
+    "year": 1963,
+    "event": "The Federation dissolves, and the Zimbabwe African National Union (ZANU) splits from ZAPU as nationalist movements grow."
+  },
+  {
+    "year": 1965,
+    "event": "Prime Minister Ian Smith issues a Unilateral Declaration of Independence (UDI) to preserve white minority rule."
+  },
+  {
+    "year": 1966,
+    "event": "The Second Chimurenga liberation war begins as guerrilla forces clash with Rhodesian security forces."
+  },
+  {
+    "year": 1970,
+    "event": "Rhodesia formally declares itself a republic, severing remaining ties to the British crown."
+  },
+  {
+    "year": 1972,
+    "event": "Intensified guerrilla warfare by ZANLA and ZIPRA escalates the armed struggle against the Smith regime."
+  },
+  {
+    "year": 1979,
+    "event": "A short-lived internal settlement creates Zimbabwe-Rhodesia, while the Lancaster House Agreement charts a path to majority rule."
+  },
+  {
+    "year": 1980,
+    "event": "Zimbabwe gains internationally recognized independence on 18 April, with Robert Mugabe as prime minister, and joins the UN."
+  },
+  {
+    "year": 1982,
+    "event": "The Gukurahundi massacres begin in Matabeleland as the Fifth Brigade kills thousands of Ndebele civilians."
+  },
+  {
+    "year": 1987,
+    "event": "The Unity Accord merges ZANU and ZAPU, and Mugabe becomes executive president under a revised constitution."
+  },
+  {
+    "year": 1991,
+    "event": "Zimbabwe adopts a structural adjustment program (ESAP) amid economic pressure from international lenders."
+  },
+  {
+    "year": 1997,
+    "event": "Large unbudgeted payouts to war veterans and currency turmoil trigger the start of severe economic decline."
+  },
+  {
+    "year": 1998,
+    "event": "Zimbabwe sends troops to intervene in the Second Congo War, straining the national economy."
+  },
+  {
+    "year": 2000,
+    "event": "The government launches the fast-track land reform program, seizing white-owned commercial farms and collapsing agricultural output."
+  },
+  {
+    "year": 2002,
+    "event": "Zimbabwe is suspended from the Commonwealth amid disputed presidential elections and the country later withdraws."
+  },
+  {
+    "year": 2008,
+    "event": "Hyperinflation peaks at astronomical levels, forcing abandonment of the Zimbabwe dollar after a violently disputed election."
+  },
+  {
+    "year": 2009,
+    "event": "A power-sharing government forms with Mugabe as president and Morgan Tsvangirai as prime minister, and foreign currencies are adopted."
+  },
+  {
+    "year": 2013,
+    "event": "A new constitution is approved by referendum and Mugabe wins a contested presidential election."
+  },
+  {
+    "year": 2017,
+    "event": "A military intervention forces Robert Mugabe to resign after 37 years in power, and Emmerson Mnangagwa becomes president."
+  },
+  {
+    "year": 2019,
+    "event": "Zimbabwe reintroduces a national currency, but economic crisis and inflation persist."
+  },
+  {
+    "year": 2023,
+    "event": "Emmerson Mnangagwa wins re-election in polls criticized by observers as falling short of democratic standards."
+  },
+  {
+    "year": 2024,
+    "event": "Zimbabwe introduces a new gold-backed currency, the ZiG, to combat persistent inflation and currency instability."
+  }
+]
