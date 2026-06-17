@@ -1,22 +1,186 @@
 [
-  { "year": -5000, "event": "Earliest human presence in present-day Austria" },
-  { "year": -400, "event": "Celtic cultures flourish in the Alpine and Danube regions" },
-  { "year": 15, "event": "Roman Empire incorporates the region as provinces along the Danube" },
-  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
-  { "year": 800, "event": "Frankish rule integrates the region into the Carolingian Empire" },
-  { "year": 976, "event": "March of Austria is established as a frontier territory" },
-  { "year": 1156, "event": "Austria becomes a duchy under the Babenberg dynasty" },
-  { "year": 1278, "event": "Habsburg dynasty gains control of Austria" },
-  { "year": 1438, "event": "Habsburgs begin long dominance of the Holy Roman Empire" },
-  { "year": 1529, "event": "First Ottoman siege of Vienna marks frontier between empires" },
-  { "year": 1683, "event": "Second Ottoman siege of Vienna is defeated, securing Central Europe" },
-  { "year": 1740, "event": "Maria Theresa ascends the throne, reforming the Habsburg state" },
-  { "year": 1804, "event": "Austrian Empire is proclaimed" },
-  { "year": 1815, "event": "Congress of Vienna reshapes Europe after the Napoleonic Wars" },
-  { "year": 1867, "event": "Austria-Hungary is formed as a dual monarchy" },
-  { "year": 1914, "event": "Assassination of Archduke Franz Ferdinand triggers World War I" },
-  { "year": 1918, "event": "Austria-Hungary collapses; Republic of Austria is created" },
-  { "year": 1938, "event": "Austria is annexed by Nazi Germany" },
-  { "year": 1945, "event": "Austria is reestablished after World War II" },
-  { "year": 1955, "event": "Austria regains full sovereignty and declares permanent neutrality" }
+  {
+    "year": -25000,
+    "event": "Upper Paleolithic peoples inhabit the Danube valley, later leaving the carved Venus of Willendorf figurine."
+  },
+  {
+    "year": -800,
+    "event": "The Hallstatt culture flourishes around its salt-mining center, giving its name to the early European Iron Age."
+  },
+  {
+    "year": -400,
+    "event": "Celtic tribes settle the eastern Alps and establish the kingdom of Noricum, known for its high-quality iron."
+  },
+  {
+    "year": -15,
+    "event": "Rome annexes Noricum and the surrounding Alpine and Danubian lands, incorporating them into the empire."
+  },
+  {
+    "year": 180,
+    "event": "Roman frontier towns such as Vindobona (Vienna) and Carnuntum anchor the Danube limes against Germanic incursions."
+  },
+  {
+    "year": 433,
+    "event": "Rome cedes parts of Pannonia to the Huns as the western frontier collapses amid migrations."
+  },
+  {
+    "year": 600,
+    "event": "Slavic and Avar peoples settle the eastern Alpine region, forming the principality of Carantania."
+  },
+  {
+    "year": 788,
+    "event": "Charlemagne absorbs the region into the Frankish Empire after defeating the Avars and the Bavarian duke."
+  },
+  {
+    "year": 976,
+    "event": "Emperor Otto II grants the Bavarian Eastern March to the Babenberg dynasty under Margrave Leopold I."
+  },
+  {
+    "year": 996,
+    "event": "The name 'Ostarrichi', the linguistic root of Osterreich (Austria), appears in an imperial document."
+  },
+  {
+    "year": 1156,
+    "event": "The Privilegium Minus elevates the March of Austria to a hereditary duchy under the Babenbergs."
+  },
+  {
+    "year": 1192,
+    "event": "Austria acquires the Duchy of Styria, expanding Babenberg power in the southeastern Alps."
+  },
+  {
+    "year": 1278,
+    "event": "Rudolf I of Habsburg defeats Ottokar II of Bohemia at the Battle of Marchfeld, beginning Habsburg rule of Austria."
+  },
+  {
+    "year": 1365,
+    "event": "Duke Rudolf IV founds the University of Vienna, one of the oldest universities in the German-speaking world."
+  },
+  {
+    "year": 1438,
+    "event": "The Habsburgs begin their long, near-continuous hold on the title of Holy Roman Emperor."
+  },
+  {
+    "year": 1453,
+    "event": "Austria is formally recognized as an archduchy, elevating the standing of the Habsburg dynasty."
+  },
+  {
+    "year": 1493,
+    "event": "Maximilian I becomes Holy Roman Emperor, expanding Habsburg power through strategic marriages across Europe."
+  },
+  {
+    "year": 1529,
+    "event": "Ottoman forces under Suleiman the Magnificent lay the First Siege of Vienna, which the city withstands."
+  },
+  {
+    "year": 1618,
+    "event": "The Bohemian revolt against Habsburg rule ignites the Thirty Years' War across the Holy Roman Empire."
+  },
+  {
+    "year": 1683,
+    "event": "The Second Siege of Vienna is broken by a relief army, halting Ottoman expansion into Central Europe."
+  },
+  {
+    "year": 1740,
+    "event": "Maria Theresa inherits the Habsburg lands and launches sweeping reforms amid the War of the Austrian Succession."
+  },
+  {
+    "year": 1791,
+    "event": "Mozart's career in Vienna epitomizes the city's emergence as a European capital of classical music."
+  },
+  {
+    "year": 1804,
+    "event": "Francis II proclaims the Austrian Empire in response to Napoleon's imperial ambitions."
+  },
+  {
+    "year": 1806,
+    "event": "The Holy Roman Empire is dissolved, leaving the Austrian Empire as the Habsburgs' core realm."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna reorganizes Europe under Austrian Chancellor Metternich's conservative order."
+  },
+  {
+    "year": 1848,
+    "event": "Liberal revolutions sweep the empire, forcing Metternich's resignation and the accession of Franz Joseph I."
+  },
+  {
+    "year": 1866,
+    "event": "Defeat by Prussia at Koniggratz ends Austrian leadership of the German states."
+  },
+  {
+    "year": 1867,
+    "event": "The Ausgleich creates the dual monarchy of Austria-Hungary, sharing sovereignty between Vienna and Budapest."
+  },
+  {
+    "year": 1914,
+    "event": "The assassination of Archduke Franz Ferdinand in Sarajevo triggers Austria-Hungary's entry into World War I."
+  },
+  {
+    "year": 1918,
+    "event": "Austria-Hungary collapses and the Republic of German-Austria is proclaimed at war's end."
+  },
+  {
+    "year": 1919,
+    "event": "The Treaty of Saint-Germain fixes the small republic's borders and forbids union with Germany."
+  },
+  {
+    "year": 1934,
+    "event": "A brief civil war and an authoritarian coup install the clerical-fascist Federal State of Austria."
+  },
+  {
+    "year": 1938,
+    "event": "Nazi Germany annexes Austria in the Anschluss, ending its independent statehood."
+  },
+  {
+    "year": 1945,
+    "event": "Liberated at the end of World War II, Austria is restored as a republic under four-power Allied occupation."
+  },
+  {
+    "year": 1955,
+    "event": "The Austrian State Treaty restores full sovereignty, and Austria declares permanent neutrality."
+  },
+  {
+    "year": 1955,
+    "event": "Austria joins the United Nations as a neutral state in the heart of Cold War Europe."
+  },
+  {
+    "year": 1972,
+    "event": "Austria signs a free trade agreement with the European Economic Community, deepening Western economic ties."
+  },
+  {
+    "year": 1979,
+    "event": "Vienna becomes a major UN headquarters city with the opening of the Vienna International Centre."
+  },
+  {
+    "year": 1986,
+    "event": "The Waldheim affair over the president's wartime past prompts national reckoning with the Nazi era."
+  },
+  {
+    "year": 1995,
+    "event": "Austria accedes to the European Union following a national referendum."
+  },
+  {
+    "year": 1999,
+    "event": "Austria adopts the euro for accounting as it joins the eurozone with the single currency's launch."
+  },
+  {
+    "year": 2000,
+    "event": "A coalition including Jorg Haider's far-right Freedom Party prompts temporary EU diplomatic sanctions."
+  },
+  {
+    "year": 2004,
+    "event": "Austria becomes a frontline EU state as neighboring Central European countries join the union."
+  },
+  {
+    "year": 2015,
+    "event": "Austria becomes a key transit and reception country during Europe's refugee crisis."
+  },
+  {
+    "year": 2017,
+    "event": "Sebastian Kurz becomes one of the world's youngest government leaders as chancellor."
+  },
+  {
+    "year": 2020,
+    "event": "The COVID-19 pandemic prompts strict lockdowns across Austria."
+  }
 ]

@@ -1,18 +1,182 @@
 [
-  { "year": 106, "event": "Roman conquest leaves lasting Latin cultural roots" },
-  { "year": 271, "event": "Roman withdrawal isolates Latin-speaking populations" },
-  { "year": 900, "event": "Romanian-speaking communities persist north of the Danube" },
-  { "year": 1241, "event": "Mongol invasions destabilize the Carpathian region" },
-  { "year": 1330, "event": "Wallachia and Moldavia emerge as independent principalities" },
-  { "year": 1457, "event": "Ottoman influence dominates the Danube frontier" },
-  { "year": 1600, "event": "Brief union of Romanian lands under one ruler" },
-  { "year": 1699, "event": "Habsburg rule expands into Transylvania" },
-  { "year": 1775, "event": "Ottoman and Habsburg borders divide Romanian regions" },
-  { "year": 1821, "event": "National awakening challenges imperial control" },
-  { "year": 1859, "event": "Wallachia and Moldavia unite as a single state" },
-  { "year": 1877, "event": "Romania gains independence from Ottoman rule" },
-  { "year": 1918, "event": "Transylvania and other regions unite with Romania" },
-  { "year": 1940, "event": "Territorial losses fracture interwar borders" },
-  { "year": 1947, "event": "Communist rule imposed after World War II" },
-  { "year": 1989, "event": "Communist regime collapses, ending authoritarian rule" }
+  {
+    "year": -34000,
+    "event": "Early modern humans inhabit the region, leaving some of Europe's oldest Homo sapiens remains in the Peștera cu Oase cave."
+  },
+  {
+    "year": -5500,
+    "event": "The Neolithic Cucuteni-Trypillia culture flourishes, producing sophisticated painted pottery and large settlements."
+  },
+  {
+    "year": -700,
+    "event": "Greek colonists found trading colonies such as Histria on the Black Sea coast of Dobruja."
+  },
+  {
+    "year": -513,
+    "event": "The Persian king Darius I campaigns against the Getae, the earliest recorded Dacian-related people in the region."
+  },
+  {
+    "year": -82,
+    "event": "King Burebista unites the Dacian and Getic tribes into a powerful kingdom centered in the Carpathians."
+  },
+  {
+    "year": 106,
+    "event": "Emperor Trajan defeats King Decebalus, conquering Dacia and incorporating it as a Roman province."
+  },
+  {
+    "year": 271,
+    "event": "Emperor Aurelian withdraws Roman administration and legions from Dacia under barbarian pressure."
+  },
+  {
+    "year": 376,
+    "event": "The Huns drive Gothic and other peoples across the Danube, beginning waves of migrations through the region."
+  },
+  {
+    "year": 1000,
+    "event": "Early Romanian voivodeships and cnezates emerge as the Romanian (Vlach) ethnogenesis takes shape north of the Danube."
+  },
+  {
+    "year": 1241,
+    "event": "The Mongol invasion devastates the lands of Transylvania, Moldavia, and Wallachia."
+  },
+  {
+    "year": 1330,
+    "event": "Basarab I defeats the Hungarians at Posada, securing the independence of the principality of Wallachia."
+  },
+  {
+    "year": 1359,
+    "event": "Bogdan I founds an independent principality of Moldavia, breaking from Hungarian suzerainty."
+  },
+  {
+    "year": 1457,
+    "event": "Stephen the Great becomes Prince of Moldavia, leading decades of resistance against the Ottomans."
+  },
+  {
+    "year": 1476,
+    "event": "Vlad the Impaler (Vlad Țepeș), prince of Wallachia, dies after fierce campaigns against the Ottomans."
+  },
+  {
+    "year": 1541,
+    "event": "Transylvania becomes an autonomous principality under Ottoman suzerainty after the fall of Hungary."
+  },
+  {
+    "year": 1600,
+    "event": "Michael the Brave briefly unites Wallachia, Moldavia, and Transylvania under a single rule."
+  },
+  {
+    "year": 1699,
+    "event": "The Treaty of Karlowitz transfers Transylvania from Ottoman to Habsburg control."
+  },
+  {
+    "year": 1812,
+    "event": "Russia annexes Bessarabia, the eastern half of Moldavia, under the Treaty of Bucharest."
+  },
+  {
+    "year": 1821,
+    "event": "Tudor Vladimirescu leads a major uprising in Wallachia against Phanariot and Ottoman rule."
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions sweep Wallachia, Moldavia, and Transylvania, advancing liberal and national ideals."
+  },
+  {
+    "year": 1859,
+    "event": "Alexandru Ioan Cuza is elected prince of both Moldavia and Wallachia, uniting the two principalities."
+  },
+  {
+    "year": 1862,
+    "event": "The united principalities formally adopt the name Romania with Bucharest as capital."
+  },
+  {
+    "year": 1866,
+    "event": "Carol I of Hohenzollern-Sigmaringen becomes ruling prince and a new liberal constitution is adopted."
+  },
+  {
+    "year": 1877,
+    "event": "Romania declares independence from the Ottoman Empire during the Russo-Turkish War."
+  },
+  {
+    "year": 1878,
+    "event": "The Treaty of Berlin recognizes Romanian independence and grants Northern Dobruja to Romania."
+  },
+  {
+    "year": 1881,
+    "event": "Romania is proclaimed a kingdom and Carol I is crowned its first king."
+  },
+  {
+    "year": 1913,
+    "event": "Romania gains Southern Dobruja from Bulgaria after participating in the Second Balkan War."
+  },
+  {
+    "year": 1916,
+    "event": "Romania enters World War I on the Allied side, suffering heavy losses and occupation of much of the country."
+  },
+  {
+    "year": 1918,
+    "event": "Bessarabia, Bukovina, and Transylvania unite with Romania, creating Greater Romania."
+  },
+  {
+    "year": 1923,
+    "event": "A new constitution consolidates the enlarged Greater Romania as a centralized constitutional monarchy."
+  },
+  {
+    "year": 1938,
+    "event": "King Carol II establishes a royal dictatorship, suspending the parliamentary constitution."
+  },
+  {
+    "year": 1940,
+    "event": "Romania loses Bessarabia, Northern Bukovina, Northern Transylvania, and Southern Dobruja, and Ion Antonescu takes power."
+  },
+  {
+    "year": 1941,
+    "event": "Romania joins the Axis and enters World War II alongside Nazi Germany against the Soviet Union."
+  },
+  {
+    "year": 1944,
+    "event": "King Michael I leads a coup ousting Antonescu, and Romania switches to the Allied side."
+  },
+  {
+    "year": 1947,
+    "event": "The communists force King Michael I to abdicate, proclaiming the Romanian People's Republic."
+  },
+  {
+    "year": 1965,
+    "event": "Nicolae Ceaușescu becomes leader of the Communist Party, beginning his long authoritarian rule."
+  },
+  {
+    "year": 1968,
+    "event": "Ceaușescu condemns the Warsaw Pact invasion of Czechoslovakia, boosting his international standing."
+  },
+  {
+    "year": 1977,
+    "event": "A devastating earthquake strikes Bucharest and the region, killing over 1,500 people."
+  },
+  {
+    "year": 1989,
+    "event": "A revolution overthrows and executes Ceaușescu, ending communist rule in Romania."
+  },
+  {
+    "year": 1991,
+    "event": "A new democratic constitution is adopted, establishing Romania as a semi-presidential republic."
+  },
+  {
+    "year": 2002,
+    "event": "Romania completes major economic reforms and privatization as it prepares for Euro-Atlantic integration."
+  },
+  {
+    "year": 2004,
+    "event": "Romania joins the NATO alliance."
+  },
+  {
+    "year": 2007,
+    "event": "Romania becomes a member of the European Union."
+  },
+  {
+    "year": 2014,
+    "event": "Klaus Iohannis is elected president, the first ethnic German to hold the office."
+  },
+  {
+    "year": 2024,
+    "event": "Romania's annulled presidential election triggers a major political crisis amid allegations of foreign interference."
+  }
 ]

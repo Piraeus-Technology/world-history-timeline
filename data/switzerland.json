@@ -1,20 +1,186 @@
 [
-  { "year": -12000, "event": "Earliest human presence in present-day Switzerland after Ice Age retreat" },
-  { "year": -400, "event": "Celtic Helvetii inhabit the Swiss Plateau" },
-  { "year": -58, "event": "Roman conquest defeats the Helvetii and incorporates the region" },
-  { "year": 50, "event": "Roman cities and roads shape settlement patterns" },
-  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
-  { "year": 800, "event": "Region becomes part of the Carolingian Empire" },
-  { "year": 1291, "event": "Forest cantons form an alliance, founding the Swiss Confederation" },
-  { "year": 1386, "event": "Swiss defeat Habsburg forces, securing independence" },
-  { "year": 1515, "event": "Swiss defeat at Marignano ends territorial expansion" },
-  { "year": 1517, "event": "Reformation spreads, dividing Switzerland along religious lines" },
-  { "year": 1648, "event": "Treaty of Westphalia recognizes Swiss independence from the Empire" },
-  { "year": 1798, "event": "French invasion creates the Helvetic Republic" },
-  { "year": 1815, "event": "Congress of Vienna guarantees Swiss neutrality" },
-  { "year": 1848, "event": "Federal constitution creates the modern Swiss state" },
-  { "year": 1914, "event": "Switzerland remains neutral during World War I" },
-  { "year": 1939, "event": "Armed neutrality maintained during World War II" },
-  { "year": 1945, "event": "Switzerland emerges as a center of diplomacy and finance" },
-  { "year": 2002, "event": "Switzerland joins the United Nations" }
+  {
+    "year": -12000,
+    "event": "Hunter-gatherers settle the Swiss plateau as glaciers retreat at the end of the last Ice Age."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic farming communities establish lakeside pile-dwelling settlements around Swiss lakes."
+  },
+  {
+    "year": -400,
+    "event": "The Celtic Helvetii dominate the Swiss plateau during the Iron Age La Tène culture."
+  },
+  {
+    "year": -58,
+    "event": "Julius Caesar defeats the migrating Helvetii at the Battle of Bibracte, drawing the region into the Roman orbit."
+  },
+  {
+    "year": -15,
+    "event": "Roman forces under Augustus complete the conquest of the Alpine regions, incorporating modern Switzerland into the Empire."
+  },
+  {
+    "year": 259,
+    "event": "Alemannic tribes break through the Roman frontier, beginning sustained Germanic incursions into the Swiss plateau."
+  },
+  {
+    "year": 401,
+    "event": "Roman troops withdraw from the region, leaving it open to settlement by the Alemanni and Burgundians."
+  },
+  {
+    "year": 443,
+    "event": "The Burgundians settle in western Switzerland, laying the foundations of the area's later French-speaking character."
+  },
+  {
+    "year": 534,
+    "event": "The Frankish kingdom absorbs the Burgundians, bringing most of the Swiss region under Merovingian control."
+  },
+  {
+    "year": 610,
+    "event": "Irish missionary Gallus founds the hermitage that grows into the influential Abbey of St. Gallen."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides Charlemagne's empire, splitting the Swiss lands between Frankish realms."
+  },
+  {
+    "year": 1032,
+    "event": "The region becomes part of the Holy Roman Empire as the Kingdom of Burgundy passes to Emperor Conrad II."
+  },
+  {
+    "year": 1191,
+    "event": "Duke Berchtold V of Zähringen founds the city of Bern, later a powerful member of the Confederation."
+  },
+  {
+    "year": 1291,
+    "event": "Uri, Schwyz, and Unterwalden swear the Federal Charter of mutual defense, traditionally regarded as the founding of the Swiss Confederation."
+  },
+  {
+    "year": 1315,
+    "event": "Confederate forces crush a Habsburg army at the Battle of Morgarten, securing the young alliance's independence."
+  },
+  {
+    "year": 1351,
+    "event": "Zurich joins the Confederation, strengthening its urban and economic base."
+  },
+  {
+    "year": 1386,
+    "event": "The Confederates defeat and kill Duke Leopold III of Austria at the Battle of Sempach, further weakening Habsburg claims."
+  },
+  {
+    "year": 1499,
+    "event": "Victory in the Swabian War and the Peace of Basel grant the Confederation effective independence from the Holy Roman Empire."
+  },
+  {
+    "year": 1513,
+    "event": "The Confederation reaches thirteen cantons with the admission of Appenzell, completing its early modern core."
+  },
+  {
+    "year": 1515,
+    "event": "Defeat by the French at the Battle of Marignano ends Swiss expansion and steers the Confederation toward lasting neutrality."
+  },
+  {
+    "year": 1519,
+    "event": "Huldrych Zwingli begins preaching in Zurich, launching the Swiss Reformation."
+  },
+  {
+    "year": 1541,
+    "event": "John Calvin establishes a Protestant regime in Geneva, making the city a major center of the Reformation."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia formally recognizes Swiss independence from the Holy Roman Empire."
+  },
+  {
+    "year": 1798,
+    "event": "French revolutionary armies invade and establish the centralized Helvetic Republic, ending the old Confederation."
+  },
+  {
+    "year": 1803,
+    "event": "Napoleon's Act of Mediation restores a federal structure and adds new cantons including Aargau, Vaud, and Ticino."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna guarantees Swiss perpetual neutrality and fixes the country's borders."
+  },
+  {
+    "year": 1847,
+    "event": "The brief Sonderbund War defeats a secessionist Catholic alliance and clears the way for a unified federal state."
+  },
+  {
+    "year": 1848,
+    "event": "A new federal constitution transforms the loose confederation into a unified federal state with its capital in Bern."
+  },
+  {
+    "year": 1863,
+    "event": "Henry Dunant and others found the International Committee of the Red Cross in Geneva."
+  },
+  {
+    "year": 1864,
+    "event": "The first Geneva Convention is signed, establishing humanitarian rules of war under Swiss-led diplomacy."
+  },
+  {
+    "year": 1874,
+    "event": "A revised constitution introduces the optional referendum, strengthening Switzerland's tradition of direct democracy."
+  },
+  {
+    "year": 1882,
+    "event": "The Gotthard rail tunnel opens, creating a key Alpine transport link between northern and southern Europe."
+  },
+  {
+    "year": 1891,
+    "event": "The popular initiative is introduced, allowing citizens to propose constitutional amendments by petition."
+  },
+  {
+    "year": 1914,
+    "event": "Switzerland mobilizes its army and maintains armed neutrality throughout the First World War."
+  },
+  {
+    "year": 1920,
+    "event": "Geneva becomes the seat of the newly founded League of Nations, which Switzerland joins while preserving its neutrality."
+  },
+  {
+    "year": 1939,
+    "event": "Switzerland again mobilizes and remains neutral as the Second World War engulfs Europe."
+  },
+  {
+    "year": 1959,
+    "event": "The 'magic formula' establishes a stable multiparty coalition in the Federal Council, a hallmark of Swiss consensus politics."
+  },
+  {
+    "year": 1960,
+    "event": "Switzerland becomes a founding member of the European Free Trade Association (EFTA)."
+  },
+  {
+    "year": 1971,
+    "event": "Swiss women gain the right to vote and stand for election at the federal level."
+  },
+  {
+    "year": 1979,
+    "event": "The canton of Jura is created, splitting from Bern after a long autonomy movement."
+  },
+  {
+    "year": 1992,
+    "event": "Voters narrowly reject membership in the European Economic Area, setting Switzerland's path of bilateral deals with the EU."
+  },
+  {
+    "year": 1999,
+    "event": "A fully revised federal constitution comes into force, modernizing the country's basic law."
+  },
+  {
+    "year": 2002,
+    "event": "Switzerland joins the United Nations as a full member following a national referendum."
+  },
+  {
+    "year": 2008,
+    "event": "Switzerland enters the Schengen Area, easing border controls with neighboring European states."
+  },
+  {
+    "year": 2016,
+    "event": "The Gotthard Base Tunnel, the world's longest railway tunnel, opens after nearly two decades of construction."
+  },
+  {
+    "year": 2021,
+    "event": "Voters approve same-sex marriage in a national referendum, granting full marriage rights to same-sex couples."
+  }
 ]

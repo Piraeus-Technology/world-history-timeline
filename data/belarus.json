@@ -1,16 +1,194 @@
 [
-  { "year": 850, "event": "East Slavic tribes settle forests and river corridors" },
-  { "year": 900, "event": "Early principalities form along Baltic–Black Sea trade routes" },
-  { "year": 988, "event": "Christianization spreads Orthodox culture across the region" },
-  { "year": 1240, "event": "Mongol invasions weaken regional political centers" },
-  { "year": 1320, "event": "Lithuanian rule consolidates Belarusian lands" },
-  { "year": 1385, "event": "Dynastic union links the region to Poland and Lithuania" },
-  { "year": 1569, "event": "Polish–Lithuanian Commonwealth absorbs Belarusian territory" },
-  { "year": 1596, "event": "Religious unions deepen Catholic–Orthodox divisions" },
-  { "year": 1795, "event": "Russian Empire annexes Belarus after Polish partitions" },
-  { "year": 1863, "event": "Uprisings challenge imperial control in the western provinces" },
-  { "year": 1918, "event": "Short-lived independence follows imperial collapse" },
-  { "year": 1941, "event": "World War II devastates cities and population" },
-  { "year": 1945, "event": "Belarus integrated as a Soviet republic" },
-  { "year": 1991, "event": "Independence declared after Soviet dissolution" }
+  {
+    "year": -100000,
+    "event": "Early human presence in the region is evidenced by Middle Paleolithic stone tools found near the Pripyat and Dnieper river basins."
+  },
+  {
+    "year": -24000,
+    "event": "Upper Paleolithic settlements at Yurovichi and Berdyzh become some of the oldest known human campsites in present-day Belarus."
+  },
+  {
+    "year": -5000,
+    "event": "Neolithic hunter-gatherer cultures spread across the forests and river valleys, leaving pottery and flint-mining sites."
+  },
+  {
+    "year": -2000,
+    "event": "Bronze Age Corded Ware and related cultures introduce metalworking and animal husbandry to the region."
+  },
+  {
+    "year": -500,
+    "event": "Iron Age Milograd and Dnieper-Dvina cultures establish fortified hillfort settlements across the territory."
+  },
+  {
+    "year": 500,
+    "event": "Early East Slavic tribes including the Krivichs, Dregoviches, and Radimichs settle the lands of modern Belarus."
+  },
+  {
+    "year": 862,
+    "event": "Polotsk is first mentioned in the Primary Chronicle, marking the emergence of one of the earliest East Slavic principalities."
+  },
+  {
+    "year": 988,
+    "event": "Christianity begins spreading through the lands of Polotsk in the wake of the Christianization of Kievan Rus'."
+  },
+  {
+    "year": 1067,
+    "event": "The Principality of Polotsk fights the Battle of the Nemiga River against Kievan princes, an event recorded in 'The Tale of Igor's Campaign'."
+  },
+  {
+    "year": 1129,
+    "event": "Kievan Grand Prince Mstislav exiles the rebellious princes of Polotsk to Byzantium, temporarily subjugating the principality."
+  },
+  {
+    "year": 1161,
+    "event": "Saint Euphrosyne of Polotsk commissions the famed jeweled Cross of Euphrosyne, a masterpiece of medieval craftsmanship."
+  },
+  {
+    "year": 1240,
+    "event": "Belarusian lands largely escape direct Mongol conquest, allowing local principalities to retain greater autonomy than other Rus' lands."
+  },
+  {
+    "year": 1253,
+    "event": "Mindaugas is crowned, and the Grand Duchy of Lithuania begins incorporating Belarusian principalities including Navahrudak."
+  },
+  {
+    "year": 1323,
+    "event": "Grand Duke Gediminas consolidates Lithuanian rule over most Belarusian lands, with Old Belarusian becoming the chancery language."
+  },
+  {
+    "year": 1385,
+    "event": "The Union of Krewo binds the Grand Duchy of Lithuania to the Kingdom of Poland through a dynastic marriage."
+  },
+  {
+    "year": 1410,
+    "event": "Forces from Belarusian lands fight in the Battle of Grunwald, decisively defeating the Teutonic Knights."
+  },
+  {
+    "year": 1517,
+    "event": "Francysk Skaryna prints the first Bible in a Belarusian-influenced Ruthenian language, pioneering East Slavic book printing."
+  },
+  {
+    "year": 1529,
+    "event": "The first Statute of Lithuania, written in Old Belarusian, codifies one of Europe's most advanced legal systems."
+  },
+  {
+    "year": 1569,
+    "event": "The Union of Lublin merges Lithuania and Poland into the Polish-Lithuanian Commonwealth, incorporating Belarusian lands."
+  },
+  {
+    "year": 1596,
+    "event": "The Union of Brest creates the Greek Catholic (Uniate) Church, which becomes dominant among Belarusian peasants."
+  },
+  {
+    "year": 1654,
+    "event": "The Russo-Polish War devastates Belarusian lands, killing roughly half the population over the following years."
+  },
+  {
+    "year": 1696,
+    "event": "Polish replaces Old Belarusian as the official chancery language of the Grand Duchy, accelerating cultural polonization."
+  },
+  {
+    "year": 1772,
+    "event": "The First Partition of Poland transfers eastern Belarusian territory to the Russian Empire."
+  },
+  {
+    "year": 1793,
+    "event": "The Second Partition of Poland brings central Belarus, including Minsk, under Russian imperial control."
+  },
+  {
+    "year": 1795,
+    "event": "The Third Partition completes the absorption of all Belarusian lands into the Russian Empire."
+  },
+  {
+    "year": 1812,
+    "event": "Napoleon's Grande Armée marches through Belarus, and the disastrous crossing of the Berezina River seals its retreat."
+  },
+  {
+    "year": 1839,
+    "event": "The Russian authorities abolish the Uniate Church, forcibly converting Belarusian Greek Catholics to Orthodoxy."
+  },
+  {
+    "year": 1863,
+    "event": "Kastus Kalinowski leads an uprising against Russian rule and publishes the first Belarusian-language newspaper, 'Muzhytskaya Prauda'."
+  },
+  {
+    "year": 1906,
+    "event": "The newspaper 'Nasha Niva' begins publication, becoming a cornerstone of the modern Belarusian national revival."
+  },
+  {
+    "year": 1918,
+    "event": "The Belarusian People's Republic is proclaimed in Minsk amid the upheaval of World War I and the Russian Revolution."
+  },
+  {
+    "year": 1919,
+    "event": "The Byelorussian Soviet Socialist Republic is established under Bolshevik control."
+  },
+  {
+    "year": 1921,
+    "event": "The Treaty of Riga partitions Belarus, awarding western lands to Poland and leaving the east in Soviet hands."
+  },
+  {
+    "year": 1922,
+    "event": "The Byelorussian SSR becomes a founding republic of the Soviet Union."
+  },
+  {
+    "year": 1937,
+    "event": "Stalin's Great Purge devastates the Belarusian cultural and political elite, with mass executions at Kurapaty near Minsk."
+  },
+  {
+    "year": 1939,
+    "event": "Western Belarus is annexed from Poland into the Byelorussian SSR following the Soviet invasion of Poland."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany invades, occupying all of Belarus and beginning a brutal regime that destroys hundreds of villages."
+  },
+  {
+    "year": 1943,
+    "event": "The village of Khatyn is burned with its inhabitants, becoming a symbol of the massacres that killed roughly a quarter of the population."
+  },
+  {
+    "year": 1944,
+    "event": "Operation Bagration liberates Belarus from Nazi occupation, ending one of the deadliest chapters in its history."
+  },
+  {
+    "year": 1945,
+    "event": "The Byelorussian SSR becomes a founding member of the United Nations, holding a seat separate from the USSR."
+  },
+  {
+    "year": 1986,
+    "event": "The Chernobyl nuclear disaster contaminates large areas of southern Belarus, with lasting health and environmental consequences."
+  },
+  {
+    "year": 1990,
+    "event": "The Byelorussian SSR declares state sovereignty as the Soviet Union begins to disintegrate."
+  },
+  {
+    "year": 1991,
+    "event": "Belarus declares full independence and helps found the Commonwealth of Independent States at the Belovezha Accords."
+  },
+  {
+    "year": 1994,
+    "event": "Alexander Lukashenko wins the first presidential election, beginning a long authoritarian rule."
+  },
+  {
+    "year": 1995,
+    "event": "A referendum restores Soviet-era state symbols and makes Russian a co-official language alongside Belarusian."
+  },
+  {
+    "year": 1999,
+    "event": "Belarus and Russia sign a treaty creating the Union State, deepening political and economic integration."
+  },
+  {
+    "year": 2004,
+    "event": "A controversial referendum removes presidential term limits, allowing Lukashenko to seek indefinite re-election."
+  },
+  {
+    "year": 2020,
+    "event": "Mass protests erupt after a disputed presidential election, met with a sweeping government crackdown."
+  },
+  {
+    "year": 2022,
+    "event": "Belarus serves as a staging ground for Russia's invasion of Ukraine, drawing expanded Western sanctions."
+  }
 ]

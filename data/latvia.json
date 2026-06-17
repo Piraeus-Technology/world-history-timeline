@@ -1,18 +1,170 @@
 [
-  { "year": -9000, "event": "Earliest human settlement in present-day Latvia after Ice Age retreat" },
-  { "year": -3000, "event": "Baltic tribes establish farming communities and regional cultures" },
-  { "year": 800, "event": "Viking trade routes link Latvia to the Baltic and Eastern Europe" },
-  { "year": 1201, "event": "Riga is founded as a German trading and missionary center" },
-  { "year": 1237, "event": "Crusading orders establish control over much of Latvia" },
-  { "year": 1282, "event": "Riga joins the Hanseatic League as a major Baltic port" },
-  { "year": 1561, "event": "Livonian Order collapses; region falls under Polish-Lithuanian influence" },
-  { "year": 1621, "event": "Sweden captures Riga, integrating Latvia into the Swedish Empire" },
-  { "year": 1721, "event": "Russia gains control after the Great Northern War" },
-  { "year": 1800, "event": "German landowning elite dominates society under Russian rule" },
-  { "year": 1918, "event": "Latvia declares independence after World War I" },
-  { "year": 1940, "event": "Soviet occupation begins under World War II agreements" },
-  { "year": 1941, "event": "Nazi occupation devastates Jewish and urban communities" },
-  { "year": 1944, "event": "Soviet rule is reimposed after World War II" },
-  { "year": 1991, "event": "Latvia restores independence with the collapse of the Soviet Union" },
-  { "year": 2004, "event": "Latvia joins the European Union and NATO" }
+  {
+    "year": -9000,
+    "event": "Following the retreat of glacial ice, the first hunter-gatherers of the Kunda culture settle the territory of present-day Latvia."
+  },
+  {
+    "year": -3000,
+    "event": "Finno-Ugric tribes arrive in the region, becoming the ancestors of the later Livonian people."
+  },
+  {
+    "year": -2000,
+    "event": "Indo-European Baltic tribes settle the area, becoming the ancestors of the Latvians."
+  },
+  {
+    "year": 100,
+    "event": "The Roman historian Tacitus describes the Aesti, Baltic amber-gathering peoples on the eastern shore of the Baltic Sea."
+  },
+  {
+    "year": 900,
+    "event": "Distinct Baltic tribal groups including the Latgalians, Selonians, Semigallians, and Couronians emerge across the region."
+  },
+  {
+    "year": 1158,
+    "event": "German merchants from Bremen and Lübeck begin trading along the Daugava River, opening the region to Western contact."
+  },
+  {
+    "year": 1190,
+    "event": "The missionary Meinhard establishes a church at Ikšķile, beginning German Christianization of the Livs."
+  },
+  {
+    "year": 1201,
+    "event": "Bishop Albert founds the city of Riga, which becomes the center of German expansion in the eastern Baltic."
+  },
+  {
+    "year": 1202,
+    "event": "The crusading military order of the Livonian Brothers of the Sword is established to subjugate the Baltic tribes."
+  },
+  {
+    "year": 1237,
+    "event": "After heavy losses, the Brothers of the Sword merge with the Teutonic Order, forming the Livonian Order."
+  },
+  {
+    "year": 1282,
+    "event": "Riga joins the Hanseatic League, becoming a major trading hub of the Baltic region."
+  },
+  {
+    "year": 1290,
+    "event": "The Livonian Order completes its conquest of the Semigallians, the last independent Baltic tribe in the region."
+  },
+  {
+    "year": 1561,
+    "event": "The Livonian Confederation collapses during the Livonian War, and Courland becomes a duchy under Polish-Lithuanian suzerainty."
+  },
+  {
+    "year": 1621,
+    "event": "Sweden captures Riga during war with Poland, bringing much of Latvia under Swedish rule."
+  },
+  {
+    "year": 1629,
+    "event": "The Treaty of Altmark confirms Swedish control of Livonia, beginning a period of reforms and relative stability."
+  },
+  {
+    "year": 1710,
+    "event": "Russia captures Riga during the Great Northern War, ending Swedish dominance in the region."
+  },
+  {
+    "year": 1721,
+    "event": "The Treaty of Nystad formally cedes Livonia, including Riga, from Sweden to the Russian Empire."
+  },
+  {
+    "year": 1795,
+    "event": "The Duchy of Courland is annexed by Russia in the Third Partition of Poland, placing all of Latvia under Russian rule."
+  },
+  {
+    "year": 1817,
+    "event": "Serfdom is abolished in Courland, with Livonia following in 1819, freeing Latvian peasants without land."
+  },
+  {
+    "year": 1873,
+    "event": "The first Latvian Song Festival is held in Riga, becoming a defining symbol of national cultural awakening."
+  },
+  {
+    "year": 1905,
+    "event": "The Revolution of 1905 sparks mass uprisings against German landlords and Russian rule across Latvia."
+  },
+  {
+    "year": 1915,
+    "event": "World War I brings German occupation of Courland and the formation of Latvian Riflemen units in the Russian army."
+  },
+  {
+    "year": 1918,
+    "event": "Latvia declares its independence in Riga on November 18 amid the collapse of the Russian and German empires."
+  },
+  {
+    "year": 1920,
+    "event": "The Treaty of Riga ends the War of Independence, with Soviet Russia recognizing Latvian sovereignty."
+  },
+  {
+    "year": 1922,
+    "event": "Latvia adopts its democratic constitution, the Satversme, and is admitted to the League of Nations."
+  },
+  {
+    "year": 1934,
+    "event": "Kārlis Ulmanis stages a coup, dissolving parliament and establishing an authoritarian regime."
+  },
+  {
+    "year": 1939,
+    "event": "The Molotov-Ribbentrop Pact secretly assigns Latvia to the Soviet sphere of influence."
+  },
+  {
+    "year": 1940,
+    "event": "The Soviet Union occupies and annexes Latvia, ending its first period of independence."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany invades and occupies Latvia, leading to the Holocaust that destroys most of the Jewish population."
+  },
+  {
+    "year": 1944,
+    "event": "Soviet forces reconquer most of Latvia, reimposing occupation that lasts for decades."
+  },
+  {
+    "year": 1949,
+    "event": "Mass deportations send tens of thousands of Latvians to Siberia during forced Soviet collectivization."
+  },
+  {
+    "year": 1987,
+    "event": "Public protests against Soviet rule begin under Gorbachev's reforms, marking the start of the Awakening."
+  },
+  {
+    "year": 1989,
+    "event": "Two million people form the Baltic Way human chain across Latvia, Lithuania, and Estonia demanding independence."
+  },
+  {
+    "year": 1990,
+    "event": "The Latvian parliament adopts a declaration on restoring independence, beginning a transition period."
+  },
+  {
+    "year": 1991,
+    "event": "Latvia fully restores its independence in August following the failed Soviet coup and gains UN membership in September."
+  },
+  {
+    "year": 1994,
+    "event": "The last Russian troops withdraw from Latvian territory."
+  },
+  {
+    "year": 1999,
+    "event": "Latvia joins the World Trade Organization and elects Vaira Vīķe-Freiberga as its first female president."
+  },
+  {
+    "year": 2004,
+    "event": "Latvia joins both NATO and the European Union, anchoring itself in Western institutions."
+  },
+  {
+    "year": 2008,
+    "event": "The global financial crisis triggers a severe recession, forcing a major international bailout and austerity."
+  },
+  {
+    "year": 2014,
+    "event": "Latvia adopts the euro as its currency, replacing the lats, and Riga serves as European Capital of Culture."
+  },
+  {
+    "year": 2015,
+    "event": "Latvia holds its first presidency of the Council of the European Union."
+  },
+  {
+    "year": 2018,
+    "event": "Latvia celebrates the centenary of its 1918 declaration of independence."
+  }
 ]

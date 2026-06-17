@@ -1,33 +1,198 @@
 [
-  { "year": -100000, "event": "Early human ancestors inhabit the Italian peninsula" },
-  { "year": -7000, "event": "Neolithic farming communities spread across Italy" },
-  { "year": -3000, "event": "Bronze Age cultures develop across northern and central Italy" },
-  { "year": -800, "event": "Etruscan civilization flourishes in central Italy" },
-  { "year": -753, "event": "Traditional founding of Rome" },
-  { "year": -509, "event": "Roman Republic replaces monarchy" },
-  { "year": -264, "event": "Punic Wars expand Roman power across the Mediterranean" },
-  { "year": -44, "event": "Assassination of Julius Caesar marks end of Republican rule" },
-  { "year": 27, "event": "Roman Empire is established under Augustus" },
-  { "year": 117, "event": "Roman Empire reaches its greatest territorial extent" },
-  { "year": 313, "event": "Christianity is legalized in the Roman Empire" },
-  { "year": 395, "event": "Roman Empire permanently divides into eastern and western halves" },
-  { "year": 476, "event": "Fall of the Western Roman Empire" },
-  { "year": 568, "event": "Lombard invasions reshape post-Roman Italy" },
-  { "year": 800, "event": "Charlemagne is crowned Emperor in Rome" },
-  { "year": 962, "event": "Holy Roman Empire claims authority over northern Italy" },
-  { "year": 1100, "event": "Italian city-states flourish through trade and banking" },
-  { "year": 1200, "event": "Venice, Genoa, and Florence dominate Mediterranean commerce" },
-  { "year": 1300, "event": "Renaissance culture emerges in Florence" },
-  { "year": 1450, "event": "Italian Renaissance reshapes European art, science, and thought" },
-  { "year": 1494, "event": "Foreign invasions begin the Italian Wars" },
-  { "year": 1559, "event": "Spain gains dominance over much of Italy" },
-  { "year": 1796, "event": "Napoleon invades Italy, ending old political structures" },
-  { "year": 1815, "event": "Congress of Vienna restores fragmented Italian states" },
-  { "year": 1848, "event": "Liberal revolutions challenge foreign and dynastic rule" },
-  { "year": 1861, "event": "Kingdom of Italy is proclaimed, unifying most of the peninsula" },
-  { "year": 1870, "event": "Rome becomes the capital of a unified Italy" },
-  { "year": 1922, "event": "Fascist regime takes power under Mussolini" },
-  { "year": 1943, "event": "Collapse of Fascist rule during World War II" },
-  { "year": 1946, "event": "Italy becomes a republic after referendum" },
-  { "year": 1957, "event": "Italy helps found the European Economic Community" }
+  {
+    "year": -7000,
+    "event": "Neolithic farming communities spread across the Italian peninsula."
+  },
+  {
+    "year": -3000,
+    "event": "Bronze Age cultures develop across northern and central Italy."
+  },
+  {
+    "year": -900,
+    "event": "The Villanovan culture, ancestral to the Etruscans, emerges in central Italy."
+  },
+  {
+    "year": -800,
+    "event": "The Etruscan civilization rises, building sophisticated cities and a distinctive culture."
+  },
+  {
+    "year": -753,
+    "event": "Rome is traditionally founded, by legend on the Palatine Hill by Romulus."
+  },
+  {
+    "year": -509,
+    "event": "The Roman Republic is established after the overthrow of the last Etruscan king."
+  },
+  {
+    "year": -264,
+    "event": "The First Punic War begins Rome's long struggle with Carthage for Mediterranean dominance."
+  },
+  {
+    "year": -218,
+    "event": "Hannibal crosses the Alps to invade Italy during the Second Punic War."
+  },
+  {
+    "year": -146,
+    "event": "Rome destroys Carthage, securing supremacy in the western Mediterranean."
+  },
+  {
+    "year": -44,
+    "event": "Julius Caesar is assassinated on the Ides of March, plunging Rome into civil war."
+  },
+  {
+    "year": -27,
+    "event": "Augustus becomes the first Roman emperor, inaugurating the Empire and the Pax Romana."
+  },
+  {
+    "year": 79,
+    "event": "The eruption of Mount Vesuvius buries Pompeii and Herculaneum."
+  },
+  {
+    "year": 117,
+    "event": "The Roman Empire reaches its greatest territorial extent under Trajan."
+  },
+  {
+    "year": 313,
+    "event": "Emperor Constantine's Edict of Milan grants religious tolerance to Christians."
+  },
+  {
+    "year": 395,
+    "event": "The Roman Empire permanently divides into eastern and western halves."
+  },
+  {
+    "year": 410,
+    "event": "Visigoths under Alaric sack Rome, signaling the decline of Western power."
+  },
+  {
+    "year": 476,
+    "event": "Odoacer deposes Romulus Augustulus, ending the Western Roman Empire."
+  },
+  {
+    "year": 568,
+    "event": "The Lombards invade Italy and establish a kingdom across much of the peninsula."
+  },
+  {
+    "year": 774,
+    "event": "Charlemagne conquers the Lombard kingdom and absorbs northern Italy into the Frankish realm."
+  },
+  {
+    "year": 800,
+    "event": "Charlemagne is crowned Emperor in Rome by Pope Leo III."
+  },
+  {
+    "year": 962,
+    "event": "Otto I is crowned emperor, asserting Holy Roman authority over northern Italy."
+  },
+  {
+    "year": 1130,
+    "event": "Roger II founds the Norman Kingdom of Sicily, uniting southern Italy under one crown."
+  },
+  {
+    "year": 1271,
+    "event": "Marco Polo departs Venice on his celebrated journey to Asia."
+  },
+  {
+    "year": 1300,
+    "event": "Maritime republics like Venice and Genoa dominate Mediterranean trade and banking."
+  },
+  {
+    "year": 1348,
+    "event": "The Black Death sweeps through Italy, killing a large share of the population."
+  },
+  {
+    "year": 1400,
+    "event": "The Italian Renaissance flourishes in Florence, transforming art, science, and thought."
+  },
+  {
+    "year": 1494,
+    "event": "The French invasion begins the decades-long Italian Wars among European powers."
+  },
+  {
+    "year": 1559,
+    "event": "The Peace of Cateau-Cambresis ends the Italian Wars, confirming Spanish dominance."
+  },
+  {
+    "year": 1796,
+    "event": "Napoleon Bonaparte invades Italy, reshaping the peninsula and spreading revolutionary ideals."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna restores conservative monarchies and Austrian influence over a fragmented Italy."
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions and the First Italian War of Independence erupt amid rising nationalism."
+  },
+  {
+    "year": 1861,
+    "event": "The Kingdom of Italy is proclaimed under Victor Emmanuel II, unifying most of the peninsula."
+  },
+  {
+    "year": 1870,
+    "event": "Italian troops capture Rome, completing unification and making the city the capital."
+  },
+  {
+    "year": 1915,
+    "event": "Italy enters World War I on the side of the Allies."
+  },
+  {
+    "year": 1922,
+    "event": "Mussolini's March on Rome brings the Fascists to power, beginning a dictatorship."
+  },
+  {
+    "year": 1929,
+    "event": "The Lateran Treaty resolves the Roman Question and establishes Vatican City as an independent state."
+  },
+  {
+    "year": 1940,
+    "event": "Italy enters World War II as an Axis power alongside Nazi Germany."
+  },
+  {
+    "year": 1943,
+    "event": "Mussolini is deposed and Italy signs an armistice with the Allies, who advance up the peninsula."
+  },
+  {
+    "year": 1946,
+    "event": "Italians vote in a referendum to abolish the monarchy and establish a republic."
+  },
+  {
+    "year": 1949,
+    "event": "Italy becomes a founding member of NATO."
+  },
+  {
+    "year": 1955,
+    "event": "Italy is admitted to the United Nations."
+  },
+  {
+    "year": 1957,
+    "event": "Italy signs the Treaty of Rome, becoming a founding member of the European Economic Community."
+  },
+  {
+    "year": 1960,
+    "event": "Rome hosts the Summer Olympic Games, symbolizing the postwar economic miracle."
+  },
+  {
+    "year": 1978,
+    "event": "Former Prime Minister Aldo Moro is kidnapped and murdered by the Red Brigades during the Years of Lead."
+  },
+  {
+    "year": 1992,
+    "event": "The Mani Pulite corruption investigations expose widespread graft, collapsing the postwar party system."
+  },
+  {
+    "year": 2002,
+    "event": "Italy adopts the euro, with notes and coins replacing the lira."
+  },
+  {
+    "year": 2009,
+    "event": "A powerful earthquake devastates the city of L'Aquila in the Abruzzo region."
+  },
+  {
+    "year": 2020,
+    "event": "Italy becomes Europe's early epicenter of the COVID-19 pandemic, imposing a nationwide lockdown."
+  },
+  {
+    "year": 2021,
+    "event": "Italy wins the UEFA European Football Championship, defeating England in the final at Wembley."
+  }
 ]

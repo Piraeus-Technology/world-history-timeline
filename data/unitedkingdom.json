@@ -1,40 +1,226 @@
 [
-  { "year": -800000, "event": "Earliest human ancestors inhabit parts of present-day Britain" },
-  { "year": -4000, "event": "Neolithic farming communities build monuments such as Stonehenge" },
-  { "year": -800, "event": "Celtic cultures dominate Britain" },
-  { "year": 43, "event": "Roman conquest of Britain begins" },
-  { "year": 122, "event": "Hadrian’s Wall is built to mark the northern frontier of Roman rule" },
-  { "year": 410, "event": "Roman administration withdraws from Britain" },
-  { "year": 500, "event": "Anglo-Saxon kingdoms form across England" },
-  { "year": 793, "event": "Viking raids begin with the attack on Lindisfarne" },
-  { "year": 878, "event": "Wessex resists Viking conquest, preserving Anglo-Saxon rule" },
-  { "year": 1066, "event": "Norman Conquest reshapes England’s ruling class and culture" },
-  { "year": 1086, "event": "Domesday Book records land and wealth across England" },
-  { "year": 1215, "event": "Magna Carta limits royal power and establishes legal precedent" },
-  { "year": 1284, "event": "Wales is conquered and incorporated under English rule" },
-  { "year": 1348, "event": "Black Death devastates population and transforms society" },
-  { "year": 1455, "event": "Wars of the Roses erupt over control of the English crown" },
-  { "year": 1485, "event": "Tudor dynasty begins, restoring royal authority" },
-  { "year": 1534, "event": "English Reformation breaks with the Roman Catholic Church" },
-  { "year": 1588, "event": "Defeat of the Spanish Armada secures naval dominance" },
-  { "year": 1603, "event": "Union of the English and Scottish crowns under one monarch" },
-  { "year": 1642, "event": "English Civil War challenges absolute monarchy" },
-  { "year": 1649, "event": "Monarchy is abolished and a republic is proclaimed" },
-  { "year": 1660, "event": "Monarchy is restored under constitutional limits" },
-  { "year": 1688, "event": "Glorious Revolution establishes parliamentary supremacy" },
-  { "year": 1707, "event": "Acts of Union create the Kingdom of Great Britain" },
-  { "year": 1760, "event": "Industrial Revolution begins, transforming economy and society" },
-  { "year": 1801, "event": "Union with Ireland forms the United Kingdom" },
-  { "year": 1815, "event": "Britain defeats Napoleon and dominates global affairs" },
-  { "year": 1833, "event": "Slavery is abolished across the British Empire" },
-  { "year": 1851, "event": "Great Exhibition showcases industrial and imperial power" },
-  { "year": 1914, "event": "United Kingdom enters World War I" },
-  { "year": 1918, "event": "World War I ends, reshaping Britain’s global role" },
-  { "year": 1922, "event": "Irish Free State separates from the United Kingdom" },
-  { "year": 1939, "event": "United Kingdom enters World War II" },
-  { "year": 1945, "event": "Postwar Britain begins transition from empire to welfare state" },
-  { "year": 1947, "event": "Indian independence accelerates the end of the British Empire" },
-  { "year": 1956, "event": "Suez Crisis marks decline of imperial power" },
-  { "year": 1973, "event": "United Kingdom joins the European Economic Community" },
-  { "year": 1998, "event": "Devolution reshapes governance in Scotland, Wales, and Northern Ireland" }
+  {
+    "year": -8000,
+    "event": "Mesolithic hunter-gatherers settle the island of Britain while it remains connected to continental Europe."
+  },
+  {
+    "year": -6200,
+    "event": "Rising sea levels flood Doggerland, separating Britain from the European mainland and forming the island."
+  },
+  {
+    "year": -4000,
+    "event": "Neolithic farmers arrive, introducing agriculture, pottery, and communal monument building."
+  },
+  {
+    "year": -2500,
+    "event": "The main sarsen stone circle of Stonehenge is erected on Salisbury Plain."
+  },
+  {
+    "year": -800,
+    "event": "Celtic culture and ironworking spread across Britain during the Iron Age."
+  },
+  {
+    "year": -55,
+    "event": "Julius Caesar leads the first Roman expedition into Britain."
+  },
+  {
+    "year": 43,
+    "event": "Emperor Claudius launches the Roman conquest of Britain, founding the province of Britannia."
+  },
+  {
+    "year": 60,
+    "event": "Queen Boudica of the Iceni leads a major uprising against Roman rule."
+  },
+  {
+    "year": 122,
+    "event": "Construction begins on Hadrian's Wall, marking the northern frontier of Roman Britain."
+  },
+  {
+    "year": 410,
+    "event": "Roman administration withdraws from Britain, ending nearly four centuries of Roman rule."
+  },
+  {
+    "year": 597,
+    "event": "Augustine of Canterbury arrives in Kent, beginning the Christianization of Anglo-Saxon England."
+  },
+  {
+    "year": 793,
+    "event": "Viking raiders sack the monastery of Lindisfarne, opening the age of Norse invasions."
+  },
+  {
+    "year": 871,
+    "event": "Alfred the Great becomes King of Wessex and resists Viking expansion."
+  },
+  {
+    "year": 927,
+    "event": "Athelstan unifies the Anglo-Saxon kingdoms to become the first King of England."
+  },
+  {
+    "year": 1066,
+    "event": "William the Conqueror defeats Harold at the Battle of Hastings, beginning Norman rule."
+  },
+  {
+    "year": 1086,
+    "event": "The Domesday Book is compiled as a comprehensive survey of England's lands and wealth."
+  },
+  {
+    "year": 1215,
+    "event": "King John seals Magna Carta, limiting royal power and influencing constitutional law."
+  },
+  {
+    "year": 1265,
+    "event": "Simon de Montfort summons an early parliament including commoners, a precursor to the House of Commons."
+  },
+  {
+    "year": 1284,
+    "event": "Edward I conquers Wales and incorporates it under English rule."
+  },
+  {
+    "year": 1348,
+    "event": "The Black Death reaches England, killing a large share of the population."
+  },
+  {
+    "year": 1415,
+    "event": "Henry V wins the Battle of Agincourt during the Hundred Years' War with France."
+  },
+  {
+    "year": 1455,
+    "event": "The Wars of the Roses erupt between the rival houses of Lancaster and York."
+  },
+  {
+    "year": 1485,
+    "event": "Henry Tudor wins the Battle of Bosworth, founding the Tudor dynasty as Henry VII."
+  },
+  {
+    "year": 1534,
+    "event": "Henry VIII's Act of Supremacy breaks with Rome and establishes the Church of England."
+  },
+  {
+    "year": 1588,
+    "event": "England defeats the Spanish Armada, securing its independence and naval prestige."
+  },
+  {
+    "year": 1603,
+    "event": "James VI of Scotland accedes to the English throne, uniting the crowns under one monarch."
+  },
+  {
+    "year": 1607,
+    "event": "English settlers found Jamestown in Virginia, beginning Britain's overseas empire."
+  },
+  {
+    "year": 1642,
+    "event": "The English Civil War breaks out between Royalists and Parliamentarians."
+  },
+  {
+    "year": 1649,
+    "event": "King Charles I is executed and England is declared a republic under Oliver Cromwell."
+  },
+  {
+    "year": 1660,
+    "event": "The monarchy is restored with the return of Charles II to the throne."
+  },
+  {
+    "year": 1688,
+    "event": "The Glorious Revolution deposes James II and establishes constitutional monarchy."
+  },
+  {
+    "year": 1707,
+    "event": "The Acts of Union join England and Scotland to form the Kingdom of Great Britain."
+  },
+  {
+    "year": 1760,
+    "event": "The Industrial Revolution begins, transforming Britain's economy and society."
+  },
+  {
+    "year": 1801,
+    "event": "The Act of Union merges Great Britain and Ireland into the United Kingdom."
+  },
+  {
+    "year": 1805,
+    "event": "Admiral Nelson defeats the Franco-Spanish fleet at the Battle of Trafalgar."
+  },
+  {
+    "year": 1815,
+    "event": "Britain and its allies defeat Napoleon at the Battle of Waterloo."
+  },
+  {
+    "year": 1833,
+    "event": "Parliament passes the Slavery Abolition Act, ending slavery across most of the British Empire."
+  },
+  {
+    "year": 1837,
+    "event": "Queen Victoria ascends the throne, inaugurating an era of industrial and imperial expansion."
+  },
+  {
+    "year": 1851,
+    "event": "The Great Exhibition in London showcases Britain's industrial and imperial supremacy."
+  },
+  {
+    "year": 1914,
+    "event": "The United Kingdom enters the First World War against the Central Powers."
+  },
+  {
+    "year": 1918,
+    "event": "The Representation of the People Act grants voting rights to women over thirty and most men."
+  },
+  {
+    "year": 1922,
+    "event": "The Irish Free State secedes, leaving Northern Ireland within the United Kingdom."
+  },
+  {
+    "year": 1939,
+    "event": "Britain declares war on Nazi Germany, entering the Second World War."
+  },
+  {
+    "year": 1940,
+    "event": "The Royal Air Force wins the Battle of Britain, repelling German air attacks."
+  },
+  {
+    "year": 1945,
+    "event": "Britain emerges victorious from World War II and becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1947,
+    "event": "Indian independence accelerates the dismantling of the British Empire."
+  },
+  {
+    "year": 1948,
+    "event": "The National Health Service is established, providing universal healthcare free at the point of use."
+  },
+  {
+    "year": 1952,
+    "event": "Elizabeth II accedes to the throne, beginning a record-long reign."
+  },
+  {
+    "year": 1956,
+    "event": "The Suez Crisis exposes the decline of Britain's imperial power."
+  },
+  {
+    "year": 1973,
+    "event": "The United Kingdom joins the European Economic Community, the forerunner of the EU."
+  },
+  {
+    "year": 1982,
+    "event": "Britain defeats Argentina in the Falklands War to retain the South Atlantic islands."
+  },
+  {
+    "year": 1998,
+    "event": "The Good Friday Agreement brings peace to Northern Ireland after decades of conflict."
+  },
+  {
+    "year": 1999,
+    "event": "Devolution creates the Scottish Parliament and the National Assembly for Wales."
+  },
+  {
+    "year": 2016,
+    "event": "A referendum votes for the United Kingdom to leave the European Union, known as Brexit."
+  },
+  {
+    "year": 2020,
+    "event": "The United Kingdom formally leaves the European Union."
+  },
+  {
+    "year": 2022,
+    "event": "Queen Elizabeth II dies and is succeeded by her son, King Charles III."
+  }
 ]

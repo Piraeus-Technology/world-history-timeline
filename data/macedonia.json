@@ -1,14 +1,186 @@
 [
-  { "year": 500, "event": "Late Roman and early Byzantine cities anchor the region" },
-  { "year": 800, "event": "Slavic settlement reshapes the Balkan interior" },
-  { "year": 900, "event": "Region becomes core territory of medieval Bulgaria" },
-  { "year": 1018, "event": "Byzantine reconquest ends Bulgarian imperial rule" },
-  { "year": 1346, "event": "Serbian Empire incorporates Macedonia at its height" },
-  { "year": 1395, "event": "Ottoman conquest transforms towns and trade routes" },
-  { "year": 1600, "event": "Ottoman urban life centers around bazaars and mosques" },
-  { "year": 1878, "event": "National movements grow amid declining Ottoman control" },
-  { "year": 1913, "event": "Balkan Wars divide Macedonia among neighboring states" },
-  { "year": 1918, "event": "Region absorbed into a South Slavic kingdom" },
-  { "year": 1945, "event": "Macedonia established as a republic within Yugoslavia" },
-  { "year": 1991, "event": "Independent state emerges after Yugoslav collapse" }
+  {
+    "year": -7000,
+    "event": "Neolithic farming communities settle the fertile river valleys of the region, leaving early settlements such as those at Anzabegovo and Govrlevo."
+  },
+  {
+    "year": -4500,
+    "event": "The Tumba Madžari Neolithic settlement near Skopje flourishes, producing distinctive figurines including the 'Great Mother' goddess."
+  },
+  {
+    "year": -1200,
+    "event": "Paeonian and other Bronze Age tribes inhabit the central Balkan region that will later become Macedonia."
+  },
+  {
+    "year": -808,
+    "event": "Traditional founding of the Argead dynasty of the ancient kingdom of Macedon under Caranus, beginning Macedonian royal history."
+  },
+  {
+    "year": -700,
+    "event": "Paeonian kingdoms emerge in the Vardar valley, dominating the region north of ancient Macedon."
+  },
+  {
+    "year": -513,
+    "event": "The Persian Empire under Darius I extends influence over the region, making Macedon a Persian vassal during the Greco-Persian conflicts."
+  },
+  {
+    "year": -359,
+    "event": "Philip II ascends the Macedonian throne and begins transforming Macedon into a dominant Balkan power."
+  },
+  {
+    "year": -358,
+    "event": "Philip II subdues the Paeonians, incorporating much of the central region into the expanding kingdom of Macedon."
+  },
+  {
+    "year": -336,
+    "event": "Alexander the Great becomes king of Macedon and launches the conquests that spread Hellenistic culture across Asia."
+  },
+  {
+    "year": -323,
+    "event": "Alexander the Great dies in Babylon, and his vast empire fragments among his successors, the Diadochi."
+  },
+  {
+    "year": -168,
+    "event": "Rome defeats Perseus of Macedon at the Battle of Pydna, ending the Antigonid dynasty and Macedonian independence."
+  },
+  {
+    "year": -148,
+    "event": "Macedonia is formally annexed as a Roman province after the suppression of Andriscus's revolt."
+  },
+  {
+    "year": 50,
+    "event": "The Apostle Paul preaches in the region, founding early Christian communities at Philippi and elsewhere in Roman Macedonia."
+  },
+  {
+    "year": 395,
+    "event": "On the division of the Roman Empire, the region falls under the Eastern Roman (Byzantine) Empire."
+  },
+  {
+    "year": 580,
+    "event": "Slavic tribes migrate into and settle the region, profoundly reshaping its ethnic and linguistic character."
+  },
+  {
+    "year": 855,
+    "event": "Saints Cyril and Methodius, born in Thessalonica, develop the Glagolitic alphabet, laying foundations for Slavic literacy."
+  },
+  {
+    "year": 886,
+    "event": "Saint Clement of Ohrid establishes the Ohrid Literary School, a major center of Slavic learning and the Cyrillic tradition."
+  },
+  {
+    "year": 976,
+    "event": "Tsar Samuel establishes his powerful Bulgarian state with Ohrid as a key capital and seat of its patriarchate."
+  },
+  {
+    "year": 1014,
+    "event": "Byzantine Emperor Basil II crushes Samuel's army at the Battle of Kleidion, leading to Byzantine reconquest of the region."
+  },
+  {
+    "year": 1346,
+    "event": "Stefan Dušan is crowned Emperor of the Serbs and Greeks at Skopje, making the region part of the powerful Serbian Empire."
+  },
+  {
+    "year": 1392,
+    "event": "Ottoman forces capture Skopje, beginning more than five centuries of Ottoman rule over the region."
+  },
+  {
+    "year": 1689,
+    "event": "The Karposh Uprising against Ottoman rule briefly liberates Kratovo and Kumanovo before being suppressed."
+  },
+  {
+    "year": 1767,
+    "event": "The Ottoman authorities abolish the autocephalous Archbishopric of Ohrid, subordinating local Christians to the Greek Patriarchate."
+  },
+  {
+    "year": 1893,
+    "event": "The Internal Macedonian Revolutionary Organization (IMRO) is founded in Thessaloniki to fight for autonomy from the Ottomans."
+  },
+  {
+    "year": 1903,
+    "event": "The Ilinden Uprising erupts and the short-lived Kruševo Republic is proclaimed before Ottoman forces crush the rebellion."
+  },
+  {
+    "year": 1912,
+    "event": "The First Balkan War breaks out, with Balkan allies driving the Ottomans from most of the region."
+  },
+  {
+    "year": 1913,
+    "event": "The Treaty of Bucharest partitions the region of Macedonia among Serbia, Greece, and Bulgaria after the Second Balkan War."
+  },
+  {
+    "year": 1918,
+    "event": "The Vardar region is incorporated into the new Kingdom of Serbs, Croats and Slovenes (later Yugoslavia)."
+  },
+  {
+    "year": 1929,
+    "event": "The area is organized as the Vardar Banovina, an administrative province of the Kingdom of Yugoslavia."
+  },
+  {
+    "year": 1941,
+    "event": "Axis forces occupy Yugoslav Macedonia in World War II, with most of the territory administered by Bulgaria."
+  },
+  {
+    "year": 1944,
+    "event": "The Anti-Fascist Assembly (ASNOM) proclaims the People's Republic of Macedonia, declaring the modern Macedonian state and standardizing the language."
+  },
+  {
+    "year": 1945,
+    "event": "Macedonia becomes one of the six constituent republics of socialist Yugoslavia under Josip Broz Tito."
+  },
+  {
+    "year": 1963,
+    "event": "A devastating earthquake destroys much of Skopje, killing over a thousand people and prompting international reconstruction aid."
+  },
+  {
+    "year": 1967,
+    "event": "The Macedonian Orthodox Church unilaterally declares its autocephaly from the Serbian Orthodox Church."
+  },
+  {
+    "year": 1991,
+    "event": "Macedonia holds a referendum and declares independence from Yugoslavia, peacefully and without armed conflict."
+  },
+  {
+    "year": 1992,
+    "event": "Kiro Gligorov becomes the first president of independent Macedonia as the new state establishes its institutions."
+  },
+  {
+    "year": 1993,
+    "event": "The country joins the United Nations under the provisional name 'the former Yugoslav Republic of Macedonia' amid a naming dispute with Greece."
+  },
+  {
+    "year": 1995,
+    "event": "Macedonia and Greece sign an Interim Accord easing the naming dispute, and Macedonia adopts a new flag after a Greek economic embargo."
+  },
+  {
+    "year": 2001,
+    "event": "An armed insurgency by ethnic Albanian rebels ends with the Ohrid Framework Agreement, granting greater rights to the Albanian minority."
+  },
+  {
+    "year": 2005,
+    "event": "Macedonia is granted official candidate status for membership in the European Union."
+  },
+  {
+    "year": 2008,
+    "event": "Greece blocks Macedonia's NATO accession bid at the Bucharest summit over the unresolved name dispute."
+  },
+  {
+    "year": 2018,
+    "event": "Macedonia and Greece sign the Prespa Agreement, agreeing to rename the country the Republic of North Macedonia."
+  },
+  {
+    "year": 2019,
+    "event": "The country officially renames itself the Republic of North Macedonia, resolving the decades-long dispute with Greece."
+  },
+  {
+    "year": 2020,
+    "event": "North Macedonia becomes the 30th member of NATO, its first major Euro-Atlantic integration milestone."
+  },
+  {
+    "year": 2022,
+    "event": "The European Union formally opens accession negotiations with North Macedonia after years of delay."
+  },
+  {
+    "year": 2024,
+    "event": "Gordana Siljanovska-Davkova is elected the country's first female president as the VMRO-DPMNE party returns to power."
+  }
 ]

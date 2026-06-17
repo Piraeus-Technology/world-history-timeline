@@ -1,16 +1,194 @@
 [
-  { "year": 200, "event": "Illyrian tribes dominate the western Balkan coast" },
-  { "year": 168, "event": "Roman conquest integrates the region into imperial networks" },
-  { "year": 395, "event": "Eastern Roman rule shapes early Christian identity" },
-  { "year": 800, "event": "Mountain communities preserve distinct language and customs" },
-  { "year": 1190, "event": "First Albanian medieval state emerges in coastal regions" },
-  { "year": 1385, "event": "Ottoman expansion reaches Albanian territories" },
-  { "year": 1443, "event": "Skanderbeg leads prolonged resistance against Ottoman rule" },
-  { "year": 1479, "event": "Ottoman conquest incorporates Albania into imperial system" },
-  { "year": 1600, "event": "Religious diversity expands under Ottoman administration" },
-  { "year": 1878, "event": "National awakening asserts Albanian identity" },
-  { "year": 1912, "event": "Albania declares independence as Ottoman rule collapses" },
-  { "year": 1939, "event": "World War II occupation disrupts state development" },
-  { "year": 1946, "event": "Communist regime isolates Albania from Europe" },
-  { "year": 1991, "event": "Communist system collapses, reopening the country" }
+  {
+    "year": -100000,
+    "event": "Middle Paleolithic hominins inhabit caves at Gajtan and other sites in present-day Albania, marking the earliest human presence."
+  },
+  {
+    "year": -6000,
+    "event": "Neolithic farming communities establish settlements such as Maliq and Vashtëmi in the lake basins of southeastern Albania."
+  },
+  {
+    "year": -2000,
+    "event": "Bronze Age tumulus-building cultures emerge, laying the foundations of the Illyrian peoples in the western Balkans."
+  },
+  {
+    "year": -627,
+    "event": "Greek colonists from Corinth and Corcyra found Epidamnos (later Dyrrachium, modern Durrës) on the Adriatic coast."
+  },
+  {
+    "year": -588,
+    "event": "Greek settlers found the colony of Apollonia near the Vjosa River, which becomes a major center of Hellenic culture."
+  },
+  {
+    "year": -400,
+    "event": "Illyrian tribal kingdoms consolidate, with rulers such as Bardylis uniting tribes into a powerful state."
+  },
+  {
+    "year": -250,
+    "event": "Queen Teuta of the Ardiaei rules the Illyrian kingdom, whose maritime raids draw Rome into conflict."
+  },
+  {
+    "year": -229,
+    "event": "Rome launches the First Illyrian War against Queen Teuta, establishing its first foothold in the region."
+  },
+  {
+    "year": -168,
+    "event": "Rome defeats King Gentius and dissolves the Illyrian kingdom, bringing the territory under Roman control."
+  },
+  {
+    "year": 9,
+    "event": "The region is fully incorporated into the Roman Empire as part of the province of Illyricum."
+  },
+  {
+    "year": 110,
+    "event": "The Via Egnatia, the great Roman road linking Dyrrachium to Byzantium, flourishes as a vital trade and military route."
+  },
+  {
+    "year": 395,
+    "event": "Upon the division of the Roman Empire, the territory falls under the Eastern Roman (Byzantine) Empire."
+  },
+  {
+    "year": 548,
+    "event": "Slavic and other migrating peoples raid Illyrian and Byzantine lands during the upheavals of late antiquity."
+  },
+  {
+    "year": 1190,
+    "event": "Progon establishes the Principality of Arbanon, the first known Albanian autonomous state under Byzantine suzerainty."
+  },
+  {
+    "year": 1272,
+    "event": "Charles of Anjou proclaims the Kingdom of Albania (Regnum Albaniae) centered on Durrës."
+  },
+  {
+    "year": 1385,
+    "event": "Albanian and Balkan lords appeal to the Ottomans, who begin extending their influence after the Battle of Savra."
+  },
+  {
+    "year": 1443,
+    "event": "Gjergj Kastrioti Skanderbeg raises the Albanian banner at Krujë and launches a prolonged resistance against the Ottomans."
+  },
+  {
+    "year": 1444,
+    "event": "Skanderbeg forms the League of Lezhë, uniting Albanian princes against Ottoman expansion."
+  },
+  {
+    "year": 1468,
+    "event": "Skanderbeg dies, and Albanian resistance gradually collapses as the Ottomans tighten their grip."
+  },
+  {
+    "year": 1479,
+    "event": "The Ottomans capture Krujë and Shkodër, completing their conquest and beginning over four centuries of rule."
+  },
+  {
+    "year": 1822,
+    "event": "Ali Pasha of Tepelena, the semi-independent Ottoman governor of Ioannina, is killed after defying the Sultan."
+  },
+  {
+    "year": 1878,
+    "event": "The League of Prizren is founded to defend Albanian-inhabited lands and promote national autonomy."
+  },
+  {
+    "year": 1908,
+    "event": "The Congress of Manastir standardizes the Albanian alphabet using the Latin script, advancing national identity."
+  },
+  {
+    "year": 1912,
+    "event": "Ismail Qemali proclaims Albania's independence in Vlorë during the First Balkan War."
+  },
+  {
+    "year": 1913,
+    "event": "The Treaty of London and the Conference of Ambassadors recognize an independent Albania while assigning Kosovo to Serbia."
+  },
+  {
+    "year": 1914,
+    "event": "Prince Wilhelm of Wied briefly rules as monarch before fleeing amid revolts and the outbreak of World War I."
+  },
+  {
+    "year": 1920,
+    "event": "The Congress of Lushnjë reasserts independence, makes Tirana the capital, and Albania joins the League of Nations."
+  },
+  {
+    "year": 1925,
+    "event": "Ahmet Zogu becomes president, consolidating power after suppressing his rivals."
+  },
+  {
+    "year": 1928,
+    "event": "Ahmet Zogu proclaims himself King Zog I, transforming Albania into a monarchy."
+  },
+  {
+    "year": 1939,
+    "event": "Fascist Italy invades and annexes Albania, forcing King Zog into exile."
+  },
+  {
+    "year": 1943,
+    "event": "Nazi Germany occupies Albania after Italy's capitulation, intensifying the communist-led partisan resistance."
+  },
+  {
+    "year": 1944,
+    "event": "Communist-led partisans under Enver Hoxha liberate Albania and seize power."
+  },
+  {
+    "year": 1946,
+    "event": "The People's Republic of Albania is proclaimed, with Enver Hoxha as the dominant communist leader."
+  },
+  {
+    "year": 1948,
+    "event": "Albania breaks with Yugoslavia and aligns closely with the Soviet Union."
+  },
+  {
+    "year": 1961,
+    "event": "Albania severs ties with the Soviet Union over de-Stalinization and forges a close alliance with Maoist China."
+  },
+  {
+    "year": 1967,
+    "event": "Hoxha declares Albania the world's first officially atheist state, banning all religious practice."
+  },
+  {
+    "year": 1978,
+    "event": "Albania breaks with China, plunging into extreme isolation as a self-reliant Stalinist state."
+  },
+  {
+    "year": 1985,
+    "event": "Enver Hoxha dies after four decades in power, and Ramiz Alia succeeds him as leader."
+  },
+  {
+    "year": 1990,
+    "event": "Mass protests and an exodus of refugees force the regime to legalize opposition parties and ease restrictions."
+  },
+  {
+    "year": 1991,
+    "event": "Albania holds its first multiparty elections, ending one-party communist rule and renaming itself the Republic of Albania."
+  },
+  {
+    "year": 1992,
+    "event": "The Democratic Party wins elections and Sali Berisha becomes president, accelerating the transition to a market economy."
+  },
+  {
+    "year": 1997,
+    "event": "The collapse of fraudulent pyramid investment schemes triggers nationwide anarchy and armed unrest."
+  },
+  {
+    "year": 1999,
+    "event": "Albania shelters hundreds of thousands of Kosovar Albanian refugees during the Kosovo War."
+  },
+  {
+    "year": 2009,
+    "event": "Albania joins NATO and formally applies for European Union membership."
+  },
+  {
+    "year": 2014,
+    "event": "Albania is granted official EU candidate country status."
+  },
+  {
+    "year": 2017,
+    "event": "Edi Rama's Socialist Party wins a decisive majority, continuing EU-oriented reforms and a justice system overhaul."
+  },
+  {
+    "year": 2019,
+    "event": "A powerful earthquake near Durrës kills dozens and causes widespread destruction across central Albania."
+  },
+  {
+    "year": 2022,
+    "event": "Albania formally opens European Union accession negotiations."
+  }
 ]

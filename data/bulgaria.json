@@ -1,15 +1,178 @@
 [
-  { "year": 681, "event": "First Bulgarian Empire established south of the Danube" },
-  { "year": 864, "event": "Christianization anchors Bulgaria in Orthodox Europe" },
-  { "year": 900, "event": "Cyrillic script spreads Slavic literacy and culture" },
-  { "year": 1018, "event": "Byzantine conquest ends the First Bulgarian Empire" },
-  { "year": 1185, "event": "Second Bulgarian Empire restores regional power" },
-  { "year": 1396, "event": "Ottoman conquest ends medieval Bulgarian statehood" },
-  { "year": 1500, "event": "Ottoman rule reshapes cities and religious landscape" },
-  { "year": 1762, "event": "National revival rekindles Bulgarian identity" },
-  { "year": 1878, "event": "Autonomous Bulgaria emerges after Ottoman defeat" },
-  { "year": 1908, "event": "Full independence proclaimed from Ottoman authority" },
-  { "year": 1913, "event": "Balkan Wars redefine borders and ambitions" },
-  { "year": 1944, "event": "Soviet-backed regime takes control after World War II" },
-  { "year": 1989, "event": "Communist rule collapses peacefully" }
+  {
+    "year": -6000,
+    "event": "Neolithic farming communities settle the lands of present-day Bulgaria, among the earliest agricultural societies in Europe."
+  },
+  {
+    "year": -4500,
+    "event": "The Varna Chalcolithic culture flourishes, producing the oldest known worked gold treasure in the world."
+  },
+  {
+    "year": -1200,
+    "event": "Thracian tribes emerge as the dominant population across the region, forming a distinct Indo-European culture."
+  },
+  {
+    "year": -470,
+    "event": "The Odrysian Kingdom unites many Thracian tribes into the first powerful Thracian state."
+  },
+  {
+    "year": -341,
+    "event": "Philip II of Macedon subjugates the Thracians, bringing the region under Macedonian influence."
+  },
+  {
+    "year": -46,
+    "event": "Rome annexes Thrace, fully incorporating the region into the Roman Empire."
+  },
+  {
+    "year": 271,
+    "event": "Emperor Aurelian establishes the province of Dacia Aureliana, with the region becoming a key Roman frontier zone."
+  },
+  {
+    "year": 395,
+    "event": "Upon the division of the Roman Empire, the lands of Bulgaria fall under the Eastern Roman (Byzantine) Empire."
+  },
+  {
+    "year": 681,
+    "event": "Khan Asparuh founds the First Bulgarian Empire after defeating Byzantium, establishing a recognized Bulgarian state south of the Danube."
+  },
+  {
+    "year": 864,
+    "event": "Boris I adopts Eastern Orthodox Christianity, converting the Bulgarian people and aligning the state with Byzantine culture."
+  },
+  {
+    "year": 886,
+    "event": "Disciples of Saints Cyril and Methodius arrive in Bulgaria, where the Cyrillic alphabet and Old Church Slavonic literature develop."
+  },
+  {
+    "year": 893,
+    "event": "Simeon I begins his reign, ushering in the Golden Age of Bulgarian cultural and political power."
+  },
+  {
+    "year": 927,
+    "event": "Bulgaria wins recognition of an independent patriarchate and an imperial title for its ruler after the reign of Simeon I."
+  },
+  {
+    "year": 1018,
+    "event": "Emperor Basil II conquers Bulgaria, ending the First Bulgarian Empire and beginning Byzantine rule."
+  },
+  {
+    "year": 1185,
+    "event": "The brothers Asen and Peter lead a successful uprising, founding the Second Bulgarian Empire with its capital at Tarnovo."
+  },
+  {
+    "year": 1230,
+    "event": "Tsar Ivan Asen II defeats Epirus at the Battle of Klokotnitsa, making Bulgaria the dominant power in the Balkans."
+  },
+  {
+    "year": 1396,
+    "event": "The Ottoman Empire conquers Bulgaria after the fall of Vidin, beginning nearly five centuries of Ottoman rule."
+  },
+  {
+    "year": 1762,
+    "event": "Saint Paisius of Hilendar writes 'Istoriya Slavyanobolgarskaya,' sparking the Bulgarian National Revival."
+  },
+  {
+    "year": 1870,
+    "event": "The Bulgarian Exarchate is established, restoring an autonomous Bulgarian church and bolstering national identity."
+  },
+  {
+    "year": 1876,
+    "event": "The April Uprising against Ottoman rule is brutally suppressed, drawing European attention to the Bulgarian cause."
+  },
+  {
+    "year": 1878,
+    "event": "The Treaty of San Stefano and the subsequent Treaty of Berlin create an autonomous Principality of Bulgaria."
+  },
+  {
+    "year": 1885,
+    "event": "Bulgaria unifies with Eastern Rumelia, then defeats Serbia in the Serbo-Bulgarian War to secure the union."
+  },
+  {
+    "year": 1908,
+    "event": "Bulgaria declares full independence from the Ottoman Empire, with Ferdinand I proclaimed Tsar."
+  },
+  {
+    "year": 1912,
+    "event": "Bulgaria leads the Balkan League to victory over the Ottomans in the First Balkan War."
+  },
+  {
+    "year": 1913,
+    "event": "Bulgaria is defeated in the Second Balkan War, losing much of the territory gained the previous year."
+  },
+  {
+    "year": 1915,
+    "event": "Bulgaria enters World War I on the side of the Central Powers."
+  },
+  {
+    "year": 1919,
+    "event": "The Treaty of Neuilly imposes territorial losses and reparations on defeated Bulgaria after World War I."
+  },
+  {
+    "year": 1934,
+    "event": "A military coup establishes an authoritarian regime, suspending political parties and concentrating power."
+  },
+  {
+    "year": 1941,
+    "event": "Bulgaria joins the Axis powers in World War II, occupying parts of Greece and Yugoslavia."
+  },
+  {
+    "year": 1943,
+    "event": "Bulgaria refuses to deport its Jewish population to Nazi death camps, saving nearly 50,000 lives."
+  },
+  {
+    "year": 1944,
+    "event": "Soviet forces enter Bulgaria and a Communist-led Fatherland Front seizes power in a coup."
+  },
+  {
+    "year": 1946,
+    "event": "A referendum abolishes the monarchy and the People's Republic of Bulgaria is proclaimed."
+  },
+  {
+    "year": 1954,
+    "event": "Todor Zhivkov becomes Communist Party leader, beginning a decades-long rule as the country's dominant figure."
+  },
+  {
+    "year": 1955,
+    "event": "Bulgaria is admitted to the United Nations."
+  },
+  {
+    "year": 1968,
+    "event": "Bulgarian troops participate in the Warsaw Pact invasion of Czechoslovakia."
+  },
+  {
+    "year": 1984,
+    "event": "The 'Revival Process' forcibly assimilates the ethnic Turkish minority, prompting a mass exodus in 1989."
+  },
+  {
+    "year": 1989,
+    "event": "Todor Zhivkov is ousted, ending Communist one-party rule as the Eastern Bloc collapses."
+  },
+  {
+    "year": 1990,
+    "event": "Bulgaria holds its first free multiparty elections and renames itself the Republic of Bulgaria."
+  },
+  {
+    "year": 1991,
+    "event": "A new democratic constitution is adopted, establishing a parliamentary republic."
+  },
+  {
+    "year": 1997,
+    "event": "Hyperinflation and economic crisis lead to a currency board and sweeping market reforms."
+  },
+  {
+    "year": 2004,
+    "event": "Bulgaria joins NATO, anchoring its security within the Western alliance."
+  },
+  {
+    "year": 2007,
+    "event": "Bulgaria accedes to the European Union, completing its integration into Western institutions."
+  },
+  {
+    "year": 2020,
+    "event": "Mass anti-corruption protests sweep the country, demanding the resignation of the government."
+  },
+  {
+    "year": 2025,
+    "event": "Bulgaria receives EU approval to adopt the euro, set to join the eurozone in January 2026."
+  }
 ]

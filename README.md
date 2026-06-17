@@ -12,4 +12,4 @@ This is an interactive web app that visualizes the major historical events of co
 
 📱 Fully responsive design for mobile and desktop
 
-URL: https://lkh9596.github.io/worldhistorytimeline/
+URL: https://piraeus-technology.github.io/world-history-timeline/

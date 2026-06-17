@@ -1,20 +1,210 @@
 [
-  { "year": 850, "event": "Norse traders establish river routes linking Baltic and Black Seas" },
-  { "year": 900, "event": "East Slavic states form around Kyiv and Novgorod" },
-  { "year": 988, "event": "Christianization anchors Rus lands in Orthodox Europe" },
-  { "year": 1240, "event": "Mongol invasion destroys Kyiv and reshapes Rus politics" },
-  { "year": 1327, "event": "Moscow rises as the leading Rus principality" },
-  { "year": 1380, "event": "Muscovy challenges Mongol authority at Kulikovo" },
-  { "year": 1480, "event": "Muscovy ends Mongol dominance over Rus lands" },
-  { "year": 1547, "event": "Russia proclaimed a centralized tsardom" },
-  { "year": 1613, "event": "Romanov dynasty restores stability after civil chaos" },
-  { "year": 1703, "event": "St. Petersburg founded as a European-facing capital" },
-  { "year": 1721, "event": "Russia emerges as a major European empire" },
-  { "year": 1762, "event": "Imperial expansion accelerates across Eastern Europe" },
-  { "year": 1812, "event": "Napoleon’s invasion fails inside Russian territory" },
-  { "year": 1861, "event": "Serfdom abolished, transforming rural society" },
-  { "year": 1917, "event": "Imperial rule collapses amid revolution" },
-  { "year": 1922, "event": "Soviet Union formed from former imperial lands" },
-  { "year": 1945, "event": "Soviet victory extends control across Eastern Europe" },
-  { "year": 1991, "event": "Soviet Union dissolves, ending imperial continuity" }
+  {
+    "year": -30000,
+    "event": "Anatomically modern humans inhabit sites such as Kostenki on the Don River, leaving some of the oldest evidence of human settlement in Europe."
+  },
+  {
+    "year": -20000,
+    "event": "Upper Paleolithic hunter-gatherers occupy the Sungir site near Vladimir, leaving elaborate burials with thousands of mammoth-ivory beads."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic cultures spread across the East European Plain, introducing pottery and early settled life."
+  },
+  {
+    "year": -3500,
+    "event": "Pastoralist cultures of the Pontic-Caspian steppe, associated with early Indo-Europeans, domesticate horses and develop wheeled transport."
+  },
+  {
+    "year": -700,
+    "event": "Scythian nomads dominate the southern Russian steppes, creating rich kurgan burials and renowned gold artwork."
+  },
+  {
+    "year": -600,
+    "event": "Greek colonists found Black Sea trading cities such as Tanais and Phanagoria along the northern coast."
+  },
+  {
+    "year": 200,
+    "event": "Sarmatian and Gothic peoples migrate across the southern steppes, displacing earlier Scythian dominance."
+  },
+  {
+    "year": 375,
+    "event": "The Huns sweep westward across the steppes north of the Black Sea, triggering wider migrations across Europe."
+  },
+  {
+    "year": 650,
+    "event": "The Khazar Khaganate emerges as a powerful state controlling the lower Volga and steppe trade routes."
+  },
+  {
+    "year": 750,
+    "event": "East Slavic tribes expand and settle across the forests and river valleys of the East European Plain."
+  },
+  {
+    "year": 862,
+    "event": "According to the Primary Chronicle, the Varangian leader Rurik takes power at Novgorod, founding the Rurikid dynasty."
+  },
+  {
+    "year": 882,
+    "event": "Oleg of Novgorod captures Kiev and unites the eastern Slavs, establishing Kievan Rus with Kiev as its capital."
+  },
+  {
+    "year": 988,
+    "event": "Grand Prince Vladimir the Great adopts Orthodox Christianity, baptizing Kievan Rus and binding it to Byzantine culture."
+  },
+  {
+    "year": 1019,
+    "event": "Yaroslav the Wise begins his reign, presiding over a golden age of law, learning, and church-building in Kievan Rus."
+  },
+  {
+    "year": 1147,
+    "event": "Moscow is first mentioned in the chronicles, traditionally marking the founding of the future capital."
+  },
+  {
+    "year": 1237,
+    "event": "The Mongol invasion under Batu Khan begins, devastating the Rus principalities and inaugurating the rule of the Golden Horde."
+  },
+  {
+    "year": 1240,
+    "event": "Alexander Nevsky defeats Swedish forces at the Battle of the Neva, defending Novgorod's northwestern frontier."
+  },
+  {
+    "year": 1380,
+    "event": "Dmitry Donskoy defeats the Golden Horde at the Battle of Kulikovo, a symbolic turning point in Russian resistance."
+  },
+  {
+    "year": 1480,
+    "event": "The Great Stand on the Ugra River ends Mongol-Tatar overlordship, securing the independence of Muscovy under Ivan III."
+  },
+  {
+    "year": 1547,
+    "event": "Ivan IV (the Terrible) is crowned the first Tsar of all Russia, formalizing the centralized Russian state."
+  },
+  {
+    "year": 1552,
+    "event": "Ivan the Terrible conquers the Khanate of Kazan, beginning Russia's eastward expansion across the Volga and into Asia."
+  },
+  {
+    "year": 1598,
+    "event": "The death of Tsar Feodor I ends the Rurikid dynasty and ushers in the chaotic Time of Troubles."
+  },
+  {
+    "year": 1613,
+    "event": "Michael Romanov is elected tsar, founding the Romanov dynasty that would rule Russia for three centuries."
+  },
+  {
+    "year": 1689,
+    "event": "Peter the Great consolidates power and begins sweeping reforms to modernize and Westernize Russia."
+  },
+  {
+    "year": 1703,
+    "event": "Peter the Great founds Saint Petersburg, soon making it the new imperial capital and Russia's window to the West."
+  },
+  {
+    "year": 1721,
+    "event": "Victory in the Great Northern War against Sweden establishes Russia as a major European power and an empire under Peter."
+  },
+  {
+    "year": 1762,
+    "event": "Catherine the Great seizes the throne and begins a long reign marked by territorial expansion and Enlightenment ambitions."
+  },
+  {
+    "year": 1812,
+    "event": "Napoleon's Grande Armee invades Russia but is destroyed by winter and attrition during its catastrophic retreat from Moscow."
+  },
+  {
+    "year": 1825,
+    "event": "The Decembrist revolt by liberal officers is crushed, hardening autocratic rule under Nicholas I."
+  },
+  {
+    "year": 1861,
+    "event": "Tsar Alexander II emancipates the serfs, freeing over twenty million peasants from bondage."
+  },
+  {
+    "year": 1905,
+    "event": "Defeat by Japan and the Bloody Sunday massacre spark the Revolution of 1905, forcing the tsar to grant a parliament (Duma)."
+  },
+  {
+    "year": 1914,
+    "event": "Russia enters World War I, suffering heavy losses that deepen domestic unrest."
+  },
+  {
+    "year": 1917,
+    "event": "The February Revolution topples the tsar and the October Revolution brings the Bolsheviks under Lenin to power."
+  },
+  {
+    "year": 1918,
+    "event": "A brutal civil war between Red and White forces engulfs Russia following the Bolshevik seizure of power."
+  },
+  {
+    "year": 1922,
+    "event": "The Union of Soviet Socialist Republics (USSR) is formally established with Russia as its dominant republic."
+  },
+  {
+    "year": 1924,
+    "event": "Lenin dies, opening a power struggle from which Joseph Stalin emerges as the Soviet leader."
+  },
+  {
+    "year": 1932,
+    "event": "Forced collectivization triggers a devastating famine across the USSR, killing millions in Ukraine and the Volga region."
+  },
+  {
+    "year": 1937,
+    "event": "Stalin's Great Purge intensifies, with mass executions and gulag imprisonment of perceived enemies."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany launches Operation Barbarossa, invading the Soviet Union and opening the catastrophic Eastern Front of World War II."
+  },
+  {
+    "year": 1943,
+    "event": "The Soviet victory at the Battle of Stalingrad marks the decisive turning point against Nazi Germany."
+  },
+  {
+    "year": 1945,
+    "event": "The USSR helps defeat Nazi Germany, emerging as a superpower and occupying much of Eastern Europe."
+  },
+  {
+    "year": 1957,
+    "event": "The Soviet Union launches Sputnik, the world's first artificial satellite, opening the Space Age."
+  },
+  {
+    "year": 1961,
+    "event": "Yuri Gagarin becomes the first human in space, a landmark triumph of the Soviet space program."
+  },
+  {
+    "year": 1962,
+    "event": "The Cuban Missile Crisis brings the USSR and the United States to the brink of nuclear war."
+  },
+  {
+    "year": 1985,
+    "event": "Mikhail Gorbachev becomes Soviet leader and launches the reforms of perestroika and glasnost."
+  },
+  {
+    "year": 1986,
+    "event": "The Chernobyl nuclear disaster releases massive radioactive contamination, exposing systemic Soviet failures."
+  },
+  {
+    "year": 1991,
+    "event": "The Soviet Union collapses and the Russian Federation emerges as an independent state under Boris Yeltsin."
+  },
+  {
+    "year": 1993,
+    "event": "A constitutional crisis ends with Yeltsin shelling the parliament and adopting a new constitution with a strong presidency."
+  },
+  {
+    "year": 1999,
+    "event": "Vladimir Putin becomes prime minister and then acting president as Yeltsin resigns on New Year's Eve."
+  },
+  {
+    "year": 2000,
+    "event": "Vladimir Putin is elected president, beginning a long era of centralized rule and resurgent state power."
+  },
+  {
+    "year": 2014,
+    "event": "Russia annexes Crimea from Ukraine and backs separatists in the Donbas, triggering Western sanctions."
+  },
+  {
+    "year": 2022,
+    "event": "Russia launches a full-scale invasion of Ukraine, provoking the largest European war since 1945 and sweeping international sanctions."
+  }
 ]

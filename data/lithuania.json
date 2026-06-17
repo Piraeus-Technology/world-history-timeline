@@ -1,21 +1,178 @@
 [
-  { "year": -10000, "event": "Earliest human settlement in present-day Lithuania after Ice Age retreat" },
-  { "year": -3000, "event": "Baltic tribes establish farming communities and regional cultures" },
-  { "year": 1000, "event": "Lithuanian tribes consolidate power in the Baltic region" },
-  { "year": 1236, "event": "Lithuanians defeat crusading forces, preserving independence" },
-  { "year": 1253, "event": "Mindaugas is crowned as the first King of Lithuania" },
-  { "year": 1300, "event": "Grand Duchy of Lithuania expands across Eastern Europe" },
-  { "year": 1385, "event": "Union with Poland begins through dynastic alliance" },
-  { "year": 1387, "event": "Lithuania converts to Christianity, last pagan state in Europe" },
-  { "year": 1410, "event": "Joint Polish-Lithuanian victory at Grunwald weakens Teutonic Order" },
-  { "year": 1500, "event": "Grand Duchy reaches its greatest territorial extent" },
-  { "year": 1569, "event": "Polish–Lithuanian Commonwealth is formally created" },
-  { "year": 1655, "event": "Wars devastate Lithuania, weakening the Commonwealth" },
-  { "year": 1795, "event": "Lithuania is absorbed into the Russian Empire" },
-  { "year": 1918, "event": "Lithuania declares independence after World War I" },
-  { "year": 1940, "event": "Soviet occupation begins during World War II" },
-  { "year": 1941, "event": "Nazi occupation devastates Jewish and urban communities" },
-  { "year": 1944, "event": "Soviet rule is reimposed after World War II" },
-  { "year": 1990, "event": "Lithuania becomes the first Soviet republic to declare independence" },
-  { "year": 2004, "event": "Lithuania joins the European Union and NATO" }
+  {
+    "year": -10000,
+    "event": "After the retreat of the last Ice Age glaciers, the first hunter-gatherers of the Kunda culture settle the territory of present-day Lithuania."
+  },
+  {
+    "year": -3000,
+    "event": "Neolithic Corded Ware and Globular Amphora cultures spread across the region, associated with the arrival of Indo-European peoples."
+  },
+  {
+    "year": -2000,
+    "event": "The ancestral Baltic tribes emerge, beginning to differentiate from other Indo-European groups along the southeastern Baltic coast."
+  },
+  {
+    "year": 98,
+    "event": "The Roman historian Tacitus describes the Aestii, Baltic peoples who gather amber along the Baltic shore."
+  },
+  {
+    "year": 1009,
+    "event": "The name Lithuania (Litua) is first recorded in writing in the Annals of Quedlinburg, describing the death of the missionary Bruno of Querfurt."
+  },
+  {
+    "year": 1236,
+    "event": "Lithuanian forces crush the Livonian Brothers of the Sword at the Battle of Saule, halting German crusader expansion."
+  },
+  {
+    "year": 1251,
+    "event": "Grand Duke Mindaugas is baptized as a Christian, securing papal recognition of a Lithuanian kingdom."
+  },
+  {
+    "year": 1253,
+    "event": "Mindaugas is crowned the first and only King of Lithuania, founding the Lithuanian state."
+  },
+  {
+    "year": 1316,
+    "event": "Gediminas becomes Grand Duke and greatly expands the Grand Duchy of Lithuania, founding the Gediminid dynasty."
+  },
+  {
+    "year": 1323,
+    "event": "Vilnius is first mentioned in writing as the capital in letters sent by Grand Duke Gediminas inviting merchants and craftsmen."
+  },
+  {
+    "year": 1385,
+    "event": "The Union of Krewo binds Lithuania to Poland as Grand Duke Jogaila agrees to marry Queen Jadwiga and adopt Christianity."
+  },
+  {
+    "year": 1387,
+    "event": "Lithuania officially adopts Roman Catholicism, becoming the last pagan state in Europe to Christianize."
+  },
+  {
+    "year": 1410,
+    "event": "Combined Polish-Lithuanian forces under Vytautas and Jogaila decisively defeat the Teutonic Knights at the Battle of Grunwald (Tannenberg)."
+  },
+  {
+    "year": 1430,
+    "event": "Grand Duke Vytautas the Great dies after expanding Lithuania to its greatest extent, stretching from the Baltic to the Black Sea."
+  },
+  {
+    "year": 1529,
+    "event": "The First Statute of Lithuania is enacted, codifying one of Europe's most advanced legal systems."
+  },
+  {
+    "year": 1569,
+    "event": "The Union of Lublin merges Lithuania and Poland into the Polish-Lithuanian Commonwealth, a single elective monarchy."
+  },
+  {
+    "year": 1579,
+    "event": "Vilnius University is founded by the Jesuits, becoming the oldest university in the Baltic region and northeastern Europe."
+  },
+  {
+    "year": 1655,
+    "event": "Russian and Swedish forces invade and devastate Lithuania during the wars of the mid-17th century, sacking Vilnius."
+  },
+  {
+    "year": 1795,
+    "event": "The Third Partition of Poland-Lithuania erases the Commonwealth, and most of Lithuania is annexed by the Russian Empire."
+  },
+  {
+    "year": 1831,
+    "event": "Lithuanians join the November Uprising against Russian rule, which is suppressed and followed by harsh reprisals."
+  },
+  {
+    "year": 1863,
+    "event": "The January Uprising against the Russian Empire sweeps Lithuania, leading to a ban on Lithuanian-language publications in the Latin alphabet."
+  },
+  {
+    "year": 1883,
+    "event": "The nationalist newspaper Auszra (Dawn) begins publication, igniting the modern Lithuanian national revival."
+  },
+  {
+    "year": 1904,
+    "event": "Russia lifts the ban on Lithuanian-language press, allowing a flourishing of national culture and publishing."
+  },
+  {
+    "year": 1918,
+    "event": "The Council of Lithuania proclaims the restoration of an independent Lithuanian state on 16 February."
+  },
+  {
+    "year": 1920,
+    "event": "Poland seizes Vilnius and the surrounding region, prompting Lithuania to make Kaunas its temporary capital."
+  },
+  {
+    "year": 1923,
+    "event": "Lithuania annexes the Klaipeda (Memel) region from League of Nations administration after a staged uprising."
+  },
+  {
+    "year": 1926,
+    "event": "A military coup brings Antanas Smetona to power, establishing an authoritarian nationalist regime."
+  },
+  {
+    "year": 1939,
+    "event": "Nazi Germany forces Lithuania to cede the Klaipeda region under threat of invasion."
+  },
+  {
+    "year": 1940,
+    "event": "The Soviet Union occupies and annexes Lithuania following the Molotov-Ribbentrop Pact, creating the Lithuanian SSR."
+  },
+  {
+    "year": 1941,
+    "event": "Soviet mass deportations to Siberia begin, followed weeks later by Nazi German occupation and the Holocaust that destroyed most of Lithuania's Jewish community."
+  },
+  {
+    "year": 1944,
+    "event": "The Soviet Union reoccupies Lithuania, triggering a decade-long armed partisan resistance by the Forest Brothers."
+  },
+  {
+    "year": 1949,
+    "event": "Lithuanian partisan leaders sign a unified declaration proclaiming the Movement of the Struggle for the Freedom of Lithuania."
+  },
+  {
+    "year": 1988,
+    "event": "The Sajudis reform movement is founded, spearheading the drive for independence during the era of perestroika."
+  },
+  {
+    "year": 1989,
+    "event": "Around two million people form the Baltic Way human chain linking Vilnius, Riga, and Tallinn to demand independence."
+  },
+  {
+    "year": 1990,
+    "event": "Lithuania becomes the first Soviet republic to declare the restoration of its independence on 11 March."
+  },
+  {
+    "year": 1991,
+    "event": "Soviet troops storm the Vilnius TV tower on 13 January, killing 14 civilians, but Lithuania's independence is recognized internationally and it joins the United Nations."
+  },
+  {
+    "year": 1992,
+    "event": "Lithuania adopts a new democratic constitution by national referendum."
+  },
+  {
+    "year": 1993,
+    "event": "The litas is reintroduced as the national currency and the last Russian troops withdraw from Lithuanian soil."
+  },
+  {
+    "year": 2004,
+    "event": "Lithuania joins both NATO and the European Union, anchoring itself firmly in Western institutions."
+  },
+  {
+    "year": 2009,
+    "event": "Vilnius serves as a European Capital of Culture as Lithuania marks the millennium of its name's first written mention."
+  },
+  {
+    "year": 2015,
+    "event": "Lithuania adopts the euro as its currency, joining the eurozone."
+  },
+  {
+    "year": 2019,
+    "event": "Gitanas Nauseda is elected President of Lithuania, continuing the country's pro-Western and pro-European course."
+  },
+  {
+    "year": 2021,
+    "event": "Lithuania establishes a Taiwanese Representative Office in Vilnius, triggering a major diplomatic and economic rift with China."
+  },
+  {
+    "year": 2022,
+    "event": "Lithuania becomes a leading supporter of Ukraine after Russia's full-scale invasion, sharply boosting defense spending."
+  }
 ]

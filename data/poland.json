@@ -1,20 +1,198 @@
 [
-  { "year": 966, "event": "Christianization aligns Poland with Western Europe" },
-  { "year": 1025, "event": "Poland emerges as a crowned kingdom" },
-  { "year": 1138, "event": "Political fragmentation weakens the Polish state" },
-  { "year": 1226, "event": "Teutonic Knights establish power in the Baltic region" },
-  { "year": 1385, "event": "Poland and Lithuania unite through dynastic union" },
-  { "year": 1410, "event": "Polish-Lithuanian forces defeat Teutonic Knights at Grunwald" },
-  { "year": 1569, "event": "Polish–Lithuanian Commonwealth becomes a European power" },
-  { "year": 1573, "event": "Religious tolerance formalized in the Commonwealth" },
-  { "year": 1655, "event": "Swedish invasion devastates Polish cities" },
-  { "year": 1683, "event": "Polish forces halt Ottoman advance at Vienna" },
-  { "year": 1772, "event": "First partition reduces Polish territory" },
-  { "year": 1795, "event": "Poland disappears from the map of Europe" },
-  { "year": 1918, "event": "Poland regains independence after World War I" },
-  { "year": 1939, "event": "Germany and the Soviet Union invade Poland" },
-  { "year": 1944, "event": "Warsaw destroyed after failed uprising" },
-  { "year": 1945, "event": "Soviet-backed state established after World War II" },
-  { "year": 1980, "event": "Mass labor movement challenges communist control" },
-  { "year": 1989, "event": "Communist rule ends and independence restored" }
+  {
+    "year": -5500,
+    "event": "Neolithic farming communities of the Linear Pottery culture begin settling the loess lands of southern Poland."
+  },
+  {
+    "year": -2400,
+    "event": "The Corded Ware and Bell Beaker cultures spread across the region during the late Neolithic and early Bronze Age."
+  },
+  {
+    "year": -1300,
+    "event": "The Lusatian culture flourishes, building the fortified settlement of Biskupin in the centuries that follow."
+  },
+  {
+    "year": -400,
+    "event": "Celtic and later Germanic peoples migrate into and through the lands of present-day Poland during the Iron Age."
+  },
+  {
+    "year": 100,
+    "event": "Roman-era amber trade routes link the Baltic coast to the Mediterranean, drawing the region into wider European commerce."
+  },
+  {
+    "year": 500,
+    "event": "Early Slavic tribes settle the lands between the Oder and Vistula rivers following the great migrations."
+  },
+  {
+    "year": 845,
+    "event": "Frankish sources describe early West Slavic tribal groupings such as the Vistulans and Polans in the region."
+  },
+  {
+    "year": 966,
+    "event": "Duke Mieszko I adopts Christianity, traditionally marking the founding of the Polish state."
+  },
+  {
+    "year": 1000,
+    "event": "The Congress of Gniezno establishes a Polish archbishopric, affirming the realm's standing in Latin Christendom."
+  },
+  {
+    "year": 1025,
+    "event": "Boleslaw I the Brave is crowned the first King of Poland shortly before his death."
+  },
+  {
+    "year": 1138,
+    "event": "Boleslaw III's testament divides Poland among his sons, beginning nearly two centuries of feudal fragmentation."
+  },
+  {
+    "year": 1226,
+    "event": "Duke Konrad of Masovia invites the Teutonic Knights, who soon carve out a powerful state on the Baltic."
+  },
+  {
+    "year": 1241,
+    "event": "The Mongol invasion devastates southern Poland, culminating in the Battle of Legnica."
+  },
+  {
+    "year": 1320,
+    "event": "Wladyslaw I the Elbow-high is crowned king, reuniting much of the fragmented Polish lands."
+  },
+  {
+    "year": 1364,
+    "event": "King Casimir III the Great founds the University of Krakow, one of Central Europe's oldest universities."
+  },
+  {
+    "year": 1385,
+    "event": "The Union of Krewo unites Poland and Lithuania through the marriage of Jadwiga and Jogaila."
+  },
+  {
+    "year": 1410,
+    "event": "Polish-Lithuanian forces crush the Teutonic Knights at the Battle of Grunwald, one of medieval Europe's largest battles."
+  },
+  {
+    "year": 1466,
+    "event": "The Second Peace of Thorn ends the Thirteen Years' War, returning Gdansk and Royal Prussia to Poland."
+  },
+  {
+    "year": 1543,
+    "event": "Nicolaus Copernicus publishes his heliocentric theory, revolutionizing astronomy."
+  },
+  {
+    "year": 1569,
+    "event": "The Union of Lublin merges Poland and Lithuania into the Polish-Lithuanian Commonwealth."
+  },
+  {
+    "year": 1573,
+    "event": "The Warsaw Confederation guarantees religious tolerance, a landmark of early modern Europe."
+  },
+  {
+    "year": 1655,
+    "event": "The Swedish invasion known as the Deluge devastates the Commonwealth and undermines its power."
+  },
+  {
+    "year": 1683,
+    "event": "King Jan III Sobieski leads the relief of Vienna, breaking the Ottoman siege of the city."
+  },
+  {
+    "year": 1772,
+    "event": "The First Partition by Russia, Prussia, and Austria strips Poland of large territories."
+  },
+  {
+    "year": 1791,
+    "event": "The Constitution of 3 May is adopted, Europe's first modern codified national constitution."
+  },
+  {
+    "year": 1793,
+    "event": "The Second Partition further dismembers the Commonwealth among Russia and Prussia."
+  },
+  {
+    "year": 1795,
+    "event": "The Third Partition erases Poland from the map of Europe for 123 years."
+  },
+  {
+    "year": 1807,
+    "event": "Napoleon creates the Duchy of Warsaw, briefly reviving a Polish state."
+  },
+  {
+    "year": 1830,
+    "event": "The November Uprising against Russian rule breaks out but is ultimately suppressed."
+  },
+  {
+    "year": 1863,
+    "event": "The January Uprising erupts against Russian control and is crushed the following year."
+  },
+  {
+    "year": 1918,
+    "event": "Poland regains independence at the end of World War I, with Jozef Pilsudski as head of state."
+  },
+  {
+    "year": 1920,
+    "event": "Polish forces halt the Soviet advance at the Battle of Warsaw, the Miracle on the Vistula."
+  },
+  {
+    "year": 1921,
+    "event": "The Peace of Riga ends the Polish-Soviet War and fixes Poland's eastern frontier."
+  },
+  {
+    "year": 1939,
+    "event": "Nazi Germany invades on 1 September, soon joined by the Soviet Union, igniting World War II."
+  },
+  {
+    "year": 1940,
+    "event": "Soviet forces massacre thousands of Polish officers and intellectuals in the Katyn Forest."
+  },
+  {
+    "year": 1943,
+    "event": "The Warsaw Ghetto Uprising sees Jewish fighters resist Nazi deportations to death camps."
+  },
+  {
+    "year": 1944,
+    "event": "The Warsaw Uprising fights German occupation for 63 days before being brutally crushed."
+  },
+  {
+    "year": 1945,
+    "event": "World War II ends with Poland under Soviet influence and its borders shifted westward."
+  },
+  {
+    "year": 1947,
+    "event": "Communists consolidate power through rigged elections, establishing a Soviet-aligned state."
+  },
+  {
+    "year": 1955,
+    "event": "Poland becomes a founding member of the Warsaw Pact military alliance."
+  },
+  {
+    "year": 1978,
+    "event": "Karol Wojtyla is elected Pope John Paul II, the first Polish pope."
+  },
+  {
+    "year": 1980,
+    "event": "The Solidarity trade union, led by Lech Walesa, emerges from strikes at the Gdansk shipyard."
+  },
+  {
+    "year": 1981,
+    "event": "General Jaruzelski imposes martial law to suppress the Solidarity movement."
+  },
+  {
+    "year": 1989,
+    "event": "Round Table talks lead to partly free elections and the fall of communist rule."
+  },
+  {
+    "year": 1990,
+    "event": "Lech Walesa is elected the first president of post-communist Poland by popular vote."
+  },
+  {
+    "year": 1999,
+    "event": "Poland joins NATO, anchoring its security in the Western alliance."
+  },
+  {
+    "year": 2004,
+    "event": "Poland accedes to the European Union in the bloc's largest enlargement."
+  },
+  {
+    "year": 2010,
+    "event": "President Lech Kaczynski and dozens of officials die in the Smolensk air disaster."
+  },
+  {
+    "year": 2022,
+    "event": "Poland becomes a major hub for refugees and military aid following Russia's invasion of neighboring Ukraine."
+  }
 ]

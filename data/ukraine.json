@@ -1,19 +1,170 @@
 [
-  { "year": 850, "event": "Slavic settlements grow along Dnieper trade routes" },
-  { "year": 900, "event": "Kyivan Rus emerges as a major East Slavic state" },
-  { "year": 988, "event": "Christianization ties the region to Orthodox Europe" },
-  { "year": 1054, "event": "Religious split separates Orthodox Rus from Catholic Europe" },
-  { "year": 1240, "event": "Mongol invasion destroys Kyiv and fragments Rus lands" },
-  { "year": 1362, "event": "Lithuanian rule expands across much of Ukraine" },
-  { "year": 1569, "event": "Polish rule spreads under the Polish–Lithuanian Commonwealth" },
-  { "year": 1596, "event": "Religious union deepens Catholic–Orthodox division" },
-  { "year": 1648, "event": "Cossack uprising reshapes regional power" },
-  { "year": 1709, "event": "Russian dominance expands after defeat of Cossack allies" },
-  { "year": 1772, "event": "Imperial partitions divide Ukrainian lands" },
-  { "year": 1795, "event": "Russian Empire absorbs most Ukrainian territory" },
-  { "year": 1917, "event": "Brief independence follows imperial collapse" },
-  { "year": 1932, "event": "Famine devastates rural Ukraine under Soviet rule" },
-  { "year": 1941, "event": "World War II brings massive destruction and occupation" },
-  { "year": 1945, "event": "Ukraine consolidated within the Soviet Union" },
-  { "year": 1991, "event": "Ukraine regains independence after Soviet collapse" }
+  {
+    "year": -4500,
+    "event": "The Neolithic Cucuteni-Trypillia culture flourishes across present-day Ukraine, building some of the largest known settlements of its era."
+  },
+  {
+    "year": -4000,
+    "event": "Communities on the Pontic-Caspian steppe domesticate the horse, a development central to the spread of Indo-European peoples."
+  },
+  {
+    "year": -700,
+    "event": "Scythian nomads establish dominance over the steppe lands north of the Black Sea."
+  },
+  {
+    "year": -600,
+    "event": "Greek colonists found Black Sea trading cities such as Olbia and later Chersonesus and Panticapaeum."
+  },
+  {
+    "year": -480,
+    "event": "The Bosporan Kingdom emerges around the Kerch Strait, linking Greek and indigenous cultures."
+  },
+  {
+    "year": 250,
+    "event": "Gothic and later Hunnic migrations sweep across the region, reshaping the steppe peoples."
+  },
+  {
+    "year": 560,
+    "event": "Avar and then Khazar power dominates the steppe, with the Khazar Khaganate controlling trade routes."
+  },
+  {
+    "year": 882,
+    "event": "Prince Oleh seizes Kyiv and makes it the capital of the emerging Kyivan Rus state."
+  },
+  {
+    "year": 988,
+    "event": "Grand Prince Volodymyr the Great adopts Christianity, baptizing Kyivan Rus into the Eastern Orthodox faith."
+  },
+  {
+    "year": 1019,
+    "event": "Yaroslav the Wise begins his reign, ushering in a golden age of law, learning, and church-building in Kyiv."
+  },
+  {
+    "year": 1187,
+    "event": "The name 'Ukraina' is first recorded in the Hypatian Codex chronicle."
+  },
+  {
+    "year": 1240,
+    "event": "Mongol forces under Batu Khan sack Kyiv, ending the dominance of Kyivan Rus."
+  },
+  {
+    "year": 1253,
+    "event": "Danylo of Halych is crowned King of Ruthenia, consolidating the Kingdom of Galicia-Volhynia."
+  },
+  {
+    "year": 1362,
+    "event": "The Grand Duchy of Lithuania defeats the Golden Horde and absorbs much of central Ukraine including Kyiv."
+  },
+  {
+    "year": 1569,
+    "event": "The Union of Lublin transfers most Ukrainian lands from Lithuania to the Kingdom of Poland."
+  },
+  {
+    "year": 1596,
+    "event": "The Union of Brest creates the Greek Catholic (Uniate) Church, splitting Ukrainian religious allegiance."
+  },
+  {
+    "year": 1648,
+    "event": "Bohdan Khmelnytsky leads a Cossack uprising against Polish rule, founding the Cossack Hetmanate."
+  },
+  {
+    "year": 1654,
+    "event": "The Treaty of Pereyaslav places the Cossack Hetmanate under the protection of the Russian Tsar."
+  },
+  {
+    "year": 1709,
+    "event": "Hetman Ivan Mazepa's alliance with Sweden ends in defeat at the Battle of Poltava, tightening Russian control."
+  },
+  {
+    "year": 1764,
+    "event": "Catherine the Great abolishes the office of Hetman, dismantling Cossack autonomy."
+  },
+  {
+    "year": 1775,
+    "event": "Russian forces destroy the Zaporozhian Sich, ending the Cossack stronghold's independence."
+  },
+  {
+    "year": 1793,
+    "event": "The Second Partition of Poland brings much of right-bank Ukraine under Russian Imperial rule."
+  },
+  {
+    "year": 1840,
+    "event": "Taras Shevchenko publishes Kobzar, igniting a Ukrainian national and literary revival."
+  },
+  {
+    "year": 1876,
+    "event": "The Ems Ukaz bans the use of the Ukrainian language in print and public life within the Russian Empire."
+  },
+  {
+    "year": 1917,
+    "event": "The Central Rada proclaims the Ukrainian People's Republic amid the Russian Revolution."
+  },
+  {
+    "year": 1918,
+    "event": "Ukraine declares full independence as rival governments and foreign armies vie for control."
+  },
+  {
+    "year": 1921,
+    "event": "The Treaty of Riga partitions Ukraine between Soviet Russia and Poland, ending the independence struggle."
+  },
+  {
+    "year": 1922,
+    "event": "The Ukrainian Soviet Socialist Republic becomes a founding member of the Soviet Union."
+  },
+  {
+    "year": 1932,
+    "event": "Stalin's forced collectivization triggers the Holodomor, a man-made famine that kills millions of Ukrainians."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany invades Soviet Ukraine, beginning a brutal occupation and the mass murder of Ukrainian Jews."
+  },
+  {
+    "year": 1945,
+    "event": "The Soviet Union secures western Ukrainian lands, and the Ukrainian SSR becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1954,
+    "event": "The Crimean Peninsula is transferred from the Russian SFSR to the Ukrainian SSR."
+  },
+  {
+    "year": 1986,
+    "event": "The Chernobyl nuclear reactor explodes, causing history's worst nuclear accident and spreading radiation across Europe."
+  },
+  {
+    "year": 1991,
+    "event": "Ukraine declares independence from the Soviet Union, confirmed by a national referendum in December."
+  },
+  {
+    "year": 1994,
+    "event": "Ukraine signs the Budapest Memorandum, giving up its nuclear arsenal in exchange for security assurances."
+  },
+  {
+    "year": 1996,
+    "event": "Ukraine adopts a new constitution and introduces the hryvnia as its national currency."
+  },
+  {
+    "year": 2004,
+    "event": "The Orange Revolution overturns a rigged presidential election after mass peaceful protests."
+  },
+  {
+    "year": 2014,
+    "event": "The Euromaidan Revolution of Dignity ousts President Yanukovych; Russia annexes Crimea and foments war in the Donbas."
+  },
+  {
+    "year": 2017,
+    "event": "Ukraine secures visa-free travel to the European Union and brings its Association Agreement into force."
+  },
+  {
+    "year": 2019,
+    "event": "Volodymyr Zelensky is elected president in a landslide victory."
+  },
+  {
+    "year": 2022,
+    "event": "Russia launches a full-scale invasion of Ukraine, triggering Europe's largest war since 1945; Ukraine is granted EU candidate status."
+  },
+  {
+    "year": 2024,
+    "event": "Ukraine begins formal accession negotiations with the European Union while continuing to resist the Russian invasion."
+  }
 ]

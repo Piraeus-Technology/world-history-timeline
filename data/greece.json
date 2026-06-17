@@ -1,28 +1,214 @@
 [
-  { "year": -7000, "event": "Earliest farming communities develop in the Aegean region" },
-  { "year": -3000, "event": "Cycladic culture flourishes in the Aegean islands" },
-  { "year": -2000, "event": "Minoan civilization emerges on Crete" },
-  { "year": -1600, "event": "Mycenaean civilization dominates mainland Greece" },
-  { "year": -1200, "event": "Bronze Age collapse leads to decline of Mycenaean centers" },
-  { "year": -800, "event": "Greek city-states emerge and spread across the Mediterranean" },
-  { "year": -776, "event": "First Olympic Games are held at Olympia" },
-  { "year": -500, "event": "Classical Greek culture flourishes in Athens and other poleis" },
-  { "year": -490, "event": "Greek city-states defeat Persia at Marathon" },
-  { "year": -480, "event": "Greek victory over Persia at Salamis preserves independence" },
-  { "year": -431, "event": "Peloponnesian War weakens the Greek city-states" },
-  { "year": -338, "event": "Macedon defeats Greek forces, ending city-state independence" },
-  { "year": -323, "event": "Death of Alexander the Great spreads Greek culture across empires" },
-  { "year": -146, "event": "Greece is absorbed into the Roman Republic" },
-  { "year": 330, "event": "Constantinople becomes capital of the Eastern Roman Empire" },
-  { "year": 500, "event": "Greek language and culture dominate the Byzantine world" },
-  { "year": 1054, "event": "Great Schism divides Eastern Orthodoxy and Western Christianity" },
-  { "year": 1204, "event": "Fourth Crusade sacks Constantinople, weakening Byzantine power" },
-  { "year": 1453, "event": "Ottoman conquest of Constantinople ends Byzantine rule" },
-  { "year": 1821, "event": "Greek War of Independence begins against Ottoman rule" },
-  { "year": 1830, "event": "Greece is recognized as an independent state" },
-  { "year": 1912, "event": "Balkan Wars expand Greek territory" },
-  { "year": 1923, "event": "Population exchange reshapes Greek society and borders" },
-  { "year": 1940, "event": "Greece resists Axis invasion during World War II" },
-  { "year": 1949, "event": "Civil war ends, defining modern political alignment" },
-  { "year": 1981, "event": "Greece joins the European Economic Community" }
+  {
+    "year": -7000,
+    "event": "Neolithic farming communities settle in Thessaly and other regions, marking the beginning of agriculture in Greece."
+  },
+  {
+    "year": -3200,
+    "event": "The Cycladic civilization emerges in the Aegean islands, producing distinctive marble figurines."
+  },
+  {
+    "year": -2700,
+    "event": "The Minoan civilization begins to develop on Crete, becoming Europe's first advanced civilization."
+  },
+  {
+    "year": -1900,
+    "event": "Minoan palace complexes such as Knossos are built, centering a sophisticated maritime trading culture."
+  },
+  {
+    "year": -1600,
+    "event": "The Mycenaean civilization rises on the Greek mainland, building fortified citadels like Mycenae and Tiryns."
+  },
+  {
+    "year": -1450,
+    "event": "Mycenaean Greeks come to dominate Crete as Minoan power declines following volcanic and other disruptions."
+  },
+  {
+    "year": -1200,
+    "event": "The Mycenaean palace centers collapse, beginning the Greek Dark Ages."
+  },
+  {
+    "year": -776,
+    "event": "The first recorded ancient Olympic Games are held at Olympia."
+  },
+  {
+    "year": -750,
+    "event": "Greek city-states (poleis) form and the Greek alphabet develops, while Homer's epics take shape."
+  },
+  {
+    "year": -594,
+    "event": "Solon introduces sweeping legal and economic reforms in Athens, laying foundations for democracy."
+  },
+  {
+    "year": -508,
+    "event": "Cleisthenes establishes democratic institutions in Athens, creating the world's first democracy."
+  },
+  {
+    "year": -490,
+    "event": "Athenians defeat the invading Persians at the Battle of Marathon."
+  },
+  {
+    "year": -480,
+    "event": "Greek forces hold at Thermopylae and win the decisive naval Battle of Salamis against Persia."
+  },
+  {
+    "year": -447,
+    "event": "Construction of the Parthenon begins on the Acropolis under Pericles during Athens' Golden Age."
+  },
+  {
+    "year": -431,
+    "event": "The Peloponnesian War erupts between Athens and Sparta and their allies."
+  },
+  {
+    "year": -404,
+    "event": "Athens surrenders to Sparta, ending the Peloponnesian War and Athenian hegemony."
+  },
+  {
+    "year": -338,
+    "event": "Philip II of Macedon defeats the Greek city-states at Chaeronea, uniting Greece under Macedonian control."
+  },
+  {
+    "year": -336,
+    "event": "Alexander the Great becomes king of Macedon and begins conquests spreading Greek culture across Asia."
+  },
+  {
+    "year": -323,
+    "event": "Alexander the Great dies in Babylon, ushering in the Hellenistic age of successor kingdoms."
+  },
+  {
+    "year": -146,
+    "event": "Rome conquers Greece after the sack of Corinth, incorporating it into the Roman Republic."
+  },
+  {
+    "year": 330,
+    "event": "Emperor Constantine refounds Byzantium as Constantinople, capital of the eastern Roman (Byzantine) Empire."
+  },
+  {
+    "year": 1054,
+    "event": "The Great Schism splits Eastern Orthodox Christianity from the Roman Catholic Church."
+  },
+  {
+    "year": 1204,
+    "event": "The Fourth Crusade sacks Constantinople and fragments Byzantine Greece among Latin states."
+  },
+  {
+    "year": 1453,
+    "event": "The Ottoman Turks capture Constantinople, ending the Byzantine Empire."
+  },
+  {
+    "year": 1456,
+    "event": "Athens falls to the Ottomans, completing Ottoman rule over most of the Greek lands."
+  },
+  {
+    "year": 1687,
+    "event": "A Venetian bombardment severely damages the Parthenon during the Morean War."
+  },
+  {
+    "year": 1821,
+    "event": "The Greek War of Independence begins against Ottoman rule."
+  },
+  {
+    "year": 1827,
+    "event": "Allied British, French, and Russian fleets destroy the Ottoman-Egyptian navy at the Battle of Navarino."
+  },
+  {
+    "year": 1830,
+    "event": "The London Protocol recognizes Greece as an independent sovereign state."
+  },
+  {
+    "year": 1832,
+    "event": "Otto of Bavaria is installed as the first king of the new Kingdom of Greece."
+  },
+  {
+    "year": 1864,
+    "event": "Britain cedes the Ionian Islands to Greece, expanding the kingdom."
+  },
+  {
+    "year": 1896,
+    "event": "Athens hosts the first modern Olympic Games."
+  },
+  {
+    "year": 1912,
+    "event": "Greece joins the First Balkan War, gaining Thessaloniki and large territories from the Ottomans."
+  },
+  {
+    "year": 1913,
+    "event": "The Treaty of Bucharest after the Balkan Wars greatly enlarges Greek territory, including Crete and Macedonia."
+  },
+  {
+    "year": 1919,
+    "event": "Greece launches a military campaign into Anatolia following World War I."
+  },
+  {
+    "year": 1922,
+    "event": "The Asia Minor Catastrophe ends with Greek defeat and the loss of Smyrna."
+  },
+  {
+    "year": 1923,
+    "event": "The Treaty of Lausanne mandates a massive population exchange between Greece and Turkey."
+  },
+  {
+    "year": 1924,
+    "event": "Greece is proclaimed a republic after a referendum abolishes the monarchy."
+  },
+  {
+    "year": 1940,
+    "event": "Greece repels the Italian invasion, marking an early Allied victory in World War II."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany invades and occupies Greece alongside Italian and Bulgarian forces."
+  },
+  {
+    "year": 1944,
+    "event": "Greece is liberated from Axis occupation as German forces withdraw."
+  },
+  {
+    "year": 1946,
+    "event": "The Greek Civil War breaks out between government and communist forces."
+  },
+  {
+    "year": 1949,
+    "event": "The Greek Civil War ends with the defeat of the communist insurgency."
+  },
+  {
+    "year": 1952,
+    "event": "Greece joins NATO, aligning firmly with the Western bloc."
+  },
+  {
+    "year": 1967,
+    "event": "A military junta seizes power in a coup, establishing the Regime of the Colonels."
+  },
+  {
+    "year": 1974,
+    "event": "The military dictatorship collapses and democracy is restored under Konstantinos Karamanlis."
+  },
+  {
+    "year": 1975,
+    "event": "A new constitution establishes Greece as a parliamentary republic after a referendum abolishes the monarchy."
+  },
+  {
+    "year": 1981,
+    "event": "Greece becomes a member of the European Economic Community, forerunner of the European Union."
+  },
+  {
+    "year": 2001,
+    "event": "Greece adopts the euro, joining the eurozone."
+  },
+  {
+    "year": 2004,
+    "event": "Athens hosts the Summer Olympic Games, and Greece wins the UEFA European football championship."
+  },
+  {
+    "year": 2010,
+    "event": "Greece enters a severe debt crisis and receives the first international bailout amid austerity measures."
+  },
+  {
+    "year": 2015,
+    "event": "Greek voters reject bailout terms in a referendum, but the government accepts a third rescue package."
+  },
+  {
+    "year": 2018,
+    "event": "Greece exits its third bailout program, ending years of international financial supervision."
+  }
 ]

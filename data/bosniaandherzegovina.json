@@ -1,14 +1,170 @@
 [
-  { "year": 900, "event": "Slavic communities consolidate in the mountainous interior" },
-  { "year": 1180, "event": "Bosnian state emerges independent of neighboring powers" },
-  { "year": 1377, "event": "Bosnia becomes a medieval kingdom" },
-  { "year": 1463, "event": "Ottoman conquest introduces Islam and new urban centers" },
-  { "year": 1550, "event": "Multi-religious society forms under Ottoman administration" },
-  { "year": 1699, "event": "Bosnia becomes a frontier province against Habsburg lands" },
-  { "year": 1878, "event": "Austro-Hungarian rule modernizes administration and cities" },
-  { "year": 1914, "event": "Sarajevo assassination triggers World War I" },
-  { "year": 1918, "event": "Bosnia absorbed into a South Slavic state" },
-  { "year": 1941, "event": "World War II brings occupation and civil violence" },
-  { "year": 1945, "event": "Bosnia incorporated into socialist Yugoslavia" },
-  { "year": 1992, "event": "Independence leads to war and territorial fragmentation" }
+  {
+    "year": -12000,
+    "event": "Paleolithic hunter-gatherers leave rock engravings in Badanj Cave near Stolac, among the oldest evidence of human habitation in the region."
+  },
+  {
+    "year": -5000,
+    "event": "Neolithic farming communities of the Butmir culture flourish near present-day Sarajevo, producing distinctive spiral-decorated pottery."
+  },
+  {
+    "year": -1200,
+    "event": "Illyrian tribes, including the Daesitiates and Autariatae, settle the region during the Bronze and Iron Ages, building hillforts across the highlands."
+  },
+  {
+    "year": -9,
+    "event": "Rome completes the brutal suppression of the Great Illyrian Revolt and incorporates the territory into the province of Dalmatia."
+  },
+  {
+    "year": 9,
+    "event": "Roman rule brings roads, mining of silver and lead, and towns such as Domavia to the region of present-day Bosnia."
+  },
+  {
+    "year": 395,
+    "event": "The partition of the Roman Empire places the region near the dividing line between its Western and Eastern halves, shaping its later cultural frontier."
+  },
+  {
+    "year": 600,
+    "event": "Slavic peoples migrate into the Balkans, settling Bosnia and gradually assimilating or displacing the earlier Romanized Illyrian population."
+  },
+  {
+    "year": 958,
+    "event": "Byzantine emperor Constantine VII Porphyrogennetos mentions 'Bosona' in De Administrando Imperio, the earliest documented reference to Bosnia as a land."
+  },
+  {
+    "year": 1180,
+    "event": "Ban Kulin begins his rule, ushering in a prosperous and largely independent Banate of Bosnia."
+  },
+  {
+    "year": 1189,
+    "event": "Ban Kulin issues a charter granting trade privileges to merchants of Ragusa, one of the oldest documents of Bosnian statehood."
+  },
+  {
+    "year": 1203,
+    "event": "Ban Kulin and Bosnian church leaders formally renounce heresy at Bilino Polje amid papal pressure over the dualist Bosnian Church."
+  },
+  {
+    "year": 1377,
+    "event": "Tvrtko I is crowned King of Bosnia, elevating the banate to a kingdom that becomes a leading power in the western Balkans."
+  },
+  {
+    "year": 1391,
+    "event": "King Tvrtko I dies after expanding Bosnian territory toward the Adriatic, leaving the kingdom to fracture among rival nobles."
+  },
+  {
+    "year": 1448,
+    "event": "Magnate Stjepan Vukcic Kosaca adopts the title 'Herzog of Saint Sava,' giving the region of Herzegovina its enduring name."
+  },
+  {
+    "year": 1463,
+    "event": "Ottoman forces conquer the Kingdom of Bosnia and execute the last king, Stjepan Tomasevic, beginning centuries of Ottoman rule."
+  },
+  {
+    "year": 1482,
+    "event": "The Ottomans complete their conquest of Herzegovina, fully absorbing the region into the empire."
+  },
+  {
+    "year": 1521,
+    "event": "Sarajevo flourishes as an Ottoman administrative and commercial center, with mosques, bazaars, and public works transforming the urban landscape."
+  },
+  {
+    "year": 1566,
+    "event": "Construction is completed on the Old Bridge (Stari Most) at Mostar, a masterpiece of Ottoman engineering by architect Mimar Hayruddin."
+  },
+  {
+    "year": 1697,
+    "event": "Habsburg general Eugene of Savoy raids and burns Sarajevo during the Great Turkish War, devastating the city."
+  },
+  {
+    "year": 1831,
+    "event": "Husein Gradascevic leads a major revolt of Bosnian nobles against Ottoman centralizing reforms, demanding autonomy before being defeated."
+  },
+  {
+    "year": 1875,
+    "event": "The Herzegovinian peasant uprising against Ottoman taxation ignites a wider Balkan crisis among the great powers."
+  },
+  {
+    "year": 1878,
+    "event": "The Congress of Berlin places Bosnia and Herzegovina under Austro-Hungarian occupation and administration while it nominally remains Ottoman."
+  },
+  {
+    "year": 1908,
+    "event": "Austria-Hungary formally annexes Bosnia and Herzegovina, triggering an international crisis with Serbia and Russia."
+  },
+  {
+    "year": 1914,
+    "event": "Gavrilo Princip assassinates Archduke Franz Ferdinand in Sarajevo, the spark that ignites World War I."
+  },
+  {
+    "year": 1918,
+    "event": "Following Austria-Hungary's collapse, Bosnia and Herzegovina joins the new Kingdom of Serbs, Croats and Slovenes, later Yugoslavia."
+  },
+  {
+    "year": 1941,
+    "event": "Bosnia is incorporated into the fascist Independent State of Croatia, and brutal occupation, mass killings, and partisan resistance follow during World War II."
+  },
+  {
+    "year": 1943,
+    "event": "Tito's Partisans hold the second AVNOJ session in Jajce, laying the foundations for a federal socialist Yugoslavia that includes Bosnia as a republic."
+  },
+  {
+    "year": 1945,
+    "event": "Bosnia and Herzegovina becomes one of the six constituent republics of socialist Yugoslavia after the Partisan victory."
+  },
+  {
+    "year": 1961,
+    "event": "Ivo Andric, the Yugoslav writer associated with Bosnia, wins the Nobel Prize in Literature for works including 'The Bridge on the Drina.'"
+  },
+  {
+    "year": 1984,
+    "event": "Sarajevo hosts the Winter Olympic Games, a showcase moment of Yugoslav-era pride and international prestige."
+  },
+  {
+    "year": 1992,
+    "event": "Bosnia and Herzegovina declares independence after a referendum, is admitted to the United Nations, and is engulfed by war."
+  },
+  {
+    "year": 1992,
+    "event": "The Siege of Sarajevo begins, becoming the longest siege of a capital city in modern warfare and lasting nearly four years."
+  },
+  {
+    "year": 1993,
+    "event": "Mostar's Old Bridge is destroyed by shelling during the Croat-Bosniak conflict, a symbol of the war's cultural devastation."
+  },
+  {
+    "year": 1995,
+    "event": "Bosnian Serb forces murder over 8,000 Bosniak men and boys at Srebrenica in a genocide, the worst atrocity in Europe since World War II."
+  },
+  {
+    "year": 1995,
+    "event": "The Dayton Peace Agreement ends the Bosnian War, creating a state of two entities: the Federation of Bosnia and Herzegovina and Republika Srpska."
+  },
+  {
+    "year": 2004,
+    "event": "The reconstructed Old Bridge of Mostar reopens, symbolizing postwar reconciliation, and is later inscribed as a UNESCO World Heritage Site."
+  },
+  {
+    "year": 2006,
+    "event": "Bosnia and Herzegovina joins NATO's Partnership for Peace program, deepening its Euro-Atlantic integration."
+  },
+  {
+    "year": 2008,
+    "event": "Bosnia and Herzegovina signs a Stabilisation and Association Agreement with the European Union, a key step toward membership."
+  },
+  {
+    "year": 2014,
+    "event": "Widespread anti-government protests and citizen assemblies ('plenums') erupt over economic stagnation, corruption, and unemployment."
+  },
+  {
+    "year": 2016,
+    "event": "Bosnia and Herzegovina submits its formal application for European Union membership."
+  },
+  {
+    "year": 2022,
+    "event": "The European Union grants Bosnia and Herzegovina official candidate status for EU membership."
+  },
+  {
+    "year": 2024,
+    "event": "The European Council agrees to open EU accession negotiations with Bosnia and Herzegovina, marking a milestone in its integration path."
+  }
 ]

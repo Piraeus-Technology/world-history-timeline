@@ -1,21 +1,178 @@
 [
-  { "year": -8000, "event": "Earliest human presence in present-day Belgium" },
-  { "year": -500, "event": "Celtic tribes inhabit the Low Countries" },
-  { "year": 57, "event": "Roman conquest integrates the region into Gallia Belgica" },
-  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
-  { "year": 800, "event": "Frankish rule incorporates the region into Carolingian Europe" },
-  { "year": 1000, "event": "Medieval towns flourish through trade and textiles" },
-  { "year": 1384, "event": "Burgundian Netherlands unite much of the region" },
-  { "year": 1556, "event": "Spanish Habsburg rule begins over the Southern Netherlands" },
-  { "year": 1648, "event": "Eighty Years’ War ends, dividing the Low Countries" },
-  { "year": 1713, "event": "Austrian Habsburgs gain control after the War of Spanish Succession" },
-  { "year": 1795, "event": "France annexes the region during the Revolutionary Wars" },
-  { "year": 1815, "event": "Belgium is merged with the Netherlands after Napoleon’s defeat" },
-  { "year": 1830, "event": "Belgium declares independence from the Netherlands" },
-  { "year": 1831, "event": "Belgium becomes a constitutional monarchy" },
-  { "year": 1885, "event": "King Leopold II establishes control over the Congo Free State" },
-  { "year": 1914, "event": "German invasion draws Britain into World War I" },
-  { "year": 1940, "event": "Belgium is occupied by Nazi Germany in World War II" },
-  { "year": 1945, "event": "Belgium helps found postwar European cooperation" },
-  { "year": 1957, "event": "Belgium becomes a founding member of the European Economic Community" }
+  {
+    "year": -57,
+    "event": "Julius Caesar conquers the Belgae tribes, incorporating the region into the Roman world as part of Gaul."
+  },
+  {
+    "year": 406,
+    "event": "Germanic peoples, including the Franks, cross the Rhine and settle the region as Roman authority collapses."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides Charlemagne's empire, splitting the future Belgian lands between West and Middle Francia."
+  },
+  {
+    "year": 1302,
+    "event": "Flemish militias defeat French knights at the Battle of the Golden Spurs near Kortrijk."
+  },
+  {
+    "year": 1384,
+    "event": "The Flemish counties pass to the Dukes of Burgundy, beginning Burgundian unification of the Low Countries."
+  },
+  {
+    "year": 1477,
+    "event": "Mary of Burgundy marries Maximilian of Habsburg, bringing the Low Countries under Habsburg rule."
+  },
+  {
+    "year": 1500,
+    "event": "Charles V, the future Holy Roman Emperor and ruler of a vast empire, is born in Ghent."
+  },
+  {
+    "year": 1568,
+    "event": "The Eighty Years' War begins as the Low Countries revolt against Spanish Habsburg rule."
+  },
+  {
+    "year": 1585,
+    "event": "Spanish forces recapture Antwerp, cementing the split between the Protestant north and the Catholic south."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia confirms the Southern Netherlands as Spanish territory while closing the Scheldt to trade."
+  },
+  {
+    "year": 1713,
+    "event": "The Treaty of Utrecht transfers the Southern Netherlands from Spain to Austrian Habsburg rule."
+  },
+  {
+    "year": 1789,
+    "event": "The Brabant Revolution erupts against Austrian rule, briefly proclaiming the United Belgian States."
+  },
+  {
+    "year": 1795,
+    "event": "Revolutionary France annexes the Austrian Netherlands and the Prince-Bishopric of Liege."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna unites the Belgian provinces with the Netherlands under King William I."
+  },
+  {
+    "year": 1830,
+    "event": "The Belgian Revolution breaks out in Brussels, leading to the proclamation of an independent Belgium."
+  },
+  {
+    "year": 1831,
+    "event": "Leopold I becomes the first King of the Belgians and a liberal national constitution is adopted."
+  },
+  {
+    "year": 1835,
+    "event": "Continental Europe's first passenger railway opens between Brussels and Mechelen."
+  },
+  {
+    "year": 1839,
+    "event": "The Treaty of London formally recognizes Belgian independence and guarantees the nation's neutrality."
+  },
+  {
+    "year": 1865,
+    "event": "Leopold II ascends the throne, beginning a long reign marked by industrialization and colonial ambition."
+  },
+  {
+    "year": 1885,
+    "event": "Leopold II establishes the Congo Free State as his personal colonial possession."
+  },
+  {
+    "year": 1893,
+    "event": "Belgium introduces universal male suffrage, though weighted by a plural voting system."
+  },
+  {
+    "year": 1908,
+    "event": "Amid international outcry over abuses, the Belgian state annexes the Congo Free State as the Belgian Congo."
+  },
+  {
+    "year": 1914,
+    "event": "Germany invades neutral Belgium at the start of World War I, triggering Britain's entry into the war."
+  },
+  {
+    "year": 1918,
+    "event": "Belgium is liberated as World War I ends, and full universal male suffrage soon follows."
+  },
+  {
+    "year": 1921,
+    "event": "Belgium and Luxembourg form an economic union, an early step toward regional integration."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades Belgium, which capitulates after eighteen days and endures occupation."
+  },
+  {
+    "year": 1944,
+    "event": "Allied forces liberate most of Belgium, though the Battle of the Bulge soon erupts in the Ardennes."
+  },
+  {
+    "year": 1945,
+    "event": "Belgium becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1948,
+    "event": "Belgian women gain full voting rights in national elections."
+  },
+  {
+    "year": 1949,
+    "event": "Belgium becomes a founding member of NATO, which later moves its headquarters to Brussels."
+  },
+  {
+    "year": 1951,
+    "event": "King Leopold III abdicates amid the Royal Question controversy and is succeeded by his son Baudouin."
+  },
+  {
+    "year": 1957,
+    "event": "Belgium signs the Treaty of Rome as a founding member of the European Economic Community."
+  },
+  {
+    "year": 1958,
+    "event": "Brussels hosts the World's Fair, Expo 58, and unveils the iconic Atomium."
+  },
+  {
+    "year": 1960,
+    "event": "The Belgian Congo gains independence amid turmoil that triggers the Congo Crisis."
+  },
+  {
+    "year": 1962,
+    "event": "Belgium fixes the linguistic border between its Dutch- and French-speaking regions."
+  },
+  {
+    "year": 1970,
+    "event": "The first state reform begins transforming Belgium into a federal state with cultural communities."
+  },
+  {
+    "year": 1985,
+    "event": "The Heysel Stadium disaster in Brussels kills 39 football fans before a European Cup final."
+  },
+  {
+    "year": 1993,
+    "event": "Constitutional reform formally establishes Belgium as a federal state, and King Baudouin dies, succeeded by Albert II."
+  },
+  {
+    "year": 1994,
+    "event": "The Maastricht Treaty takes effect, with Brussels serving as a principal seat of the new European Union."
+  },
+  {
+    "year": 2002,
+    "event": "Belgium adopts the euro as its currency and legalizes euthanasia under strict conditions."
+  },
+  {
+    "year": 2003,
+    "event": "Belgium becomes the second country in the world to legalize same-sex marriage."
+  },
+  {
+    "year": 2011,
+    "event": "Belgium sets a world record after 541 days without an elected government amid political deadlock."
+  },
+  {
+    "year": 2013,
+    "event": "King Albert II abdicates and Philippe becomes King of the Belgians."
+  },
+  {
+    "year": 2016,
+    "event": "Coordinated terrorist bombings strike Brussels Airport and a metro station, killing 32 people."
+  }
 ]

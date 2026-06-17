@@ -1,23 +1,194 @@
 [
-  { "year": -12000, "event": "Earliest human settlement in present-day Sweden after Ice Age retreat" },
-  { "year": -4000, "event": "Neolithic farming communities establish permanent settlements" },
-  { "year": -1800, "event": "Nordic Bronze Age culture flourishes with long-distance trade" },
-  { "year": -500, "event": "Iron Age societies form regional chiefdoms" },
-  { "year": 800, "event": "Viking Age begins, linking Sweden to Baltic and eastern trade routes" },
-  { "year": 1000, "event": "Christianity spreads, reshaping kingship and society" },
-  { "year": 1164, "event": "Archbishopric of Uppsala establishes Sweden’s church structure" },
-  { "year": 1397, "event": "Kalmar Union unites Sweden with Denmark and Norway" },
-  { "year": 1523, "event": "Gustav Vasa leads Sweden out of the Kalmar Union" },
-  { "year": 1527, "event": "Swedish Reformation establishes Lutheran state church" },
-  { "year": 1611, "event": "Sweden emerges as a centralized military state" },
-  { "year": 1630, "event": "Sweden intervenes decisively in the Thirty Years’ War" },
-  { "year": 1648, "event": "Sweden becomes a major Baltic power after the Peace of Westphalia" },
-  { "year": 1700, "event": "Great Northern War begins against rival powers" },
-  { "year": 1721, "event": "Defeat ends Sweden’s era as a great power" },
-  { "year": 1809, "event": "Loss of Finland reshapes Swedish borders and identity" },
-  { "year": 1814, "event": "Union with Norway is established under Swedish crown" },
-  { "year": 1905, "event": "Union with Norway is peacefully dissolved" },
-  { "year": 1917, "event": "Parliamentary democracy becomes firmly established" },
-  { "year": 1939, "event": "Sweden maintains neutrality during World War II" },
-  { "year": 1995, "event": "Sweden joins the European Union" }
+  {
+    "year": -12000,
+    "event": "Hunter-gatherers begin settling the land as the ice sheet retreats at the end of the last glacial period."
+  },
+  {
+    "year": -4000,
+    "event": "Neolithic farming communities spread across southern Scandinavia, leaving megalithic tombs."
+  },
+  {
+    "year": -1800,
+    "event": "The Nordic Bronze Age flourishes, producing rock carvings such as those at Tanum."
+  },
+  {
+    "year": -500,
+    "event": "The Iron Age begins as iron-working spreads through Scandinavian societies."
+  },
+  {
+    "year": 98,
+    "event": "The Roman historian Tacitus mentions the Suiones (Swedes) in his work Germania."
+  },
+  {
+    "year": 550,
+    "event": "The Vendel Period sees the rise of powerful chieftains and rich boat burials near Old Uppsala."
+  },
+  {
+    "year": 793,
+    "event": "The Viking Age begins as Scandinavian raiders and traders venture across Europe and eastward."
+  },
+  {
+    "year": 829,
+    "event": "The Frankish missionary Ansgar arrives at the trading town of Birka to spread Christianity."
+  },
+  {
+    "year": 970,
+    "event": "Erik the Victorious reigns as one of the first historically attested kings of the Swedes."
+  },
+  {
+    "year": 1008,
+    "event": "King Olof Skotkonung is baptized, becoming the first Christian king of Sweden."
+  },
+  {
+    "year": 1164,
+    "event": "The Archdiocese of Uppsala is established, organizing the Swedish church."
+  },
+  {
+    "year": 1250,
+    "event": "Birger Jarl founds Stockholm and consolidates royal power for the Bjelbo dynasty."
+  },
+  {
+    "year": 1280,
+    "event": "King Magnus Ladulas issues ordinances establishing the Swedish nobility and feudal privileges."
+  },
+  {
+    "year": 1350,
+    "event": "King Magnus Eriksson promulgates a national law code unifying Sweden's provincial laws."
+  },
+  {
+    "year": 1397,
+    "event": "The Kalmar Union unites Sweden, Denmark, and Norway under a single monarch."
+  },
+  {
+    "year": 1477,
+    "event": "Uppsala University, the oldest in Scandinavia, is founded."
+  },
+  {
+    "year": 1520,
+    "event": "The Stockholm Bloodbath sees Danish king Christian II execute scores of Swedish nobles."
+  },
+  {
+    "year": 1523,
+    "event": "Gustav Vasa is elected king, breaking the Kalmar Union and founding an independent Swedish state."
+  },
+  {
+    "year": 1527,
+    "event": "Gustav Vasa launches the Reformation, establishing a Lutheran national church and seizing church lands."
+  },
+  {
+    "year": 1611,
+    "event": "Gustavus Adolphus ascends the throne and begins transforming Sweden into a great military power."
+  },
+  {
+    "year": 1630,
+    "event": "Sweden enters the Thirty Years' War, intervening decisively on the Protestant side."
+  },
+  {
+    "year": 1632,
+    "event": "King Gustavus Adolphus is killed at the Battle of Lutzen."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia confirms Sweden as a dominant power in the Baltic region."
+  },
+  {
+    "year": 1658,
+    "event": "The Treaty of Roskilde transfers the southern provinces of Scania, Halland, and Blekinge to Sweden."
+  },
+  {
+    "year": 1700,
+    "event": "The Great Northern War begins, pitting Sweden against a coalition led by Russia."
+  },
+  {
+    "year": 1709,
+    "event": "Sweden suffers a catastrophic defeat at the Battle of Poltava, ending its military dominance."
+  },
+  {
+    "year": 1721,
+    "event": "The Treaty of Nystad ends the Great Northern War, marking the decline of the Swedish Empire."
+  },
+  {
+    "year": 1739,
+    "event": "The Royal Swedish Academy of Sciences is founded, advancing figures like Linnaeus and Celsius."
+  },
+  {
+    "year": 1772,
+    "event": "Gustav III seizes power in a coup, ending the parliamentary Age of Liberty and restoring royal authority."
+  },
+  {
+    "year": 1809,
+    "event": "Sweden loses Finland to Russia and adopts a new constitution establishing separation of powers."
+  },
+  {
+    "year": 1814,
+    "event": "Sweden enters a union with Norway after the Napoleonic Wars, its last military conflict."
+  },
+  {
+    "year": 1818,
+    "event": "Jean-Baptiste Bernadotte becomes King Charles XIV John, founding the current royal dynasty."
+  },
+  {
+    "year": 1842,
+    "event": "Sweden introduces compulsory primary education for all children."
+  },
+  {
+    "year": 1866,
+    "event": "A bicameral parliament (Riksdag) replaces the old four-estate assembly."
+  },
+  {
+    "year": 1901,
+    "event": "The first Nobel Prizes are awarded in Stockholm under Alfred Nobel's bequest."
+  },
+  {
+    "year": 1905,
+    "event": "The union with Norway is peacefully dissolved, granting Norway full independence."
+  },
+  {
+    "year": 1914,
+    "event": "Sweden declares neutrality at the outbreak of World War I, a stance it maintains."
+  },
+  {
+    "year": 1921,
+    "event": "Universal and equal suffrage is achieved, with women voting in national elections for the first time."
+  },
+  {
+    "year": 1932,
+    "event": "The Social Democrats take power and begin building the modern welfare state, the 'folkhemmet'."
+  },
+  {
+    "year": 1939,
+    "event": "Sweden maintains neutrality during World War II while making concessions to Germany."
+  },
+  {
+    "year": 1946,
+    "event": "Sweden joins the United Nations."
+  },
+  {
+    "year": 1953,
+    "event": "Swede Dag Hammarskjold becomes Secretary-General of the United Nations."
+  },
+  {
+    "year": 1974,
+    "event": "A new Instrument of Government reduces the monarch to a purely ceremonial role."
+  },
+  {
+    "year": 1986,
+    "event": "Prime Minister Olof Palme is assassinated in central Stockholm."
+  },
+  {
+    "year": 1995,
+    "event": "Sweden joins the European Union."
+  },
+  {
+    "year": 2000,
+    "event": "The Oresund Bridge opens, linking Sweden to Denmark by road and rail."
+  },
+  {
+    "year": 2003,
+    "event": "Swedish voters reject adopting the euro in a national referendum."
+  },
+  {
+    "year": 2024,
+    "event": "Sweden joins NATO, ending more than two centuries of military non-alignment."
+  }
 ]

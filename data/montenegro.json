@@ -1,13 +1,194 @@
 [
-  { "year": 900, "event": "Slavic communities settle the Adriatic mountain interior" },
-  { "year": 1042, "event": "Zeta emerges as an independent South Slavic state" },
-  { "year": 1180, "event": "Region linked to medieval Serbian realms" },
-  { "year": 1496, "event": "Ottoman pressure pushes power into mountain strongholds" },
-  { "year": 1696, "event": "Prince-bishopric rule blends church and state authority" },
-  { "year": 1796, "event": "Montenegro defeats Ottoman forces and preserves autonomy" },
-  { "year": 1852, "event": "Secular principality replaces church-led rule" },
-  { "year": 1878, "event": "International recognition confirms independence" },
-  { "year": 1918, "event": "State absorbed into a South Slavic kingdom" },
-  { "year": 1945, "event": "Montenegro incorporated into socialist Yugoslavia" },
-  { "year": 2006, "event": "Independence restored after peaceful referendum" }
+  {
+    "year": -180000,
+    "event": "Paleolithic humans inhabit the region, leaving evidence at the Crvena Stijena (Red Rock) shelter near Nikšić."
+  },
+  {
+    "year": -6000,
+    "event": "Neolithic farming communities settle along the Adriatic coast and inland valleys."
+  },
+  {
+    "year": -1000,
+    "event": "Illyrian tribes, including the Docleatae and Labeatae, establish settlements across the territory of present-day Montenegro."
+  },
+  {
+    "year": -400,
+    "event": "Greek traders operate along the Adriatic coast, influencing the local Illyrian communities."
+  },
+  {
+    "year": -168,
+    "event": "Rome defeats the Illyrian kingdom of King Gentius, bringing the region under expanding Roman control."
+  },
+  {
+    "year": 9,
+    "event": "Rome crushes the great Illyrian revolt and consolidates the region within the province of Illyricum."
+  },
+  {
+    "year": 297,
+    "event": "The Roman city of Doclea (Duklja) near modern Podgorica flourishes as a regional urban center."
+  },
+  {
+    "year": 395,
+    "event": "The division of the Roman Empire places the region within the Eastern Roman (Byzantine) sphere."
+  },
+  {
+    "year": 600,
+    "event": "Slavic tribes migrate into the region, gradually assimilating the earlier Romanized population."
+  },
+  {
+    "year": 1042,
+    "event": "Prince Stefan Vojislav defeats a Byzantine army at the Battle of Bar, securing independence for the Slavic principality of Duklja."
+  },
+  {
+    "year": 1077,
+    "event": "Mihailo Vojislavljević of Duklja is recognized as king by Pope Gregory VII, establishing the first kingdom in the region."
+  },
+  {
+    "year": 1186,
+    "event": "Serbian Grand Prince Stefan Nemanja conquers Duklja (Zeta), incorporating it into the medieval Serbian state."
+  },
+  {
+    "year": 1356,
+    "event": "The Balšić noble family rises to power, ruling Zeta as a largely autonomous principality as the Serbian Empire declines."
+  },
+  {
+    "year": 1421,
+    "event": "The Crnojević dynasty begins consolidating control over Zeta after the end of Balšić rule."
+  },
+  {
+    "year": 1482,
+    "event": "Ivan Crnojević establishes Cetinje as the capital of Zeta and founds the monastery that becomes the seat of the Montenegrin church."
+  },
+  {
+    "year": 1493,
+    "event": "The Crnojević Printing House produces the first books printed in Cyrillic script among the South Slavs at Cetinje."
+  },
+  {
+    "year": 1496,
+    "event": "Zeta falls under Ottoman suzerainty, though the mountainous interior retains significant autonomy."
+  },
+  {
+    "year": 1516,
+    "event": "Rule passes to the prince-bishops (vladikas) of Cetinje, forming a theocratic Montenegrin polity resisting Ottoman dominance."
+  },
+  {
+    "year": 1697,
+    "event": "Danilo Petrović-Njegoš becomes vladika, founding the Petrović-Njegoš dynasty that rules Montenegro for over two centuries."
+  },
+  {
+    "year": 1711,
+    "event": "Montenegro allies with Tsarist Russia against the Ottomans, beginning a lasting Russo-Montenegrin relationship."
+  },
+  {
+    "year": 1796,
+    "event": "Montenegrins defeat the Ottomans at the Battles of Martinići and Krusi, securing de facto independence under Petar I Petrović-Njegoš."
+  },
+  {
+    "year": 1847,
+    "event": "Petar II Petrović-Njegoš publishes the epic poem The Mountain Wreath, a cornerstone of Montenegrin and South Slavic literature."
+  },
+  {
+    "year": 1852,
+    "event": "Danilo I secularizes the state, transforming Montenegro from a prince-bishopric into a secular principality."
+  },
+  {
+    "year": 1858,
+    "event": "Montenegrin forces decisively defeat the Ottomans at the Battle of Grahovac, expanding the principality's territory."
+  },
+  {
+    "year": 1878,
+    "event": "The Congress of Berlin grants Montenegro full international recognition as an independent state with enlarged borders, including the port of Bar."
+  },
+  {
+    "year": 1905,
+    "event": "Prince Nikola I grants Montenegro its first constitution and establishes a parliament (Skupština)."
+  },
+  {
+    "year": 1910,
+    "event": "Montenegro is proclaimed a kingdom with Nikola I as its first king."
+  },
+  {
+    "year": 1912,
+    "event": "Montenegro joins the Balkan League and opens the First Balkan War against the Ottoman Empire."
+  },
+  {
+    "year": 1916,
+    "event": "Austro-Hungarian forces occupy Montenegro during World War I, forcing King Nikola I into exile."
+  },
+  {
+    "year": 1918,
+    "event": "The contested Podgorica Assembly deposes the Petrović-Njegoš dynasty and unites Montenegro with Serbia in the new Kingdom of Serbs, Croats and Slovenes."
+  },
+  {
+    "year": 1929,
+    "event": "Montenegro becomes part of the Zeta Banovina within the renamed Kingdom of Yugoslavia."
+  },
+  {
+    "year": 1941,
+    "event": "Axis powers occupy Montenegro, and the July 13 Uprising becomes one of the first mass anti-fascist revolts in occupied Europe."
+  },
+  {
+    "year": 1945,
+    "event": "Montenegro becomes one of the six constituent republics of socialist Yugoslavia under Josip Broz Tito."
+  },
+  {
+    "year": 1946,
+    "event": "Titograd (modern Podgorica) is designated the capital of the Socialist Republic of Montenegro."
+  },
+  {
+    "year": 1979,
+    "event": "A devastating earthquake strikes the Montenegrin coast, severely damaging the historic towns of Kotor, Budva, and Bar."
+  },
+  {
+    "year": 1991,
+    "event": "Montenegrin reservists take part in the Yugoslav siege and bombardment of Dubrovnik as Yugoslavia begins to disintegrate."
+  },
+  {
+    "year": 1992,
+    "event": "Montenegro joins Serbia to form the rump Federal Republic of Yugoslavia after the other republics secede."
+  },
+  {
+    "year": 1999,
+    "event": "Montenegro is affected by the NATO bombing of Yugoslavia during the Kosovo War and adopts the German mark to distance itself from Belgrade."
+  },
+  {
+    "year": 2002,
+    "event": "Montenegro adopts the euro as its de facto currency despite not being part of the eurozone."
+  },
+  {
+    "year": 2003,
+    "event": "The Federal Republic of Yugoslavia is reconstituted as the looser State Union of Serbia and Montenegro."
+  },
+  {
+    "year": 2006,
+    "event": "Montenegrins narrowly vote for independence in a referendum, restoring sovereignty and gaining admission to the United Nations."
+  },
+  {
+    "year": 2007,
+    "event": "Montenegro adopts a new constitution defining it as a civic, democratic, and ecological state."
+  },
+  {
+    "year": 2008,
+    "event": "Montenegro formally applies for membership in the European Union."
+  },
+  {
+    "year": 2010,
+    "event": "The European Union grants Montenegro official candidate status for membership."
+  },
+  {
+    "year": 2012,
+    "event": "Montenegro opens formal accession negotiations with the European Union."
+  },
+  {
+    "year": 2017,
+    "event": "Montenegro joins NATO as its 29th member despite strong domestic and Russian opposition."
+  },
+  {
+    "year": 2020,
+    "event": "Opposition parties oust the long-dominant Democratic Party of Socialists in parliamentary elections, ending decades of single-party rule."
+  },
+  {
+    "year": 2023,
+    "event": "Jakov Milatović is elected president, defeating long-serving leader Milo Đukanović."
+  }
 ]

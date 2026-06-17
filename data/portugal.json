@@ -1,26 +1,202 @@
 [
-  { "year": -100000, "event": "Early human ancestors inhabit the western Iberian Peninsula" },
-  { "year": -3000, "event": "Neolithic and Bronze Age cultures develop along Atlantic Iberia" },
-  { "year": -800, "event": "Phoenician trading posts appear along the coast" },
-  { "year": -200, "event": "Roman rule integrates the region as Lusitania" },
-  { "year": 400, "event": "Roman authority collapses during Germanic invasions" },
-  { "year": 585, "event": "Visigothic Kingdom controls much of Iberia" },
-  { "year": 711, "event": "Muslim forces conquer most of Iberia, including Portugal" },
-  { "year": 868, "event": "County of Portugal is established during the Reconquista" },
-  { "year": 1143, "event": "Kingdom of Portugal is recognized as independent" },
-  { "year": 1249, "event": "Reconquista in Portugal is completed with the capture of the Algarve" },
-  { "year": 1385, "event": "Crisis of succession secures Portuguese independence from Castile" },
-  { "year": 1415, "event": "Capture of Ceuta begins Portuguese overseas expansion" },
-  { "year": 1488, "event": "Bartolomeu Dias rounds the Cape of Good Hope" },
-  { "year": 1498, "event": "Vasco da Gama reaches India by sea" },
-  { "year": 1500, "event": "Portugal claims Brazil, expanding its Atlantic empire" },
-  { "year": 1550, "event": "Portuguese trading empire spans Africa, Asia, and South America" },
-  { "year": 1580, "event": "Portugal enters dynastic union with Spain" },
-  { "year": 1640, "event": "Portugal restores independence from Spanish rule" },
-  { "year": 1755, "event": "Lisbon earthquake devastates the capital and reshapes urban planning" },
-  { "year": 1807, "event": "Napoleonic invasion forces royal court to relocate to Brazil" },
-  { "year": 1822, "event": "Brazil declares independence, ending Portugal’s largest colony" },
-  { "year": 1910, "event": "Monarchy is overthrown and a republic is proclaimed" },
-  { "year": 1974, "event": "Peaceful revolution ends authoritarian rule and empire" },
-  { "year": 1986, "event": "Portugal joins the European Economic Community" }
+  {
+    "year": -30000,
+    "event": "Upper Paleolithic peoples create the rock engravings of the Côa Valley, one of Europe's largest open-air collections of prehistoric art."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic communities along the Atlantic coast build megalithic monuments such as the dolmens and the great cromlech of the Almendres."
+  },
+  {
+    "year": -1000,
+    "event": "Phoenician and later Carthaginian traders establish coastal contacts and settlements in the south of the Iberian Peninsula."
+  },
+  {
+    "year": -700,
+    "event": "Celtic peoples migrate into the region, blending with native populations to form the Lusitanian and Gallaecian cultures."
+  },
+  {
+    "year": -219,
+    "event": "Rome begins its conquest of the Iberian Peninsula during the Second Punic War against Carthage."
+  },
+  {
+    "year": -139,
+    "event": "The Lusitanian leader Viriathus, who long resisted Roman expansion, is assassinated, breaking native resistance."
+  },
+  {
+    "year": -27,
+    "event": "Rome organizes the region within the province of Lusitania, founding cities such as Olisipo (Lisbon) and Emerita Augusta."
+  },
+  {
+    "year": 409,
+    "event": "Germanic Suebi and other tribes cross into Iberia, and the Suebi establish a kingdom in the northwest centered on Bracara."
+  },
+  {
+    "year": 585,
+    "event": "The Visigothic king Leovigild conquers the Suebi kingdom, bringing the region under Visigothic rule."
+  },
+  {
+    "year": 711,
+    "event": "Muslim Umayyad forces invade Iberia, rapidly conquering most of the peninsula including the future Portuguese lands."
+  },
+  {
+    "year": 868,
+    "event": "Vímara Peres reconquers Porto and establishes the County of Portugal under the Kingdom of Asturias-León."
+  },
+  {
+    "year": 1095,
+    "event": "Henry of Burgundy is granted the County of Portugal by King Alfonso VI of León and Castile."
+  },
+  {
+    "year": 1139,
+    "event": "Afonso Henriques defeats the Moors at the Battle of Ourique and assumes the title of King of Portugal."
+  },
+  {
+    "year": 1143,
+    "event": "The Treaty of Zamora recognizes Portugal's independence, with Afonso I as its first king."
+  },
+  {
+    "year": 1147,
+    "event": "Afonso I captures Lisbon from the Moors with the aid of crusaders, a key step in the Reconquista."
+  },
+  {
+    "year": 1179,
+    "event": "Pope Alexander III formally recognizes Portugal as an independent kingdom in the bull Manifestis Probatum."
+  },
+  {
+    "year": 1249,
+    "event": "King Afonso III completes the Reconquista in Portugal with the capture of the Algarve from the Moors."
+  },
+  {
+    "year": 1290,
+    "event": "King Dinis founds the University of Coimbra, one of the oldest universities in Europe."
+  },
+  {
+    "year": 1373,
+    "event": "Portugal and England sign the Anglo-Portuguese Alliance, the oldest active diplomatic alliance in the world."
+  },
+  {
+    "year": 1385,
+    "event": "John I defeats Castile at the Battle of Aljubarrota, securing independence and founding the House of Aviz."
+  },
+  {
+    "year": 1415,
+    "event": "Portugal captures Ceuta in North Africa, marking the start of its overseas expansion and the Age of Discovery."
+  },
+  {
+    "year": 1419,
+    "event": "Portuguese navigators sponsored by Prince Henry the Navigator discover and begin settling the Madeira archipelago."
+  },
+  {
+    "year": 1488,
+    "event": "Bartolomeu Dias rounds the Cape of Good Hope, opening the sea route around Africa toward the Indian Ocean."
+  },
+  {
+    "year": 1494,
+    "event": "The Treaty of Tordesillas divides newly discovered lands between Portugal and Spain along a meridian."
+  },
+  {
+    "year": 1498,
+    "event": "Vasco da Gama reaches India by sea, establishing a direct maritime trade route between Europe and Asia."
+  },
+  {
+    "year": 1500,
+    "event": "Pedro Álvares Cabral reaches the coast of Brazil, claiming it for Portugal."
+  },
+  {
+    "year": 1572,
+    "event": "Luís de Camões publishes the epic poem Os Lusíadas, the defining work of Portuguese literature."
+  },
+  {
+    "year": 1580,
+    "event": "Philip II of Spain seizes the Portuguese crown, beginning the Iberian Union of the two kingdoms."
+  },
+  {
+    "year": 1640,
+    "event": "Portugal revolts against Spanish rule, restoring independence under King John IV of the House of Braganza."
+  },
+  {
+    "year": 1755,
+    "event": "A catastrophic earthquake, tsunami, and fire devastate Lisbon, prompting the rebuilding led by the Marquis of Pombal."
+  },
+  {
+    "year": 1807,
+    "event": "Napoleon's forces invade Portugal, and the royal family flees to Brazil, transferring the court to Rio de Janeiro."
+  },
+  {
+    "year": 1820,
+    "event": "The Liberal Revolution of Porto demands a constitutional monarchy and the king's return from Brazil."
+  },
+  {
+    "year": 1822,
+    "event": "Brazil declares independence from Portugal, ending the kingdom's largest colonial possession."
+  },
+  {
+    "year": 1828,
+    "event": "The Liberal Wars erupt between supporters of absolutist Miguel I and the constitutionalists backing Pedro and Maria II."
+  },
+  {
+    "year": 1910,
+    "event": "A republican revolution overthrows the monarchy and establishes the First Portuguese Republic."
+  },
+  {
+    "year": 1916,
+    "event": "Portugal enters World War I on the side of the Allies after Germany declares war."
+  },
+  {
+    "year": 1926,
+    "event": "A military coup ends the unstable First Republic and ushers in an authoritarian dictatorship."
+  },
+  {
+    "year": 1933,
+    "event": "António de Oliveira Salazar establishes the corporatist authoritarian regime known as the Estado Novo."
+  },
+  {
+    "year": 1949,
+    "event": "Portugal becomes a founding member of the NATO military alliance."
+  },
+  {
+    "year": 1955,
+    "event": "Portugal is admitted to the United Nations."
+  },
+  {
+    "year": 1961,
+    "event": "The Portuguese Colonial War begins as independence movements rise in Angola, then Guinea-Bissau and Mozambique."
+  },
+  {
+    "year": 1974,
+    "event": "The Carnation Revolution overthrows the Estado Novo dictatorship in a largely peaceful military coup."
+  },
+  {
+    "year": 1975,
+    "event": "Portugal grants independence to its African colonies, including Angola, Mozambique, and Guinea-Bissau."
+  },
+  {
+    "year": 1976,
+    "event": "Portugal adopts a new democratic constitution and holds free elections under the Third Republic."
+  },
+  {
+    "year": 1986,
+    "event": "Portugal joins the European Economic Community, anchoring its democracy and economy within Europe."
+  },
+  {
+    "year": 1998,
+    "event": "Lisbon hosts the Expo '98 world exposition and writer José Saramago wins the Nobel Prize in Literature."
+  },
+  {
+    "year": 1999,
+    "event": "Portugal adopts the euro as its currency and transfers Macau to China, ending its last overseas territory."
+  },
+  {
+    "year": 2002,
+    "event": "Euro banknotes and coins enter circulation, replacing the Portuguese escudo."
+  },
+  {
+    "year": 2011,
+    "event": "Amid the eurozone debt crisis, Portugal accepts a major international bailout and adopts austerity measures."
+  },
+  {
+    "year": 2016,
+    "event": "Portugal wins its first major football title, claiming victory at the UEFA European Championship."
+  }
 ]

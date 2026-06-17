@@ -1,14 +1,178 @@
 [
-  { "year": -9000, "event": "Earliest evidence of human presence in Iceland (likely transient)" },
-  { "year": 874, "event": "Norse settlers establish permanent settlement in Iceland" },
-  { "year": 930, "event": "Althing is founded, one of the world’s oldest parliaments" },
-  { "year": 1000, "event": "Christianity is adopted through legal compromise" },
-  { "year": 1262, "event": "Iceland submits to Norwegian rule" },
-  { "year": 1380, "event": "Iceland comes under Danish crown through union" },
-  { "year": 1550, "event": "Reformation establishes Lutheranism under Danish rule" },
-  { "year": 1783, "event": "Laki volcanic eruption causes widespread famine" },
-  { "year": 1874, "event": "Limited home rule is granted by Denmark" },
-  { "year": 1918, "event": "Iceland becomes a sovereign state in union with Denmark" },
-  { "year": 1944, "event": "Iceland declares full independence and becomes a republic" },
-  { "year": 1949, "event": "Iceland joins NATO, abandoning strict neutrality" }
+  {
+    "year": 874,
+    "event": "Norwegian chieftain Ingolfr Arnarson establishes the first permanent Norse settlement at Reykjavik, traditionally marking the start of Iceland's settlement era."
+  },
+  {
+    "year": 930,
+    "event": "Iceland's settlers found the Althing at Thingvellir, creating one of the world's oldest functioning parliamentary assemblies and the Icelandic Commonwealth."
+  },
+  {
+    "year": 1000,
+    "event": "The Althing peacefully adopts Christianity as the official religion while allowing private pagan worship to continue."
+  },
+  {
+    "year": 1056,
+    "event": "Isleifur Gizurarson becomes the first native bishop of Iceland, establishing the episcopal see at Skalholt."
+  },
+  {
+    "year": 1117,
+    "event": "Iceland's laws are written down for the first time as the Gragas legal code, replacing reliance on oral recitation."
+  },
+  {
+    "year": 1220,
+    "event": "The violent Sturlung Era of clan feuds begins, destabilizing the Commonwealth and inviting Norwegian intervention."
+  },
+  {
+    "year": 1262,
+    "event": "Icelandic chieftains swear allegiance to the Norwegian crown under the Old Covenant, ending the independent Commonwealth."
+  },
+  {
+    "year": 1397,
+    "event": "Iceland comes under Danish rule as Norway joins the Kalmar Union uniting the Scandinavian kingdoms."
+  },
+  {
+    "year": 1402,
+    "event": "The Black Death reaches Iceland, killing an estimated half of the population over the following two years."
+  },
+  {
+    "year": 1550,
+    "event": "Catholic bishop Jon Arason is executed, completing the Protestant Reformation and Lutheran establishment in Iceland."
+  },
+  {
+    "year": 1584,
+    "event": "Bishop Gudbrandur Thorlaksson publishes the first complete Icelandic translation of the Bible, helping preserve the language."
+  },
+  {
+    "year": 1602,
+    "event": "Denmark imposes a trade monopoly on Iceland, restricting commerce to Danish merchants and stifling the economy for nearly two centuries."
+  },
+  {
+    "year": 1627,
+    "event": "Barbary pirates raid Iceland's coasts in the Turkish Abductions, carrying hundreds of Icelanders into slavery in North Africa."
+  },
+  {
+    "year": 1707,
+    "event": "A smallpox epidemic sweeps Iceland, killing roughly a quarter to a third of the population."
+  },
+  {
+    "year": 1783,
+    "event": "The catastrophic Laki volcanic eruption causes the Mist Hardships famine, killing around a fifth of Icelanders and much of the livestock."
+  },
+  {
+    "year": 1786,
+    "event": "Denmark abolishes the trade monopoly and grants Reykjavik town charter rights, beginning its growth as a center of commerce."
+  },
+  {
+    "year": 1800,
+    "event": "Denmark abolishes the ancient Althing, transferring its functions to a new high court."
+  },
+  {
+    "year": 1809,
+    "event": "Danish adventurer Jorgen Jorgensen briefly seizes power in the Icelandic Revolution, declaring the island independent before being deposed."
+  },
+  {
+    "year": 1843,
+    "event": "King Christian VIII orders the re-establishment of the Althing as a consultative assembly in Reykjavik."
+  },
+  {
+    "year": 1874,
+    "event": "Denmark grants Iceland a constitution and limited home rule over its own finances on the thousandth anniversary of settlement."
+  },
+  {
+    "year": 1904,
+    "event": "Iceland gains home rule with its first resident minister, Hannes Hafstein, based in Reykjavik."
+  },
+  {
+    "year": 1911,
+    "event": "The University of Iceland is founded in Reykjavik, consolidating the nation's higher education."
+  },
+  {
+    "year": 1915,
+    "event": "Icelandic women gain the right to vote and stand in parliamentary elections."
+  },
+  {
+    "year": 1918,
+    "event": "The Act of Union makes Iceland a sovereign kingdom in personal union with Denmark, retaining shared monarchy and foreign affairs."
+  },
+  {
+    "year": 1940,
+    "event": "British forces occupy Iceland to forestall a German takeover after Germany invades Denmark in World War II."
+  },
+  {
+    "year": 1941,
+    "event": "The United States takes over the defense of Iceland from Britain, stationing troops there for the rest of the war."
+  },
+  {
+    "year": 1944,
+    "event": "Iceland dissolves its union with Denmark and proclaims an independent republic at Thingvellir, electing Sveinn Bjornsson as first president."
+  },
+  {
+    "year": 1946,
+    "event": "Iceland joins the United Nations as a member state."
+  },
+  {
+    "year": 1949,
+    "event": "Iceland becomes a founding member of NATO despite domestic protests, choosing collective defense without a standing army."
+  },
+  {
+    "year": 1951,
+    "event": "A defense agreement returns United States military forces to the Keflavik base to safeguard Iceland during the Cold War."
+  },
+  {
+    "year": 1958,
+    "event": "Iceland extends its fishing limits and clashes with Britain in the first of the Cod Wars over disputed waters."
+  },
+  {
+    "year": 1963,
+    "event": "A submarine volcanic eruption off the south coast creates the new island of Surtsey, a natural laboratory for studying colonization."
+  },
+  {
+    "year": 1973,
+    "event": "The Eldfell eruption on Heimaey forces the evacuation of the entire town of Vestmannaeyjar and partially buries it in lava."
+  },
+  {
+    "year": 1976,
+    "event": "The Third Cod War ends with Iceland securing a 200-nautical-mile exclusive fishing zone after near-conflict with Britain."
+  },
+  {
+    "year": 1980,
+    "event": "Vigdis Finnbogadottir is elected president, becoming the world's first democratically elected female head of state."
+  },
+  {
+    "year": 1986,
+    "event": "Reykjavik hosts the Reagan-Gorbachev summit, a pivotal Cold War meeting that advanced nuclear arms reduction talks."
+  },
+  {
+    "year": 1994,
+    "event": "Iceland joins the European Economic Area, gaining access to the European single market without full EU membership."
+  },
+  {
+    "year": 2006,
+    "event": "The United States closes its military base at Keflavik, ending a continuous troop presence dating to World War II."
+  },
+  {
+    "year": 2008,
+    "event": "Iceland's three major banks collapse in the global financial crisis, plunging the country into a severe economic crash."
+  },
+  {
+    "year": 2009,
+    "event": "Johanna Sigurdardottir becomes prime minister, the world's first openly gay head of government, amid post-crash political upheaval."
+  },
+  {
+    "year": 2010,
+    "event": "The eruption of Eyjafjallajokull spews an ash cloud that grounds air travel across much of Europe for days."
+  },
+  {
+    "year": 2016,
+    "event": "The Panama Papers leak forces Prime Minister Sigmundur David Gunnlaugsson to resign over offshore holdings."
+  },
+  {
+    "year": 2018,
+    "event": "Iceland's national football team makes its first-ever appearance at the FIFA World Cup in Russia."
+  },
+  {
+    "year": 2024,
+    "event": "A series of volcanic eruptions on the Reykjanes Peninsula prompts repeated evacuations of the fishing town of Grindavik."
+  }
 ]

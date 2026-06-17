@@ -1,16 +1,190 @@
 [
-  { "year": 800, "event": "Slavic principalities form in the central Balkans" },
-  { "year": 1217, "event": "Serbia recognized as a medieval kingdom" },
-  { "year": 1346, "event": "Serbian Empire reaches peak under Stefan Dušan" },
-  { "year": 1389, "event": "Battle of Kosovo becomes a defining national symbol" },
-  { "year": 1459, "event": "Ottoman conquest ends medieval Serbian statehood" },
-  { "year": 1557, "event": "Serbian Orthodox Church restored under Ottoman rule" },
-  { "year": 1690, "event": "Great Migration shifts Serbian population northward" },
-  { "year": 1804, "event": "Uprisings begin the Serbian struggle for independence" },
-  { "year": 1878, "event": "Serbia gains international recognition as an independent state" },
-  { "year": 1918, "event": "Serbia becomes core of a new South Slavic kingdom" },
-  { "year": 1941, "event": "World War II brings occupation and heavy losses" },
-  { "year": 1945, "event": "Serbia integrated into socialist Yugoslavia" },
-  { "year": 1992, "event": "Yugoslav breakup isolates Serbia regionally" },
-  { "year": 2006, "event": "Serbia reemerges as an independent state" }
+  {
+    "year": -7000,
+    "event": "Early Neolithic communities of the Starcevo culture settle along the Danube and Morava river valleys."
+  },
+  {
+    "year": -5500,
+    "event": "The Vinca culture flourishes near present-day Belgrade, developing one of Europe's earliest advanced settlements and proto-writing symbols."
+  },
+  {
+    "year": -279,
+    "event": "Celtic Scordisci tribes establish the settlement of Singidunum at the site of modern Belgrade."
+  },
+  {
+    "year": -75,
+    "event": "Roman expansion brings the region into the province of Moesia following campaigns against local tribes."
+  },
+  {
+    "year": 107,
+    "event": "The Roman city of Singidunum becomes a key fortress and home to the Legio IV Flavia Felix."
+  },
+  {
+    "year": 271,
+    "event": "Emperor Aurelian, born in the region, withdraws Roman troops from Dacia, making the Danube the empire's frontier."
+  },
+  {
+    "year": 306,
+    "event": "Constantine the Great, born in Naissus (modern Nis), is proclaimed emperor and later legalizes Christianity."
+  },
+  {
+    "year": 535,
+    "event": "Emperor Justinian I founds Justiniana Prima near his birthplace, reinforcing Byzantine authority in the region."
+  },
+  {
+    "year": 626,
+    "event": "Slavic tribes, including the ancestors of the Serbs, settle in the Balkans during the reign of Emperor Heraclius."
+  },
+  {
+    "year": 822,
+    "event": "Frankish chronicles record the Serbs (Sorabi) as a people holding a large part of Dalmatia."
+  },
+  {
+    "year": 870,
+    "event": "Christianization of the Serbs advances under Byzantine influence and the missions following Saints Cyril and Methodius."
+  },
+  {
+    "year": 1077,
+    "event": "Mihailo of Duklja is recognized as king, marking an early royal title for a Serbian ruler."
+  },
+  {
+    "year": 1166,
+    "event": "Stefan Nemanja becomes Grand Prince of Rascia (Raska), founding the Nemanjic dynasty and the medieval Serbian state."
+  },
+  {
+    "year": 1217,
+    "event": "Stefan the First-Crowned is recognized as King of Serbia, establishing the kingdom's royal legitimacy."
+  },
+  {
+    "year": 1219,
+    "event": "Saint Sava secures autocephaly for the Serbian Orthodox Church and becomes its first archbishop."
+  },
+  {
+    "year": 1346,
+    "event": "Stefan Dusan is crowned Emperor of the Serbs and Greeks, raising Serbia to its greatest territorial extent."
+  },
+  {
+    "year": 1349,
+    "event": "Emperor Dusan promulgates his Code (Dusanov zakonik), a landmark of medieval Serbian law."
+  },
+  {
+    "year": 1371,
+    "event": "The Serbian defeat at the Battle of Maritsa accelerates the empire's fragmentation and Ottoman advance."
+  },
+  {
+    "year": 1389,
+    "event": "Serbian forces under Prince Lazar clash with the Ottomans at the Battle of Kosovo, a defining moment in national memory."
+  },
+  {
+    "year": 1459,
+    "event": "The fall of the fortress of Smederevo completes the Ottoman conquest of medieval Serbia."
+  },
+  {
+    "year": 1521,
+    "event": "Ottoman Sultan Suleiman the Magnificent captures Belgrade, opening the way into Central Europe."
+  },
+  {
+    "year": 1557,
+    "event": "The Patriarchate of Pec is restored, reviving the Serbian Orthodox Church under Ottoman rule."
+  },
+  {
+    "year": 1690,
+    "event": "Patriarch Arsenije III leads the Great Migration of Serbs into Habsburg territory after a failed anti-Ottoman uprising."
+  },
+  {
+    "year": 1804,
+    "event": "The First Serbian Uprising under Karadjordje Petrovic launches the modern Serbian struggle for independence."
+  },
+  {
+    "year": 1815,
+    "event": "The Second Serbian Uprising led by Milos Obrenovic wins de facto autonomy within the Ottoman Empire."
+  },
+  {
+    "year": 1830,
+    "event": "Serbia is recognized as an autonomous principality with Milos Obrenovic as hereditary prince."
+  },
+  {
+    "year": 1878,
+    "event": "The Congress of Berlin recognizes Serbia's full independence from the Ottoman Empire."
+  },
+  {
+    "year": 1882,
+    "event": "Serbia is proclaimed a kingdom with Milan Obrenovic as its first king."
+  },
+  {
+    "year": 1903,
+    "event": "A military coup assassinates King Aleksandar Obrenovic, returning the Karadjordjevic dynasty to the throne under Petar I."
+  },
+  {
+    "year": 1912,
+    "event": "Serbia joins the Balkan League and wins major territory from the Ottomans in the First Balkan War."
+  },
+  {
+    "year": 1914,
+    "event": "The assassination of Archduke Franz Ferdinand in Sarajevo triggers Austria-Hungary's invasion and the start of World War I."
+  },
+  {
+    "year": 1918,
+    "event": "Serbia unites with other South Slav lands to form the Kingdom of Serbs, Croats and Slovenes."
+  },
+  {
+    "year": 1929,
+    "event": "King Aleksandar I renames the state the Kingdom of Yugoslavia and establishes a royal dictatorship."
+  },
+  {
+    "year": 1941,
+    "event": "Axis powers invade and occupy Yugoslavia, and resistance movements including the Partisans emerge in Serbia."
+  },
+  {
+    "year": 1945,
+    "event": "Communist-led Yugoslavia is established as a federal republic with Serbia as a constituent unit under Josip Broz Tito."
+  },
+  {
+    "year": 1980,
+    "event": "The death of Tito unleashes growing political and economic tensions across the Yugoslav federation."
+  },
+  {
+    "year": 1989,
+    "event": "Slobodan Milosevic consolidates power and revokes the autonomy of Kosovo and Vojvodina."
+  },
+  {
+    "year": 1991,
+    "event": "The breakup of Yugoslavia begins as Slovenia and Croatia declare independence, igniting the Yugoslav Wars."
+  },
+  {
+    "year": 1992,
+    "event": "Serbia and Montenegro form the Federal Republic of Yugoslavia amid international sanctions over the Bosnian War."
+  },
+  {
+    "year": 1999,
+    "event": "NATO conducts an air campaign against Yugoslavia over the Kosovo conflict, leading to the withdrawal of Serbian forces from Kosovo."
+  },
+  {
+    "year": 2000,
+    "event": "Mass protests after disputed elections topple Slobodan Milosevic, ending his rule."
+  },
+  {
+    "year": 2003,
+    "event": "The Federal Republic of Yugoslavia is restructured into the State Union of Serbia and Montenegro."
+  },
+  {
+    "year": 2006,
+    "event": "Montenegro's independence referendum leaves Serbia as an independent sovereign state with its own UN seat."
+  },
+  {
+    "year": 2008,
+    "event": "Kosovo declares independence from Serbia, a move Serbia refuses to recognize."
+  },
+  {
+    "year": 2012,
+    "event": "Serbia is granted official candidate status for European Union membership."
+  },
+  {
+    "year": 2013,
+    "event": "Serbia and Kosovo sign the Brussels Agreement to normalize relations under EU mediation."
+  },
+  {
+    "year": 2014,
+    "event": "Serbia formally opens accession negotiations with the European Union."
+  }
 ]

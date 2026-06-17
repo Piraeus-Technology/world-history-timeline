@@ -1,21 +1,182 @@
 [
-  { "year": -8000, "event": "Earliest human settlement in present-day Ireland" },
-  { "year": -3000, "event": "Neolithic farmers build megalithic monuments such as Newgrange" },
-  { "year": -500, "event": "Celtic culture and language spread across the island" },
-  { "year": 400, "event": "Early Christian monasteries flourish across Ireland" },
-  { "year": 795, "event": "Viking raids begin along the Irish coast" },
-  { "year": 841, "event": "Vikings establish Dublin as a trading settlement" },
-  { "year": 1014, "event": "Battle of Clontarf weakens Viking power in Ireland" },
-  { "year": 1169, "event": "Norman invasion begins English involvement in Ireland" },
-  { "year": 1366, "event": "English authority retreats outside the Pale around Dublin" },
-  { "year": 1541, "event": "England declares Ireland a kingdom under the English crown" },
-  { "year": 1607, "event": "Flight of the Earls marks collapse of Gaelic aristocracy" },
-  { "year": 1649, "event": "Cromwellian conquest devastates Irish society" },
-  { "year": 1690, "event": "Williamite War confirms Protestant dominance" },
-  { "year": 1801, "event": "Act of Union incorporates Ireland into the United Kingdom" },
-  { "year": 1845, "event": "Great Famine causes mass death and emigration" },
-  { "year": 1916, "event": "Easter Rising ignites modern independence movement" },
-  { "year": 1921, "event": "Irish Free State gains independence from Britain" },
-  { "year": 1949, "event": "Ireland becomes a fully independent republic" },
-  { "year": 1998, "event": "Good Friday Agreement helps end decades of conflict in Northern Ireland" }
+  {
+    "year": -8000,
+    "event": "Mesolithic hunter-gatherers became the first humans to settle Ireland after the last Ice Age."
+  },
+  {
+    "year": -3800,
+    "event": "Neolithic farmers introduced agriculture and began building megalithic tombs across the island."
+  },
+  {
+    "year": -3200,
+    "event": "The passage tomb of Newgrange was constructed in the Boyne Valley, predating the pyramids of Giza."
+  },
+  {
+    "year": -2000,
+    "event": "The Bronze Age began in Ireland, marked by sophisticated metalworking and gold ornaments."
+  },
+  {
+    "year": -500,
+    "event": "Celtic culture and the Iron Age took hold, shaping Ireland's language and society."
+  },
+  {
+    "year": 100,
+    "event": "Ptolemy of Alexandria produced the earliest known geographic account describing Ireland's peoples and places."
+  },
+  {
+    "year": 432,
+    "event": "Saint Patrick traditionally began his Christian mission, spreading Christianity throughout Ireland."
+  },
+  {
+    "year": 563,
+    "event": "Saint Columba founded the monastery of Iona, launching Irish monastic influence across Britain and Europe."
+  },
+  {
+    "year": 795,
+    "event": "Viking raiders attacked Irish monasteries, beginning centuries of Norse incursions and settlement."
+  },
+  {
+    "year": 800,
+    "event": "The illuminated Book of Kells was created during the golden age of Irish monastic scholarship."
+  },
+  {
+    "year": 841,
+    "event": "Vikings established a longphort settlement that grew into the city of Dublin."
+  },
+  {
+    "year": 1014,
+    "event": "High King Brian Boru defeated a Norse-Leinster alliance at the Battle of Clontarf but was killed."
+  },
+  {
+    "year": 1169,
+    "event": "Anglo-Norman knights invaded Ireland, beginning English involvement on the island."
+  },
+  {
+    "year": 1171,
+    "event": "King Henry II of England landed in Ireland and asserted lordship over the country."
+  },
+  {
+    "year": 1366,
+    "event": "The Statutes of Kilkenny sought to prevent the Anglo-Normans from assimilating into Irish culture."
+  },
+  {
+    "year": 1541,
+    "event": "Henry VIII was proclaimed King of Ireland, ending the lordship and advancing the Tudor reconquest."
+  },
+  {
+    "year": 1601,
+    "event": "The Irish defeat at the Battle of Kinsale broke Gaelic resistance to English rule."
+  },
+  {
+    "year": 1607,
+    "event": "The Flight of the Earls saw Gaelic Ulster nobility flee abroad, enabling the Plantation of Ulster."
+  },
+  {
+    "year": 1641,
+    "event": "An Irish Catholic rebellion erupted in Ulster amid grievances over land and religion."
+  },
+  {
+    "year": 1649,
+    "event": "Oliver Cromwell's brutal conquest of Ireland began, including the massacres at Drogheda and Wexford."
+  },
+  {
+    "year": 1690,
+    "event": "William of Orange defeated the Catholic King James II at the Battle of the Boyne."
+  },
+  {
+    "year": 1695,
+    "event": "The Penal Laws were enacted, imposing severe restrictions on Catholics and dissenters."
+  },
+  {
+    "year": 1798,
+    "event": "The United Irishmen led a republican rebellion against British rule that was crushed."
+  },
+  {
+    "year": 1801,
+    "event": "The Act of Union merged Ireland with Great Britain to form the United Kingdom."
+  },
+  {
+    "year": 1829,
+    "event": "Catholic Emancipation, championed by Daniel O'Connell, allowed Catholics to sit in Parliament."
+  },
+  {
+    "year": 1845,
+    "event": "The Great Famine began as potato blight caused mass death and emigration over several years."
+  },
+  {
+    "year": 1916,
+    "event": "The Easter Rising in Dublin proclaimed an Irish Republic and was suppressed by British forces."
+  },
+  {
+    "year": 1919,
+    "event": "The Irish War of Independence began as the First Dail declared independence."
+  },
+  {
+    "year": 1921,
+    "event": "The Anglo-Irish Treaty established the Irish Free State while partitioning Northern Ireland."
+  },
+  {
+    "year": 1922,
+    "event": "The Irish Free State was formally established and a civil war broke out over the treaty terms."
+  },
+  {
+    "year": 1937,
+    "event": "A new constitution renamed the state Ireland (Eire) and asserted full sovereignty."
+  },
+  {
+    "year": 1939,
+    "event": "Ireland declared neutrality during the Second World War, remaining outside the conflict."
+  },
+  {
+    "year": 1949,
+    "event": "Ireland formally became a republic and left the British Commonwealth."
+  },
+  {
+    "year": 1955,
+    "event": "Ireland was admitted to the United Nations as a member state."
+  },
+  {
+    "year": 1969,
+    "event": "The Troubles erupted in Northern Ireland, beginning decades of sectarian violence."
+  },
+  {
+    "year": 1973,
+    "event": "Ireland joined the European Economic Community, the forerunner of the European Union."
+  },
+  {
+    "year": 1990,
+    "event": "Mary Robinson was elected as Ireland's first female president."
+  },
+  {
+    "year": 1995,
+    "event": "A referendum narrowly legalized divorce, reflecting rapid social change."
+  },
+  {
+    "year": 1998,
+    "event": "The Good Friday Agreement brought a peace settlement to Northern Ireland."
+  },
+  {
+    "year": 1999,
+    "event": "Ireland adopted the euro as its currency, joining the eurozone."
+  },
+  {
+    "year": 2008,
+    "event": "The collapse of the Celtic Tiger boom triggered a severe banking and economic crisis."
+  },
+  {
+    "year": 2010,
+    "event": "Ireland accepted an EU-IMF bailout to stabilize its banking sector and public finances."
+  },
+  {
+    "year": 2015,
+    "event": "Ireland became the first country to legalize same-sex marriage by popular referendum."
+  },
+  {
+    "year": 2018,
+    "event": "Voters overturned the constitutional ban on abortion in a landmark referendum."
+  },
+  {
+    "year": 2020,
+    "event": "Ireland preserved the open Irish border under the Northern Ireland Protocol as Brexit took effect."
+  }
 ]

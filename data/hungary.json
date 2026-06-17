@@ -1,18 +1,170 @@
 [
-  { "year": 895, "event": "Magyar tribes settle the Carpathian Basin" },
-  { "year": 1000, "event": "Christian kingdom integrates Hungary into Western Europe" },
-  { "year": 1241, "event": "Mongol invasion devastates the Hungarian kingdom" },
-  { "year": 1301, "event": "Dynastic changes reshape royal authority" },
-  { "year": 1458, "event": "Hungary emerges as a Renaissance power in Central Europe" },
-  { "year": 1526, "event": "Ottoman victory shatters the medieval Hungarian state" },
-  { "year": 1541, "event": "Central Hungary falls under long-term Ottoman rule" },
-  { "year": 1699, "event": "Habsburgs expel Ottomans and dominate Hungarian lands" },
-  { "year": 1848, "event": "National uprising challenges Habsburg imperial control" },
-  { "year": 1867, "event": "Hungary gains autonomy within the Austro-Hungarian Empire" },
-  { "year": 1918, "event": "Imperial collapse ends historical Kingdom of Hungary" },
-  { "year": 1920, "event": "Treaty of Trianon drastically reduces Hungarian territory" },
-  { "year": 1944, "event": "World War II brings occupation and urban destruction" },
-  { "year": 1949, "event": "Communist rule reshapes cities and society" },
-  { "year": 1956, "event": "Failed uprising becomes a national symbol of resistance" },
-  { "year": 1989, "event": "Communist system collapses peacefully" }
+  {
+    "year": -10,
+    "event": "Rome conquers the region west of the Danube, organizing it into the province of Pannonia."
+  },
+  {
+    "year": 106,
+    "event": "Emperor Trajan reorganizes the Danubian frontier, with Pannonia forming a key Roman defensive zone."
+  },
+  {
+    "year": 433,
+    "event": "Pannonia is ceded to the Huns, who build a powerful empire centered on the Carpathian Basin under Attila."
+  },
+  {
+    "year": 568,
+    "event": "The Avars conquer the Carpathian Basin and dominate the region for over two centuries."
+  },
+  {
+    "year": 803,
+    "event": "Charlemagne's Frankish forces destroy the Avar Khaganate, opening the basin to new settlers."
+  },
+  {
+    "year": 895,
+    "event": "The Magyars under Árpád complete their conquest of the Carpathian Basin, founding the Hungarian homeland."
+  },
+  {
+    "year": 955,
+    "event": "The Hungarians are decisively defeated at the Battle of Lechfeld, ending their raids into Western Europe."
+  },
+  {
+    "year": 1000,
+    "event": "Stephen I is crowned the first King of Hungary, establishing a Christian kingdom."
+  },
+  {
+    "year": 1083,
+    "event": "King Stephen I is canonized as Hungary's patron saint, cementing the realm's Christian identity."
+  },
+  {
+    "year": 1222,
+    "event": "King Andrew II issues the Golden Bull, a charter limiting royal power and granting rights to the nobility."
+  },
+  {
+    "year": 1241,
+    "event": "The Mongols devastate Hungary at the Battle of Mohi, causing massive destruction and population loss."
+  },
+  {
+    "year": 1301,
+    "event": "The death of Andrew III ends the Árpád dynasty, triggering a struggle for the throne."
+  },
+  {
+    "year": 1308,
+    "event": "Charles I of the Angevin dynasty secures the Hungarian throne, beginning a period of consolidation."
+  },
+  {
+    "year": 1456,
+    "event": "John Hunyadi defeats the Ottomans at the Siege of Belgrade, halting their advance into Central Europe."
+  },
+  {
+    "year": 1458,
+    "event": "Matthias Corvinus becomes king, ushering in a Renaissance golden age of culture and strong central rule."
+  },
+  {
+    "year": 1526,
+    "event": "Hungary is crushed by the Ottomans at the Battle of Mohács, killing King Louis II and shattering the kingdom."
+  },
+  {
+    "year": 1541,
+    "event": "The Ottomans capture Buda, dividing Hungary into Ottoman, Habsburg Royal, and Transylvanian parts."
+  },
+  {
+    "year": 1686,
+    "event": "Habsburg-led forces recapture Buda from the Ottomans, beginning the reconquest of Hungary."
+  },
+  {
+    "year": 1699,
+    "event": "The Treaty of Karlowitz ends Ottoman rule over most of Hungary, placing it under Habsburg control."
+  },
+  {
+    "year": 1703,
+    "event": "Francis II Rákóczi launches a major war of independence against Habsburg rule."
+  },
+  {
+    "year": 1711,
+    "event": "The Treaty of Szatmár ends the Rákóczi uprising, confirming Habsburg sovereignty over Hungary."
+  },
+  {
+    "year": 1848,
+    "event": "A revolution erupts demanding civil liberties and independence, led by figures such as Lajos Kossuth."
+  },
+  {
+    "year": 1849,
+    "event": "Hungary declares independence but is crushed by combined Habsburg and Russian armies."
+  },
+  {
+    "year": 1867,
+    "event": "The Austro-Hungarian Compromise creates the Dual Monarchy, granting Hungary broad autonomy."
+  },
+  {
+    "year": 1873,
+    "event": "Buda, Óbuda, and Pest are unified into the single capital city of Budapest."
+  },
+  {
+    "year": 1896,
+    "event": "Hungary celebrates the Millennium of the Magyar conquest with grand national exhibitions and construction."
+  },
+  {
+    "year": 1914,
+    "event": "Austria-Hungary enters World War I, drawing Hungary into a devastating conflict."
+  },
+  {
+    "year": 1918,
+    "event": "The collapse of Austria-Hungary at the end of World War I leads to an independent Hungarian republic."
+  },
+  {
+    "year": 1919,
+    "event": "A short-lived Hungarian Soviet Republic under Béla Kun rises and falls amid foreign intervention."
+  },
+  {
+    "year": 1920,
+    "event": "The Treaty of Trianon strips Hungary of about two-thirds of its territory and population."
+  },
+  {
+    "year": 1941,
+    "event": "Hungary enters World War II on the side of the Axis powers."
+  },
+  {
+    "year": 1944,
+    "event": "Nazi Germany occupies Hungary, leading to the deportation and murder of hundreds of thousands of Hungarian Jews."
+  },
+  {
+    "year": 1945,
+    "event": "Soviet forces drive out German troops, bringing Hungary under Soviet influence."
+  },
+  {
+    "year": 1949,
+    "event": "A Communist-dominated People's Republic is established as a Soviet satellite state."
+  },
+  {
+    "year": 1956,
+    "event": "A national uprising against Soviet domination is crushed by Soviet military intervention."
+  },
+  {
+    "year": 1968,
+    "event": "The New Economic Mechanism introduces market-oriented reforms, creating relatively liberal 'goulash communism'."
+  },
+  {
+    "year": 1989,
+    "event": "Hungary opens its border with Austria and transitions toward multiparty democracy as communism collapses."
+  },
+  {
+    "year": 1990,
+    "event": "Hungary holds its first free multiparty elections in over four decades."
+  },
+  {
+    "year": 1991,
+    "event": "The last Soviet troops withdraw from Hungary, ending decades of occupation."
+  },
+  {
+    "year": 1999,
+    "event": "Hungary joins NATO, anchoring itself in Western security structures."
+  },
+  {
+    "year": 2004,
+    "event": "Hungary becomes a member of the European Union."
+  },
+  {
+    "year": 2011,
+    "event": "A new constitution, the Fundamental Law, is adopted under the Fidesz government."
+  }
 ]

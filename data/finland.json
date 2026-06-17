@@ -1,20 +1,186 @@
 [
-  { "year": -9000, "event": "Earliest human settlement in present-day Finland after Ice Age retreat" },
-  { "year": -4000, "event": "Neolithic hunter-gatherer and early farming cultures develop" },
-  { "year": -1500, "event": "Bronze Age trade links Finland to Scandinavia and the Baltic" },
-  { "year": -500, "event": "Finnic cultures establish regional identities and languages" },
-  { "year": 1100, "event": "Swedish influence expands through trade and settlement" },
-  { "year": 1150, "event": "Christianization begins under Swedish rule" },
-  { "year": 1249, "event": "Finland is formally incorporated into the Kingdom of Sweden" },
-  { "year": 1323, "event": "Border treaty defines frontier between Sweden and Novgorod" },
-  { "year": 1550, "event": "Helsinki is founded as a coastal trading town" },
-  { "year": 1640, "event": "University of Turku is established, shaping Finnish education" },
-  { "year": 1700, "event": "Great Northern War devastates Finland" },
-  { "year": 1809, "event": "Finland is ceded to Russia and becomes a Grand Duchy" },
-  { "year": 1863, "event": "Finnish language gains official status, strengthening national identity" },
-  { "year": 1917, "event": "Finland declares independence from Russia" },
-  { "year": 1918, "event": "Civil war determines Finland’s political direction" },
-  { "year": 1939, "event": "Winter War against the Soviet Union defines national resilience" },
-  { "year": 1945, "event": "Postwar neutrality shapes foreign policy and development" },
-  { "year": 1995, "event": "Finland joins the European Union" }
+  {
+    "year": -8500,
+    "event": "The first human settlers arrive in the area of present-day Finland as the ice sheet retreats after the last Ice Age."
+  },
+  {
+    "year": -5200,
+    "event": "Comb Ceramic pottery culture spreads across Finland, marking a flourishing Stone Age hunter-gatherer society."
+  },
+  {
+    "year": -1500,
+    "event": "Bronze Age influences from Scandinavia and the east reach coastal and inland Finland."
+  },
+  {
+    "year": -500,
+    "event": "The Iron Age begins in Finland, bringing new tools, agriculture, and growing permanent settlements."
+  },
+  {
+    "year": 100,
+    "event": "The historian Tacitus mentions the 'Fenni' in his work Germania, one of the earliest references to peoples of the region."
+  },
+  {
+    "year": 800,
+    "event": "Viking Age trade routes link Finnish tribes with Scandinavia, the Baltic, and the rivers leading east."
+  },
+  {
+    "year": 1155,
+    "event": "According to legend, Sweden's King Eric IX leads the First Swedish Crusade into Finland, beginning Christianization."
+  },
+  {
+    "year": 1249,
+    "event": "The Second Swedish Crusade consolidates Swedish control over the Tavastia region of Finland."
+  },
+  {
+    "year": 1293,
+    "event": "The Third Swedish Crusade extends Swedish rule into Karelia and Vyborg Castle is founded."
+  },
+  {
+    "year": 1323,
+    "event": "The Treaty of Noteborg fixes the first border between Sweden and Novgorod, dividing Finnish lands."
+  },
+  {
+    "year": 1362,
+    "event": "Finland gains the right to take part in electing the Swedish king, recognizing it as an integral part of the realm."
+  },
+  {
+    "year": 1397,
+    "event": "Finland becomes part of the Kalmar Union joining Sweden with Denmark and Norway under one monarch."
+  },
+  {
+    "year": 1523,
+    "event": "Sweden leaves the Kalmar Union under Gustav Vasa, and Finland remains a Swedish province."
+  },
+  {
+    "year": 1543,
+    "event": "Mikael Agricola publishes the first Finnish-language primer, laying the foundations of written Finnish."
+  },
+  {
+    "year": 1548,
+    "event": "Mikael Agricola completes the Finnish translation of the New Testament, a landmark for the Finnish language."
+  },
+  {
+    "year": 1550,
+    "event": "King Gustav Vasa founds the city of Helsinki to compete with Tallinn for Baltic trade."
+  },
+  {
+    "year": 1640,
+    "event": "The Royal Academy of Turku, Finland's first university, is established."
+  },
+  {
+    "year": 1696,
+    "event": "A catastrophic famine kills roughly a third of Finland's population during the 'Great Hunger Years'."
+  },
+  {
+    "year": 1714,
+    "event": "Russian forces occupy Finland during the Great Northern War, a period known as the 'Greater Wrath'."
+  },
+  {
+    "year": 1721,
+    "event": "The Treaty of Nystad ends the Great Northern War, ceding parts of southeastern Finland to Russia."
+  },
+  {
+    "year": 1809,
+    "event": "Russia conquers Finland from Sweden, and Finland becomes an autonomous Grand Duchy under the Russian Tsar."
+  },
+  {
+    "year": 1812,
+    "event": "Helsinki is designated the new capital of the Grand Duchy of Finland, replacing Turku."
+  },
+  {
+    "year": 1835,
+    "event": "Elias Lonnrot publishes the Kalevala, the Finnish national epic compiled from folk poetry."
+  },
+  {
+    "year": 1860,
+    "event": "Finland gains its own currency, the markka, strengthening its distinct economic identity."
+  },
+  {
+    "year": 1863,
+    "event": "Finnish is granted official status alongside Swedish following Tsar Alexander II's language decree."
+  },
+  {
+    "year": 1906,
+    "event": "Finland adopts universal and equal suffrage, becoming the first country to grant women full political rights including the right to stand for election."
+  },
+  {
+    "year": 1917,
+    "event": "Finland declares independence from Russia on 6 December amid the Russian Revolution."
+  },
+  {
+    "year": 1918,
+    "event": "A bitter civil war between Reds and Whites ends with a White victory backed by Germany."
+  },
+  {
+    "year": 1919,
+    "event": "Finland adopts a republican constitution and K. J. Stahlberg becomes its first president."
+  },
+  {
+    "year": 1921,
+    "event": "The League of Nations confirms the Aland Islands as part of Finland with autonomous and demilitarized status."
+  },
+  {
+    "year": 1939,
+    "event": "The Soviet Union invades Finland, starting the Winter War of fierce Finnish resistance."
+  },
+  {
+    "year": 1940,
+    "event": "The Moscow Peace Treaty ends the Winter War, with Finland ceding Karelia and other territories to the USSR."
+  },
+  {
+    "year": 1941,
+    "event": "Finland joins the Continuation War against the Soviet Union alongside Germany to reclaim lost lands."
+  },
+  {
+    "year": 1944,
+    "event": "Finland signs the Moscow Armistice with the USSR and turns to expel German troops in the Lapland War."
+  },
+  {
+    "year": 1947,
+    "event": "The Paris Peace Treaty formalizes Finland's borders and obligations after the Second World War."
+  },
+  {
+    "year": 1948,
+    "event": "Finland signs the Agreement of Friendship, Cooperation, and Mutual Assistance with the Soviet Union."
+  },
+  {
+    "year": 1952,
+    "event": "Finland hosts the Summer Olympic Games in Helsinki and finishes paying its war reparations to the USSR."
+  },
+  {
+    "year": 1955,
+    "event": "Finland joins the United Nations and the Nordic Council."
+  },
+  {
+    "year": 1975,
+    "event": "Helsinki hosts the Conference on Security and Cooperation in Europe, producing the landmark Helsinki Accords."
+  },
+  {
+    "year": 1986,
+    "event": "Finland becomes a full member of the European Free Trade Association (EFTA)."
+  },
+  {
+    "year": 1995,
+    "event": "Finland joins the European Union following a national referendum."
+  },
+  {
+    "year": 1999,
+    "event": "Finland adopts the euro as its currency, among the first wave of eurozone members."
+  },
+  {
+    "year": 2000,
+    "event": "Tarja Halonen becomes Finland's first female president."
+  },
+  {
+    "year": 2007,
+    "event": "Nokia reaches its peak as the world's largest mobile phone maker, symbolizing Finland's tech-driven economy."
+  },
+  {
+    "year": 2017,
+    "event": "Finland celebrates the centenary of its independence."
+  },
+  {
+    "year": 2023,
+    "event": "Finland joins NATO, abandoning decades of military non-alignment after Russia's invasion of Ukraine."
+  }
 ]

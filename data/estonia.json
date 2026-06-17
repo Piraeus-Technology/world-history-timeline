@@ -1,18 +1,186 @@
 [
-  { "year": -9000, "event": "Earliest human settlement in present-day Estonia after Ice Age retreat" },
-  { "year": -3000, "event": "Finno-Ugric peoples establish farming and fishing communities" },
-  { "year": 800, "event": "Viking trade routes connect Estonia to Scandinavia and Eastern Europe" },
-  { "year": 1219, "event": "Danish forces conquer northern Estonia during crusades" },
-  { "year": 1227, "event": "German crusading orders gain control over most of Estonia" },
-  { "year": 1285, "event": "Tallinn joins the Hanseatic League as a major Baltic port" },
-  { "year": 1561, "event": "Estonia comes under Swedish rule after Livonian Order collapses" },
-  { "year": 1632, "event": "University of Tartu is founded under Swedish administration" },
-  { "year": 1721, "event": "Russia gains control after the Great Northern War" },
-  { "year": 1800, "event": "Baltic German elite dominates society under Russian rule" },
-  { "year": 1918, "event": "Estonia declares independence after World War I" },
-  { "year": 1940, "event": "Soviet occupation begins during World War II" },
-  { "year": 1941, "event": "Nazi occupation devastates Jewish and urban communities" },
-  { "year": 1944, "event": "Soviet rule is reimposed after World War II" },
-  { "year": 1991, "event": "Estonia restores independence with the collapse of the Soviet Union" },
-  { "year": 2004, "event": "Estonia joins the European Union and NATO" }
+  {
+    "year": -9000,
+    "event": "The first known human settlement in Estonia, the Pulli site on the Pärnu River, is established as ice-age glaciers retreat."
+  },
+  {
+    "year": -5000,
+    "event": "The Comb Ceramic Culture spreads through Estonia, associated with the arrival of Finno-Ugric peoples ancestral to the Estonians."
+  },
+  {
+    "year": -1800,
+    "event": "The Bronze Age reaches Estonia, bringing fortified settlements and growing trade contacts across the Baltic Sea."
+  },
+  {
+    "year": -500,
+    "event": "Iron Age cultivation and stone-cist burial fields develop as permanent farming communities take hold across the region."
+  },
+  {
+    "year": 98,
+    "event": "The Roman historian Tacitus describes the Aestii peoples of the eastern Baltic coast in his work Germania."
+  },
+  {
+    "year": 1030,
+    "event": "Kievan ruler Yaroslav the Wise raids Estonia and founds the fort of Yuryev, later Tartu, briefly extending Rus influence."
+  },
+  {
+    "year": 1154,
+    "event": "The Arab geographer al-Idrisi mentions an Estonian island settlement on his world map, an early external reference to the land."
+  },
+  {
+    "year": 1208,
+    "event": "German crusaders of the Livonian Brothers of the Sword begin the conquest of Estonia during the Northern Crusades."
+  },
+  {
+    "year": 1219,
+    "event": "Danish King Valdemar II defeats the Estonians at the Battle of Lyndanisse and founds Tallinn."
+  },
+  {
+    "year": 1227,
+    "event": "The crusaders complete their conquest of mainland Estonia and the island of Saaremaa, ending native independence."
+  },
+  {
+    "year": 1248,
+    "event": "Tallinn adopts the Lübeck town law, cementing its place in the Hanseatic League trade network."
+  },
+  {
+    "year": 1343,
+    "event": "The St. George's Night Uprising erupts as Estonian peasants rebel against German and Danish overlords."
+  },
+  {
+    "year": 1346,
+    "event": "Denmark sells its northern Estonian territories to the Teutonic Order, consolidating German rule over the land."
+  },
+  {
+    "year": 1525,
+    "event": "The first book containing Estonian text, a Lutheran work, is printed as the Reformation spreads through the towns."
+  },
+  {
+    "year": 1558,
+    "event": "The Livonian War begins as Russia's Ivan the Terrible invades, shattering the old order in Estonia."
+  },
+  {
+    "year": 1561,
+    "event": "Northern Estonia, including Tallinn, submits to the Swedish crown amid the collapse of the Livonian Confederation."
+  },
+  {
+    "year": 1583,
+    "event": "The Livonian War ends, leaving Estonia partitioned mainly between Sweden and Poland-Lithuania."
+  },
+  {
+    "year": 1632,
+    "event": "King Gustavus Adolphus founds the University of Tartu, Estonia's first university."
+  },
+  {
+    "year": 1645,
+    "event": "Sweden gains the island of Saaremaa from Denmark, bringing nearly all of Estonia under Swedish rule."
+  },
+  {
+    "year": 1700,
+    "event": "The Great Northern War begins as Russia, Denmark, and Saxony attack Sweden, making Estonia a key battleground."
+  },
+  {
+    "year": 1710,
+    "event": "Russia captures Tallinn and Tartu after a devastating plague, ending Swedish rule over Estonia."
+  },
+  {
+    "year": 1721,
+    "event": "The Treaty of Nystad formally cedes Estonia to the Russian Empire, where it remains for two centuries."
+  },
+  {
+    "year": 1816,
+    "event": "Serfdom is abolished in the Governorate of Estonia, granting peasants personal freedom though little land."
+  },
+  {
+    "year": 1857,
+    "event": "Friedrich Reinhold Kreutzwald publishes the national epic Kalevipoeg, a cornerstone of Estonian cultural awakening."
+  },
+  {
+    "year": 1869,
+    "event": "The first Estonian Song Festival is held in Tartu, launching an enduring tradition central to national identity."
+  },
+  {
+    "year": 1905,
+    "event": "Revolutionary unrest spreads to Estonia, with strikes and demands for autonomy and political rights against tsarist rule."
+  },
+  {
+    "year": 1918,
+    "event": "Estonia declares independence on 24 February as German and Russian forces vie for control during World War I."
+  },
+  {
+    "year": 1920,
+    "event": "The Treaty of Tartu ends the Estonian War of Independence as Soviet Russia recognizes Estonia's sovereignty."
+  },
+  {
+    "year": 1921,
+    "event": "Estonia is admitted to the League of Nations, gaining international recognition as a sovereign state."
+  },
+  {
+    "year": 1934,
+    "event": "Konstantin Päts launches a self-coup, establishing an authoritarian regime known as the Era of Silence."
+  },
+  {
+    "year": 1939,
+    "event": "The Molotov-Ribbentrop Pact secretly assigns Estonia to the Soviet sphere, forcing it to accept Soviet military bases."
+  },
+  {
+    "year": 1940,
+    "event": "The Soviet Union occupies and annexes Estonia, incorporating it as the Estonian SSR."
+  },
+  {
+    "year": 1941,
+    "event": "Nazi Germany invades and occupies Estonia, following mass Soviet deportations of thousands of Estonians to Siberia."
+  },
+  {
+    "year": 1944,
+    "event": "The Red Army reoccupies Estonia, beginning nearly half a century of renewed Soviet rule and a wave of emigration."
+  },
+  {
+    "year": 1949,
+    "event": "Soviet authorities deport over 20,000 Estonians to Siberia and force the collectivization of agriculture."
+  },
+  {
+    "year": 1988,
+    "event": "The Singing Revolution begins as mass song gatherings and the Popular Front demand sovereignty from Moscow."
+  },
+  {
+    "year": 1989,
+    "event": "Two million people join hands in the Baltic Way human chain linking Tallinn, Riga, and Vilnius for independence."
+  },
+  {
+    "year": 1991,
+    "event": "Estonia restores its independence during the failed Soviet coup, and the USSR recognizes it that September."
+  },
+  {
+    "year": 1992,
+    "event": "Estonia adopts a new constitution, holds free elections, and introduces its own currency, the kroon."
+  },
+  {
+    "year": 1994,
+    "event": "The last Russian troops withdraw from Estonia, ending the post-Soviet military presence."
+  },
+  {
+    "year": 2000,
+    "event": "Estonia pioneers e-governance and declares internet access a basic right, earning the nickname e-Estonia."
+  },
+  {
+    "year": 2004,
+    "event": "Estonia joins both NATO and the European Union, anchoring itself firmly in Western institutions."
+  },
+  {
+    "year": 2005,
+    "event": "Estonia holds the world's first nationwide internet voting in local elections."
+  },
+  {
+    "year": 2007,
+    "event": "Estonia suffers massive cyberattacks amid the Bronze Soldier dispute, becoming a pioneer in cyber defense."
+  },
+  {
+    "year": 2011,
+    "event": "Estonia adopts the euro, becoming the 17th member of the eurozone."
+  },
+  {
+    "year": 2017,
+    "event": "Estonia holds the rotating presidency of the Council of the European Union for the first time."
+  }
 ]

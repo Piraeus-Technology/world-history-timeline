@@ -1,31 +1,198 @@
 [
-  { "year": -100000, "event": "Early human ancestors inhabit the Iberian Peninsula" },
-  { "year": -3000, "event": "Neolithic and Bronze Age cultures develop across Iberia" },
-  { "year": -800, "event": "Phoenician and Greek trading colonies are established" },
-  { "year": -500, "event": "Iberian and Celtiberian cultures dominate much of the peninsula" },
-  { "year": -218, "event": "Roman conquest of Iberia begins during the Punic Wars" },
-  { "year": 19, "event": "Roman Hispania is fully incorporated into the Roman Empire" },
-  { "year": 300, "event": "Roman cities, roads, and law shape Iberian society" },
-  { "year": 409, "event": "Germanic invasions weaken Roman control" },
-  { "year": 418, "event": "Visigothic Kingdom emerges with Toledo as a center" },
-  { "year": 711, "event": "Muslim forces begin the conquest of Iberia" },
-  { "year": 756, "event": "Umayyad Emirate of Córdoba is established" },
-  { "year": 929, "event": "Caliphate of Córdoba marks peak of Islamic Spain" },
-  { "year": 1031, "event": "Caliphate collapses into rival taifa kingdoms" },
-  { "year": 1085, "event": "Christian forces capture Toledo during the Reconquista" },
-  { "year": 1212, "event": "Battle of Las Navas de Tolosa turns tide against Muslim rule" },
-  { "year": 1469, "event": "Marriage of Ferdinand and Isabella unites major Spanish crowns" },
-  { "year": 1492, "event": "Granada falls, completing the Reconquista" },
-  { "year": 1492, "event": "Columbus’s voyage begins Spanish expansion overseas" },
-  { "year": 1516, "event": "Spain emerges as a major European and global power" },
-  { "year": 1588, "event": "Defeat of the Spanish Armada weakens naval dominance" },
-  { "year": 1700, "event": "War of Spanish Succession reshapes European balance" },
-  { "year": 1714, "event": "Bourbon dynasty centralizes the Spanish state" },
-  { "year": 1808, "event": "Napoleonic invasion sparks resistance and reform" },
-  { "year": 1812, "event": "Liberal constitution is proclaimed in Cádiz" },
-  { "year": 1825, "event": "Most Spanish colonies in the Americas gain independence" },
-  { "year": 1898, "event": "Spain loses its last major overseas colonies" },
-  { "year": 1936, "event": "Spanish Civil War begins" },
-  { "year": 1939, "event": "Authoritarian regime is established after civil war" },
-  { "year": 1978, "event": "Democratic constitution establishes modern Spain" }
+  {
+    "year": -800000,
+    "event": "Early humans of the species Homo antecessor inhabit the Atapuerca region, among the oldest hominin remains in Western Europe."
+  },
+  {
+    "year": -15000,
+    "event": "Paleolithic artists paint the renowned cave art of Altamira depicting bison and other animals."
+  },
+  {
+    "year": -1100,
+    "event": "Phoenician traders found Gadir (modern Cadiz), among the oldest cities in Western Europe."
+  },
+  {
+    "year": -600,
+    "event": "Greek colonists establish trading settlements such as Emporion on the Mediterranean coast."
+  },
+  {
+    "year": -237,
+    "event": "Carthage under the Barcid family begins large-scale conquest of southern and eastern Iberia."
+  },
+  {
+    "year": -218,
+    "event": "Rome lands at Emporion, opening the Iberian theater of the Second Punic War against Carthage."
+  },
+  {
+    "year": -206,
+    "event": "Rome defeats Carthage at Ilipa, ending Carthaginian power in Iberia."
+  },
+  {
+    "year": -19,
+    "event": "Emperor Augustus completes the Roman conquest of Iberia by ending the Cantabrian Wars."
+  },
+  {
+    "year": 74,
+    "event": "Emperor Vespasian grants Latin rights to the towns of Hispania, accelerating Romanization."
+  },
+  {
+    "year": 409,
+    "event": "Suebi, Vandals, and Alans cross the Pyrenees and settle in the Iberian Peninsula amid Roman collapse."
+  },
+  {
+    "year": 507,
+    "event": "The Visigoths, defeated at Vouille, shift the center of their kingdom into Hispania."
+  },
+  {
+    "year": 589,
+    "event": "King Reccared converts from Arianism to Catholicism at the Third Council of Toledo, unifying Visigothic religion."
+  },
+  {
+    "year": 711,
+    "event": "Umayyad forces under Tariq ibn Ziyad defeat King Roderic, beginning the Muslim conquest of Iberia."
+  },
+  {
+    "year": 718,
+    "event": "Pelagius's victory at Covadonga founds the Kingdom of Asturias and traditionally begins the Reconquista."
+  },
+  {
+    "year": 756,
+    "event": "Abd al-Rahman I establishes the independent Emirate of Cordoba."
+  },
+  {
+    "year": 929,
+    "event": "Abd al-Rahman III proclaims the Caliphate of Cordoba, the peak of Al-Andalus's power and culture."
+  },
+  {
+    "year": 1031,
+    "event": "The Caliphate of Cordoba collapses into rival taifa kingdoms."
+  },
+  {
+    "year": 1085,
+    "event": "Alfonso VI of Leon and Castile captures Toledo, a major Reconquista milestone."
+  },
+  {
+    "year": 1212,
+    "event": "Christian kingdoms win the decisive Battle of Las Navas de Tolosa, breaking Almohad power in Iberia."
+  },
+  {
+    "year": 1248,
+    "event": "Ferdinand III of Castile captures Seville, leaving Granada as the last Muslim state in Iberia."
+  },
+  {
+    "year": 1469,
+    "event": "The marriage of Isabella of Castile and Ferdinand of Aragon unites the two crowns."
+  },
+  {
+    "year": 1478,
+    "event": "The Catholic Monarchs establish the Spanish Inquisition to enforce religious orthodoxy."
+  },
+  {
+    "year": 1492,
+    "event": "Granada falls, Jews are expelled, and Columbus reaches the Americas under Spanish sponsorship."
+  },
+  {
+    "year": 1516,
+    "event": "Charles I becomes king, soon ruling as Holy Roman Emperor Charles V over a vast Habsburg empire."
+  },
+  {
+    "year": 1561,
+    "event": "Philip II makes Madrid the permanent capital of Spain."
+  },
+  {
+    "year": 1588,
+    "event": "The Spanish Armada is defeated in its attempt to invade England."
+  },
+  {
+    "year": 1605,
+    "event": "Miguel de Cervantes publishes the first part of Don Quixote, a foundational work of modern literature."
+  },
+  {
+    "year": 1700,
+    "event": "Charles II dies childless, triggering the War of the Spanish Succession and the Bourbon accession."
+  },
+  {
+    "year": 1714,
+    "event": "Barcelona falls and the peace treaties install Philip V, founding Spain's Bourbon dynasty."
+  },
+  {
+    "year": 1808,
+    "event": "Napoleon installs his brother as king, igniting the Peninsular War and Spanish War of Independence."
+  },
+  {
+    "year": 1812,
+    "event": "The Cortes of Cadiz promulgates Spain's first liberal constitution."
+  },
+  {
+    "year": 1825,
+    "event": "Most of Spain's mainland American colonies achieve independence after years of revolution."
+  },
+  {
+    "year": 1873,
+    "event": "The short-lived First Spanish Republic is proclaimed amid political turmoil."
+  },
+  {
+    "year": 1898,
+    "event": "Defeat in the Spanish-American War costs Spain Cuba, Puerto Rico, and the Philippines."
+  },
+  {
+    "year": 1923,
+    "event": "General Miguel Primo de Rivera seizes power, establishing a military dictatorship."
+  },
+  {
+    "year": 1931,
+    "event": "King Alfonso XIII goes into exile and the Second Spanish Republic is proclaimed."
+  },
+  {
+    "year": 1936,
+    "event": "A military uprising against the Republic ignites the Spanish Civil War."
+  },
+  {
+    "year": 1939,
+    "event": "Franco's Nationalists win the Civil War, beginning a long authoritarian dictatorship."
+  },
+  {
+    "year": 1955,
+    "event": "Spain is admitted to the United Nations, ending postwar diplomatic isolation."
+  },
+  {
+    "year": 1975,
+    "event": "Franco dies and Juan Carlos I becomes king, opening Spain's transition to democracy."
+  },
+  {
+    "year": 1978,
+    "event": "Spaniards approve a new democratic constitution establishing a parliamentary monarchy."
+  },
+  {
+    "year": 1981,
+    "event": "A coup attempt in the Cortes fails after the king publicly defends democracy."
+  },
+  {
+    "year": 1986,
+    "event": "Spain joins the European Economic Community, the forerunner of the European Union."
+  },
+  {
+    "year": 1992,
+    "event": "Barcelona hosts the Summer Olympics and Seville the World Expo, showcasing modern Spain."
+  },
+  {
+    "year": 2002,
+    "event": "Spain adopts the euro as its national currency, retiring the peseta."
+  },
+  {
+    "year": 2004,
+    "event": "Madrid train bombings kill 193 people in Spain's deadliest terrorist attack."
+  },
+  {
+    "year": 2008,
+    "event": "The global financial crisis triggers a severe Spanish recession with banking and housing collapse."
+  },
+  {
+    "year": 2014,
+    "event": "King Juan Carlos I abdicates and his son Felipe VI ascends the throne."
+  },
+  {
+    "year": 2017,
+    "event": "Catalonia's unilateral independence referendum and declaration provoke a major constitutional crisis."
+  }
 ]

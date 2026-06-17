@@ -1,19 +1,190 @@
 [
-  { "year": -5000, "event": "Earliest human presence in present-day Luxembourg" },
-  { "year": -400, "event": "Celtic tribes inhabit the Ardennes and Moselle regions" },
-  { "year": 50, "event": "Roman rule integrates the region into Gallia Belgica" },
-  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
-  { "year": 963, "event": "Fortress of Luxembourg is founded, forming the basis of the state" },
-  { "year": 1354, "event": "Luxembourg is elevated to a duchy within the Holy Roman Empire" },
-  { "year": 1443, "event": "Burgundian forces seize control of Luxembourg" },
-  { "year": 1555, "event": "Habsburg rule begins under the Spanish Netherlands" },
-  { "year": 1713, "event": "Austrian Habsburgs gain control after the War of Spanish Succession" },
-  { "year": 1795, "event": "France annexes Luxembourg during the Revolutionary Wars" },
-  { "year": 1815, "event": "Congress of Vienna creates the Grand Duchy of Luxembourg" },
-  { "year": 1839, "event": "Luxembourg is partitioned, establishing modern borders" },
-  { "year": 1867, "event": "Treaty of London guarantees Luxembourg’s neutrality" },
-  { "year": 1914, "event": "Germany occupies Luxembourg during World War I" },
-  { "year": 1940, "event": "Nazi Germany occupies Luxembourg in World War II" },
-  { "year": 1945, "event": "Luxembourg abandons neutrality and joins Western alliances" },
-  { "year": 1957, "event": "Luxembourg becomes a founding member of the European Economic Community" }
+  {
+    "year": -53,
+    "event": "Julius Caesar's legions conquer the region inhabited by the Belgic Treveri tribe, incorporating present-day Luxembourg into the Roman Empire."
+  },
+  {
+    "year": 406,
+    "event": "Germanic Franks overrun the area as Roman authority collapses, beginning the Frankish settlement of the region."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides Charlemagne's empire, placing the Luxembourg region within Lotharingia under Lothair I."
+  },
+  {
+    "year": 963,
+    "event": "Count Siegfried acquires the rocky promontory and Roman fort of Lucilinburhuc, founding the dynasty and city that give Luxembourg its name."
+  },
+  {
+    "year": 987,
+    "event": "Growth of the settlement and church around Siegfried's castle establishes Luxembourg as a fortified town."
+  },
+  {
+    "year": 1244,
+    "event": "Countess Ermesinde grants Luxembourg its town charter of freedoms, spurring urban development and trade."
+  },
+  {
+    "year": 1308,
+    "event": "Count Henry VII of Luxembourg is elected King of the Romans, later crowned Holy Roman Emperor in 1312."
+  },
+  {
+    "year": 1346,
+    "event": "John the Blind of Luxembourg, King of Bohemia, dies fighting at the Battle of Crecy and becomes a national legend."
+  },
+  {
+    "year": 1354,
+    "event": "Emperor Charles IV elevates the County of Luxembourg to a Duchy."
+  },
+  {
+    "year": 1443,
+    "event": "Philip the Good of Burgundy seizes Luxembourg, absorbing the duchy into the Burgundian state."
+  },
+  {
+    "year": 1477,
+    "event": "Through Habsburg-Burgundian marriage, Luxembourg passes to the House of Habsburg."
+  },
+  {
+    "year": 1556,
+    "event": "Luxembourg becomes part of the Spanish Netherlands following the division of the Habsburg empire under Philip II."
+  },
+  {
+    "year": 1684,
+    "event": "French forces under Louis XIV besiege and capture the fortress of Luxembourg, refortifying it under Vauban."
+  },
+  {
+    "year": 1697,
+    "event": "The Treaty of Ryswick returns Luxembourg to Spanish control after French occupation."
+  },
+  {
+    "year": 1714,
+    "event": "The Treaty of Rastatt transfers Luxembourg to the Austrian Habsburgs, beginning the Austrian Netherlands period."
+  },
+  {
+    "year": 1795,
+    "event": "Revolutionary France conquers and annexes Luxembourg, organizing it as the Departement des Forets."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna raises Luxembourg to a Grand Duchy in personal union with the King of the Netherlands and admits it to the German Confederation."
+  },
+  {
+    "year": 1830,
+    "event": "Most of Luxembourg joins the Belgian Revolution against Dutch rule, splitting the territory's allegiance."
+  },
+  {
+    "year": 1839,
+    "event": "The Treaty of London partitions Luxembourg, ceding the French-speaking western half to Belgium and confirming the remainder as an independent Grand Duchy."
+  },
+  {
+    "year": 1842,
+    "event": "Luxembourg joins the German Zollverein customs union, integrating its economy with the German states."
+  },
+  {
+    "year": 1859,
+    "event": "The opening of railway lines connects Luxembourg to neighboring markets and accelerates its industrialization."
+  },
+  {
+    "year": 1867,
+    "event": "The Second Treaty of London guarantees Luxembourg's perpetual neutrality and orders the dismantling of its fortress, ending the Luxembourg Crisis."
+  },
+  {
+    "year": 1868,
+    "event": "Luxembourg adopts a liberal constitution establishing parliamentary government under the Grand Duke."
+  },
+  {
+    "year": 1890,
+    "event": "The personal union with the Netherlands ends, and the Grand Duchy passes to the House of Nassau-Weilburg under Grand Duke Adolphe."
+  },
+  {
+    "year": 1911,
+    "event": "Founding of the ARBED steel company makes Luxembourg one of the world's leading steel producers."
+  },
+  {
+    "year": 1914,
+    "event": "Germany invades and occupies neutral Luxembourg at the outbreak of the First World War."
+  },
+  {
+    "year": 1919,
+    "event": "A referendum confirms the monarchy under Grand Duchess Charlotte and favors economic union with France."
+  },
+  {
+    "year": 1921,
+    "event": "Luxembourg enters the Belgium-Luxembourg Economic Union, linking its currency and trade policy to Belgium."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades and occupies Luxembourg, later annexing it and forcing its men into the Wehrmacht."
+  },
+  {
+    "year": 1942,
+    "event": "A general strike protests German conscription of Luxembourgers and is met with harsh Nazi reprisals."
+  },
+  {
+    "year": 1944,
+    "event": "Allied forces liberate Luxembourg, though it is again contested during the Battle of the Bulge."
+  },
+  {
+    "year": 1945,
+    "event": "Luxembourg becomes a founding member of the United Nations, abandoning its policy of neutrality."
+  },
+  {
+    "year": 1948,
+    "event": "Luxembourg joins the Benelux customs union with Belgium and the Netherlands and removes neutrality from its constitution."
+  },
+  {
+    "year": 1949,
+    "event": "Luxembourg becomes a founding member of the NATO alliance."
+  },
+  {
+    "year": 1951,
+    "event": "Luxembourg is a founding member of the European Coal and Steel Community, the precursor to the EU."
+  },
+  {
+    "year": 1952,
+    "event": "Luxembourg City becomes the provisional seat of the European Coal and Steel Community's High Authority."
+  },
+  {
+    "year": 1957,
+    "event": "Luxembourg signs the Treaty of Rome as a founding member of the European Economic Community."
+  },
+  {
+    "year": 1964,
+    "event": "Grand Duchess Charlotte abdicates in favor of her son, Grand Duke Jean."
+  },
+  {
+    "year": 1985,
+    "event": "The Schengen Agreement abolishing internal border controls is signed in the Luxembourg village of Schengen."
+  },
+  {
+    "year": 1995,
+    "event": "Luxembourg City is designated a European Capital of Culture, highlighting its cultural revival."
+  },
+  {
+    "year": 1999,
+    "event": "Luxembourg adopts the euro as a founding member of the eurozone."
+  },
+  {
+    "year": 2000,
+    "event": "Grand Duke Jean abdicates in favor of his son, Grand Duke Henri, the reigning monarch."
+  },
+  {
+    "year": 2005,
+    "event": "Luxembourgers approve the European Union constitutional treaty in a national referendum."
+  },
+  {
+    "year": 2008,
+    "event": "A constitutional reform removes the Grand Duke's power to sanction laws after Henri's refusal to sign a euthanasia bill."
+  },
+  {
+    "year": 2015,
+    "event": "Luxembourg launches a national initiative and later a law to support commercial asteroid and space mining ventures."
+  },
+  {
+    "year": 2020,
+    "event": "Luxembourg becomes the first country in the world to make all public transport free of charge."
+  },
+  {
+    "year": 2023,
+    "event": "Legislative elections bring a new coalition government, with Luc Frieden becoming Prime Minister."
+  }
 ]

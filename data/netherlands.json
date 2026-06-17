@@ -1,23 +1,194 @@
 [
-  { "year": -8000, "event": "Earliest human presence in the Low Countries after Ice Age retreat" },
-  { "year": -400, "event": "Celtic and Germanic tribes inhabit the river deltas" },
-  { "year": 50, "event": "Roman rule organizes the southern Low Countries" },
-  { "year": 400, "event": "Roman authority collapses during the Migration Period" },
-  { "year": 800, "event": "Frankish rule integrates the region into Carolingian Europe" },
-  { "year": 1100, "event": "Land reclamation and dike building expand habitable territory" },
-  { "year": 1300, "event": "Dutch cities flourish through trade and maritime commerce" },
-  { "year": 1477, "event": "Burgundian Netherlands pass to Habsburg control" },
-  { "year": 1568, "event": "Dutch Revolt begins against Spanish rule" },
-  { "year": 1581, "event": "Northern provinces declare independence from Spain" },
-  { "year": 1648, "event": "Treaty of Westphalia recognizes Dutch independence" },
-  { "year": 1650, "event": "Dutch Golden Age peaks in trade, art, and science" },
-  { "year": 1602, "event": "Dutch East India Company is founded, pioneering global trade empire" },
-  { "year": 1672, "event": "French invasion marks the end of Dutch dominance in Europe" },
-  { "year": 1795, "event": "French revolutionary forces overthrow the old republic" },
-  { "year": 1815, "event": "Kingdom of the Netherlands is established after Napoleon’s defeat" },
-  { "year": 1830, "event": "Belgium separates from the Netherlands" },
-  { "year": 1848, "event": "Liberal constitution establishes parliamentary democracy" },
-  { "year": 1940, "event": "Nazi Germany occupies the Netherlands during World War II" },
-  { "year": 1949, "event": "Indonesia gains independence, ending the Dutch colonial empire" },
-  { "year": 1957, "event": "Netherlands becomes a founding member of the European Economic Community" }
+  {
+    "year": -5300,
+    "event": "Neolithic Linear Pottery culture farmers settle the loess soils of southern Limburg, bringing the first agriculture to the region."
+  },
+  {
+    "year": -3400,
+    "event": "The Funnelbeaker culture builds the hunebedden, large megalithic dolmen tombs concentrated in Drenthe."
+  },
+  {
+    "year": -57,
+    "event": "Julius Caesar campaigns against the Belgic and Germanic tribes of the Low Countries during the Gallic Wars."
+  },
+  {
+    "year": -12,
+    "event": "Roman general Drusus campaigns along the Rhine, which becomes the northern frontier of the Roman Empire."
+  },
+  {
+    "year": 69,
+    "event": "The Batavian leader Gaius Julius Civilis leads a major revolt against Roman rule along the Rhine."
+  },
+  {
+    "year": 260,
+    "event": "Frankish and Saxon raids intensify as Roman control over the lower Rhine frontier weakens."
+  },
+  {
+    "year": 406,
+    "event": "Roman authority collapses in the region as the frontier is abandoned during the great migrations."
+  },
+  {
+    "year": 690,
+    "event": "The Anglo-Saxon missionary Willibrord begins Christianizing the Frisians as Archbishop of the Frisians."
+  },
+  {
+    "year": 754,
+    "event": "The missionary Boniface is martyred at Dokkum while evangelizing the Frisians."
+  },
+  {
+    "year": 785,
+    "event": "Charlemagne subdues Frisia and the surrounding lands, incorporating them into the Frankish Empire."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides the Carolingian Empire, placing the Low Countries largely within Middle Francia."
+  },
+  {
+    "year": 1287,
+    "event": "The St. Lucia's flood drowns much of the north, helping to form the Zuiderzee inland sea."
+  },
+  {
+    "year": 1369,
+    "event": "Philip the Bold of Burgundy marries into Flanders, beginning the Burgundian unification of the Low Countries."
+  },
+  {
+    "year": 1428,
+    "event": "Philip the Good of Burgundy gains control of Holland, Zeeland, and Hainaut, consolidating Burgundian rule."
+  },
+  {
+    "year": 1477,
+    "event": "Mary of Burgundy marries Maximilian of Habsburg, bringing the Low Countries under Habsburg control."
+  },
+  {
+    "year": 1568,
+    "event": "The Dutch Revolt against Spanish rule erupts, beginning the Eighty Years' War."
+  },
+  {
+    "year": 1572,
+    "event": "The Sea Beggars capture Brielle, igniting widespread rebellion in Holland and Zeeland."
+  },
+  {
+    "year": 1579,
+    "event": "The Union of Utrecht unites the northern provinces, laying the foundation of the Dutch Republic."
+  },
+  {
+    "year": 1581,
+    "event": "The Act of Abjuration formally declares independence from King Philip II of Spain."
+  },
+  {
+    "year": 1602,
+    "event": "The Dutch East India Company is founded, becoming the world's first multinational chartered trading company."
+  },
+  {
+    "year": 1609,
+    "event": "The Bank of Amsterdam is established and a truce with Spain begins, opening the Dutch Golden Age."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia ends the Eighty Years' War, formally recognizing Dutch independence."
+  },
+  {
+    "year": 1652,
+    "event": "The First Anglo-Dutch War breaks out over maritime trade and naval supremacy."
+  },
+  {
+    "year": 1672,
+    "event": "The 'Disaster Year' sees France, England, and others invade as William III rises to power as stadtholder."
+  },
+  {
+    "year": 1688,
+    "event": "Stadtholder William III invades England in the Glorious Revolution, becoming king of England the next year."
+  },
+  {
+    "year": 1795,
+    "event": "French revolutionary forces help establish the Batavian Republic, ending the old Dutch Republic."
+  },
+  {
+    "year": 1806,
+    "event": "Napoleon creates the Kingdom of Holland with his brother Louis Bonaparte as king."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna creates the United Kingdom of the Netherlands under King William I."
+  },
+  {
+    "year": 1830,
+    "event": "The Belgian Revolution leads to the secession of the southern provinces as Belgium."
+  },
+  {
+    "year": 1848,
+    "event": "A liberal constitution drafted by Thorbecke establishes parliamentary government under a constitutional monarchy."
+  },
+  {
+    "year": 1863,
+    "event": "The Netherlands abolishes slavery in its colonies, including Suriname and the Caribbean."
+  },
+  {
+    "year": 1914,
+    "event": "The Netherlands declares neutrality and remains neutral throughout World War I."
+  },
+  {
+    "year": 1917,
+    "event": "Universal male suffrage and proportional representation are introduced, with women's suffrage following in 1919."
+  },
+  {
+    "year": 1932,
+    "event": "The Afsluitdijk barrier dam is completed, closing off the Zuiderzee to create the freshwater IJsselmeer."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades and occupies the Netherlands, bombing Rotterdam, while the royal family flees to Britain."
+  },
+  {
+    "year": 1944,
+    "event": "Operation Market Garden fails at Arnhem, and the brutal 'Hunger Winter' famine grips the occupied west."
+  },
+  {
+    "year": 1945,
+    "event": "The Netherlands is liberated from German occupation as World War II ends in Europe."
+  },
+  {
+    "year": 1949,
+    "event": "The Netherlands recognizes the independence of Indonesia after a four-year war of decolonization."
+  },
+  {
+    "year": 1949,
+    "event": "The Netherlands becomes a founding member of NATO."
+  },
+  {
+    "year": 1953,
+    "event": "The catastrophic North Sea flood kills over 1,800 people, prompting the Delta Works flood defenses."
+  },
+  {
+    "year": 1957,
+    "event": "The Netherlands becomes a founding member of the European Economic Community via the Treaty of Rome."
+  },
+  {
+    "year": 1975,
+    "event": "Suriname gains independence from the Netherlands."
+  },
+  {
+    "year": 1980,
+    "event": "Queen Beatrix accedes to the throne after the abdication of her mother Queen Juliana."
+  },
+  {
+    "year": 1992,
+    "event": "The Maastricht Treaty, signed in the Dutch city of Maastricht, establishes the European Union."
+  },
+  {
+    "year": 2001,
+    "event": "The Netherlands becomes the first country in the world to legalize same-sex marriage."
+  },
+  {
+    "year": 2002,
+    "event": "The euro replaces the guilder as the national currency."
+  },
+  {
+    "year": 2013,
+    "event": "King Willem-Alexander accedes to the throne after Queen Beatrix abdicates, the first Dutch king since 1890."
+  },
+  {
+    "year": 2023,
+    "event": "Long-serving prime minister Mark Rutte's coalition collapses over migration policy, ending an era of Dutch politics."
+  }
 ]

@@ -1,30 +1,190 @@
 [
-  { "year": -500000, "event": "Early human ancestors inhabit regions of present-day Germany" },
-  { "year": -500, "event": "Germanic tribes dominate central and northern Europe" },
-  { "year": 9, "event": "Germanic victory over Rome at the Battle of the Teutoburg Forest" },
-  { "year": 400, "event": "Western Roman authority collapses across Germanic territories" },
-  { "year": 800, "event": "Charlemagne rules much of Central Europe from a Frankish empire" },
-  { "year": 843, "event": "Treaty of Verdun divides the Carolingian Empire, shaping East Francia" },
-  { "year": 962, "event": "Holy Roman Empire is founded, centered on German lands" },
-  { "year": 1200, "event": "Imperial cities and regional principalities flourish" },
-  { "year": 1356, "event": "Golden Bull formalizes imperial electoral system" },
-  { "year": 1517, "event": "Martin Luther launches the Protestant Reformation" },
-  { "year": 1555, "event": "Peace of Augsburg legalizes religious division in the empire" },
-  { "year": 1618, "event": "Thirty Years’ War devastates German lands" },
-  { "year": 1648, "event": "Peace of Westphalia establishes state sovereignty principles" },
-  { "year": 1701, "event": "Kingdom of Prussia is proclaimed" },
-  { "year": 1740, "event": "Prussia emerges as a major European military power" },
-  { "year": 1806, "event": "Holy Roman Empire is dissolved during Napoleonic wars" },
-  { "year": 1815, "event": "German Confederation is formed after Napoleon’s defeat" },
-  { "year": 1848, "event": "Liberal revolutions challenge monarchies across German states" },
-  { "year": 1871, "event": "German Empire is unified under Prussian leadership" },
-  { "year": 1914, "event": "Germany enters World War I as a central power" },
-  { "year": 1918, "event": "German Empire collapses and republic is proclaimed" },
-  { "year": 1933, "event": "Nazi regime seizes power" },
-  { "year": 1939, "event": "Germany initiates World War II in Europe" },
-  { "year": 1945, "event": "Germany is defeated and divided after World War II" },
-  { "year": 1949, "event": "East and West Germany are formally established" },
-  { "year": 1961, "event": "Berlin Wall is constructed, symbolizing Cold War division" },
-  { "year": 1989, "event": "Fall of the Berlin Wall marks the end of division" },
-  { "year": 1990, "event": "German reunification restores national unity" }
+  {
+    "year": -500000,
+    "event": "Early human ancestors inhabit regions of present-day Germany, as evidenced by the Heidelberg Man jaw found near Mauer."
+  },
+  {
+    "year": -40000,
+    "event": "Anatomically modern humans living in the Swabian Jura carve the Lion-man and other early figurative art and instruments."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic farmers of the Linear Pottery culture introduce agriculture and permanent villages across the fertile loess lands."
+  },
+  {
+    "year": -1600,
+    "event": "The Nebra Sky Disc, one of the oldest known depictions of the cosmos, is crafted during the Bronze Age in Saxony-Anhalt."
+  },
+  {
+    "year": -113,
+    "event": "Migrating Cimbri and Teutones clash with Rome, beginning recorded contact between Germanic peoples and the Mediterranean world."
+  },
+  {
+    "year": 9,
+    "event": "Germanic tribes led by Arminius annihilate three Roman legions at the Battle of the Teutoburg Forest, halting Rome's expansion east of the Rhine."
+  },
+  {
+    "year": 476,
+    "event": "Germanic warlord Odoacer deposes the last Western Roman emperor, accelerating the rise of Germanic kingdoms."
+  },
+  {
+    "year": 800,
+    "event": "Charlemagne is crowned emperor in Rome, uniting much of the German-speaking lands under Carolingian rule."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides the Carolingian Empire, creating East Francia as the nucleus of the future German state."
+  },
+  {
+    "year": 919,
+    "event": "Henry the Fowler becomes king of East Francia, founding the Ottonian dynasty that consolidated the German realm."
+  },
+  {
+    "year": 962,
+    "event": "Otto I is crowned emperor in Rome, establishing the Holy Roman Empire centered on the German lands."
+  },
+  {
+    "year": 1077,
+    "event": "Emperor Henry IV submits to Pope Gregory VII at Canossa during the Investiture Controversy over church and imperial authority."
+  },
+  {
+    "year": 1356,
+    "event": "The Golden Bull issued by Charles IV formalizes the system of seven prince-electors choosing the Holy Roman Emperor."
+  },
+  {
+    "year": 1450,
+    "event": "Johannes Gutenberg perfects movable-type printing in Mainz, launching the print revolution in Europe."
+  },
+  {
+    "year": 1517,
+    "event": "Martin Luther posts his Ninety-five Theses in Wittenberg, igniting the Protestant Reformation."
+  },
+  {
+    "year": 1525,
+    "event": "The German Peasants' War erupts as commoners rise against feudal lords before being brutally suppressed."
+  },
+  {
+    "year": 1555,
+    "event": "The Peace of Augsburg lets each German prince choose Lutheranism or Catholicism for his territory."
+  },
+  {
+    "year": 1618,
+    "event": "The Defenestration of Prague triggers the Thirty Years' War, which devastates the German lands."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia ends the Thirty Years' War, entrenching the fragmentation of the Holy Roman Empire."
+  },
+  {
+    "year": 1701,
+    "event": "The Duchy of Prussia is elevated to a kingdom, beginning Prussia's rise as a major German power."
+  },
+  {
+    "year": 1740,
+    "event": "Frederick the Great ascends the Prussian throne and seizes Silesia, expanding Prussian power in Central Europe."
+  },
+  {
+    "year": 1806,
+    "event": "Napoleon dissolves the Holy Roman Empire after defeating Austria and Prussia, reorganizing the German states."
+  },
+  {
+    "year": 1815,
+    "event": "The Congress of Vienna creates the German Confederation, a loose league of 39 states under Austrian leadership."
+  },
+  {
+    "year": 1834,
+    "event": "The Zollverein customs union removes trade barriers among German states, advancing economic unification."
+  },
+  {
+    "year": 1848,
+    "event": "Liberal revolutions sweep the German states and the Frankfurt Parliament attempts to unify the nation."
+  },
+  {
+    "year": 1871,
+    "event": "Otto von Bismarck unifies Germany under Prussian leadership, proclaiming the German Empire at Versailles after victory over France."
+  },
+  {
+    "year": 1914,
+    "event": "Germany enters World War I, joining the Central Powers against the Allied nations."
+  },
+  {
+    "year": 1918,
+    "event": "Germany's defeat in World War I ends the monarchy as the Kaiser abdicates and a republic is proclaimed."
+  },
+  {
+    "year": 1919,
+    "event": "The Treaty of Versailles imposes harsh terms on Germany, and the democratic Weimar Republic is founded."
+  },
+  {
+    "year": 1923,
+    "event": "Hyperinflation devastates the German economy as the mark collapses to near-worthlessness."
+  },
+  {
+    "year": 1933,
+    "event": "Adolf Hitler becomes chancellor and the Nazi Party establishes a totalitarian dictatorship."
+  },
+  {
+    "year": 1939,
+    "event": "Germany invades Poland, igniting World War II in Europe."
+  },
+  {
+    "year": 1941,
+    "event": "Germany launches the invasion of the Soviet Union and escalates the systematic genocide of the Holocaust."
+  },
+  {
+    "year": 1945,
+    "event": "Nazi Germany surrenders unconditionally, ending World War II in Europe and leaving the country occupied and in ruins."
+  },
+  {
+    "year": 1949,
+    "event": "Germany is split into the democratic Federal Republic (West) and the communist German Democratic Republic (East)."
+  },
+  {
+    "year": 1955,
+    "event": "West Germany joins NATO while East Germany joins the Warsaw Pact, formalizing Cold War division."
+  },
+  {
+    "year": 1957,
+    "event": "West Germany becomes a founding member of the European Economic Community via the Treaty of Rome."
+  },
+  {
+    "year": 1961,
+    "event": "East Germany builds the Berlin Wall, sealing off West Berlin and symbolizing the divided nation."
+  },
+  {
+    "year": 1973,
+    "event": "Both West and East Germany are admitted to the United Nations."
+  },
+  {
+    "year": 1989,
+    "event": "Peaceful protests and the fall of the Berlin Wall bring down the East German regime."
+  },
+  {
+    "year": 1990,
+    "event": "Germany is officially reunified, dissolving the GDR and merging East into the Federal Republic."
+  },
+  {
+    "year": 1999,
+    "event": "Germany adopts the euro for accounting as a founding member of the eurozone."
+  },
+  {
+    "year": 2002,
+    "event": "Euro banknotes and coins replace the Deutsche Mark in everyday circulation."
+  },
+  {
+    "year": 2005,
+    "event": "Angela Merkel becomes Germany's first female chancellor, beginning sixteen years in office."
+  },
+  {
+    "year": 2015,
+    "event": "Germany receives over a million refugees during the European migrant crisis, reshaping its politics and society."
+  },
+  {
+    "year": 2021,
+    "event": "Olaf Scholz succeeds Angela Merkel as chancellor, leading a new three-party coalition government."
+  },
+  {
+    "year": 2022,
+    "event": "Germany overhauls its defense and energy policies in response to Russia's invasion of Ukraine."
+  }
 ]

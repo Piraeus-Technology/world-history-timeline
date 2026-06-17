@@ -1,16 +1,178 @@
 [
-  { "year": 800, "event": "Slavic settlements consolidate in the Carpathian region" },
-  { "year": 833, "event": "Great Moravia emerges as an early Slavic state" },
-  { "year": 907, "event": "Hungarian conquest ends Great Moravian dominance" },
-  { "year": 1000, "event": "Slovak lands incorporated into the Kingdom of Hungary" },
-  { "year": 1241, "event": "Mongol invasion devastates towns and fortifications" },
-  { "year": 1526, "event": "Region becomes core territory of Habsburg Hungary" },
-  { "year": 1600, "event": "Mining towns drive regional economic importance" },
-  { "year": 1848, "event": "Slovak national movement emerges under imperial rule" },
-  { "year": 1918, "event": "Slovak lands join the new Czechoslovak state" },
-  { "year": 1939, "event": "World War II disrupts political continuity" },
-  { "year": 1948, "event": "Communist rule reshapes industry and urban life" },
-  { "year": 1968, "event": "Reform movement suppressed alongside Czech lands" },
-  { "year": 1989, "event": "Communist system collapses peacefully" },
-  { "year": 1993, "event": "Independent Slovakia formed after peaceful split" }
+  {
+    "year": -5000,
+    "event": "Neolithic farmers establish agricultural settlements in the fertile lowlands of present-day Slovakia."
+  },
+  {
+    "year": -2000,
+    "event": "Bronze Age cultures such as the Únětice and later hillfort communities flourish across the region."
+  },
+  {
+    "year": -400,
+    "event": "Celtic tribes settle the territory, founding fortified oppida and minting the silver Biatec coins near Bratislava."
+  },
+  {
+    "year": -10,
+    "event": "Roman influence extends to the Danube frontier as Germanic and Celtic peoples interact with the empire."
+  },
+  {
+    "year": 179,
+    "event": "Roman soldiers inscribe a victory at Laugaricio (modern Trenčín), the northernmost Roman epigraphic record in the region."
+  },
+  {
+    "year": 400,
+    "event": "Germanic Quadi and other tribes dominate the area during the upheavals of the Migration Period."
+  },
+  {
+    "year": 500,
+    "event": "Slavic peoples migrate into the region, becoming the dominant population of the territory."
+  },
+  {
+    "year": 623,
+    "event": "Slavic tribes join Samo's Empire, the first known political union of Western Slavs against Avar domination."
+  },
+  {
+    "year": 833,
+    "event": "Prince Mojmír I unites the Moravian and Nitrian principalities to form Great Moravia."
+  },
+  {
+    "year": 863,
+    "event": "Byzantine missionaries Cyril and Methodius arrive in Great Moravia, introducing Slavonic liturgy and the Glagolitic script."
+  },
+  {
+    "year": 907,
+    "event": "Great Moravia collapses after Magyar invasions, opening the way for Hungarian control of the region."
+  },
+  {
+    "year": 1000,
+    "event": "The territory of Slovakia is gradually incorporated into the emerging Kingdom of Hungary."
+  },
+  {
+    "year": 1241,
+    "event": "The Mongol invasion devastates the region, prompting King Béla IV to build stone castles for defense."
+  },
+  {
+    "year": 1467,
+    "event": "King Matthias Corvinus founds the Universitas Istropolitana in Bratislava, the first university in the territory."
+  },
+  {
+    "year": 1526,
+    "event": "After the Ottoman victory at Mohács, the region passes to Habsburg rule as part of Royal Hungary."
+  },
+  {
+    "year": 1536,
+    "event": "Bratislava (Pressburg) becomes the capital and coronation city of Royal Hungary as Ottomans occupy the south."
+  },
+  {
+    "year": 1635,
+    "event": "Archbishop Péter Pázmány founds the University of Trnava, a key center of the Counter-Reformation."
+  },
+  {
+    "year": 1740,
+    "event": "Maria Theresa is crowned in Bratislava, ushering in Habsburg reforms across the Hungarian lands."
+  },
+  {
+    "year": 1787,
+    "event": "Anton Bernolák codifies the first standard of written Slovak, advancing the national revival."
+  },
+  {
+    "year": 1843,
+    "event": "Ľudovít Štúr establishes the modern Slovak literary language based on central Slovak dialects."
+  },
+  {
+    "year": 1848,
+    "event": "Slovaks issue the Demands of the Slovak Nation during the revolutions sweeping the Habsburg Empire."
+  },
+  {
+    "year": 1863,
+    "event": "The cultural institution Matica slovenská is founded in Martin to promote Slovak national identity."
+  },
+  {
+    "year": 1875,
+    "event": "Hungarian authorities close the Matica slovenská and intensify Magyarization policies against Slovaks."
+  },
+  {
+    "year": 1918,
+    "event": "The Martin Declaration unites Slovaks with Czechs in the new state of Czechoslovakia after World War I."
+  },
+  {
+    "year": 1919,
+    "event": "Comenius University is founded in Bratislava as the first modern Slovak-language higher institution."
+  },
+  {
+    "year": 1938,
+    "event": "Slovakia gains autonomy within Czechoslovakia following the Munich Agreement and the First Vienna Award."
+  },
+  {
+    "year": 1939,
+    "event": "The clerical-authoritarian Slovak State declares independence under Jozef Tiso as a Nazi German client."
+  },
+  {
+    "year": 1944,
+    "event": "The Slovak National Uprising rises against Nazi occupation and the collaborationist regime."
+  },
+  {
+    "year": 1945,
+    "event": "Czechoslovakia is restored as Soviet and other Allied forces liberate Slovakia at the end of World War II."
+  },
+  {
+    "year": 1948,
+    "event": "The Communist Party seizes full power in Czechoslovakia, establishing a one-party state."
+  },
+  {
+    "year": 1968,
+    "event": "The Prague Spring reforms are crushed by a Warsaw Pact invasion in August."
+  },
+  {
+    "year": 1969,
+    "event": "Czechoslovakia is reorganized as a federation, creating a distinct Slovak Socialist Republic."
+  },
+  {
+    "year": 1989,
+    "event": "The Velvet Revolution peacefully ends Communist rule in Czechoslovakia."
+  },
+  {
+    "year": 1992,
+    "event": "Slovak and Czech leaders agree to dissolve the federation in the so-called Velvet Divorce."
+  },
+  {
+    "year": 1993,
+    "event": "The independent Slovak Republic is established on 1 January and joins the United Nations."
+  },
+  {
+    "year": 1998,
+    "event": "A reformist coalition under Mikuláš Dzurinda wins elections, steering Slovakia toward Western integration."
+  },
+  {
+    "year": 1999,
+    "event": "Rudolf Schuster becomes the first president elected directly by Slovak voters."
+  },
+  {
+    "year": 2004,
+    "event": "Slovakia joins both NATO and the European Union, completing its Euro-Atlantic integration."
+  },
+  {
+    "year": 2007,
+    "event": "Slovakia enters the Schengen Area, abolishing border controls with neighboring EU states."
+  },
+  {
+    "year": 2009,
+    "event": "Slovakia adopts the euro as its national currency, replacing the Slovak koruna."
+  },
+  {
+    "year": 2018,
+    "event": "The murder of journalist Ján Kuciak sparks mass protests and the resignation of the government."
+  },
+  {
+    "year": 2019,
+    "event": "Zuzana Čaputová is elected as Slovakia's first female president."
+  },
+  {
+    "year": 2023,
+    "event": "Robert Fico returns to power as prime minister after parliamentary elections."
+  },
+  {
+    "year": 2024,
+    "event": "Prime Minister Robert Fico survives an assassination attempt, shocking the nation."
+  }
 ]

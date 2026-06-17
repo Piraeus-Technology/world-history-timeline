@@ -1,0 +1,182 @@
+[
+  {
+    "year": -10000,
+    "event": "Hunter-gatherers reach Cyprus, leaving traces at sites such as Aetokremnos on the Akrotiri peninsula."
+  },
+  {
+    "year": -8500,
+    "event": "Neolithic farming communities establish permanent villages, notably at Khirokitia with its distinctive round stone dwellings."
+  },
+  {
+    "year": -3900,
+    "event": "The Chalcolithic period begins as copper working emerges, foreshadowing the metal that would give the island its name."
+  },
+  {
+    "year": -2500,
+    "event": "The Bronze Age opens and Cypriot copper becomes a prized commodity traded across the eastern Mediterranean."
+  },
+  {
+    "year": -1500,
+    "event": "City-kingdoms flourish and Cyprus, identified with 'Alashiya' in ancient texts, exports copper to Egypt and the Near East."
+  },
+  {
+    "year": -1200,
+    "event": "Mycenaean Greek settlers arrive after the Bronze Age collapse, beginning the island's lasting Hellenization."
+  },
+  {
+    "year": -800,
+    "event": "Phoenicians establish a colony at Kition (modern Larnaca), adding to the island's mix of cultures."
+  },
+  {
+    "year": -709,
+    "event": "Cypriot city-kingdoms submit to the Assyrian king Sargon II, commemorated on a stele set up at Kition."
+  },
+  {
+    "year": -570,
+    "event": "Egypt under Pharaoh Amasis II briefly brings Cyprus under its control."
+  },
+  {
+    "year": -545,
+    "event": "Cyprus comes under the Persian Achaemenid Empire as part of its fifth satrapy."
+  },
+  {
+    "year": -499,
+    "event": "Cypriot cities join the Ionian Revolt against Persia but are subdued the following year."
+  },
+  {
+    "year": -411,
+    "event": "Evagoras I becomes king of Salamis and works to unify the island while promoting Greek culture."
+  },
+  {
+    "year": -333,
+    "event": "Cypriot kings ally with Alexander the Great, ending Persian rule over the island."
+  },
+  {
+    "year": -294,
+    "event": "Cyprus is absorbed into the Ptolemaic Kingdom of Egypt, abolishing the old city-kingdoms."
+  },
+  {
+    "year": -58,
+    "event": "Rome annexes Cyprus, attaching it administratively to the province of Cilicia."
+  },
+  {
+    "year": 45,
+    "event": "The apostles Paul and Barnabas evangelize Cyprus, converting the Roman proconsul Sergius Paulus."
+  },
+  {
+    "year": 116,
+    "event": "A devastating Jewish revolt under Trajan ravages the island, after which Jews are barred from Cyprus."
+  },
+  {
+    "year": 269,
+    "event": "Gothic raiders attack Cyprus during the wider crisis of the third-century Roman Empire."
+  },
+  {
+    "year": 330,
+    "event": "Cyprus passes to the Eastern Roman (Byzantine) Empire as Constantinople becomes the imperial capital."
+  },
+  {
+    "year": 431,
+    "event": "The Church of Cyprus is granted autocephaly (self-governance) by the Council of Ephesus."
+  },
+  {
+    "year": 649,
+    "event": "Arab fleets under Muawiyah raid Cyprus, beginning centuries of contested Arab-Byzantine condominium."
+  },
+  {
+    "year": 965,
+    "event": "Emperor Nikephoros II Phokas fully restores Byzantine control over Cyprus."
+  },
+  {
+    "year": 1191,
+    "event": "King Richard the Lionheart conquers Cyprus during the Third Crusade and later sells it on."
+  },
+  {
+    "year": 1192,
+    "event": "Guy of Lusignan acquires Cyprus, founding the French Crusader Lusignan Kingdom that ruled for nearly three centuries."
+  },
+  {
+    "year": 1291,
+    "event": "After the fall of Acre, Cyprus becomes the principal refuge and base for Latin Christendom in the East."
+  },
+  {
+    "year": 1489,
+    "event": "Queen Caterina Cornaro cedes Cyprus to the Republic of Venice, which fortifies the island against the Ottomans."
+  },
+  {
+    "year": 1570,
+    "event": "Ottoman forces invade Cyprus and capture Nicosia after a brutal siege."
+  },
+  {
+    "year": 1571,
+    "event": "The fall of Famagusta completes the Ottoman conquest, beginning over three centuries of Turkish rule."
+  },
+  {
+    "year": 1660,
+    "event": "The Orthodox Archbishop of Cyprus is recognized by the Ottomans as ethnarch, leader of the Greek Cypriot community."
+  },
+  {
+    "year": 1821,
+    "event": "Ottoman authorities execute Archbishop Kyprianos and other Greek Cypriot leaders amid the Greek War of Independence."
+  },
+  {
+    "year": 1878,
+    "event": "Britain takes administrative control of Cyprus under the Cyprus Convention while it remains nominally Ottoman."
+  },
+  {
+    "year": 1914,
+    "event": "Britain annexes Cyprus outright after the Ottoman Empire enters World War I on the opposing side."
+  },
+  {
+    "year": 1925,
+    "event": "Cyprus is formally declared a British Crown Colony."
+  },
+  {
+    "year": 1931,
+    "event": "Greek Cypriot demands for enosis (union with Greece) erupt in the Oktovriana uprising against British rule."
+  },
+  {
+    "year": 1955,
+    "event": "The EOKA guerrilla campaign launches an armed struggle against British rule for union with Greece."
+  },
+  {
+    "year": 1960,
+    "event": "Cyprus gains independence from Britain, with Archbishop Makarios III as its first president."
+  },
+  {
+    "year": 1963,
+    "event": "Intercommunal violence erupts after Makarios proposes constitutional changes, displacing many Turkish Cypriots."
+  },
+  {
+    "year": 1964,
+    "event": "The United Nations deploys the UNFICYP peacekeeping force, which remains on the island for decades."
+  },
+  {
+    "year": 1974,
+    "event": "A Greek junta-backed coup is followed by a Turkish military invasion that partitions the island."
+  },
+  {
+    "year": 1983,
+    "event": "Turkish Cypriots unilaterally declare the Turkish Republic of Northern Cyprus, recognized only by Turkey."
+  },
+  {
+    "year": 2003,
+    "event": "Crossings along the Green Line dividing the island are partially opened for the first time since 1974."
+  },
+  {
+    "year": 2004,
+    "event": "The UN's Annan reunification plan is rejected by Greek Cypriots, and Cyprus joins the European Union still divided."
+  },
+  {
+    "year": 2008,
+    "event": "Cyprus adopts the euro as its currency, replacing the Cypriot pound."
+  },
+  {
+    "year": 2013,
+    "event": "A severe banking crisis forces a controversial EU bailout that imposes losses on large depositors."
+  },
+  {
+    "year": 2017,
+    "event": "UN-led reunification talks at Crans-Montana collapse without a settlement, leaving the island divided."
+  }
+]

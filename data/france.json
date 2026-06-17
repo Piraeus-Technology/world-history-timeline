@@ -1,35 +1,242 @@
 [
-  { "year": -40000, "event": "Early modern humans inhabit regions of present-day France" },
-  { "year": -600, "event": "Celtic Gaulish tribes dominate much of the territory" },
-  { "year": -52, "event": "Julius Caesar completes the Roman conquest of Gaul" },
-  { "year": 50, "event": "Roman Gaul becomes a major center of Roman culture and infrastructure" },
-  { "year": 400, "event": "Roman authority collapses during barbarian invasions" },
-  { "year": 481, "event": "Clovis unites the Franks, laying foundations of the French state" },
-  { "year": 800, "event": "Charlemagne is crowned Emperor, ruling much of Western Europe" },
-  { "year": 843, "event": "Treaty of Verdun divides the Carolingian Empire, shaping France’s core territory" },
-  { "year": 987, "event": "Hugh Capet becomes king, founding the Capetian dynasty" },
-  { "year": 1100, "event": "Gothic architecture emerges, transforming cathedrals and cities" },
-  { "year": 1214, "event": "French monarchy defeats rivals, consolidating royal power" },
-  { "year": 1337, "event": "Hundred Years’ War begins between France and England" },
-  { "year": 1429, "event": "Joan of Arc rallies French forces during the Hundred Years’ War" },
-  { "year": 1453, "event": "Hundred Years’ War ends, strengthening the French monarchy" },
-  { "year": 1515, "event": "French Renaissance flourishes under royal patronage" },
-  { "year": 1562, "event": "Wars of Religion erupt between Catholics and Protestants" },
-  { "year": 1598, "event": "Edict of Nantes grants limited religious tolerance" },
-  { "year": 1643, "event": "Louis XIV begins reign, embodying absolute monarchy" },
-  { "year": 1682, "event": "Versailles becomes the royal court and symbol of royal power" },
-  { "year": 1789, "event": "French Revolution begins, overturning the old regime" },
-  { "year": 1793, "event": "Monarchy is abolished and the king is executed" },
-  { "year": 1799, "event": "Napoleon Bonaparte seizes power in a coup" },
-  { "year": 1804, "event": "Napoleon crowns himself Emperor of the French" },
-  { "year": 1815, "event": "Napoleon is defeated and monarchy is restored" },
-  { "year": 1830, "event": "July Revolution reshapes constitutional monarchy" },
-  { "year": 1870, "event": "Franco-Prussian War leads to collapse of the Second Empire" },
-  { "year": 1871, "event": "Third Republic is established after national defeat" },
-  { "year": 1914, "event": "France enters World War I as a major Allied power" },
-  { "year": 1918, "event": "World War I ends with massive losses and territorial recovery" },
-  { "year": 1940, "event": "France is defeated and partially occupied by Nazi Germany" },
-  { "year": 1944, "event": "Liberation of France restores national sovereignty" },
-  { "year": 1958, "event": "Fifth Republic is established under Charles de Gaulle" },
-  { "year": 1962, "event": "Algerian War ends, closing the French colonial empire era" }
+  {
+    "year": -32000,
+    "event": "Cro-Magnon humans inhabit the region and create the cave paintings of Chauvet."
+  },
+  {
+    "year": -17000,
+    "event": "The Lascaux cave paintings are created in the Dordogne region."
+  },
+  {
+    "year": -600,
+    "event": "Greek colonists from Phocaea found Massalia (Marseille), the oldest city in France."
+  },
+  {
+    "year": -58,
+    "event": "Julius Caesar begins the Gallic Wars, leading to the Roman conquest of Gaul."
+  },
+  {
+    "year": -52,
+    "event": "Vercingetorix surrenders to Caesar at Alesia, ending major Gallic resistance."
+  },
+  {
+    "year": 177,
+    "event": "Christian martyrs are executed at Lyon, an early sign of Christianity's spread in Gaul."
+  },
+  {
+    "year": 451,
+    "event": "Roman and Visigothic forces defeat Attila the Hun at the Catalaunian Plains."
+  },
+  {
+    "year": 481,
+    "event": "Clovis I becomes king of the Franks, founding the Merovingian dynasty."
+  },
+  {
+    "year": 496,
+    "event": "Clovis I converts to Catholic Christianity after his victory at Tolbiac."
+  },
+  {
+    "year": 732,
+    "event": "Charles Martel halts the Umayyad advance at the Battle of Tours."
+  },
+  {
+    "year": 800,
+    "event": "Charlemagne is crowned Emperor of the Romans by Pope Leo III."
+  },
+  {
+    "year": 843,
+    "event": "The Treaty of Verdun divides the Carolingian Empire, creating West Francia."
+  },
+  {
+    "year": 987,
+    "event": "Hugh Capet is elected king, founding the long-ruling Capetian dynasty."
+  },
+  {
+    "year": 1066,
+    "event": "Duke William of Normandy conquers England, becoming William the Conqueror."
+  },
+  {
+    "year": 1095,
+    "event": "Pope Urban II launches the First Crusade at the Council of Clermont."
+  },
+  {
+    "year": 1209,
+    "event": "The Albigensian Crusade begins against the Cathars in southern France."
+  },
+  {
+    "year": 1214,
+    "event": "Philip II Augustus wins the Battle of Bouvines, consolidating royal power."
+  },
+  {
+    "year": 1309,
+    "event": "The papacy relocates to Avignon, beginning nearly seventy years of French influence."
+  },
+  {
+    "year": 1337,
+    "event": "The Hundred Years' War with England begins over claims to the French throne."
+  },
+  {
+    "year": 1347,
+    "event": "The Black Death arrives, killing a large share of the French population."
+  },
+  {
+    "year": 1429,
+    "event": "Joan of Arc lifts the Siege of Orleans, turning the tide of the Hundred Years' War."
+  },
+  {
+    "year": 1453,
+    "event": "The Hundred Years' War ends in French victory, expelling the English from most of France."
+  },
+  {
+    "year": 1515,
+    "event": "Francis I wins at Marignano and ushers in the French Renaissance."
+  },
+  {
+    "year": 1562,
+    "event": "The French Wars of Religion erupt between Catholics and Protestant Huguenots."
+  },
+  {
+    "year": 1572,
+    "event": "The St. Bartholomew's Day Massacre kills thousands of Huguenots in Paris and beyond."
+  },
+  {
+    "year": 1598,
+    "event": "Henry IV issues the Edict of Nantes, granting religious tolerance to Protestants."
+  },
+  {
+    "year": 1643,
+    "event": "Louis XIV, the Sun King, begins his 72-year reign defining French absolutism."
+  },
+  {
+    "year": 1682,
+    "event": "Louis XIV moves the royal court to the Palace of Versailles."
+  },
+  {
+    "year": 1685,
+    "event": "Louis XIV revokes the Edict of Nantes, prompting mass Huguenot emigration."
+  },
+  {
+    "year": 1789,
+    "event": "The storming of the Bastille ignites the French Revolution."
+  },
+  {
+    "year": 1792,
+    "event": "The First French Republic is proclaimed, abolishing the monarchy."
+  },
+  {
+    "year": 1793,
+    "event": "King Louis XVI is executed by guillotine, followed by the Reign of Terror."
+  },
+  {
+    "year": 1799,
+    "event": "Napoleon Bonaparte seizes power in a coup, becoming First Consul."
+  },
+  {
+    "year": 1804,
+    "event": "Napoleon crowns himself Emperor and promulgates the Napoleonic Code."
+  },
+  {
+    "year": 1815,
+    "event": "Napoleon is defeated at Waterloo, ending his empire and restoring the monarchy."
+  },
+  {
+    "year": 1830,
+    "event": "The July Revolution overthrows Charles X and installs a constitutional monarchy."
+  },
+  {
+    "year": 1848,
+    "event": "The February Revolution establishes the Second Republic with universal male suffrage."
+  },
+  {
+    "year": 1852,
+    "event": "Napoleon III proclaims the Second French Empire."
+  },
+  {
+    "year": 1871,
+    "event": "Defeat in the Franco-Prussian War costs Alsace-Lorraine and founds the Third Republic."
+  },
+  {
+    "year": 1889,
+    "event": "The Eiffel Tower is completed for the Paris World's Fair."
+  },
+  {
+    "year": 1894,
+    "event": "The Dreyfus Affair erupts, exposing deep divisions over antisemitism and justice."
+  },
+  {
+    "year": 1905,
+    "event": "France enshrines the separation of church and state through its laicite law."
+  },
+  {
+    "year": 1914,
+    "event": "France enters World War I, halting the German advance at the First Battle of the Marne."
+  },
+  {
+    "year": 1916,
+    "event": "The Battle of Verdun becomes one of the longest and deadliest battles of World War I."
+  },
+  {
+    "year": 1918,
+    "event": "World War I ends with an armistice, returning Alsace-Lorraine to France."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades and occupies France, with the collaborationist Vichy regime in the south."
+  },
+  {
+    "year": 1944,
+    "event": "Allied forces land at Normandy on D-Day and liberate Paris from German occupation."
+  },
+  {
+    "year": 1945,
+    "event": "France becomes a founding UN member with a permanent Security Council seat."
+  },
+  {
+    "year": 1946,
+    "event": "The Fourth Republic is established and French women vote in their first general elections."
+  },
+  {
+    "year": 1954,
+    "event": "France withdraws from Indochina after Dien Bien Phu as the Algerian War begins."
+  },
+  {
+    "year": 1957,
+    "event": "France signs the Treaty of Rome, co-founding the European Economic Community."
+  },
+  {
+    "year": 1958,
+    "event": "Charles de Gaulle founds the Fifth Republic with a strengthened presidency."
+  },
+  {
+    "year": 1960,
+    "event": "France detonates its first atomic bomb, becoming a nuclear power."
+  },
+  {
+    "year": 1962,
+    "event": "Algeria gains independence after a brutal war, ending France's largest colony."
+  },
+  {
+    "year": 1968,
+    "event": "Mass student and worker protests in May nearly topple the government."
+  },
+  {
+    "year": 1981,
+    "event": "Francois Mitterrand becomes the first Socialist president of the Fifth Republic."
+  },
+  {
+    "year": 2002,
+    "event": "France adopts euro banknotes and coins, retiring the franc."
+  },
+  {
+    "year": 2015,
+    "event": "Coordinated terrorist attacks in Paris, including at the Bataclan, kill 130 people."
+  },
+  {
+    "year": 2019,
+    "event": "A major fire severely damages the Notre-Dame de Paris cathedral."
+  },
+  {
+    "year": 2024,
+    "event": "Paris hosts the Summer Olympic Games for the third time."
+  }
 ]

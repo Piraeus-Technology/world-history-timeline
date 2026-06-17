@@ -1,18 +1,190 @@
 [
-  { "year": 850, "event": "Slavic tribes settle Bohemia and Moravia" },
-  { "year": 1002, "event": "Bohemia integrated into the Holy Roman Empire" },
-  { "year": 1212, "event": "Bohemia gains hereditary royal status" },
-  { "year": 1346, "event": "Prague becomes an imperial capital under Charles IV" },
-  { "year": 1419, "event": "Hussite Wars challenge Catholic dominance in Central Europe" },
-  { "year": 1526, "event": "Habsburg rule begins over Bohemian lands" },
-  { "year": 1620, "event": "Defeat at White Mountain ends Bohemian autonomy" },
-  { "year": 1650, "event": "Baroque rebuilding reshapes cities and countryside" },
-  { "year": 1781, "event": "Religious toleration weakens Catholic monopoly" },
-  { "year": 1848, "event": "Czech national revival challenges imperial rule" },
-  { "year": 1918, "event": "Czechoslovakia formed after World War I" },
-  { "year": 1939, "event": "Nazi occupation dismantles the Czechoslovak state" },
-  { "year": 1948, "event": "Communist rule restructures politics and urban life" },
-  { "year": 1968, "event": "Prague Spring suppressed by Warsaw Pact invasion" },
-  { "year": 1989, "event": "Velvet Revolution ends communist rule" },
-  { "year": 1993, "event": "Peaceful split creates the Czech Republic" }
+  {
+    "year": -28000,
+    "event": "The Venus of Dolní Věstonice, one of the world's oldest known ceramic figurines, is created by Gravettian mammoth hunters in Moravia."
+  },
+  {
+    "year": -5500,
+    "event": "Neolithic farmers of the Linear Pottery culture settle the fertile lowlands of Bohemia and Moravia, introducing agriculture."
+  },
+  {
+    "year": -400,
+    "event": "Celtic tribes, including the Boii who give Bohemia its name, dominate the region during the La Tène period."
+  },
+  {
+    "year": -50,
+    "event": "Germanic tribes, notably the Marcomanni under Maroboduus, displace the Celtic Boii and establish a powerful kingdom in Bohemia."
+  },
+  {
+    "year": 6,
+    "event": "Rome plans a campaign against Maroboduus's Marcomannic kingdom but abandons it due to a revolt in Pannonia."
+  },
+  {
+    "year": 180,
+    "event": "Emperor Marcus Aurelius concludes the Marcomannic Wars, fought partly on the soil of present-day Czech lands."
+  },
+  {
+    "year": 500,
+    "event": "Slavic tribes begin migrating into Bohemia and Moravia, gradually becoming the dominant population."
+  },
+  {
+    "year": 623,
+    "event": "Samo unites Slavic tribes against the Avars, founding Samo's Empire, the first known Slavic political entity in the region."
+  },
+  {
+    "year": 833,
+    "event": "Prince Mojmír I founds Great Moravia, the first major West Slavic state centered in Moravia."
+  },
+  {
+    "year": 863,
+    "event": "Byzantine missionaries Cyril and Methodius arrive in Great Moravia, bringing the Glagolitic alphabet and Slavic liturgy."
+  },
+  {
+    "year": 907,
+    "event": "Great Moravia collapses under Magyar invasions, shifting power toward the emerging Bohemian principality."
+  },
+  {
+    "year": 935,
+    "event": "Duke Wenceslas I, later Saint Wenceslas and patron of the Czechs, is murdered by his brother Boleslav I."
+  },
+  {
+    "year": 973,
+    "event": "The Bishopric of Prague is established, anchoring the Czech lands within Latin Christendom."
+  },
+  {
+    "year": 1085,
+    "event": "Vratislaus II becomes the first King of Bohemia, granted the royal title by Emperor Henry IV."
+  },
+  {
+    "year": 1212,
+    "event": "The Golden Bull of Sicily confirms hereditary kingship for the Přemyslid dynasty and Bohemia's autonomy within the Empire."
+  },
+  {
+    "year": 1306,
+    "event": "The assassination of Wenceslas III ends the Přemyslid dynasty, opening the throne to the Luxembourg dynasty."
+  },
+  {
+    "year": 1348,
+    "event": "Charles IV founds Charles University in Prague, the first university in Central Europe, during Prague's golden age."
+  },
+  {
+    "year": 1355,
+    "event": "Charles IV is crowned Holy Roman Emperor, making Prague the imperial capital and a leading European cultural center."
+  },
+  {
+    "year": 1415,
+    "event": "Religious reformer Jan Hus is burned at the stake at the Council of Constance, sparking the Hussite movement."
+  },
+  {
+    "year": 1419,
+    "event": "The First Defenestration of Prague ignites the Hussite Wars against the Catholic Church and Empire."
+  },
+  {
+    "year": 1526,
+    "event": "Ferdinand I of Habsburg is elected King of Bohemia, beginning nearly four centuries of Habsburg rule."
+  },
+  {
+    "year": 1618,
+    "event": "The Second Defenestration of Prague triggers the Bohemian Revolt and the wider Thirty Years' War."
+  },
+  {
+    "year": 1620,
+    "event": "Bohemian Protestant forces are crushed at the Battle of White Mountain, leading to harsh Habsburg recatholicization."
+  },
+  {
+    "year": 1648,
+    "event": "The Peace of Westphalia ends the Thirty Years' War, leaving the Czech lands devastated and firmly under Habsburg control."
+  },
+  {
+    "year": 1740,
+    "event": "Maria Theresa accedes to the Habsburg throne, beginning Enlightenment reforms across Bohemia and Moravia."
+  },
+  {
+    "year": 1781,
+    "event": "Emperor Joseph II abolishes serfdom and issues the Patent of Toleration, modernizing the Czech lands."
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions sweep the Habsburg Empire as Czech national revival leaders convene the Prague Slavic Congress."
+  },
+  {
+    "year": 1867,
+    "event": "The Austro-Hungarian Compromise leaves the Czech lands within Austria, fueling Czech demands for autonomy."
+  },
+  {
+    "year": 1918,
+    "event": "Czechoslovakia is proclaimed an independent republic on 28 October as Austria-Hungary collapses after World War I."
+  },
+  {
+    "year": 1935,
+    "event": "Edvard Beneš succeeds Tomáš Garrigue Masaryk as president of democratic Czechoslovakia."
+  },
+  {
+    "year": 1938,
+    "event": "The Munich Agreement forces Czechoslovakia to cede the Sudetenland to Nazi Germany without its consent."
+  },
+  {
+    "year": 1939,
+    "event": "Nazi Germany occupies the Czech lands, establishing the Protectorate of Bohemia and Moravia."
+  },
+  {
+    "year": 1942,
+    "event": "Reinhard Heydrich is assassinated in Prague, prompting brutal Nazi reprisals including the destruction of Lidice."
+  },
+  {
+    "year": 1945,
+    "event": "Soviet and American troops liberate Czechoslovakia as World War II ends and the ethnic Germans are expelled."
+  },
+  {
+    "year": 1948,
+    "event": "The Communist Party seizes full power in a coup, making Czechoslovakia a Soviet-aligned one-party state."
+  },
+  {
+    "year": 1968,
+    "event": "The Prague Spring reforms are crushed when Warsaw Pact forces invade to halt Alexander Dubček's liberalization."
+  },
+  {
+    "year": 1969,
+    "event": "Student Jan Palach self-immolates in Prague in protest against the Soviet occupation."
+  },
+  {
+    "year": 1977,
+    "event": "Dissidents publish Charter 77, a human-rights manifesto that becomes a focus of opposition to communist rule."
+  },
+  {
+    "year": 1989,
+    "event": "The peaceful Velvet Revolution topples the communist regime, bringing Václav Havel to the presidency."
+  },
+  {
+    "year": 1993,
+    "event": "Czechoslovakia peacefully splits in the Velvet Divorce, creating the independent Czech Republic on 1 January."
+  },
+  {
+    "year": 1993,
+    "event": "The Czech Republic joins the United Nations as a sovereign state."
+  },
+  {
+    "year": 1999,
+    "event": "The Czech Republic joins NATO, anchoring itself in the Western security alliance."
+  },
+  {
+    "year": 2004,
+    "event": "The Czech Republic becomes a member of the European Union in the bloc's largest enlargement."
+  },
+  {
+    "year": 2007,
+    "event": "The Czech Republic joins the Schengen Area, abolishing border controls with neighboring states."
+  },
+  {
+    "year": 2013,
+    "event": "Miloš Zeman becomes the first Czech president elected by direct popular vote."
+  },
+  {
+    "year": 2016,
+    "event": "The country adopts 'Czechia' as its official short geographic name in English."
+  },
+  {
+    "year": 2023,
+    "event": "Former NATO general Petr Pavel is elected president, succeeding Miloš Zeman."
+  }
 ]

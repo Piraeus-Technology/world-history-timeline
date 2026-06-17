@@ -1,13 +1,186 @@
 [
-  { "year": 800, "event": "Slavic settlement shapes the central Balkan interior" },
-  { "year": 1200, "event": "Kosovo becomes a religious and political core of medieval Serbia" },
-  { "year": 1389, "event": "Battle of Kosovo enters regional historical memory" },
-  { "year": 1455, "event": "Ottoman conquest integrates Kosovo into imperial rule" },
-  { "year": 1600, "event": "Islam spreads alongside older Christian communities" },
-  { "year": 1690, "event": "Population shifts alter ethnic and religious balance" },
-  { "year": 1912, "event": "Ottoman control ends after Balkan Wars" },
-  { "year": 1918, "event": "Kosovo incorporated into a South Slavic state" },
-  { "year": 1945, "event": "Autonomous status established within socialist Yugoslavia" },
-  { "year": 1999, "event": "Conflict ends Serbian control and reshapes governance" },
-  { "year": 2008, "event": "Independence declared amid partial international recognition" }
+  {
+    "year": -6000,
+    "event": "Neolithic farming communities of the Starčevo culture settle in the fertile river valleys of present-day Kosovo."
+  },
+  {
+    "year": -5500,
+    "event": "The Vinča culture flourishes, leaving notable sites such as Vlashnjë and producing among the earliest figurines and pottery in the region."
+  },
+  {
+    "year": -1000,
+    "event": "Illyrian tribes, particularly the Dardani, emerge as the dominant population across the territory."
+  },
+  {
+    "year": -400,
+    "event": "The Dardanians establish the Kingdom of Dardania, a powerful Illyrian polity centered on the region."
+  },
+  {
+    "year": -168,
+    "event": "Rome defeats Macedon and begins expanding its influence into the Dardanian lands."
+  },
+  {
+    "year": -28,
+    "event": "Dardania is incorporated into the Roman province of Moesia following Roman conquest of the Balkan interior."
+  },
+  {
+    "year": 100,
+    "event": "The Roman town of Ulpiana is founded near modern Pristina, becoming an important mining and administrative center."
+  },
+  {
+    "year": 284,
+    "event": "Emperor Diocletian reorganizes the Balkans and the region falls within the renamed province of Dardania."
+  },
+  {
+    "year": 518,
+    "event": "A devastating earthquake destroys Ulpiana, which Emperor Justinian I later rebuilds as Justiniana Secunda."
+  },
+  {
+    "year": 600,
+    "event": "Slavic tribes migrate into and settle across the region as Byzantine control weakens."
+  },
+  {
+    "year": 850,
+    "event": "The region comes under the control of the First Bulgarian Empire during its Balkan expansion."
+  },
+  {
+    "year": 1018,
+    "event": "Byzantine Emperor Basil II reconquers the area after defeating Bulgaria, restoring imperial rule."
+  },
+  {
+    "year": 1180,
+    "event": "Serbian Grand Prince Stefan Nemanja seizes the region, beginning lasting incorporation into the medieval Serbian state."
+  },
+  {
+    "year": 1219,
+    "event": "Saint Sava establishes the autocephalous Serbian Orthodox Church, with key religious institutions soon rooted in the region."
+  },
+  {
+    "year": 1346,
+    "event": "Stefan Dušan is crowned Emperor of the Serbs, and the Patriarchate is seated at Peć, making the area a Serbian political and spiritual heartland."
+  },
+  {
+    "year": 1389,
+    "event": "The Battle of Kosovo is fought on Kosovo Polje between Serbian-led forces and the Ottoman Empire, a pivotal and legendary clash."
+  },
+  {
+    "year": 1455,
+    "event": "The Ottomans complete their conquest of the region, organizing it into the Sanjak of Vučitrn under Ottoman administration."
+  },
+  {
+    "year": 1557,
+    "event": "The Ottomans restore the Serbian Patriarchate of Peć, strengthening Orthodox religious life under their rule."
+  },
+  {
+    "year": 1690,
+    "event": "After a failed anti-Ottoman uprising, the Great Migration of the Serbs sees tens of thousands flee northward, while Albanian settlement increases."
+  },
+  {
+    "year": 1766,
+    "event": "The Ottomans abolish the Serbian Patriarchate of Peć, placing the church under Greek Phanariot control."
+  },
+  {
+    "year": 1878,
+    "event": "The League of Prizren is founded to defend Albanian-inhabited lands and promote Albanian national autonomy within the Ottoman Empire."
+  },
+  {
+    "year": 1912,
+    "event": "During the First Balkan War, Serbian and Montenegrin forces capture the region from the Ottomans."
+  },
+  {
+    "year": 1913,
+    "event": "The Treaty of London confirms the partition of the region between Serbia and Montenegro, ending Ottoman rule."
+  },
+  {
+    "year": 1918,
+    "event": "The region becomes part of the newly formed Kingdom of Serbs, Croats and Slovenes, later Yugoslavia."
+  },
+  {
+    "year": 1941,
+    "event": "Axis powers occupy the region during World War II, with most of it annexed to Italian-controlled Greater Albania."
+  },
+  {
+    "year": 1945,
+    "event": "Partisan forces incorporate the region into Tito's socialist Yugoslavia as the Autonomous Region of Kosovo and Metohija within Serbia."
+  },
+  {
+    "year": 1968,
+    "event": "Albanian student demonstrations demand greater autonomy and university rights, signaling rising national assertiveness."
+  },
+  {
+    "year": 1974,
+    "event": "Yugoslavia's new constitution grants Kosovo extensive autonomy as a Socialist Autonomous Province with near-republic powers."
+  },
+  {
+    "year": 1981,
+    "event": "Mass Albanian protests demanding republic status are violently suppressed by Yugoslav authorities."
+  },
+  {
+    "year": 1989,
+    "event": "Serbian leader Slobodan Milošević strips Kosovo of its autonomy, igniting deep ethnic tensions."
+  },
+  {
+    "year": 1990,
+    "event": "Kosovo Albanians declare an unofficial Republic of Kosovo and build parallel institutions in response to Serbian repression."
+  },
+  {
+    "year": 1996,
+    "event": "The Kosovo Liberation Army emerges and begins armed attacks against Serbian forces."
+  },
+  {
+    "year": 1998,
+    "event": "Full-scale war erupts between the Kosovo Liberation Army and Yugoslav security forces, causing mass displacement of civilians."
+  },
+  {
+    "year": 1999,
+    "event": "NATO launches a 78-day bombing campaign against Yugoslavia, ending the war and placing Kosovo under UN administration via Resolution 1244."
+  },
+  {
+    "year": 2001,
+    "event": "Kosovo holds its first general elections under UN administration, with Ibrahim Rugova later elected president."
+  },
+  {
+    "year": 2004,
+    "event": "Widespread inter-ethnic riots erupt, leaving many dead and numerous Serbian Orthodox sites damaged."
+  },
+  {
+    "year": 2008,
+    "event": "Kosovo unilaterally declares independence from Serbia on 17 February, recognized by the United States and many Western states."
+  },
+  {
+    "year": 2008,
+    "event": "Kosovo adopts a new constitution, and the EU deploys the EULEX rule-of-law mission to support its institutions."
+  },
+  {
+    "year": 2010,
+    "event": "The International Court of Justice rules that Kosovo's declaration of independence did not violate international law."
+  },
+  {
+    "year": 2013,
+    "event": "Kosovo and Serbia sign the Brussels Agreement to normalize relations, brokered by the European Union."
+  },
+  {
+    "year": 2016,
+    "event": "Kosovo signs a Stabilisation and Association Agreement with the EU, its first contractual relationship with the bloc."
+  },
+  {
+    "year": 2018,
+    "event": "Kosovo establishes its own armed forces by transforming the Kosovo Security Force, drawing protest from Serbia."
+  },
+  {
+    "year": 2021,
+    "event": "Albin Kurti's Vetëvendosje movement wins a landslide election, and Vjosa Osmani is elected president."
+  },
+  {
+    "year": 2022,
+    "event": "Kosovo formally applies for membership in the European Union amid ongoing tensions in the Serb-majority north."
+  },
+  {
+    "year": 2023,
+    "event": "The EU-brokered Ohrid Agreement outlines steps toward normalizing Kosovo-Serbia relations, though full implementation stalls."
+  },
+  {
+    "year": 2024,
+    "event": "The euro becomes the sole permitted currency for cash transactions, sharpening disputes with the Serb-majority north as Kosovo deepens European ties."
+  }
 ]

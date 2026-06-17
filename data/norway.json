@@ -1,20 +1,158 @@
 [
-  { "year": -11000, "event": "Earliest human settlement in present-day Norway after Ice Age retreat" },
-  { "year": -4000, "event": "Neolithic communities establish coastal fishing and farming settlements" },
-  { "year": -1800, "event": "Nordic Bronze Age culture develops with maritime trade networks" },
-  { "year": -500, "event": "Iron Age societies form regional chieftaincies" },
-  { "year": 793, "event": "Viking Age begins with seaborne raids and exploration" },
-  { "year": 872, "event": "Traditional unification of Norway under Harald Fairhair" },
-  { "year": 1000, "event": "Christianity spreads, reshaping Norwegian society and kingship" },
-  { "year": 1066, "event": "Norwegian Viking expansion era ends after North Sea conflicts" },
-  { "year": 1200, "event": "Norwegian medieval kingdom reaches territorial height" },
-  { "year": 1349, "event": "Black Death devastates population and weakens the kingdom" },
-  { "year": 1397, "event": "Norway enters the Kalmar Union with Denmark and Sweden" },
-  { "year": 1537, "event": "Norway becomes a subordinate kingdom under Danish rule" },
-  { "year": 1814, "event": "Union with Denmark ends; Norway enters union with Sweden" },
-  { "year": 1905, "event": "Norway gains full independence and establishes constitutional monarchy" },
-  { "year": 1940, "event": "Nazi Germany occupies Norway during World War II" },
-  { "year": 1945, "event": "Norway is liberated and restores democratic rule" },
-  { "year": 1969, "event": "North Sea oil discoveries transform the economy" },
-  { "year": 1972, "event": "Norway chooses to remain outside the European Communities" }
+  {
+    "year": -10000,
+    "event": "The first human settlers arrive along Norway's coast as the ice sheets retreat after the last Ice Age."
+  },
+  {
+    "year": -4000,
+    "event": "Agriculture and the Neolithic way of life spread into southern Norway, supplementing hunting and fishing."
+  },
+  {
+    "year": -1500,
+    "event": "The Bronze Age brings metalworking, burial mounds, and extensive rock carvings to coastal Norway."
+  },
+  {
+    "year": -500,
+    "event": "The Iron Age begins, with iron tools enabling expanded farming and the emergence of organized chieftaincies."
+  },
+  {
+    "year": 793,
+    "event": "Norse raiders attack the monastery at Lindisfarne in England, marking the traditional start of the Viking Age."
+  },
+  {
+    "year": 872,
+    "event": "Harald Fairhair wins the Battle of Hafrsfjord and begins unifying the petty kingdoms of Norway under one crown."
+  },
+  {
+    "year": 930,
+    "event": "Norse settlers from Norway help found the Icelandic Commonwealth and its assembly, the Althing."
+  },
+  {
+    "year": 995,
+    "event": "Olaf Tryggvason becomes king and aggressively promotes the Christianization of Norway."
+  },
+  {
+    "year": 1000,
+    "event": "King Olaf Tryggvason dies at the Battle of Svolder against a coalition of Scandinavian rivals."
+  },
+  {
+    "year": 1030,
+    "event": "King Olaf Haraldsson is killed at the Battle of Stiklestad and is later canonized as Saint Olaf, patron of Norway."
+  },
+  {
+    "year": 1066,
+    "event": "King Harald Hardrada dies at the Battle of Stamford Bridge in England, an event often seen as ending the Viking Age."
+  },
+  {
+    "year": 1130,
+    "event": "The death of King Sigurd the Crusader opens a century of civil wars over the Norwegian succession."
+  },
+  {
+    "year": 1217,
+    "event": "Haakon IV becomes king, ending the civil war era and inaugurating Norway's medieval golden age."
+  },
+  {
+    "year": 1262,
+    "event": "Iceland and Greenland submit to the Norwegian crown, expanding the kingdom across the North Atlantic."
+  },
+  {
+    "year": 1349,
+    "event": "The Black Death reaches Norway, killing roughly half the population and devastating the economy."
+  },
+  {
+    "year": 1380,
+    "event": "Norway enters a personal union with Denmark when Olaf II inherits both crowns."
+  },
+  {
+    "year": 1397,
+    "event": "The Kalmar Union unites Norway, Denmark, and Sweden under a single monarch."
+  },
+  {
+    "year": 1537,
+    "event": "Denmark imposes the Lutheran Reformation on Norway and reduces it to a province within the Danish realm."
+  },
+  {
+    "year": 1814,
+    "event": "Norway adopts a liberal constitution at Eidsvoll on May 17 but is forced into a union with Sweden after a brief war."
+  },
+  {
+    "year": 1825,
+    "event": "The first organized emigrant ship, the Restauration, sails to America, beginning mass Norwegian emigration."
+  },
+  {
+    "year": 1884,
+    "event": "Parliamentary government is established, shifting power from the king to the Storting."
+  },
+  {
+    "year": 1905,
+    "event": "Norway peacefully dissolves the union with Sweden and gains full independence, choosing Haakon VII as king."
+  },
+  {
+    "year": 1911,
+    "event": "Norwegian explorer Roald Amundsen leads the first expedition to reach the South Pole."
+  },
+  {
+    "year": 1913,
+    "event": "Norway grants women full voting rights, among the first nations in the world to do so."
+  },
+  {
+    "year": 1920,
+    "event": "Norway joins the League of Nations and gains sovereignty over Svalbard under the Spitsbergen Treaty."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades and occupies Norway; the king and government flee to London to lead resistance in exile."
+  },
+  {
+    "year": 1945,
+    "event": "Norway is liberated from German occupation and becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1949,
+    "event": "Norway becomes a founding member of the NATO military alliance."
+  },
+  {
+    "year": 1960,
+    "event": "Norway joins the European Free Trade Association as a founding member."
+  },
+  {
+    "year": 1969,
+    "event": "The Ekofisk field discovery launches Norway's transformative offshore oil and gas industry."
+  },
+  {
+    "year": 1972,
+    "event": "Norwegian voters reject membership in the European Economic Community in a national referendum."
+  },
+  {
+    "year": 1981,
+    "event": "Gro Harlem Brundtland becomes Norway's first female prime minister."
+  },
+  {
+    "year": 1990,
+    "event": "Norway establishes its Government Pension Fund to invest petroleum revenues for future generations."
+  },
+  {
+    "year": 1993,
+    "event": "Norway brokers the secret Oslo Accords between Israel and the Palestine Liberation Organization."
+  },
+  {
+    "year": 1994,
+    "event": "Norwegian voters again reject European Union membership, and Lillehammer hosts the Winter Olympics."
+  },
+  {
+    "year": 2011,
+    "event": "Anders Behring Breivik kills 77 people in bombings and a shooting in Oslo and on Utoya island."
+  },
+  {
+    "year": 2017,
+    "event": "Norway's sovereign wealth fund surpasses one trillion US dollars in value."
+  },
+  {
+    "year": 2021,
+    "event": "Norway leads the world in electric vehicle adoption, with EVs making up the majority of new car sales."
+  },
+  {
+    "year": 2024,
+    "event": "Norway becomes the first country where fully electric cars outnumber petrol cars on the road."
+  }
 ]

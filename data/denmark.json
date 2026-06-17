@@ -1,22 +1,202 @@
 [
-  { "year": -12000, "event": "Earliest human settlement in present-day Denmark after Ice Age retreat" },
-  { "year": -4000, "event": "Neolithic societies build megalithic tombs and practice farming" },
-  { "year": -1800, "event": "Nordic Bronze Age culture flourishes with trade and metalwork" },
-  { "year": -500, "event": "Iron Age societies establish villages and regional power centers" },
-  { "year": 500, "event": "Early Danish kingdoms begin forming in southern Scandinavia" },
-  { "year": 793, "event": "Viking Age begins with raids across Europe" },
-  { "year": 900, "event": "Denmark emerges as a unified kingdom under Viking rulers" },
-  { "year": 965, "event": "King Harald Bluetooth converts Denmark to Christianity" },
-  { "year": 1013, "event": "Danish rule briefly extends over England and the North Sea" },
-  { "year": 1100, "event": "Medieval monarchy consolidates power and builds stone churches" },
-  { "year": 1397, "event": "Kalmar Union unites Denmark, Norway, and Sweden under one crown" },
-  { "year": 1536, "event": "Denmark adopts Lutheran Protestantism during the Reformation" },
-  { "year": 1645, "event": "Territorial losses reduce Denmark’s regional dominance" },
-  { "year": 1660, "event": "Absolute monarchy is established" },
-  { "year": 1814, "event": "Denmark loses Norway after the Napoleonic Wars" },
-  { "year": 1849, "event": "Constitution establishes a constitutional monarchy" },
-  { "year": 1864, "event": "Defeat by Prussia reshapes Denmark’s modern borders" },
-  { "year": 1940, "event": "Nazi Germany occupies Denmark during World War II" },
-  { "year": 1945, "event": "Denmark is liberated and resumes democratic rule" },
-  { "year": 1973, "event": "Denmark joins the European Economic Community" }
+  {
+    "year": -12500,
+    "event": "Reindeer hunters of the Hamburg and Bromme cultures settle southern Scandinavia as glaciers retreat at the end of the last Ice Age."
+  },
+  {
+    "year": -3950,
+    "event": "Farming arrives with the Funnelbeaker culture, which builds large megalithic dolmens and passage graves across the land."
+  },
+  {
+    "year": -1700,
+    "event": "The Nordic Bronze Age begins, leaving rich burials and artifacts such as the gilded Trundholm Sun Chariot."
+  },
+  {
+    "year": -500,
+    "event": "The Pre-Roman Iron Age develops as Celtic and later Roman trade influences reach Jutland and the Danish isles."
+  },
+  {
+    "year": 200,
+    "event": "Germanic tribes including the Jutes, Angles, and early Danes inhabit the region during the Roman Iron Age."
+  },
+  {
+    "year": 449,
+    "event": "Jutes and Angles from the Danish peninsula join the migrations to Britain during the Migration Period."
+  },
+  {
+    "year": 793,
+    "event": "Viking raiders, including Danes, attack the monastery at Lindisfarne, marking a symbolic start of the Viking Age."
+  },
+  {
+    "year": 808,
+    "event": "King Godfred fortifies the Danevirke earthworks and the trading town of Hedeby on the southern border with the Franks."
+  },
+  {
+    "year": 865,
+    "event": "The Great Heathen Army of Danish Vikings invades and conquers large parts of Anglo-Saxon England."
+  },
+  {
+    "year": 958,
+    "event": "Harald Bluetooth becomes king and unites much of Denmark, raising the Jelling runestones."
+  },
+  {
+    "year": 965,
+    "event": "Harald Bluetooth converts to Christianity, beginning the Christianization of the Danish kingdom."
+  },
+  {
+    "year": 1013,
+    "event": "Sweyn Forkbeard conquers England, briefly making the Danish king ruler of both realms."
+  },
+  {
+    "year": 1018,
+    "event": "Cnut the Great unites Denmark, England, and Norway into a powerful North Sea Empire."
+  },
+  {
+    "year": 1086,
+    "event": "King Canute IV is murdered in Odense and later canonized as Denmark's first royal saint."
+  },
+  {
+    "year": 1167,
+    "event": "Bishop Absalon founds a fortress at Copenhagen, which grows into the future capital."
+  },
+  {
+    "year": 1219,
+    "event": "According to legend the Dannebrog, the Danish flag, falls from the sky during the Battle of Lyndanisse in Estonia."
+  },
+  {
+    "year": 1397,
+    "event": "Queen Margaret I forges the Kalmar Union, joining Denmark, Norway, and Sweden under a single monarch."
+  },
+  {
+    "year": 1479,
+    "event": "The University of Copenhagen is founded, becoming Denmark's oldest institution of higher learning."
+  },
+  {
+    "year": 1523,
+    "event": "Sweden breaks away from the Kalmar Union under Gustav Vasa, leaving Denmark united with Norway."
+  },
+  {
+    "year": 1536,
+    "event": "King Christian III imposes the Lutheran Reformation, making Denmark a Protestant state."
+  },
+  {
+    "year": 1645,
+    "event": "Denmark cedes territory to Sweden by the Peace of Brömsebro after the Torstenson War."
+  },
+  {
+    "year": 1658,
+    "event": "The Treaty of Roskilde forces Denmark to surrender Scania and other eastern provinces to Sweden."
+  },
+  {
+    "year": 1660,
+    "event": "Frederick III establishes absolute hereditary monarchy after the disastrous wars with Sweden."
+  },
+  {
+    "year": 1665,
+    "event": "The Lex Regia codifies royal absolutism, granting the Danish king near-unlimited power."
+  },
+  {
+    "year": 1711,
+    "event": "Denmark fights Sweden in the Great Northern War as part of a coalition seeking to curb Swedish power."
+  },
+  {
+    "year": 1788,
+    "event": "Adscription (stavnsbånd) tying peasants to their estates is abolished in sweeping agrarian reforms."
+  },
+  {
+    "year": 1801,
+    "event": "The British fleet attacks Copenhagen in the first Battle of Copenhagen during the Napoleonic Wars."
+  },
+  {
+    "year": 1807,
+    "event": "Britain bombards Copenhagen and seizes the Danish fleet, pushing Denmark into alliance with Napoleon."
+  },
+  {
+    "year": 1814,
+    "event": "Denmark cedes Norway to Sweden under the Treaty of Kiel after backing the losing side in the Napoleonic Wars."
+  },
+  {
+    "year": 1849,
+    "event": "King Frederick VII signs the June Constitution, ending absolutism and establishing constitutional monarchy."
+  },
+  {
+    "year": 1864,
+    "event": "Denmark loses the Second Schleswig War to Prussia and Austria, ceding Schleswig, Holstein, and Lauenburg."
+  },
+  {
+    "year": 1901,
+    "event": "The Change of System establishes parliamentary government, requiring cabinets to have parliamentary support."
+  },
+  {
+    "year": 1915,
+    "event": "A constitutional reform grants women and servants the right to vote in national elections."
+  },
+  {
+    "year": 1917,
+    "event": "Denmark sells the Danish West Indies, now the U.S. Virgin Islands, to the United States."
+  },
+  {
+    "year": 1920,
+    "event": "Northern Schleswig is reunited with Denmark after a plebiscite following World War I."
+  },
+  {
+    "year": 1924,
+    "event": "Thorvald Stauning forms the first Social Democratic government, beginning the party's long dominance."
+  },
+  {
+    "year": 1940,
+    "event": "Nazi Germany invades and occupies Denmark on 9 April during World War II."
+  },
+  {
+    "year": 1943,
+    "event": "The Danish resistance helps ferry most of the country's Jews to safety in neutral Sweden."
+  },
+  {
+    "year": 1944,
+    "event": "Iceland declares full independence, ending its personal union with the Danish crown."
+  },
+  {
+    "year": 1945,
+    "event": "Denmark is liberated as German forces surrender and the country becomes a founding member of the United Nations."
+  },
+  {
+    "year": 1949,
+    "event": "Denmark joins NATO as a founding member, ending its tradition of neutrality."
+  },
+  {
+    "year": 1953,
+    "event": "A new constitution introduces a single-chamber parliament and allows female succession to the throne."
+  },
+  {
+    "year": 1973,
+    "event": "Denmark joins the European Economic Community, the forerunner of the European Union."
+  },
+  {
+    "year": 1979,
+    "event": "Greenland gains home rule, beginning its move toward greater autonomy within the Danish realm."
+  },
+  {
+    "year": 1989,
+    "event": "Denmark becomes the first country in the world to legally recognize same-sex registered partnerships."
+  },
+  {
+    "year": 1992,
+    "event": "Danish voters reject the Maastricht Treaty, leading to the Edinburgh Agreement opt-outs."
+  },
+  {
+    "year": 2000,
+    "event": "The Øresund Bridge opens, linking Copenhagen to Sweden, while voters reject adopting the euro."
+  },
+  {
+    "year": 2009,
+    "event": "Copenhagen hosts the UN COP15 climate change summit."
+  },
+  {
+    "year": 2012,
+    "event": "Denmark legalizes same-sex marriage, allowing weddings within the state church."
+  },
+  {
+    "year": 2022,
+    "event": "Danes vote to abolish the EU defense opt-out following Russia's invasion of Ukraine."
+  }
 ]
